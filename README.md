@@ -908,6 +908,19 @@ Quote of the Week: *"In an information economy, the most valuable company assets
 
 Quote of the Week: *"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."* - Brian Kernighan, co-creator of the C language
 
+### September 5, 2019
+1. How developers think: a walkthrough of the planning and design behind a simple web app (10 minute read): https://www.freecodecamp.org/news/a-walk-through-the-developer-thought-process/
+
+2. How to create a programming YouTube channel: lessons from 5 years and 1 million subscribers. I'm proud of our YouTube channel and all the creators who contributed to this video. (1 hour watch): https://www.freecodecamp.org/news/how-to-start-a-software-youtube-channel-video-course/
+
+3. A quick intro to recursion in JavaScript (4 minute read): https://www.freecodecamp.org/news/quick-intro-to-recursion/
+
+4. Here are 650 free online programming and computer science courses you can start this September (browseable list): https://www.freecodecamp.org/news/650-free-online-programming-computer-science-courses-you-can-start-this-september/
+
+5. My coding bootcamp handbook: how bootcamps work and are they right for you. I spent weeks researching the bootcamp industry and talking with bootcamp graduates to create this handbook. If you're considering going to a bootcamp, I hope you find this helpful. (30 minute read): https://www.freecodecamp.org/news/coding-bootcamp-handbook/
+
+Quote of the Week: *"The greatest enemy of knowledge is not ignorance. It is the illusion of knowledge."* — Stephen Hawking
+
 ### August 29, 2019
 1. The secret to unlimited ideas for your coding projects (3 minute read): https://www.freecodecamp.org/news/the-secret-to-unlimited-project-ideas/
 
@@ -1105,6 +1118,19 @@ Quote of the Week: *"Measuring programming progress by lines of code is like mea
 
 Quote of the Week: *"A great lathe operator commands several times the wage of an average lathe operator, but a great writer of software code is worth 10,000 times the price of an average software writer."* - Bill Gates
 
+### May 2, 2019
+1. Learn HTML and CSS - including HTML5 and CSS3 - from scratch with this full free course (11 hour watch): https://www.freecodecamp.org/news/html-css-11-hour-course
+
+2. Learn RESTful APIs by building your own recipe app using React and React Router (2 hour watch): https://www.freecodecamp.org/news/apis-in-react
+
+3. If you can cook pasta, you can understand the concept of "state" in JavaScript (6 minute read): https://medium.freecodecamp.org/2baf10a787ee
+
+4. Tim was a US Army veteran who got into a bar fight and was sentenced to 12 years in prison. After prison, he worked retail jobs while using freeCodeCamp to learn new skills. He eventually got a job as a software developer, and has had a fulfilling career ever since. I interviewed him on this week's episode of The freeCodeCamp Podcast (2 hour listen): https://www.freecodecamp.org/news/developer-after-prison
+
+5. How Don used freeCodeCamp to get promoted to a mid-level developer job only 1 year into his career, and his advice for you if you want to do the same (2 minute read): https://www.freecodecamp.org/forum/t/274233
+
+Quote of the Week: *"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."* - Eric Raymond
+
 ### April 25, 2019
 1. The CSS Handbook - a full free book to guide you through CSS (85 minute read): https://medium.freecodecamp.org/b56695917d11
 
@@ -1169,6 +1195,32 @@ Quote of the Week: *"One person's 'paranoia' is another person's 'engineering re
 5. In this week's episode of the freeCodeCamp Podcast, Abbey interviews Tracy Lee about how she became a developer, her love of JavaScript frameworks, and what it's like to be a developer evangelist (1 hour listen in your podcast player on your phone, or here in your browser): https://podcast.freecodecamp.org
 
 Quote of the Week: *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* - Gene Spafford
+
+### March 7, 2019
+1. How to code like a pro - learn advanced programming concepts from a freeCodeCamp graduate who's now working as a software engineer (2 hour watch): https://www.freecodecamp.org/news/how-to-code-like-a-pro
+
+2. Learn the basics of Data Science - statistics, data visualization, and Python programming - in this free course (2 hour watch): https://www.freecodecamp.org/news/learn-the-basics-of-data-science
+
+3. Madison writes about how she went from complete beginner to software developer, and offers tips for how you can too (7 minute read): https://medium.freecodecamp.org/dd36ed08e11b
+
+4. In this week's episode of the freeCodeCamp Podcast, I interview lawyer-turned-developer Zubin Pratap. We talk about hackathons, moving to Melbourne, and leaving one promising career for another (1 hour listen in your podcast player on your phone, or here in your browser): https://podcast.freecodecamp.org
+
+5. Also, freeCodeCamp now has an Instagram account where we share photos from the global developer community (browsable gallery): https://www.instagram.com/freecodecamp
+
+Quote of the Week: *"Security is always excessive until it's not enough."* - Robbie Sinclair
+
+### February 28, 2019
+1. How to code your own Double Dragon-style fighting game - a free Unity 3D course (5 hour watch): https://www.freecodecamp.org/news/create-a-beat-em-up-game-in-unity
+
+2. "I’m finally getting paid to do what I love!" How Franklin taught himself to code and got his first job as a front-end developer (6 minute read): https://www.freecodecamp.org/forum/t/261411
+
+3. Here are 550 free online programming and computer science courses that you can start in March (browsable list): https://medium.freecodecamp.org/d1944d6e467
+
+4. In this week's episode of the freeCodeCamp Podcast, Abbey and I talk about the history of the podcast and our upcoming interviews with developers from all around the world (50 minute listen in your phone's podcast player or here in your browser): https://podcast.freecodecamp.org
+
+5. Advanced TypeScript patterns - learn how to write statically-typed JavaScript using Ramda and currying (20 minute read): https://medium.freecodecamp.org/f747e99744ab
+
+Quote of the Week: *"In a relatively short time we've taken a system built to resist destruction by nuclear weapons and made it vulnerable to toasters."* - Jeff Jarmoc
 
 ### February 21, 2019
 1. How to solve algorithm challenges in job interviews - a free 4-hour course.  This is taught using Python, which is similar to JavaScript and also worth learning.  (4 hour watch): https://www.freecodecamp.org/news/python-algorithms-for-job-interviews
@@ -1247,7 +1299,6 @@ This weeks quote: *"The Web as I envisaged it, we have not seen it yet. The futu
 5. Introducing: You Can Do This - a new place where you can get support during your coding journey (1 minute read): https://www.freecodecamp.org/news/you-can-do-this
 
 This week's quote: *"We can only see a short distance ahead, but we can see plenty there that needs to be done."* —  Alan Turing
-
 
 ### January 10, 2019
 1. The React Handbook - a massive free guide to building web applications with ReactJS (116 minute read): https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795
@@ -1958,6 +2009,15 @@ Bonus: I’m reading “The Upstarts: How Uber, Airbnb, and the Killer Companies
 
 Bonus: I’m currently listening to “Algorithms to Live By: The Computer Science of Human Decisions.” This book is a fascinating mash-up of technology and psychology (12 hour listen): http://amzn.to/2nNQ5Bl
 
+### May 4, 2017
+1. We asked 20,000 people who they are and how they’re learning to code. Here are the results of our 2017 New Coder Survey (6 minute read): https://fcc.im/2p1yWpv
+
+2. How I went from zero to San Francisco software engineer in 12 months (8 minute read): https://fcc.im/2p32CxF
+
+3. Every single Machine Learning course on the internet, ranked by your reviews (20 minute read): https://fcc.im/2pJRNT3
+
+Bonus: All freeCodeCamp t-shirts and hoodies are now sold at-cost (without any profit margin - just the cost of production). If you haven't gotten one yet, you can now get one inexpensively (1 minute read): https://fcc.im/2p9LVkd
+
 ### April 27, 2017
 1. Google just released a free course on how to build Progressive Web Apps (self-paced): https://fcc.im/2ppTsz9
 
@@ -1993,6 +2053,15 @@ Bonus: A fast new way to find people in your city to code with (3 minute read): 
 3. Which tech CEO would make the best supervillain? (8 minute read): http://bit.ly/2nOosVJ
 
 Bonus: I learned a ton from Robert Scoble’s insightful new book: “The Fourth Transformation: How Augmented Reality & Artificial Intelligence Will Change Everything” (5 hour listen): http://amzn.to/2mKbbNW
+
+### March 30, 2017
+1. How scientists used software to reconnect a paralyzed man's hands to his brain (4 minute read): http://bit.ly/2nBZfjK
+
+2. How to set up a VPN in 10 minutes for free, and why you urgently need one (10 minute read): http://bit.ly/2nOaNAP
+
+3. Recreating legendary 8-bit video game music using Tone.js and the web audio API (15 minute read): http://bit.ly/2nO2XYf
+
+Bonus: I'm currently listening to "Algorithms to Live By: The Computer Science of Human Decisions." This book is a fascinating mash-up of technology and psychology (12 hour listen): http://amzn.to/2nNQ5Bl
 
 ### March 23, 2017
 1. What I learned from Stack Overflow’s massive survey of 64,000 developers (4 minute read): http://bit.ly/2o8nfsn
@@ -2342,20 +2411,13 @@ Bonus: Netflix Developer Lyle Troxell hosts GeekSpeak, one of the oldest technol
 3. If you’re looking for some weekend inspiration, this 54-year old university janitor took night classes for years, finished his degree, then got a job as a propulsion engineer (3-minute read): http://nbcnews.to/28UW6Xh
 
 ### June 19, 2016
-1. One of the teaching assistants in a Georgia Tech Artificial Intelligence
-(AI) class was itself an AI chat bot (4 minute read):
-http://wapo.st/1rVimoe
+1. One of the teaching assistants in a Georgia Tech Artificial Intelligence(AI) class was itself an AI chat bot (4 minute read): http://wapo.st/1rVimoe
 
-2. Google’s I/O conference was filled with announcements of new AI apps
-similar to Apple’s Siri and Amazon’s Echo. Here are the highlights (10
-minute video): http://bit.ly/27C4PSZ
+2. Google’s I/O conference was filled with announcements of new AI apps similar to Apple’s Siri and Amazon’s Echo. Here are the highlights (10 minute video): http://bit.ly/27C4PSZ
 
-3. One of our campers also built a simple AI. In three days. On a bus. (5
-minute read): http://bit.ly/1WDDfkU
+3. One of our campers also built a simple AI. In three days. On a bus. (5 minute read): http://bit.ly/1WDDfkU
 
-Bonus: Our forum for discussing all programming resources — books, videos,
-online courses, and even code-related video games — is now live and highly
-active. (5 minute read): http://bit.ly/1TR9xof
+Bonus: Our forum for discussing all programming resources — books, videos, online courses, and even code-related video games — is now live and highly active. (5 minute read): http://bit.ly/1TR9xof
 
 ### June 16, 2016
 1. One does not simply learn to code (6 minute read): http://bit.ly/1OsMiSY
@@ -2365,25 +2427,13 @@ active. (5 minute read): http://bit.ly/1TR9xof
 3. How to download Coursera’s courses before they’re gone forever (9 minute read): http://bit.ly/1ZUiEGU
 
 ### June 3, 2016
-1. After last week’s release of 117 million LinkedIn account email-password
-combinations, 360 million more email-password from Myspace — and 65 million from Tumblr — have also emerged. Passwords are becoming a massive security liability, and the only way to fix this is to get rid of passwords
-completely (6 minute read): http://bit.ly/1X18NAO
+1. After last week’s release of 117 million LinkedIn account email-password combinations, 360 million more email-password from Myspace — and 65 million from Tumblr — have also emerged. Passwords are becoming a massive security liability, and the only way to fix this is to get rid of passwords completely (6 minute read): http://bit.ly/1X18NAO
 
-2. You can now explore and visualize a variety of important algorithms,
-right in your browser. Choose an algorithm, select “trace,” then click the
-“run” button in the upper right hand corner to watch it in action:
-http://bit.ly/1UiOybP
+2. You can now explore and visualize a variety of important algorithms, right in your browser. Choose an algorithm, select “trace,” then click the “run” button in the upper right hand corner to watch it in action: http://bit.ly/1UiOybP
 
-3. Jed Watson wrote open source code for more than 1,000 days in a row.
-Read about how this streak followed him through many life milestones, such
-as the launch of KeystoneJS and the birth of his daughter (10 minute read):
-http://bit.ly/1r48RSB
+3. Jed Watson wrote open source code for more than 1,000 days in a row. Read about how this streak followed him through many life milestones, such as the launch of KeystoneJS and the birth of his daughter (10 minute read): http://bit.ly/1r48RSB
 
-Bonus: We’ll host our June Summit on Saturday at noon EDT. Join us on our
-YouTube channel for this one-hour interactive live stream. We’ll showcase
-our most sophisticated Nonprofit Project yet, demo new features, and answer
-your many questions. You can one-click subscribe on YouTube (it’s free):
-http://bit.ly/233Uegl
+Bonus: We’ll host our June Summit on Saturday at noon EDT. Join us on our YouTube channel for this one-hour interactive live stream. We’ll showcase our most sophisticated Nonprofit Project yet, demo new features, and answer your many questions. You can one-click subscribe on YouTube (it’s free): http://bit.ly/233Uegl
 
 ### May 26, 2016
 1. Oracle is suing Google for $9 billion because Google included a few Java libraries in Android. Oracle obtained the rights to these libraries after by acquiring Sun Microsystems — after Google had launched Android. Regardless of its outcome, this lawsuit will permanently affect the way developers build software (10 minute read): http://bit.ly/1NOYD3z
@@ -2394,35 +2444,30 @@ http://bit.ly/233Uegl
 
 Bonus: We had nearly 2,000 posts on freeCodeCamp’s new forum last week. Here’s how you can join our discussion of programming resources — books, videos, online courses, and events (5 minute read): http://bit.ly/1TR9xof
 
+### May 19, 2016
+1. One of the teaching assistants in a Georgia Tech Artificial Intelligence(AI) class was itself an AI chat bot (4 minute read): http://wapo.st/1rVimoe
+
+2. Google's I/O conference was filled with announcements of new AI apps similar to Apple's Siri and Amazon's Echo. Here are the highlights (10 minute video): http://bit.ly/27C4PSZ
+
+3. One of our campers also built a simple AI. In three days. On a bus. (5 minute read): http://bit.ly/1WDDfkU
+
+Bonus: Our forum for discussing all programming resources - books, videos, online courses, and even code-related video games - is now live and highly active. (5 minute read): http://bit.ly/1TR9xof
+
 ### May 12, 2016
-1. Has anyone ever told you that you shouldn’t learn to code? Well, they
-were wrong. And here are three great historical figures who will tell you
-why (6 minute read): http://bit.ly/24QCwRR
+1. Has anyone ever told you that you shouldn’t learn to code? Well, they were wrong. And here are three great historical figures who will tell you why (6 minute read): http://bit.ly/24QCwRR
 
-2. Software-related podcasts are a great way to learn on the go. Here’s
-Ayo’s break-down of the best podcasts for new coders, and the best tools
-for listening to them (7 minute read): http://bit.ly/1Ynb1rV
+2. Software-related podcasts are a great way to learn on the go. Here’s Ayo’s break-down of the best podcasts for new coders, and the best tools for listening to them (7 minute read): http://bit.ly/1Ynb1rV
 
-3. We just launched a forum for discussing all programming resources -
-books, videos, online courses, and even code-related video games (5 minute
-read): http://bit.ly/1TR9xof
+3. We just launched a forum for discussing all programming resources - books, videos, online courses, and even code-related video games (5 minute read): http://bit.ly/1TR9xof
 
 ### May 6, 2016
-1. More than 15,000 people responded to the 2016 New Coder Survey. Find out who they are and how they’re learning to code (5 minute read):
-http://bit.ly/1NYpcD8
+1. More than 15,000 people responded to the 2016 New Coder Survey. Find out who they are and how they’re learning to code (5 minute read): http://bit.ly/1NYpcD8
 
-2. A single Brazilian judge shut down WhatsApp, the country’s most popular
-communication tool, for 24 hours. Read about the legal drama and its global
-privacy implications (5 minute read): http://bit.ly/24t0anh
+2. A single Brazilian judge shut down WhatsApp, the country’s most popular communication tool, for 24 hours. Read about the legal drama and its global privacy implications (5 minute read): http://bit.ly/24t0anh
 
-3. Hackers stole $81 million from World Bank this week. Learn the history
-of electronic bank robbery, and how vulnerable our finaicial systems are (7
-minute read): http://nyti.ms/1SQlN60
+3. Hackers stole $81 million from World Bank this week. Learn the history of electronic bank robbery, and how vulnerable our finaicial systems are (7 minute read): http://nyti.ms/1SQlN60
 
-Bonus: Join us on Saturday at Noon EDT for freeCodeCamp’s interactive
-live stream. We’ll share some exciting improvements — and answer your many
-questions — on our YouTube channel (you can subscribe for notifications):
-http://bit.ly/1QSEhkj
+Bonus: Join us on Saturday at Noon EDT for freeCodeCamp’s interactive live stream. We’ll share some exciting improvements — and answer your many questions — on our YouTube channel (you can subscribe for notifications): http://bit.ly/1QSEhkj
 
 ### April 29, 2016
 1. Adrian destroys any concerns you may have about becoming an older developer (19 minute read): http://bit.ly/1qWJy53
