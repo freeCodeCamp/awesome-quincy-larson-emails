@@ -3,6 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### March 11, 2021
+1. freeCodeCamp just published a free 25-hour Database Systems course from a Cornell University database instructor. You'll learn SQL, Relational Database Design, Distributed Data Processing, NoSQL, and more. (25 hour YouTube course): https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/
+
+2. We also published a full-length book that will teach you Python basics. This beginner's handbook includes hundreds of Python syntax examples. You can bookmark it and read it in your browser, or download a PDF version. (full book): https://www.freecodecamp.org/news/the-python-handbook/
+
+3. And I swear I'm not trying to overload you, but we also published a 6-hour course on how to configure and operate Linux servers. If you want to become a SysAdmin or DevOps, this should give your server skills a big boost. (6 hour YouTube course): https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/
+
+4. For some lighter reading, Jacob went way back in time to look at the first commit to the Git project's codebase. You can learn some C fundamentals by reading Linus Torvalds' original code, which now underpins the world's most widely-used version control system. (25 minute read): https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/
+
+5. And since you just finished reading that Python book – you did finish reading it, didn't you? 🙂 – why not learn how to use Python's powerful Flask Web Development Framework. You can code along at home and build your own ecommerce website. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform/
+
+I've got a full curriculum outline ready for you, with tons of data science and machine learning projects all mapped out. If you haven't already, take a moment to read this. You can become a part of this as well: https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/
+
+Quote of the Week: *"You can have data without information. But you cannot have information without data."* – Daniel Keys Moran
+
 ### March 4, 2021
 1. Learn the basics of AWS. You'll get hands-on practice with cloud servers, databases, file storage, automation tools – and even Docker and serverless tools. There are no prerequisites. You just need to block out a few hours to sit down and learn. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/
 
