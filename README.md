@@ -3,6 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### March 18, 2021
+1. This course will teach you fundamental data structures like arrays and linked lists. You'll then use these data structures to build common algorithms like Merge Sort and Quicksort. (6 hour YouTube course): https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/
+
+2. Learn how to implement your own secure sign-in for your web development projects using JavaScript, Node.js, and the Passport.js library. You'll learn about HTTP headers, cookies, public key cryptography, and JSON Web Tokens. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/
+
+3. This week I went on the Changelog, a major open source podcast. The hosts interviewed me about the history of freeCodeCamp, the community behind it, and our upcoming Data Science curriculum expansion. (1 hour listen): https://www.freecodecamp.org/news/quincy-larson-interview-changelog-podcast/
+
+4. TypeScript is a statically-typed version of JavaScript. A lot of developers prefer it because it can reduce the number of bugs in your code. By the end of this crash course, you'll understand TypeScript's key features and how to leverage them. (90 minute YouTube course): https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
+
+5. How to get started with Git, the world's most popular version control system. You'll learn common Git commands and gain a conceptual understanding of how Git tracks changes. You'll also get to try out some Git workflows. (15 minute read): https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/
+
+This week marks the 5-year anniversary of these "5 links worth your time" emails. You can browse all of my past emails in a single page: https://www.freecodecamp.org/news/quincy-larson-5-links-worth-your-time-email-full-list/
+
+Quote of the Week: *"The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand."* – Douglas W. Jones
+
 ### March 11, 2021
 1. freeCodeCamp just published a free 25-hour Database Systems course from a Cornell University database instructor. You'll learn SQL, Relational Database Design, Distributed Data Processing, NoSQL, and more. (25 hour YouTube course): https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/
 
