@@ -3,6 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### March 25, 2021
+1. One of the best ways to strengthen your developer skills is to build a lot of projects. Here are 40 free JavaScript project ideas designed specifically with web developers in mind. Each of these projects includes a course or detailed tutorial, along with an example codebase. (browsable list): https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+2. When you combine JavaScript with HTML Canvas, you get the potential for tons of visually exciting animations. This course will teach you how to use one of the coolest of these: Pixel Effects. (2 hour YouTube course): https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/
+
+3. And since you're learning a ton of JavaScript, why not learn one of its most common coding archetypes: Functional Programming. This beginner tutorial will give you a firm grasp on the basic concepts. (10 minute read): https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/
+
+4. What about that other major scripting language, Python? Well, here are six quick Python projects you can build in a single sitting. (1 hour YouTube course): https://www.freecodecamp.org/news/build-six-quick-python-projects/
+
+5. You may have heard the term "serverless". Technically, serverless computing does involve servers, but not your own servers. Instead, you just borrow a few cycles on a cluster of somebody else's servers. And one of the easiest ways to get started with serverless is to add a simple AWS Lambda function to your website. This tutorial will show you how to do this by creating a serverless "contact us" form. (15 minute read): https://www.freecodecamp.org/news/how-to-receive-emails-via-your-sites-contact-us-form-with-aws-ses-lambda-api-gateway/
+
+Also, you may be familiar with the term "writer's block". It's when you have trouble sitting down and writing. Well, there's something similar with software development: "coder's block". Here are some tips for how to power through coder's block when you encounter it. (10 minute read): https://www.freecodecamp.org/news/how-to-beat-coders-block-and-stay-productive/
+
+Quote of the Week: *"Every project is an opportunity to learn, to figure out problems and challenges, to invent and reinvent."* – David Rockwell, architect and Tony Award-winning musical set designer
+
 ### March 18, 2021
 1. This course will teach you fundamental data structures like arrays and linked lists. You'll then use these data structures to build common algorithms like Merge Sort and Quicksort. (6 hour YouTube course): https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/
 
