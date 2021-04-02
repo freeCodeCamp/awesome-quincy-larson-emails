@@ -3,6 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### April 1, 2021
+1. Node.js is a popular JavaScript tool for coding the back end of websites and mobile apps. Lots of big companies use Node in production: Netflix, LinkedIn – even NASA uses Node. In this course, you'll learn asynchronous programming and how to use event emitters, data streams, middleware, Postman, and a ton of API routing best practices. (8 hour YouTube course): https://www.freecodecamp.org/news/free-8-hour-node-express-course/
+
+2. How a Czech DJ built a 3D-printing empire. This is the true story of one man's frustration with record turntable components, which led him down the path of building one of Europe's fastest-growing manufacturing companies. (25 minute read): https://www.freecodecamp.org/news/how-prusa3d-became-one-of-the-fastest-growing-startups-in-the-world/
+
+3. Non-fungible Tokens (NFTs) have turned the global art market upside down. Like other blockchain applications, NFTs do have drawbacks – namely, their absurd electricity consumption. But if you want to put some of your art or other virtual belongings on the blockchain, this tutorial will show how to do it step-by-step. (20 minute read): https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
+
+4. I just learned about Glassmorphism. It's a new design approach that makes your user interfaces look like etched glass. You can try out some of these CSS techniques for yourself. (7 minute read): https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css/
+
+5. MLOps is a new field of software engineering that combines Machine Learning with DevOps-style cloud pipelines. This primer will give you a solid handle on MLOps as a potential career specialization. (15 minute read): https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/
+
+Also, if you're wondering who's behind freeCodeCamp.org and all of these free learning resources, it's mostly done by thousands of volunteers. But we do have a few core team contributors who work on the codebase, curriculum, and extra-curricular learning resources: https://www.freecodecamp.org/news/team/
+
+Quote of the Week: *"The best programs are the ones written when the programmer is supposed to be working on something else."* - Melinda Varian, Virtual Machine pioneer
+
 ### March 25, 2021
 1. One of the best ways to strengthen your developer skills is to build a lot of projects. Here are 40 free JavaScript project ideas designed specifically with web developers in mind. Each of these projects includes a course or detailed tutorial, along with an example codebase. (browsable list): https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 
