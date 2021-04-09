@@ -3,6 +3,51 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### April 1, 2021
+1. Node.js is a popular JavaScript tool for coding the back end of websites and mobile apps. Lots of big companies use Node in production: Netflix, LinkedIn – even NASA uses Node. In this course, you'll learn asynchronous programming and how to use event emitters, data streams, middleware, Postman, and a ton of API routing best practices. (8 hour YouTube course): https://www.freecodecamp.org/news/free-8-hour-node-express-course/
+
+2. How a Czech DJ built a 3D-printing empire. This is the true story of one man's frustration with record turntable components, which led him down the path of building one of Europe's fastest-growing manufacturing companies. (25 minute read): https://www.freecodecamp.org/news/how-prusa3d-became-one-of-the-fastest-growing-startups-in-the-world/
+
+3. Non-fungible Tokens (NFTs) have turned the global art market upside down. Like other blockchain applications, NFTs do have drawbacks – namely, their absurd electricity consumption. But if you want to put some of your art or other virtual belongings on the blockchain, this tutorial will show how to do it step-by-step. (20 minute read): https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
+
+4. I just learned about Glassmorphism. It's a new design approach that makes your user interfaces look like etched glass. You can try out some of these CSS techniques for yourself. (7 minute read): https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css/
+
+5. MLOps is a new field of software engineering that combines Machine Learning with DevOps-style cloud pipelines. This primer will give you a solid handle on MLOps as a potential career specialization. (15 minute read): https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/
+
+Also, if you're wondering who's behind freeCodeCamp.org and all of these free learning resources, it's mostly done by thousands of volunteers. But we do have a few core team contributors who work on the codebase, curriculum, and extra-curricular learning resources: https://www.freecodecamp.org/news/team/
+
+Quote of the Week: *"The best programs are the ones written when the programmer is supposed to be working on something else."* - Melinda Varian, Virtual Machine pioneer
+
+### March 25, 2021
+1. One of the best ways to strengthen your developer skills is to build a lot of projects. Here are 40 free JavaScript project ideas designed specifically with web developers in mind. Each of these projects includes a course or detailed tutorial, along with an example codebase. (browsable list): https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+2. When you combine JavaScript with HTML Canvas, you get the potential for tons of visually exciting animations. This course will teach you how to use one of the coolest of these: Pixel Effects. (2 hour YouTube course): https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/
+
+3. And since you're learning a ton of JavaScript, why not learn one of its most common coding archetypes: Functional Programming. This beginner tutorial will give you a firm grasp on the basic concepts. (10 minute read): https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/
+
+4. What about that other major scripting language, Python? Well, here are six quick Python projects you can build in a single sitting. (1 hour YouTube course): https://www.freecodecamp.org/news/build-six-quick-python-projects/
+
+5. You may have heard the term "serverless". Technically, serverless computing does involve servers, but not your own servers. Instead, you just borrow a few cycles on a cluster of somebody else's servers. And one of the easiest ways to get started with serverless is to add a simple AWS Lambda function to your website. This tutorial will show you how to do this by creating a serverless "contact us" form. (15 minute read): https://www.freecodecamp.org/news/how-to-receive-emails-via-your-sites-contact-us-form-with-aws-ses-lambda-api-gateway/
+
+Also, you may be familiar with the term "writer's block". It's when you have trouble sitting down and writing. Well, there's something similar with software development: "coder's block". Here are some tips for how to power through coder's block when you encounter it. (10 minute read): https://www.freecodecamp.org/news/how-to-beat-coders-block-and-stay-productive/
+
+Quote of the Week: *"Every project is an opportunity to learn, to figure out problems and challenges, to invent and reinvent."* – David Rockwell, architect and Tony Award-winning musical set designer
+
+### March 18, 2021
+1. This course will teach you fundamental data structures like arrays and linked lists. You'll then use these data structures to build common algorithms like Merge Sort and Quicksort. (6 hour YouTube course): https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/
+
+2. Learn how to implement your own secure sign-in for your web development projects using JavaScript, Node.js, and the Passport.js library. You'll learn about HTTP headers, cookies, public key cryptography, and JSON Web Tokens. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/
+
+3. This week I went on the Changelog, a major open source podcast. The hosts interviewed me about the history of freeCodeCamp, the community behind it, and our upcoming Data Science curriculum expansion. (1 hour listen): https://www.freecodecamp.org/news/quincy-larson-interview-changelog-podcast/
+
+4. TypeScript is a statically-typed version of JavaScript. A lot of developers prefer it because it can reduce the number of bugs in your code. By the end of this crash course, you'll understand TypeScript's key features and how to leverage them. (90 minute YouTube course): https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
+
+5. How to get started with Git, the world's most popular version control system. You'll learn common Git commands and gain a conceptual understanding of how Git tracks changes. You'll also get to try out some Git workflows. (15 minute read): https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/
+
+This week marks the 5-year anniversary of these "5 links worth your time" emails. You can browse all of my past emails in a single page: https://www.freecodecamp.org/news/quincy-larson-5-links-worth-your-time-email-full-list/
+
+Quote of the Week: *"The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand."* – Douglas W. Jones
+
 ### March 11, 2021
 1. freeCodeCamp just published a free 25-hour Database Systems course from a Cornell University database instructor. You'll learn SQL, Relational Database Design, Distributed Data Processing, NoSQL, and more. (25 hour YouTube course): https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/
 
