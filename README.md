@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### April 8, 2021
+1. Learn Python's Django web development framework by building your own ecommerce website. You'll also learn the popular Vue.js front end library. If you know a little Python and JavaScript, and want to start applying your skills with a bigger project, this is the course for you. You'll learn about web servers, authentication, shopping carts, and more. Detailed codebases included. (3 hour YouTube course): https://www.freecodecamp.org/news/create-an-e-commerce-site-with-django-and-vue/
+
+2. scikit-learn is a powerful Python library for machine learning algorithms. This beginner-friendly crash course will teach you how to build models using scikit-learn's metrics, meta estimators, and data pre-processors. Learn some of the tools and techniques that professional data scientists use in the field. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-scikit-learn/
+
+3. A Buffer Overflow attack is where an attacker writes too much data to a single memory location on a computer, allowing them to then send commands to other parts of the computer's memory. This simple attack is behind some of the biggest hacks in history. Here's a detailed explanation of how it works and how you can defend against it. (9 minute read): https://www.freecodecamp.org/news/buffer-overflow-attacks/
+
+4. You may have heard the term PWA before. It stands for Progressive Web App. And it's a way to make websites feel more like native Android and iOS apps without users needing to download an app from an app store. Starbucks, Spotify, and other companies use PWAs to improve their mobile user experience. This tutorial will explain how PWAs work, and show you some of their key benefits. (10 minute read): https://www.freecodecamp.org/news/what-are-progressive-web-apps/
+
+5. Dave has taught web development for nearly a decade. Here are the 5 most common mistakes he sees beginner web developers make, and how you can avoid them. (7 minute read): https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-students-make/
+
+Quote of the Week: *"Get in over your head as often and as joyfully as possible."* – Alexander Isley, Designer and American Institute of Graphic Arts medalist
+
 ### April 1, 2021
 1. Node.js is a popular JavaScript tool for coding the back end of websites and mobile apps. Lots of big companies use Node in production: Netflix, LinkedIn – even NASA uses Node. In this course, you'll learn asynchronous programming and how to use event emitters, data streams, middleware, Postman, and a ton of API routing best practices. (8 hour YouTube course): https://www.freecodecamp.org/news/free-8-hour-node-express-course/
 
