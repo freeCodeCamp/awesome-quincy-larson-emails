@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### April 15, 2021
+1. Building video games can be just as much fun as playing them. And this in-depth Unity 3D course for beginners will show you how to get started as a game developer. You'll learn how to install Unity, program game physics, animate your characters, code your enemy AI, and more. (7 hour YouTube course): https://www.freecodecamp.org/news/game-development-for-beginners-unity-course/
+
+2. As of 2021, more than 40% of all websites use WordPress. It's a relatively easy tool for building blogs, ecommerce sites, and more elaborate applications as well. This free course will show you how to host a WordPress site on the web, add custom features through plugins, and design it to look however you want. (2 hour YouTube course): https://www.freecodecamp.org/news/how-to-make-a-website-with-wordpress/
+
+3. You may have heard about the branch of science called Game Theory. This tutorial will show you how Evolutionary Game Theory works in an ecosystem, with simulations, Python code, and some good old-fashioned math. (10 minute read): https://www.freecodecamp.org/news/introduction-to-evolutionary-game-theory/
+
+4. Kubernetes is a powerful DevOps tool for managing software in the cloud. If you haven't heard of it yet, it's only 6 years old. This said, I searched Indeed and found 25,000 job openings that mentioned Kubernetes, so a lot of companies are using it. Sergio recently passed the Linux Foundation's exam to become a Certified Kubernetes Application Developer, and he shares tips for how you can do the same. (45 minute read): https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer/
+
+5. Dhawal just updated his massive list of 450 courses from Ivy League universities that you can take for free online. (browsable list): https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/
+
+Quote of the Week: *"I’m obsessed with finishing as a skill. Over the years, I’ve realized that so many of the good things that have come my way are because I was able to finish what I started."* – Derek Yu, Game Developer and creator of Spelunky
+
 ### April 8, 2021
 1. Learn Python's Django web development framework by building your own ecommerce website. You'll also learn the popular Vue.js front end library. If you know a little Python and JavaScript, and want to start applying your skills with a bigger project, this is the course for you. You'll learn about web servers, authentication, shopping carts, and more. Detailed codebases included. (3 hour YouTube course): https://www.freecodecamp.org/news/create-an-e-commerce-site-with-django-and-vue/
 
