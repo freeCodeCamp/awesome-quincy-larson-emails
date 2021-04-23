@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### April 22, 2021
+1. Expand your JavaScript skills by coding along with this course on building your own Instagram app. By the time you finish, your app will look like Instagram's dashboard, with the ability to sign in and update a profile, and even comment on photos. You'll learn how to use React, Tailwind CSS, Firebase, Cypress E2E, and other modern tools. (12 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-create-an-instagram-clone-using-react/
+
+2. UML is a standard way to diagram computer systems or databases. It helps developers visualize the relationships between different pieces of software or hardware so they can more easily plan development. In this course, you'll learn how to use UML component diagrams, deployment diagrams, state machine diagrams, and more. (2 hour YouTube course): https://www.freecodecamp.org/news/uml-diagrams-full-course/
+
+3. I've shared a lot of courses about data structures over the years, because data structures are important. This new data structures course will help you learn by doing. You'll use Python and Flask to build your own API that incorporates Linked Lists, Hash Tables, Stacks, Queues, and even Binary Search Trees. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-data-structures-flask-api-python/
+
+4. You may have heard the term "MVC". It stands for the Model-View-Controller Architecture Pattern. Lots of web development frameworks follow the MVC pattern, including Python Django, Ruby on Rails, and PHP Laravel. This tutorial will explain key MVC concepts and show you how to build your own MVC JavaScript app. (8 minute read): https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/
+
+5. "Infrastructure as Code" is a new way of thinking about servers and cloud services. This tutorial will show you the benefits of IaC, and how to use Terraform, an open source tool for spinning up servers programmatically. (15 minute read): https://www.freecodecamp.org/news/what-is-terraform-learn-infrastructure-as-code/
+
+Quote of the Week: *"Software development has been, is, and will likely remain fundamentally hard. Building quality systems involves an essential and irreducible complexity, which is why the entire history of software engineering can be characterized as one of rising levels of abstraction. As such, the task of the software development team is to engineer the illusion of simplicity."* – Grady Booch, Inventor of UML
+
 ### April 15, 2021
 1. Building video games can be just as much fun as playing them. And this in-depth Unity 3D course for beginners will show you how to get started as a game developer. You'll learn how to install Unity, program game physics, animate your characters, code your enemy AI, and more. (7 hour YouTube course): https://www.freecodecamp.org/news/game-development-for-beginners-unity-course/
 
