@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### April 29, 2021
+1. If you used the internet today, you probably used NGINX. It's a powerful web server that most major websites use to handle traffic. And freeCodeCamp just published a free full-length NGINX book that will show you how to use this web server tool for routing, reverse proxying, and even load balancing. (2 hour read): https://www.freecodecamp.org/news/the-nginx-handbook/
+
+2. You can also learn the MERN Stack by building your own Yelp-like restaurant review site. MERN stands for MongoDB + Express + React + Node.js. Then in the second half of the course, you'll learn how to swap out your Node.js/Express back end in favor of Serverless Architecture. (3 hour YouTube course): https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/
+
+3. Learn how to create your own 3D graphics using OpenGL. You'll work with polygons, textures, shaders, and other important rendering tools. (2 hour YouTube course): https://www.freecodecamp.org/news/how-to-create-3d-and-2d-graphics-with-opengl-and-cpp/
+
+4. If you're learning Python, I encourage you to bookmark this. Prolific teacher and developer Estefania walks you through dozens of Python syntax examples that all beginners should learn. Data structures, loops, exception handling, dependency inclusion – everything. (90 minute read): https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/
+
+5. And while you're expanding your Python skills, you can learn how to do back end web development using the popular Python Django framework. You'll build data visualization web apps using Pandas dataframes, Matplotlib, and Seaborn. You'll also work with PDF rendering and even base-64 encoding. (7 hour YouTube course): https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/
+
+Quote of the Week: *"Anytime someone builds a little application that runs on a cell phone, there's something that goes on the server."* – James Gosling, creator of the Java programming language
+
 ### April 22, 2021
 1. Expand your JavaScript skills by coding along with this course on building your own Instagram app. By the time you finish, your app will look like Instagram's dashboard, with the ability to sign in and update a profile, and even comment on photos. You'll learn how to use React, Tailwind CSS, Firebase, Cypress E2E, and other modern tools. (12 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-create-an-instagram-clone-using-react/
 
