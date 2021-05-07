@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### May 6, 2021
+1. Microsoft has a popular cloud development platform called Azure. I just did a job search and 48,000 employers mention Azure in their job postings. This full-length course will teach you everything you need to pass the Azure Administrator exam and earn this useful certification. (11 hour YouTube course): https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/
+
+2. And while you're learning about cloud platforms, Docker is a powerful DevOps tool you can use for cloud deployment. This course will show you how to use Docker along with Node.js. You'll learn about containers, images, ports, mounts, environment variables, and more. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/
+
+3. One of the most common ways people get hacked is through what's called a Cross Site Request Forgery. Megan will show you how these CSRF attacks work, and how you can protect your website's users from them. (8 minute read): https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/
+
+4. Windows has a ton of powerful keyboard shortcuts you can use to be even more productive than you already are 😉 And we put together a comprehensive list that you can bookmark and practice over the coming months. (7 minute read): https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/
+
+5. If you use Google Chrome, you already have access to one of the most powerful debugging tools around. You can use Chrome DevTools to better understand websites you visit, and even debug your own websites. This crash course will teach you the basics. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/
+
+Quote of the Week: *"The best performance improvement is the transition from the nonworking state to the working state."* – John Ousterhout, Stanford Computer Science professor
+
 ### April 29, 2021
 1. If you used the internet today, you probably used NGINX. It's a powerful web server that most major websites use to handle traffic. And freeCodeCamp just published a free full-length NGINX book that will show you how to use this web server tool for routing, reverse proxying, and even load balancing. (2 hour read): https://www.freecodecamp.org/news/the-nginx-handbook/
 
