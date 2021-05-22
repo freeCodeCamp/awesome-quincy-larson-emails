@@ -1,6 +1,504 @@
 {
   "emails": [
     {
+      "date": "May 20, 2021",
+      "links": [
+        {
+          "description": "C++ is a challenging language to learn. But if you want to do high-performance programming, it's a powerful tool. In this course you'll use the JUCE framework to build your own audio plugin with a 3-band equalizer and a spectrum analyzer. Don't know what those things are? No problem. You'll learn about those and other musical concepts, too.",
+          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the term \"Web 2.0\" to describe interactive AJAX-powered single-page applications like Gmail. And now a \"Web 3.0\" is starting to emerge. This article will give you a tour of the decentralized internet of the future.",
+          "link": "https://www.freecodecamp.org/news/what-is-web3/",
+          "order": "2",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Angular 11 is a widely-used JavaScript framework. You can learn it by building your own version of the Steam Game Store. You'll also learn some basic TypeScript, routing, and how to style components.",
+          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
+          "order": "3",
+          "time_duration": "75",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn all about CSS Selectors and how you can use them to style your apps and websites.",
+          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "How to create your own email newsletter. If you want to keep your friends and fans up-to-date with your creations, this practical guide will walk you through the technical tradeoffs. Ever wondered why I send these as plain text instead of HTML? Learn the answer to this and more.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/",
+          "order": "5",
+          "time_duration": "11",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.",
+      "quote_author": "Bjarne Stroustrup, creator of the C++ programming language"
+    },
+    {
+      "date": "May 13, 2021",
+      "links": [
+        {
+          "description": "Typography is one of the most useful design skills you can learn as a developer. And freeCodeCamp has got you covered. This course will teach you all about typographic hierarchy, how to layout type, and how to use responsive text so your fonts look crisp on screens of any size.",
+          "link": "https://www.freecodecamp.org/news/how-to-design-good-typography/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Kivy is a powerful Python library for coding cross-platform apps and games on Windows, Mac, iOS, and Android. This course will walk you through coding up some user interfaces in Kivy. Then you'll build your own spaceship game complete with vector graphics.",
+          "link": "https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/",
+          "order": "2",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Zubin worked as a corporate lawyer for 12 years before discovering freeCodeCamp and teaching himself to code. Today he works as a software engineer at Google. In this article, he shares practical insights that you can use in your own quest to expand your skills.",
+          "link": "https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/",
+          "order": "3",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "It's important to test your code. And in this tutorial Nahla will show you how. You'll learn about the Testing Pyramid, along with several advanced methodologies like Performance Testing, Usability Testing, DAST, SAST, and more.",
+          "link": "https://www.freecodecamp.org/news/types-of-software-testing/",
+          "order": "4",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "In this free front end development book, you'll learn Vue.js and Axios by building single-page applications. First you'll build a simple Twitter clone. Then you'll expand upon those skills to build your own portfolio website. Each step includes example code and a built-in video tutorial.",
+          "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
+          "order": "5"
+        }
+      ],
+      "quote": "Helvetica is the sweatpants of typefaces.",
+      "quote_author": "John Boardley, Graphic Designer"
+    },
+    {
+      "date": "May 6, 2021",
+      "links": [
+        {
+          "description": "Microsoft has a popular cloud development platform called Azure. I just did a job search and 48,000 employers mention Azure in their job postings. This full-length course will teach you everything you need to pass the Azure Administrator exam and earn this useful certification.",
+          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
+          "order": "1",
+          "time_duration": "11",
+          "time_type": "hours"
+        },
+        {
+          "description": "And while you're learning about cloud platforms, Docker is a powerful DevOps tool you can use for cloud deployment. This course will show you how to use Docker along with Node.js. You'll learn about containers, images, ports, mounts, environment variables, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/",
+          "order": "2",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "One of the most common ways people get hacked is through what's called a Cross Site Request Forgery. Megan will show you how these CSRF attacks work, and how you can protect your website's users from them.",
+          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
+          "order": "3",
+          "time_duration": "8",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Windows has a ton of powerful keyboard shortcuts you can use to be even more productive than you already are \ud83d\ude09 And we put together a comprehensive list that you can bookmark and practice over the coming months.",
+          "link": "https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/",
+          "order": "4",
+          "time_duration": "7",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you use Google Chrome, you already have access to one of the most powerful debugging tools around. You can use Chrome DevTools to better understand websites you visit, and even debug your own websites. This crash course will teach you the basics.",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "quote_author": "John Ousterhout, Stanford Computer Science professor"
+    },
+    {
+      "date": "April 29, 2021",
+      "links": [
+        {
+          "description": "If you used the internet today, you probably used NGINX. It's a powerful web server that most major websites use to handle traffic. And freeCodeCamp just published a free full-length NGINX book that will show you how to use this web server tool for routing, reverse proxying, and even load balancing.",
+          "link": "https://www.freecodecamp.org/news/the-nginx-handbook/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "You can also learn the MERN Stack by building your own Yelp-like restaurant review site. MERN stands for MongoDB + Express + React + Node.js. Then in the second half of the course, you'll learn how to swap out your Node.js/Express back end in favor of Serverless Architecture.",
+          "link": "https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to create your own 3D graphics using OpenGL. You'll work with polygons, textures, shaders, and other important rendering tools.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-3d-and-2d-graphics-with-opengl-and-cpp/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're learning Python, I encourage you to bookmark this. Prolific teacher and developer Estefania walks you through dozens of Python syntax examples that all beginners should learn. Data structures, loops, exception handling, dependency inclusion -- everything.",
+          "link": "https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/",
+          "order": "4",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And while you're expanding your Python skills, you can learn how to do back end web development using the popular Python Django framework. You'll build data visualization web apps using Pandas dataframes, Matplotlib, and Seaborn. You'll also work with PDF rendering and even base-64 encoding.",
+          "link": "https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/",
+          "order": "5",
+          "time_duration": "7",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Anytime someone builds a little application that runs on a cell phone, there's something that goes on the server.",
+      "quote_author": "James Gosling, creator of the Java programming language"
+    },
+    {
+      "date": "April 22, 2021",
+      "links": [
+        {
+          "description": "Expand your JavaScript skills by coding along with this course on building your own Instagram app. By the time you finish, your app will look like Instagram's dashboard, with the ability to sign in and update a profile, and even comment on photos. You'll learn how to use React, Tailwind CSS, Firebase, Cypress E2E, and other modern tools.",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-an-instagram-clone-using-react/",
+          "order": "1",
+          "time_duration": "12",
+          "time_type": "hours"
+        },
+        {
+          "description": "UML is a standard way to diagram computer systems or databases. It helps developers visualize the relationships between different pieces of software or hardware so they can more easily plan development. In this course, you'll learn how to use UML component diagrams, deployment diagrams, state machine diagrams, and more.",
+          "link": "https://www.freecodecamp.org/news/uml-diagrams-full-course/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "I've shared a lot of courses about data structures over the years, because data structures are important. This new data structures course will help you learn by doing. You'll use Python and Flask to build your own API that incorporates Linked Lists, Hash Tables, Stacks, Queues, and even Binary Search Trees.",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-flask-api-python/",
+          "order": "3",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the term \"MVC\". It stands for the Model-View-Controller Architecture Pattern. Lots of web development frameworks follow the MVC pattern, including Python Django, Ruby on Rails, and PHP Laravel. This tutorial will explain key MVC concepts and show you how to build your own MVC JavaScript app.",
+          "link": "https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/",
+          "order": "4",
+          "time_duration": "8",
+          "time_type": "minutes"
+        },
+        {
+          "description": "\"Infrastructure as Code\" is a new way of thinking about servers and cloud services. This tutorial will show you the benefits of IaC, and how to use Terraform, an open source tool for spinning up servers programmatically.",
+          "link": "https://www.freecodecamp.org/news/what-is-terraform-learn-infrastructure-as-code/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Software development has been, is, and will likely remain fundamentally hard. Building quality systems involves an essential and irreducible complexity, which is why the entire history of software engineering can be characterized as one of rising levels of abstraction. As such, the task of the software development team is to engineer the illusion of simplicity.",
+      "quote_author": "Grady Booch, Inventor of UML"
+    },
+    {
+      "date": "April 15, 2021",
+      "links": [
+        {
+          "description": "Building video games can be just as much fun as playing them. And this in-depth Unity 3D course for beginners will show you how to get started as a game developer. You'll learn how to install Unity, program game physics, animate your characters, code your enemy AI, and more.",
+          "link": "https://www.freecodecamp.org/news/game-development-for-beginners-unity-course/",
+          "order": "1",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "As of 2021, more than 40% of all websites use WordPress. It's a relatively easy tool for building blogs, ecommerce sites, and more elaborate applications as well. This free course will show you how to host a WordPress site on the web, add custom features through plugins, and design it to look however you want.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-website-with-wordpress/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard about the branch of science called Game Theory. This tutorial will show you how Evolutionary Game Theory works in an ecosystem, with simulations, Python code, and some good old-fashioned math.",
+          "link": "https://www.freecodecamp.org/news/introduction-to-evolutionary-game-theory/",
+          "order": "3",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Kubernetes is a powerful DevOps tool for managing software in the cloud. If you haven't heard of it yet, it's only 6 years old. This said, I searched Indeed and found 25,000 job openings that mentioned Kubernetes, so a lot of companies are using it. Sergio recently passed the Linux Foundation's exam to become a Certified Kubernetes Application Developer, and he shares tips for how you can do the same.",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer/",
+          "order": "4",
+          "time_duration": "45",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Dhawal just updated his massive list of 450 courses from Ivy League universities that you can take for free online.",
+          "link": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "order": "5"
+        }
+      ],
+      "quote": "I'm obsessed with finishing as a skill. Over the years, I've realized that so many of the good things that have come my way are because I was able to finish what I started.",
+      "quote_author": "Derek Yu, Game Developer and creator of Spelunky"
+    },
+    {
+      "date": "April 8, 2021",
+      "links": [
+        {
+          "description": "Learn Python's Django web development framework by building your own ecommerce website. You'll also learn the popular Vue.js front end library. If you know a little Python and JavaScript, and want to start applying your skills with a bigger project, this is the course for you. You'll learn about web servers, authentication, shopping carts, and more. Detailed codebases included.",
+          "link": "https://www.freecodecamp.org/news/create-an-e-commerce-site-with-django-and-vue/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "scikit-learn is a powerful Python library for machine learning algorithms. This beginner-friendly crash course will teach you how to build models using scikit-learn's metrics, meta estimators, and data pre-processors. Learn some of the tools and techniques that professional data scientists use in the field.",
+          "link": "https://www.freecodecamp.org/news/learn-scikit-learn/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "A Buffer Overflow attack is where an attacker writes too much data to a single memory location on a computer, allowing them to then send commands to other parts of the computer's memory. This simple attack is behind some of the biggest hacks in history. Here's a detailed explanation of how it works and how you can defend against it.",
+          "link": "https://www.freecodecamp.org/news/buffer-overflow-attacks/",
+          "order": "3",
+          "time_duration": "9",
+          "time_type": "minutes"
+        },
+        {
+          "description": "You may have heard the term PWA before. It stands for Progressive Web App. And it's a way to make websites feel more like native Android and iOS apps without users needing to download an app from an app store. Starbucks, Spotify, and other companies use PWAs to improve their mobile user experience. This tutorial will explain how PWAs work, and show you some of their key benefits.",
+          "link": "https://www.freecodecamp.org/news/what-are-progressive-web-apps/",
+          "order": "4",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Dave has taught web development for nearly a decade. Here are the 5 most common mistakes he sees beginner web developers make, and how you can avoid them.",
+          "link": "https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-students-make/",
+          "order": "5",
+          "time_duration": "7",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Get in over your head as often and as joyfully as possible.",
+      "quote_author": "Alexander Isley, Designer and American Institute of Graphic Arts medalist"
+    },
+    {
+      "bonus": "Also, if you're wondering who's behind freeCodeCamp.org and all of these free learning resources, it's mostly done by thousands of volunteers. But we do have a few core team contributors who work on the codebase, curriculum, and extra-curricular learning resources: https://www.freecodecamp.org/news/team/",
+      "date": "April 1, 2021",
+      "links": [
+        {
+          "description": "Node.js is a popular JavaScript tool for coding the back end of websites and mobile apps. Lots of big companies use Node in production: Netflix, LinkedIn -- even NASA uses Node. In this course, you'll learn asynchronous programming and how to use event emitters, data streams, middleware, Postman, and a ton of API routing best practices.",
+          "link": "https://www.freecodecamp.org/news/free-8-hour-node-express-course/",
+          "order": "1",
+          "time_duration": "8",
+          "time_type": "hours"
+        },
+        {
+          "description": "How a Czech DJ built a 3D-printing empire. This is the true story of one man's frustration with record turntable components, which led him down the path of building one of Europe's fastest-growing manufacturing companies.",
+          "link": "https://www.freecodecamp.org/news/how-prusa3d-became-one-of-the-fastest-growing-startups-in-the-world/",
+          "order": "2",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Non-fungible Tokens (NFTs) have turned the global art market upside down. Like other blockchain applications, NFTs do have drawbacks -- namely, their absurd electricity consumption. But if you want to put some of your art or other virtual belongings on the blockchain, this tutorial will show how to do it step-by-step.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "I just learned about Glassmorphism. It's a new design approach that makes your user interfaces look like etched glass. You can try out some of these CSS techniques for yourself.",
+          "link": "https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css/",
+          "order": "4",
+          "time_duration": "7",
+          "time_type": "minutes"
+        },
+        {
+          "description": "MLOps is a new field of software engineering that combines Machine Learning with DevOps-style cloud pipelines. This primer will give you a solid handle on MLOps as a potential career specialization.",
+          "link": "https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "The best programs are the ones written when the programmer is supposed to be working on something else.",
+      "quote_author": "Melinda Varian, Virtual Machine pioneer"
+    },
+    {
+      "bonus": "Also, you may be familiar with the term \"writer's block\". It's when you have trouble sitting down and writing. Well, there's something similar with software development: \"coder's block\". Here are some tips for how to power through coder's block when you encounter it. (10 minute read): https://www.freecodecamp.org/news/how-to-beat-coders-block-and-stay-productive/",
+      "date": "March 25, 2021",
+      "links": [
+        {
+          "description": "One of the best ways to strengthen your developer skills is to build a lot of projects. Here are 40 free JavaScript project ideas designed specifically with web developers in mind. Each of these projects includes a course or detailed tutorial, along with an example codebase.",
+          "link": "https://www.freecodecamp.org/news/javascript-projects-for-beginners/",
+          "order": "1"
+        },
+        {
+          "description": "When you combine JavaScript with HTML Canvas, you get the potential for tons of visually exciting animations. This course will teach you how to use one of the coolest of these: Pixel Effects.",
+          "link": "https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "And since you're learning a ton of JavaScript, why not learn one of its most common coding archetypes: Functional Programming. This beginner tutorial will give you a firm grasp on the basic concepts.",
+          "link": "https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/",
+          "order": "3",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "What about that other major scripting language, Python? Well, here are six quick Python projects you can build in a single sitting.",
+          "link": "https://www.freecodecamp.org/news/build-six-quick-python-projects/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the term \"serverless\". Technically, serverless computing does involve servers, but not your own servers. Instead, you just borrow a few cycles on a cluster of somebody else's servers. And one of the easiest ways to get started with serverless is to add a simple AWS Lambda function to your website. This tutorial will show you how to do this by creating a serverless \"contact us\" form.",
+          "link": "https://www.freecodecamp.org/news/how-to-receive-emails-via-your-sites-contact-us-form-with-aws-ses-lambda-api-gateway/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Every project is an opportunity to learn, to figure out problems and challenges, to invent and reinvent.",
+      "quote_author": "David Rockwell, architect and Tony Award-winning musical set designer"
+    },
+    {
+      "date": "March 18, 2021",
+      "links": [
+        {
+          "description": "This course will teach you fundamental data structures like arrays and linked lists. You'll then use these data structures to build common algorithms like Merge Sort and Quicksort.",
+          "link": "https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/",
+          "order": "1",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to implement your own secure sign-in for your web development projects using JavaScript, Node.js, and the Passport.js library. You'll learn about HTTP headers, cookies, public key cryptography, and JSON Web Tokens.",
+          "link": "https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/",
+          "order": "2",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "This week I went on the Changelog, a major open source podcast. The hosts interviewed me about the history of freeCodeCamp, the community behind it, and our upcoming Data Science curriculum expansion.",
+          "link": "https://www.freecodecamp.org/news/quincy-larson-interview-changelog-podcast/",
+          "order": "3"
+        },
+        {
+          "description": "TypeScript is a statically-typed version of JavaScript. A lot of developers prefer it because it can reduce the number of bugs in your code. By the end of this crash course, you'll understand TypeScript's key features and how to leverage them.",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/",
+          "order": "4",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "How to get started with Git, the world's most popular version control system. You'll learn common Git commands and gain a conceptual understanding of how Git tracks changes. You'll also get to try out some Git workflows.",
+          "link": "https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand.",
+      "quote_author": "Douglas W. Jones"
+    },
+    {
+      "bonus": "I've got a full curriculum outline ready for you, with tons of data science and machine learning projects all mapped out. If you haven't already, take a moment to read this. You can become a part of this as well: https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/",
+      "date": "March 11, 2021",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a free 25-hour Database Systems course from a Cornell University database instructor. You'll learn SQL, Relational Database Design, Distributed Data Processing, NoSQL, and more.",
+          "link": "https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/",
+          "order": "1",
+          "time_duration": "25",
+          "time_type": "hours"
+        },
+        {
+          "description": "We also published a full-length book that will teach you Python basics. This beginner's handbook includes hundreds of Python syntax examples. You can bookmark it and read it in your browser, or download a PDF version.",
+          "link": "https://www.freecodecamp.org/news/the-python-handbook/",
+          "order": "2"
+        },
+        {
+          "description": "And I swear I'm not trying to overload you, but we also published a 6-hour course on how to configure and operate Linux servers. If you want to become a SysAdmin or DevOps, this should give your server skills a big boost.",
+          "link": "https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/",
+          "order": "3",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "For some lighter reading, Jacob went way back in time to look at the first commit to the Git project's codebase. You can learn some C fundamentals by reading Linus Torvalds' original code, which now underpins the world's most widely-used version control system.",
+          "link": "https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/",
+          "order": "4",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And since you just finished reading that Python book -- you did finish reading it, didn't you? \ud83d\ude42 -- why not learn how to use Python's powerful Flask Web Development Framework. You can code along at home and build your own ecommerce website.",
+          "link": "https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform/",
+          "order": "5",
+          "time_duration": "6",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "You can have data without information. But you cannot have information without data.",
+      "quote_author": "Daniel Keys Moran"
+    },
+    {
+      "bonus": "And finally, if you want to learn even more about cybersecurity, here's a retrospective of the biggest data breaches that happened last year, and what developers can learn from them. (10 minute read): https://www.freecodecamp.org/news/biggest-data-breaches-lessons-learned/",
+      "date": "March 4, 2021",
+      "links": [
+        {
+          "description": "Learn the basics of AWS. You'll get hands-on practice with cloud servers, databases, file storage, automation tools -- and even Docker and serverless tools. There are no prerequisites. You just need to block out a few hours to sit down and learn.",
+          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "How to read a research paper. This guide will introduce you to the 3 Pass Approach so you can better understand papers and better retain their findings. I wish I had read this back when I was in grad school.",
+          "link": "https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/",
+          "order": "2",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Postman is a powerful tool for testing APIs. This course will teach you how to install it and use it to inspect query parameters, path variables, and other parts of an HTTP response.",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "The story of how one university student built a web scraper with Python and used it to land his first developer job.",
+          "link": "https://www.freecodecamp.org/news/how-i-used-a-side-project-to-land-a-job/",
+          "order": "4",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "SQL injection attacks are one of the most common ways that hackers try to gain access to a database. In this article, Megan will show you how to sanitize your website's form inputs to prevent these kinds of attacks.",
+          "link": "https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/",
+          "order": "5",
+          "time_duration": "10",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "A secure system is one that does what it is supposed to do, and nothing more.",
+      "quote_author": "John B. Ippolito"
+    },
+    {
       "date": "February 25, 2021",
       "links": [
         {
