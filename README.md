@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### May 20, 2021
+1. C++ is a challenging language to learn. But if you want to do high-performance programming, it's a powerful tool. In this course you'll use the JUCE framework to build your own audio plugin with a 3-band equalizer and a spectrum analyzer. Don't know what those things are? No problem. You'll learn about those and other musical concepts, too. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/
+
+2. You may have heard the term "Web 2.0" to describe interactive AJAX-powered single-page applications like Gmail. And now a "Web 3.0" is starting to emerge. This article will give you a tour of the decentralized internet of the future. (12 minute read): https://www.freecodecamp.org/news/what-is-web3/
+
+3. Angular 11 is a widely-used JavaScript framework. You can learn it by building your own version of the Steam Game Store. You'll also learn some basic TypeScript, routing, and how to style components. (75 minute YouTube course): https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/
+
+4. Learn all about CSS Selectors and how you can use them to style your apps and websites. (20 minute read) https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/
+
+5. How to create your own email newsletter. If you want to keep your friends and fans up-to-date with your creations, this practical guide will walk you through the technical tradeoffs. Ever wondered why I send these as plain text instead of HTML? Learn the answer to this and more. (11 minute read): https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/
+
+Quote of the Week: *"There are only two kinds of programming languages: the ones people complain about and the ones nobody uses."* ― Bjarne Stroustrup, creator of the C++ programming language
+
 ### May 13, 2021
 1. Typography is one of the most useful design skills you can learn as a developer. And freeCodeCamp has got you covered. This course will teach you all about typographic hierarchy, how to layout type, and how to use responsive text so your fonts look crisp on screens of any size. (2 hour YouTube course): https://www.freecodecamp.org/news/how-to-design-good-typography/
 
