@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### May 27, 2021
+1. Learn game development basics by coding three games: Super Mario Bros, Legend of Zelda, and Space Invaders. Ania will show you how to add physics, collision detection, and your own custom sprites. By the end of the course, you'll have sharable links to your games. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/
+
+2. Responsive Web Design is a way to make websites look good on different screen sizes. This course will show you how to use CSS Media Queries – a key tool built into all major browsers – to build designs that look great on laptops, tablets, and mobile phones. (90 minute course): https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/
+
+3. freeCodeCamp just published The JavaScript Array Handbook. Bookmark this as a reference, and learn the dozens of ways you can use the powerful Array data structure. (40 minute read): https://www.freecodecamp.org/news/the-javascript-array-handbook/
+
+4. One of the best ways to build your reputation and expand your coding skills is to contribute to open source projects like Linux, Firefox, and freeCodeCamp. This guide will give you practical tips on how to get started with open source. (15 minute read): https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/
+
+5. If you want to get a job in tech, here are some tips for how you can build sustainable habits that will help you ramp up toward your first developer job. (10 minute read): https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/
+
+Quote of the Week: *"Our job as game developers is to put ourselves in the player's shoes. We try to see what they're seeing and support what we think they might think."* – Shigeru Miyamoto, creator of Super Mario Bros., Legend of Zelda, and Donkey Kong
+
 ### May 20, 2021
 1. C++ is a challenging language to learn. But if you want to do high-performance programming, it's a powerful tool. In this course you'll use the JUCE framework to build your own audio plugin with a 3-band equalizer and a spectrum analyzer. Don't know what those things are? No problem. You'll learn about those and other musical concepts, too. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/
 
