@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "June 4, 2021",
+      "links": [
+        {
+          "description": "Computer Vision is how computers process visual cues from the physical world -- everything from street signs to dance moves. This advanced Python course will teach you how to use OpenCV, a powerful computer vision tool.",
+          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
+          "order": "1",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn about encryption algorithms and block ciphers. Megan is a developer and cybersecurity researcher. She explains these concepts with lots of friendly diagrams and examples.",
+          "link": "https://www.freecodecamp.org/news/what-is-a-block-cipher/",
+          "order": "2",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Jack Schofield was a prolific journalist who wrote about technology for nearly four decades. Along the way he made three big observations about computers, which his fans dubbed \"Schofield's Laws.\".",
+          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
+          "order": "3",
+          "time_duration": "8",
+          "time_type": "minutes"
+        },
+        {
+          "description": "How to set up a Front End Development project locally on your computer in VS Code. You'll learn how to plug in all the latest time-saving JavaScript tools, including ESLint, Parcel, and Prettier.",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Over the past month, Beau built a powerful Hackintosh computer. He assembled regular PC components off the web, then used a tool called OpenCore to install the MacOS Big Sur operating system. Now he has a turbo-charged Mac computer for coding and video editing. And he documented this entire process, with detailed steps if you want to build one yourself.",
+          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "The easier it is for you to access your data, the easier it is for someone else to access your data.",
+      "quote_author": "Schofield's Third Law"
+    },
+    {
       "date": "May 27, 2021",
       "links": [
         {
