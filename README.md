@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### June 11, 2021
+1. Learn how to build your own responsive portfolio website to showcase your coding projects. This course will teach you HTML, CSS, Sass, and the newly-released Bootstrap 5 framework. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/
+
+2. If you're interested in cloud computing or DevOps, you may want to earn the Microsoft Azure Data Fundamentals Certification (the DP-900). If you decide to study for the exam, freeCodeCamp has got you covered. This course will teach you all about SQL, Apache Spark, ETL, Data Lakes, and other important tools and concepts. (4 hour YouTube course): https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/
+
+3. Lynn built her own anime-themed Discord bot and deployed it to a chat server of over 1,000 people. But within an hour, her bot went down in flames. In this detailed post-mortem, Lynn shares the problems she encountered with "deployment hell", how she fixed them, and lessons she learned along the way. (15 minute read): https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/
+
+4. How do computers process video? With Computer Vision. Python has a powerful library to process video called OpenCV. And in this course, you'll learn advanced techniques like Image Enhancement, Filtering, and Edge Detection – straight from the OpenCV team. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/
+
+5. If you're interested in hardware and embedded system development, you may have heard of Arduino before. These microprocessor boards respond to real world inputs (like a change in room temperature) by activating LED lights, turning on motors, or even sending messages over the web. This fun beginner course will show you how to get started with Arduino development. (4 hour YouTube course): https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/
+
+Quote of the Week: *"Portfolios are everything. Promises are nothing. Do the work."* – Chase Jarvis, American photographer
+
 ### June 4, 2021
 1. Computer Vision is how computers process visual cues from the physical world – everything from street signs to dance moves. This advanced Python course will teach you how to use OpenCV, a powerful computer vision tool. (6 hour YouTube course): https://www.freecodecamp.org/news/advanced-computer-vision-with-python/
 
