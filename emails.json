@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "June 11, 2021",
+      "links": [
+        {
+          "description": "Learn how to build your own responsive portfolio website to showcase your coding projects. This course will teach you HTML, CSS, Sass, and the newly-released Bootstrap 5 framework.",
+          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're interested in cloud computing or DevOps, you may want to earn the Microsoft Azure Data Fundamentals Certification (the DP-900). If you decide to study for the exam, freeCodeCamp has got you covered. This course will teach you all about SQL, Apache Spark, ETL, Data Lakes, and other important tools and concepts.",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Lynn built her own anime-themed Discord bot and deployed it to a chat server of over 1,000 people. But within an hour, her bot went down in flames. In this detailed post-mortem, Lynn shares the problems she encountered with \"deployment hell\", how she fixed them, and lessons she learned along the way.",
+          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
+          "order": "3",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "How do computers process video? With Computer Vision. Python has a powerful library to process video called OpenCV. And in this course, you'll learn advanced techniques like Image Enhancement, Filtering, and Edge Detection -- straight from the OpenCV team.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
+          "order": "4",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're interested in hardware and embedded system development, you may have heard of Arduino before. These microprocessor boards respond to real world inputs (like a change in room temperature) by activating LED lights, turning on motors, or even sending messages over the web. This fun beginner course will show you how to get started with Arduino development.",
+          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
+          "order": "5",
+          "time_duration": "4",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Portfolios are everything. Promises are nothing. Do the work.",
+      "quote_author": "Chase Jarvis, American photographer"
+    },
+    {
       "date": "June 4, 2021",
       "links": [
         {
