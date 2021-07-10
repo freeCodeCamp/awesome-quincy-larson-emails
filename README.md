@@ -4,8 +4,6 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
 ### July 9, 2021
-Here are this week's five links that are worth your time:
-
 1. The CISSP is a popular cyber security certification. I did a job search on Indeed and found more than 14,000 job openings that mentioned the CISSP certification. If you want to get into security as a developer, this course will prepare you for the exam. Dr. Atef will teach you Risk Management, Security Architecture, Network Security, Identity & Access Management, SecOps, and more. (13 hour YouTube course): https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/
 
 2. This in-depth React course will teach you all about front end development with one of the most popular JavaScript libraries. You'll learn Styled Components, React Router, State and Props, Hooks, and even some TypeScript. You'll also deploy your app to the cloud. (7 hour YouTube course): https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/
