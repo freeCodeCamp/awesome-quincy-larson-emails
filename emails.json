@@ -1,6 +1,130 @@
 {
   "emails": [
     {
+      "date": "July 9, 2021",
+      "links": [
+        {
+          "description": "The CISSP is a popular cyber security certification. I did a job search on Indeed and found more than 14,000 job openings that mentioned the CISSP certification. If you want to get into security as a developer, this course will prepare you for the exam. Dr. Atef will teach you Risk Management, Security Architecture, Network Security, Identity & Access Management, SecOps, and more.",
+          "link": "https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/",
+          "order": "1",
+          "time_duration": "13",
+          "time_type": "hours"
+        },
+        {
+          "description": "This in-depth React course will teach you all about front end development with one of the most popular JavaScript libraries. You'll learn Styled Components, React Router, State and Props, Hooks, and even some TypeScript. You'll also deploy your app to the cloud.",
+          "link": "https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/",
+          "order": "2",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp author Dionysia wrote an entire book about the C programming language and made it freely available on our site. In addition to teaching you C coding concepts and syntax, she will also give you a broad history of this important language.",
+          "link": "https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "And while you're learning C, you can learn how to use the powerful Binary Search algorithm. This comes up all the time in day-to-day programming work, and is a common developer job interview question as well.",
+          "link": "https://www.freecodecamp.org/news/what-is-binary-search/",
+          "order": "4",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "The freeCodeCamp community just launched our 2021 New Coder Survey. It's anonymous and all questions are optional. We'll publish the full dataset as open data. If you started learning to code in the past 5 years, you can help the scientific community by taking this ~10 minute survey.",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
+          "order": "5"
+        }
+      ],
+      "quote": "History has taught us: never underestimate the amount of money, time, and effort someone will expend to thwart a security system. It's always better to assume the worst. Assume your adversaries are better than they are. Assume science and technology will soon be able to do things they cannot yet. Give yourself a margin for error. Give yourself more security than you need today. When the unexpected happens, you'll be glad you did.",
+      "quote_author": "Bruce Schneier, Security Researcher"
+    },
+    {
+      "date": "July 2, 2021",
+      "links": [
+        {
+          "description": "In this Back End Development for Beginners course, Tomi will show you how to install Python, Django, PostgreSQL, and other tools. You can code along at home and build your own calculator. Then you'll build your own blog, weather app, and even your own chat room system.",
+          "link": "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "A design system is a set of patterns and reusable components that you can use throughout your websites and apps to create visual consistency. This course will teach you how to use Figma as a vector graphics editor and prototyping tool. You'll learn all about User Experience concepts like typography, elevation, spacing, states, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
+          "order": "2",
+          "time_duration": "8",
+          "time_type": "hours"
+        },
+        {
+          "description": "As a developer, companies are paying you to think really hard. And one way you can improve your critical thinking skills is to be aware of common logical fallacies. In this guide, Abbey will introduce you to common fallacies like Sunk Cost, Ad Hominem, False Dilemma, Circular Reasoning, and Equivocation.",
+          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
+          "order": "3",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "This in-depth course will prepare you to pass the Microsoft SC-900 Security, Compliance, and Identity Fundamentals certification exam. You'll learn key concepts like Hashing, Salting, and Threat Modeling. You'll also learn methodologies like the Zero Trust Model and the Shared Responsibility Model.",
+          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
+          "order": "4",
+          "time_duration": "3.5",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp just published our first Summit of the summer. Me, Ania, and other contributors demo several new projects and features coming to our open source learning platform -- including Campfire Mode. I think you'll enjoy it.",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "In many ways, Python is a dull language. It borrows solid old concepts from many other languages: boring syntax, unsurprising semantics, few automatic coercions. But that's one of the things I like about Python.",
+      "quote_author": "Tim Peters, Author of \"Zen of Python\" and creator of the Timsort sorting algorithm"
+    },
+    {
+      "date": "June 25, 2021",
+      "links": [
+        {
+          "description": "This JavaScript course will teach you key programming language concepts and data structures. You can code along at home through 143 interactive coding exercises. And you can use this course to complement the core freeCodeCamp JavaScript curriculum, to get some additional practice.",
+          "link": "https://www.freecodecamp.org/news/full-javascript-course-for-beginners/",
+          "order": "1",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may hear the term \"Data Analysis\" in a lot of Hollywood movies. But what does it actually mean? This in-depth tutorial will teach you data analysis techniques using Python, Numpy, and Pandas. And you'll even visualize the data using Matplotlib and Seaborn.",
+          "link": "https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Once you push your code into production, how do you measure its performance? One way is to use telemetry. This course will teach you how to use OpenTelemetry, a popular open source tool for monitoring your apps and websites. You'll learn all about Microservices, Observability, Tracing, and more.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opentelemetry/",
+          "order": "3",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Most of the web is built around a transfer protocol called TCP. But did you know there's a second protocol that's much faster called UDP? Learn all about the relationship between these protocols, and why the slower technology remains the more widely-used of the two.",
+          "link": "https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/",
+          "order": "4",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "One of the reasons CSS is so flexible is because of its powerful Position property. This tutorial will show you how to harness this power to build cooler websites. And it includes tons of code examples and fun illustrations.",
+          "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
+          "order": "5",
+          "time_duration": "8",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "JavaScript is the duct tape of the internet.",
+      "quote_author": "Charlie Campbell, Software Engineer"
+    },
+    {
       "date": "June 18, 2021",
       "links": [
         {
