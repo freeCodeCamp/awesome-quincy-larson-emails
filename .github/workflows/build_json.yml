@@ -1,0 +1,33 @@
+name: Build emails.json file from README
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  update:
+    name: Update the emails.json file 
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+
+      - name: convert README to json
+        run: |
+          python convert_readme.py
+
+      - name: setup git config
+        run: |
+          git config user.name "Quincy Larson Emails Bot"
+          git config user.email "<>"
+
+      - name: commit changes
+        run: |
+          git add emails.json
+          git commit -m "update emails.json"
+          git push origin main
