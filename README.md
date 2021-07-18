@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### July 16, 2021
+1. How Git branches work. Most developers these days use the Git version control system to store their code and collaborate with other developers. And branches are one of the hardest Git concepts to learn. This crash course will explain Local VS Remote branches, how to create them, merging VS rebasing, and how the whole "detached head" thing works. (30 minute YouTube course): https://www.freecodecamp.org/news/how-git-branches-work/
+
+2. The popular React front end development JavaScript library has a ton of new features coming soon. Learn what's new in React 18 Alpha: Concurrency, Batching, the Transition API, and more. (12 minute read): https://www.freecodecamp.org/news/whats-new-in-react-18/
+
+3. What is the difference between UI and UX? A veteran designer breaks down the two disciplines of User Experience Design and User Interface Design, and shows how the fields have diverged over the past decade. (15 minute read): https://www.freecodecamp.org/news/ui-ux-design-guide/
+
+4. Apache Cassandra – named after the cursed princess from Greek mythology – is one of the most popular NoSQL databases. Apple, Netflix, and even CERN use it to handle large amounts of data. This course will give you an in-depth primer to Cassandra, including data modeling, migrations, and clusters. (45 minute read): https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/
+
+5. Hundreds of universities around the world have made programming and computer science courses openly available on the web. My friend Dhawal has compiled 760 of these courses that you can consider starting this summer. (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+Quote of the Week: *"It's easy to shoot your foot off with Git. But it's also easy to revert to a previous foot, then merge it with your current leg."* — Jack William Bell, Software Engineer and Git user
+
 ### July 9, 2021
 1. The CISSP is a popular cyber security certification. I did a job search on Indeed and found more than 14,000 job openings that mentioned the CISSP certification. If you want to get into security as a developer, this course will prepare you for the exam. Dr. Atef will teach you Risk Management, Security Architecture, Network Security, Identity & Access Management, SecOps, and more. (13 hour YouTube course): https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/
 
