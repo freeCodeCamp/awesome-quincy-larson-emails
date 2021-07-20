@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "July 16, 2021",
+      "links": [
+        {
+          "description": "How Git branches work. Most developers these days use the Git version control system to store their code and collaborate with other developers. And branches are one of the hardest Git concepts to learn. This crash course will explain Local VS Remote branches, how to create them, merging VS rebasing, and how the whole \"detached head\" thing works.",
+          "link": "https://www.freecodecamp.org/news/how-git-branches-work/",
+          "order": "1",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "The popular React front end development JavaScript library has a ton of new features coming soon. Learn what's new in React 18 Alpha: Concurrency, Batching, the Transition API, and more.",
+          "link": "https://www.freecodecamp.org/news/whats-new-in-react-18/",
+          "order": "2",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "What is the difference between UI and UX? A veteran designer breaks down the two disciplines of User Experience Design and User Interface Design, and shows how the fields have diverged over the past decade.",
+          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
+          "order": "3",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Apache Cassandra -- named after the cursed princess from Greek mythology -- is one of the most popular NoSQL databases. Apple, Netflix, and even CERN use it to handle large amounts of data. This course will give you an in-depth primer to Cassandra, including data modeling, migrations, and clusters.",
+          "link": "https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/",
+          "order": "4",
+          "time_duration": "45",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Hundreds of universities around the world have made programming and computer science courses openly available on the web. My friend Dhawal has compiled 760 of these courses that you can consider starting this summer.",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "order": "5"
+        }
+      ],
+      "quote": "It's easy to shoot your foot off with Git. But it's also easy to revert to a previous foot, then merge it with your current leg.",
+      "quote_author": "Jack William Bell, Software Engineer and Git user"
+    },
+    {
       "date": "July 9, 2021",
       "links": [
         {
