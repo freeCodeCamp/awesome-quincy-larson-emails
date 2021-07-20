@@ -25,9 +25,15 @@ jobs:
         run: |
           git config user.name "Quincy Larson Emails Bot"
           git config user.email "<>"
+          echo ::set-output name=is_changed::$(git status --porcelain)
 
       - name: commit changes
         run: |
-          git add emails.json
-          git commit -m "update emails.json"
-          git push origin main
+          if git status --porcelain | grep 'emails.json'; then
+            echo "Commiting changed emails.json file"
+            git add emails.json
+            git commit -m "update emails.json"
+            git push origin main
+          else
+            echo "No changes to be commited"
+          fi
