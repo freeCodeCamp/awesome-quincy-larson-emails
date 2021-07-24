@@ -3,6 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### July 23, 2021
+1. Recursion is a powerful computer science concept. But it's also notoriously difficult to understand. The good news is that this course will explain recursion through a series of easy-to-grasp analogies. You'll learn about Call Stacks, the Fibonacci Sequence, Linked Lists, Trees, Graphs, Search Algorithms, and other important concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/understanding-recursion-in-programming/
+
+2. Low Code tools are a convenient way for developers to build real-world applications without writing a lot of custom code. In this course, Ania will show you how to build web apps using a variety of Low Code tools. You can code along at home and by the time you're finished, you'll have 3 working apps. (3 hour YouTube course): https://www.freecodecamp.org/news/low-code-tutorial/
+
+3. If you want to work as a freelance developer, a strong portfolio will help you land clients. A career freelance developer shares 13 of his favorite freelancer portfolios, and lessons they teach about how to impress people with your work. (20 minute read): https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/
+
+4. MySQL is a super duper popular relational database. There's a good chance you've visited a website today that uses it. This course will teach you SQL basics before moving on to key MySQL features like Data Modeling, Locks, and Indexes. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/
+
+5. Flexbox is a powerful responsive web design tool that's built right into CSS itself. And this crash course will teach you how to harness its power. You'll learn core Flexbox properties like flex-direction, flex-wrap, flex-flow, justify-content, align-items, and more. (35 minute YouTube course): https://www.freecodecamp.org/news/learn-css-flexbox/
+
+A lot of people ask me how freeCodeCamp is able to accomplish so much with such a tiny budget. It's not easy. But I do my best to share the lessons our nonprofit is learning along the way. I wrote this article for you if you want to learn more or get involved: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/
+
+Quote of the Week: *"To iterate is human. To recurse is divine."* — L Peter Deutsch, computer scientist and mainframe programmer
+
 ### July 16, 2021
 1. How Git branches work. Most developers these days use the Git version control system to store their code and collaborate with other developers. And branches are one of the hardest Git concepts to learn. This crash course will explain Local VS Remote branches, how to create them, merging VS rebasing, and how the whole "detached head" thing works. (30 minute YouTube course): https://www.freecodecamp.org/news/how-git-branches-work/
 
