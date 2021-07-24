@@ -1,6 +1,49 @@
 {
   "emails": [
     {
+      "bonus": "A lot of people ask me how freeCodeCamp is able to accomplish so much with such a tiny budget. It's not easy. But I do my best to share the lessons our nonprofit is learning along the way. I wrote this article for you if you want to learn more or get involved: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/",
+      "date": "July 23, 2021",
+      "links": [
+        {
+          "description": "Recursion is a powerful computer science concept. But it's also notoriously difficult to understand. The good news is that this course will explain recursion through a series of easy-to-grasp analogies. You'll learn about Call Stacks, the Fibonacci Sequence, Linked Lists, Trees, Graphs, Search Algorithms, and other important concepts.",
+          "link": "https://www.freecodecamp.org/news/understanding-recursion-in-programming/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Low Code tools are a convenient way for developers to build real-world applications without writing a lot of custom code. In this course, Ania will show you how to build web apps using a variety of Low Code tools. You can code along at home and by the time you're finished, you'll have 3 working apps.",
+          "link": "https://www.freecodecamp.org/news/low-code-tutorial/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you want to work as a freelance developer, a strong portfolio will help you land clients. A career freelance developer shares 13 of his favorite freelancer portfolios, and lessons they teach about how to impress people with your work.",
+          "link": "https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "MySQL is a super duper popular relational database. There's a good chance you've visited a website today that uses it. This course will teach you SQL basics before moving on to key MySQL features like Data Modeling, Locks, and Indexes.",
+          "link": "https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Flexbox is a powerful responsive web design tool that's built right into CSS itself. And this crash course will teach you how to harness its power. You'll learn core Flexbox properties like flex-direction, flex-wrap, flex-flow, justify-content, align-items, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-css-flexbox/",
+          "order": "5",
+          "time_duration": "35",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "To iterate is human. To recurse is divine.",
+      "quote_author": "L Peter Deutsch, computer scientist and mainframe programmer"
+    },
+    {
       "date": "July 16, 2021",
       "links": [
         {
