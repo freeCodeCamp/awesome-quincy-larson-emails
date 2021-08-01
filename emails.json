@@ -1,6 +1,49 @@
 {
   "emails": [
     {
+      "bonus": "Also, a few months back freeCodeCamp published an entire book on Docker, which you can bookmark to use as a reference. Docker is definitely worth learning, and we ourselves use it on more than 60 of freeCodeCamp's servers. (4 hour read): https://www.freecodecamp.org/news/the-docker-handbook/",
+      "date": "July 30, 2021",
+      "links": [
+        {
+          "description": "Docker is an open source tool for deploying your apps to any cloud service you want. This course will teach you some Docker fundamentals. Then it will show you how to deploy apps from 12 different ecosystems -- Python, JavaScript, Java, and others -- to AWS, Azure, or Google Cloud.",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Some of the most commonly-asked developer job interview questions involve backtracking algorithms. To prepare you for these, Lynn has created this crash course on solving backtracking problems using Python.",
+          "link": "https://www.freecodecamp.org/news/solve-coding-interview-backtracking-problem/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Microsoft Excel has its own built-in programming language called Visual Basic. You can use it to automate all kinds of repetitive spreadsheet tasks. This in-depth tutorial will help you get started.",
+          "link": "https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/",
+          "order": "3",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "It takes a lot of practice to get good with CSS. But these tips can speed up the process, and help you arrive at a deeper understanding of CSS styles and responsive web design.",
+          "link": "https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/",
+          "order": "4",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Apache Spark is an open source machine learning library. I did a quick search and found more than 4,000 job postings that mentioned this tool. It's originally written in the Scala programming language, but thankfully some developers wrote a handy Python interface for it. This course will teach you how to use PySpark to process large datasets in Python.",
+          "link": "https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "The automation for carrying coffee across the world is better and more reliable than the kind of tools we use to ship software between computers.",
+      "quote_author": "Solomon Hykes in 2013, explaining what inspired him to create Docker"
+    },
+    {
       "bonus": "A lot of people ask me how freeCodeCamp is able to accomplish so much with such a tiny budget. It's not easy. But I do my best to share the lessons our nonprofit is learning along the way. I wrote this article for you if you want to learn more or get involved: https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/",
       "date": "July 23, 2021",
       "links": [
