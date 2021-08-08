@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### August 6, 2021
+1. How does the internet actually work? This in-depth course will teach you Network Engineering concepts and show you how ISPs, backbones, and other infrastructure work. (2 hour YouTube course): https://www.freecodecamp.org/news/how-does-the-internet-work/
+
+2. HTML gives websites their basic structure – kind of like how a concrete foundation gives structure to a house. You can learn basic HTML pretty quickly, even if you don't have any past experience with coding. Long-time freeCodeCamp teacher Beau Carnes will teach you these HTML fundamentals in a fun, interactive way. (2 hour YouTube course): https://www.freecodecamp.org/news/html-crash-course/
+
+3. If you've been struggling to learn to code on your own, I have good news for you. My friend Jess is running a free part-time coding bootcamp where you can earn the freeCodeCamp Responsive Web Design certification together with people from around the world. You can chat with her and other students, and tune in for her weekly live streams. This can help you stay motivated and get unstuck when you run into particularly tricky coding challenges. (7 minute read): https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp
+
+4. Learn React and the Material UI design library in this crash course. You can code along at home and use the Google Dictionary API to build your own dictionary website. You'll get plenty of practice with Progressive Web App concepts as well. (2 hour YouTube course): https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/
+
+5. Some of the most common developer job interview questions involve graph algorithms. This course will teach you graph data structure basics, and concepts like undirected paths, depth-first VS breadth-first traversal, shortest path, island count, and minimum island. (2 hour YouTube course): https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/
+
+Quote of the Week: *"Information flow is what the internet is about. Information sharing is power. If you don't share your ideas, smart people can't do anything about them, and you'll remain anonymous and powerless."* — Vint Cerf, co-inventor of the internet
+
 ### July 30, 2021
 1. Docker is an open source tool for deploying your apps to any cloud service you want. This course will teach you some Docker fundamentals. Then it will show you how to deploy apps from 12 different ecosystems – Python, JavaScript, Java, and others – to AWS, Azure, or Google Cloud. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/
 
