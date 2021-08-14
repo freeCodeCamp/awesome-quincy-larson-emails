@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "bonus": "O(n!) = O(mg!)",
+      "date": "August 13, 2021",
+      "links": [
+        {
+          "description": "Big O Notation is a tool that developers use to understand how much time a piece of code will take to execute. Computer Scientists call this \"Time Complexity.\" This comes up all the time in day-to-day programming, and in job interviews. As a developer, you will definitely want to understand Big O Notation well. And that's precisely what this freeCodeCamp course will help you do.",
+          "link": "https://www.freecodecamp.org/news/learn-big-o-notation/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Google Cloud is the third largest cloud services provider -- right behind AWS and Azure. If you want to get into cloud engineering or DevOps, you may want to consider taking the Google Cloud Digital Leader Certification Exam. This in-depth course will help you pass the exam.",
+          "link": "https://www.freecodecamp.org/news/google-cloud-digital-leader-course/",
+          "order": "2",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "One of the most common ways websites crash is from Distributed Denial of Service attacks. In this tutorial, security researcher Megan Kaczanowski will show you how these DDoS attacks work, and how you can defend against them.",
+          "link": "https://www.freecodecamp.org/news/protect-against-ddos-attacks/",
+          "order": "3",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "FastAPI is an open source Python web development framework that makes it easier to build APIs. It's relatively new, but already companies like Netflix have started using it. This crash course will teach you the basics.",
+          "link": "https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "OpenGL is a powerful tool for creating both 2D and 3D computer graphics. This course will teach you how to use the Depth Buffer, Stencil Buffer, Frame Buffers, Cubemaps, Geometry Shaders, Anti-Aliasing, and more.",
+          "link": "https://www.freecodecamp.org/news/create-complex-graphics-with-opengl/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "This is an alternative way of thinking about Big O Notation"
+    },
+    {
       "date": "August 6, 2021",
       "links": [
         {
