@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "August 20, 2021",
+      "links": [
+        {
+          "description": "Spreadsheets are one of the most powerful tools in any developer's toolbox. This course by a data scientist and university professor will teach you how to use Google Sheets like a pro. You'll learn how to prepare data, create charts, and leverage formulas.",
+          "link": "https://www.freecodecamp.org/news/learn-google-sheets/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Django is a popular Python web development framework. This course will show you how to use Django to build apps that interface with a variety of APIs.",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-google-apis-with-python-django/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Why learning to code is so hard -- even for smart people like yourself. In this article, programming teacher Ayobami will give you some tips for making your learning process a bit easier.",
+          "link": "https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/",
+          "order": "3",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "You may have heard the term \"open source\" to describe software projects like Linux, Firefox and -- of course -- freeCodeCamp. In this open source primer, Jessica will show you some of the common licenses projects use. She'll also show you how you can start contributing code to codebases.",
+          "link": "https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/",
+          "order": "4",
+          "time_duration": "8",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Lexical Scope is an important programming concept -- especially in JavaScript. This tutorial will explain local and global scope and how they affect variables and functions. Then you can use scope in your code to build more sophisticated applications.",
+          "link": "https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/",
+          "order": "5",
+          "time_duration": "12",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Nobody sets out to create a mission-critical spreadsheet. They just happen.",
+      "quote_author": "Felienne Hermans, Scientist and Computer Science Professor"
+    },
+    {
       "bonus": "O(n!) = O(mg!)",
       "date": "August 13, 2021",
       "links": [
