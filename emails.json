@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "August 27, 2021",
+      "links": [
+        {
+          "description": "These days you can code right in your browser on sites like freeCodeCamp.org. But if you have never coded on your own computer before, this course will help you install Python and a code editor so you can start programming offline. Jabrils, a self-taught game developer, will teach you basic Python data structures, algorithms, conditional logic, and more.",
+          "link": "https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to code your own Sudoku Android app using Kotlin and the powerful Jetpack Compose UI toolkit. You'll learn clean architecture, the Java File System Storage, the Open-Closed Principle, and more.",
+          "link": "https://www.freecodecamp.org/news/create-an-android-app/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the term \"outlier\" before. But what exactly does it mean? This plain-English statistics tutorial will show you how to detect outliers by calculating the Interquartile Range.",
+          "link": "https://www.freecodecamp.org/news/what-is-an-outlier-definition-and-how-to-find-outliers-in-statistics/",
+          "order": "3",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn how to code your own Discord chat bot that talks like your favorite cartoon character. You could choose Rick from Rick and Morty, The Joker from Batman, or even Peppa Pig. You'll use Python or JavaScript, along with massive character dialogue datasets.",
+          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Davis is a data scientist and machine learning engineer. And he compiled this list of common data science job interview questions, along with resources you can use to prepare for your first data science role.",
+          "link": "https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. Programmers who subconsciously view themselves as artists will enjoy what they do, and will do it better.",
+      "quote_author": "Donald Knuth, Mathematician and Computer Scientist"
+    },
+    {
       "date": "August 20, 2021",
       "links": [
         {
