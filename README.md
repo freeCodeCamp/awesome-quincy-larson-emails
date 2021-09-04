@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### September 3, 2021
+1. This course will teach you the basics of Machine Learning. A young Data Scientist will walk you through some of the main ways engineers use key Machine Learning techniques. He will also show you how to tackle the classic problem of overfitting or underfitting your data. (10 hour YouTube course): https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/
+
+2. Figma is a powerful prototyping tool for developers. And this in-depth Figma course will show you how to design your websites and apps, then get feedback on them before you start the long process of writing code. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/
+
+3. Over the past decade, many Back-End Developer and Front-End Developer jobs have merged to form Full-Stack Developer roles. If you are just entering the field, this article can bring you up to speed. It will also help you figure out which skills and technologies you should prioritize learning. (10 minute read): https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/
+
+4. What is an Operating System? This historical deep-dive will show you the core parts of an OS and how they have evolved over the decades. (10 minute read): https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/
+
+5. Selenium is a JavaScript tool for testing your user interfaces. You can also use it to automate your browser, so it can click through websites for you, helping you complete web forms or gather data. This course will teach you Selenium basics and help you build several projects you can use in everyday life. (3 hour YouTube course): https://www.freecodecamp.org/news/use-selenium-to-create-a-web-scraping-bot/
+
+Quote of the Week: *"I know a lot about artificial intelligence. But not as much as it knows about me."* — Dave Waters, Geology Professor and Machine Learning Enthusiast
+
 ### August 27, 2021
 1. These days you can code right in your browser on sites like freeCodeCamp.org. But if you have never coded on your own computer before, this course will help you install Python and a code editor so you can start programming offline. Jabrils, a self-taught game developer, will teach you basic Python data structures, algorithms, conditional logic, and more. (5 hour YouTube course): https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/
 
