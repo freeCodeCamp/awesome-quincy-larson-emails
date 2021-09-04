@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "September 3, 2021",
+      "links": [
+        {
+          "description": "This course will teach you the basics of Machine Learning. A young Data Scientist will walk you through some of the main ways engineers use key Machine Learning techniques. He will also show you how to tackle the classic problem of overfitting or underfitting your data.",
+          "link": "https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "Figma is a powerful prototyping tool for developers. And this in-depth Figma course will show you how to design your websites and apps, then get feedback on them before you start the long process of writing code.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Over the past decade, many Back-End Developer and Front-End Developer jobs have merged to form Full-Stack Developer roles. If you are just entering the field, this article can bring you up to speed. It will also help you figure out which skills and technologies you should prioritize learning.",
+          "link": "https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/",
+          "order": "3",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "What is an Operating System? This historical deep-dive will show you the core parts of an OS and how they have evolved over the decades.",
+          "link": "https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/",
+          "order": "4",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Selenium is a JavaScript tool for testing your user interfaces. You can also use it to automate your browser, so it can click through websites for you, helping you complete web forms or gather data. This course will teach you Selenium basics and help you build several projects you can use in everyday life.",
+          "link": "https://www.freecodecamp.org/news/use-selenium-to-create-a-web-scraping-bot/",
+          "order": "5",
+          "time_duration": "3",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "I know a lot about artificial intelligence. But not as much as it knows about me.",
+      "quote_author": "Dave Waters, Geology Professor and Machine Learning Enthusiast"
+    },
+    {
       "date": "August 27, 2021",
       "links": [
         {
