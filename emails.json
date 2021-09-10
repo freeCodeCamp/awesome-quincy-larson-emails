@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "September 10, 2021",
+      "links": [
+        {
+          "description": "Blockchain isn't just for investing -- you can use these distributed database tools to automate tasks as well. That's where Smart Contracts come in. This Python course will show you how to use Solidity to code your own Smart Contracts right onto the Ethereum blockchain.",
+          "link": "https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/",
+          "order": "1",
+          "time_duration": "16",
+          "time_type": "hours"
+        },
+        {
+          "description": "Vue.js is a popular alternative to React and other front end development JavaScript frameworks. In this course, Gwen will teach you how to use Vue.js to build web apps. And you'll learn about Components, Directives, Lifecycle Hooks, and use them to build your own grocery shopping website project.",
+          "link": "https://www.freecodecamp.org/news/vue-3-full-course/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Jessica compiled this in-depth list of 460 textbooks you can download. These high school and university textbooks are Creative Commons-licensed by their authors, and you can use them freely. Bookmark this, and the next time you need to buy a textbook or assign one to a student, you may be able to use one of these instead.",
+          "link": "https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/",
+          "order": "3"
+        },
+        {
+          "description": "In 2014, an Italian developer coded a simple tile-based puzzle game that took the world by storm. That game was called 2048. Your mission -- should you choose to accept it -- is to build your own 2048 game using React and JavaScript. This step-by-step tutorial will show you how. Then you can share your creation with your friends and get them addicted to it.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/",
+          "order": "4",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And if you want to dive even deeper into Python, this comprehensive course will teach you the most common algorithms and data structures that are likely to come up during job interviews. Many of these are used in modern Machine Learning techniques.",
+          "link": "https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/",
+          "order": "5",
+          "time_duration": "13",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Most technologies tend to automate workers on the periphery who are doing menial tasks. But blockchains automate away the center. Instead of putting taxi drivers out of a job, blockchain puts Uber out of a job, and lets the taxi drivers work with the customer directly.",
+      "quote_author": "Vitalik Buterin, Creator of Ethereum"
+    },
+    {
       "date": "September 3, 2021",
       "links": [
         {
