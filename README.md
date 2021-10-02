@@ -3,6 +3,32 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### October 1, 2021
+1. Learn Git for professionals. This intermediate course will teach you how to use the world's most popular version control system to manage your code. You'll learn the difference between merging and rebasing. You'll also learn about pull requests, branching strategies, and how to wrangle those pesky merge conflicts. (1 hour YouTube course): https://www.freecodecamp.org/news/git-for-professionals/
+
+2. This web design course will walk you through building your own multi-page recipe website. You'll use pure HTML and CSS with no frameworks. This is a great first course for aspiring front end developers. And a solid refresher if you're feeling rusty. (2 hour YouTube course): https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/
+
+3. You may have heard the term DOM Manipulation when talking about web development. But what exactly is the Document Object Model? In this tutorial, Jessica will show you how the DOM works, and how even sophisticated single-page applications still rely on HTML elements as anchors to the page. (10 minute read): https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/
+
+4. Natural Language Processing (NLP) is how computers glean insights from human languages like English. Python has a powerful NLP library called spaCy. In this course, data scientist and professor Dr. Mattingly will introduce you to NLP concepts like Word Vectors, Named Entity Recognition, EntityRulers and more. (3 hour YouTube course): https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course/
+
+5. Before there was BitTorrent, people shared files the old fashioned way – from the command line. And if you have a Unix shell available (Mac, Linux, or the Windows 10 Subsystem for Linux should work) you can relive that 1980s experience. This tutorial will show you how to use the handy SCP command to move files from one computer to another using SSH. (7 minute read): https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/
+
+Quote of the Week: *"We divide Git into high level ("porcelain") commands and low level ("plumbing") commands."* — Git and Linux creator Linus Torvalds, in the official Git man page documentation
+
+### September 24, 2021
+1. 18 years ago, two developers in a Kansas newspaper office coded the first version of the Python Django web development framework. They named it after jazz guitarist Django Reinhardt. Today, thousands of major websites run on Django. This beginner's course by University of Michigan professor Dr. Chuck Severance will teach you how to use Python and Django to build modern web apps. (18 hour YouTube course): https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/
+
+2. And if you want to learn even more Python, this course will show you how to use a wide range of Python libraries to automate tasks. You'll build an image converter, a résumé parser, a news summarizer, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/how-to-automate-things-using-python/
+
+3. How to start freelancing in 2021. Tips from a successful Shopify and WordPress developer who works with multiple clients. (14 minute read): https://www.freecodecamp.org/news/how-to-start-freelancing/
+
+4. As a developer, I've probably spent more time building web forms than anything else. This can be particularly tricky with JavaScript. But these best practices will save you a lot of time and headache. (14 minute read): https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/
+
+5. Hundreds of universities around the world have made programming and computer science courses openly available on the web. My friend Dhawal has compiled 700 of these courses that you can explore. If you want, you can strap these together to build your own school year. (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+Quote of the Week: *"An individual block of code takes moments to write, minutes to debug, and can last forever without being touched again. It’s only when you visit code written yesterday that having code written in a clear, consistent style becomes extremely useful. Understandable code frees up your mental bandwidth from having to puzzle out inconsistencies, making it easier to maintain and enhance projects of all sizes."* — Daniel Roy Greenfeld, Python Django developer and author
+
 ### September 17, 2021
 1. Linux is the most widely-used operating system in the world. It powers most web servers. And since Android was built on top of Linux, it runs on most mobile devices. If you're interested in a career in software development or cyber security, you will want to learn Linux and its command line tools. This course will teach you the basics of Linux servers, networking, and security. (5 hour YouTube course): https://www.freecodecamp.org/news/linux-essentials-for-hackers/
 
