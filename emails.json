@@ -1,6 +1,90 @@
 {
   "emails": [
     {
+      "date": "November 5, 2021",
+      "links": [
+        {
+          "description": "Linux has a famously powerful command line interface. And this course by prolific teacher Colt Steele will ramp up your terminal skills. You'll learn commonly-used commands like tail, diff, chown, and grep. This course will also show you how to use Terminal on Mac or Windows System Linux in Windows 10 so that you can practice these commands while you watch the course.",
+          "link": "https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Web Applications for Everybody. University of Michigan professor and frequent freeCodeCamp contributor Dr. Chuck Severance will teach the basics of web development all in a single course. You'll learn basic HTML, CSS, and JavaScript. You'll also learn how to use your browser's developer tools to understand HTTP requests. Dr. Chuck even touches on single-table SQL databases. If you're looking for a beginner web development course from an experienced teacher, this is a great place to start.",
+          "link": "https://www.freecodecamp.org/news/web-applications-for-everybody-dr-chuck/",
+          "order": "2",
+          "time_duration": "14",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you're already fairly experienced with web development, this tutorial will show you how to boost your productivity with time-saving workflow automations. You'll learn some helpful tricks for live reloading, testing, version control, and deployment.",
+          "link": "https://www.freecodecamp.org/news/how-to-improve-your-web-development-workflow/",
+          "order": "3",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you want to get closer to the metal and learn how C works, this tutorial by Bala Priya will show you how C for loops work. She has some elucidating diagrams and C code examples to help you grasp the key concepts.",
+          "link": "https://www.freecodecamp.org/news/for-loops-in-c/",
+          "order": "4",
+          "time_duration": "6",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you have Spanish-speaking friends who want to learn to code, encourage them to check out this comprehensive HTML and CSS course we just released. The freeCodeCamp community is working hard to localize our 7,000+ tutorials and courses into more than 50 languages, including Arabic, Portuguese, Japanese, and Hindi.",
+          "link": "https://www.freecodecamp.org/news/learn-html-and-css-in-spanish-course-for-beginners/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "The Linux philosophy is \u2018laugh in the face of danger.' Oops. Wrong one. \u2018Do it yourself.' That's the one.",
+      "quote_author": "Linus Torvalds, creator of Linux"
+    },
+    {
+      "date": "October 29, 2021",
+      "links": [
+        {
+          "description": "React is one of the most widely-used JavaScript front-end development libraries. I did an Indeed job search just now, and saw more than 60,000 job openings in the US that mentioned React. With this in-depth React course, you'll build your own e-commerce website. You'll learn about components, event handling, life cycle phases, error handling, two-way binding, and other key React concepts.",
+          "link": "https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/",
+          "order": "1",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "Back in the year 2000, the US National Security Agency first released a Linux feature that gives system admins fine-grained control over the security of a computer or server. It's called Security-Enhanced Linux, and it comes built-in with most major Linux distributions. If you're running Linux on a computer or a server, this tutorial by Zaira Hira will show you how to really lock things down.",
+          "link": "https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/",
+          "order": "2",
+          "time_duration": "5",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn Android app development for beginners. Stanford lecturer Rahul Pandey will walk you through building your own tip calculator app. You'll create a mobile user interface using the Kotlin programming language, and even add some basic animations to your app.",
+          "link": "https://www.freecodecamp.org/news/android-app-development-for-beginners/",
+          "order": "3",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Django is a powerful Python web development framework used by Instagram and Pinterest. This crash course by Python teacher Bobby Stearman will teach you how to code your own interactive r\u00e9sum\u00e9 website using a professionally-designed and customizable template.",
+          "link": "https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/",
+          "order": "4",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "A lot of people ask me whether software development is a good fit for them as a career. This article by Jessica Wilkins is a solid place to start your research. It will give you a brief tour of the field and the many sub-disciplines in software engineering. This will help you make more informed career plans.",
+          "link": "https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/",
+          "order": "5",
+          "time_duration": "10",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "I currently use Ubuntu Linux, on a standalone laptop. It has no internet connection. I occasionally carry flash memory drives between this machine and the Macs that I use for network surfing and graphics. But I trust my family jewels only to Linux.",
+      "quote_author": "Donald Knuth, Stanford professor and 1974 Turing Award recipient (the \"Nobel Prize of computer science\")"
+    },
+    {
       "date": "October 22, 2021",
       "links": [
         {
