@@ -3,6 +3,32 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### November 5, 2021
+1. Linux has a famously powerful command line interface. And this course by prolific teacher Colt Steele will ramp up your terminal skills. You'll learn commonly-used commands like tail, diff, chown, and grep. This course will also show you how to use Terminal on Mac or Windows System Linux in Windows 10 so that you can practice these commands while you watch the course. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/
+
+2. Web Applications for Everybody. University of Michigan professor and frequent freeCodeCamp contributor Dr. Chuck Severance will teach the basics of web development all in a single course. You'll learn basic HTML, CSS, and JavaScript. You'll also learn how to use your browser's developer tools to understand HTTP requests. Dr. Chuck even touches on single-table SQL databases. If you're looking for a beginner web development course from an experienced teacher, this is a great place to start. (14 hour YouTube course): https://www.freecodecamp.org/news/web-applications-for-everybody-dr-chuck/
+
+3. And if you're already fairly experienced with web development, this tutorial will show you how to boost your productivity with time-saving workflow automations. You'll learn some helpful tricks for live reloading, testing, version control, and deployment. (10 minute read): https://www.freecodecamp.org/news/how-to-improve-your-web-development-workflow/
+
+4. If you want to get closer to the metal and learn how C works, this tutorial by Bala Priya will show you how C for loops work. She has some elucidating diagrams and C code examples to help you grasp the key concepts. (6 minute read): https://www.freecodecamp.org/news/for-loops-in-c/
+
+5. If you have Spanish-speaking friends who want to learn to code, encourage them to check out this comprehensive HTML and CSS course we just released. The freeCodeCamp community is working hard to localize our 7,000+ tutorials and courses into more than 50 languages, including Arabic, Portuguese, Japanese, and Hindi. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-html-and-css-in-spanish-course-for-beginners/
+
+Quote of the Week: *"The Linux philosophy is ‘laugh in the face of danger.’ Oops. Wrong one. ‘Do it yourself.’ That's the one."* — Linus Torvalds, creator of Linux
+
+### October 29, 2021
+1. React is one of the most widely-used JavaScript front-end development libraries. I did an Indeed job search just now, and saw more than 60,000 job openings in the US that mentioned React. With this in-depth React course, you'll build your own e-commerce website. You'll learn about components, event handling, life cycle phases, error handling, two-way binding, and other key React concepts. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/
+
+2. Back in the year 2000, the US National Security Agency first released a Linux feature that gives system admins fine-grained control over the security of a computer or server. It's called Security-Enhanced Linux, and it comes built-in with most major Linux distributions. If you're running Linux on a computer or a server, this tutorial by Zaira Hira will show you how to really lock things down. (5 minute read): https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/
+
+3. Learn Android app development for beginners. Stanford lecturer Rahul Pandey will walk you through building your own tip calculator app. You'll create a mobile user interface using the Kotlin programming language, and even add some basic animations to your app. (90 minute YouTube course): https://www.freecodecamp.org/news/android-app-development-for-beginners/
+
+4. Django is a powerful Python web development framework used by Instagram and Pinterest. This crash course by Python teacher Bobby Stearman will teach you how to code your own interactive résumé website using a professionally-designed and customizable template. (90 minute YouTube course): https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/
+
+5. A lot of people ask me whether software development is a good fit for them as a career. This article by Jessica Wilkins is a solid place to start your research. It will give you a brief tour of the field and the many sub-disciplines in software engineering. This will help you make more informed career plans. (10 minute read): https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/
+
+Quote of the Week: *"I currently use Ubuntu Linux, on a standalone laptop. It has no internet connection. I occasionally carry flash memory drives between this machine and the Macs that I use for network surfing and graphics. But I trust my family jewels only to Linux."* — Donald Knuth, Stanford professor and 1974 Turing Award recipient (the "Nobel Prize of computer science")
+
 ### October 22, 2021
 1. Unreal Engine is a powerful tool for coding your own video games. And with this GameDev course, you will learn how to use the Unreal Engine to build an "endless runner" game – complete with obstacles, hit detection, and a core gameplay loop. (2 hour YouTube course): https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/
 
