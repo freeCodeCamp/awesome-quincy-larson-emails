@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### November 12, 2021
+1. Learn Python API development by building your own social network API. You'll use a powerful library called Fast API, along with the popular Postgres (PostgreSQL) database. This course will show you how to install everything and configure your PC, Mac, or Linux computer for full-stack Python development. You'll even deploy your own API to the web using Docker and Heroku. (19 hour YouTube course): https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/
+
+2. Micro-frontends let you break a website down into individual features that you can then code separately. This can be super useful during development. This course will teach you about cross platform micro-frontends, asynchronous loading, error handling, shared state, how to route multiple applications together, and how to test micro-frontend code. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-all-about-micro-frontends/
+
+3. A lot of people ask me about the difference between C and C++. They are related languages that have an interesting shared history. The main difference is that C++ is object-oriented, and has a ton of features that make it easier to code complicated applications. This article will delve into both languages, with plenty of helpful code examples. (15 minute read): https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/
+
+4. Array Destructuring is a DRY (Don't Repeat Yourself) way to extract values from your arrays. Almost as if they were JavaScript objects. You can code along with this tutorial and practice using this novel programming approach. (30 minute read): https://www.freecodecamp.org/news/array-vs-object-destructuring-in-javascript/
+
+5. A lot of people have been recommending this new TV show from South Korea called Squid Game. I haven't watched it, but I did enjoy this Squid Game JavaScript game tutorial. You can code along at home and build it to show your friends. Don't worry – this game is not violent. But it does feature a creepy doll. ◎ܫ◎ (1 hour YouTube course): https://www.freecodecamp.org/news/create-a-squid-game-javascript-game-with-three-js/
+
+Quote of the Week: *"Python is the most powerful language you can still read."* - Paul Dubois, physicist and lead developer of NumPy
+
 ### November 5, 2021
 1. Linux has a famously powerful command line interface. And this course by prolific teacher Colt Steele will ramp up your terminal skills. You'll learn commonly-used commands like tail, diff, chown, and grep. This course will also show you how to use Terminal on Mac or Windows System Linux in Windows 10 so that you can practice these commands while you watch the course. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/
 
