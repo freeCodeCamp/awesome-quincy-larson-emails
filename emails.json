@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "November 12, 2021",
+      "links": [
+        {
+          "description": "Learn Python API development by building your own social network API. You'll use a powerful library called Fast API, along with the popular Postgres (PostgreSQL) database. This course will show you how to install everything and configure your PC, Mac, or Linux computer for full-stack Python development. You'll even deploy your own API to the web using Docker and Heroku.",
+          "link": "https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/",
+          "order": "1",
+          "time_duration": "19",
+          "time_type": "hours"
+        },
+        {
+          "description": "Micro-frontends let you break a website down into individual features that you can then code separately. This can be super useful during development. This course will teach you about cross platform micro-frontends, asynchronous loading, error handling, shared state, how to route multiple applications together, and how to test micro-frontend code.",
+          "link": "https://www.freecodecamp.org/news/learn-all-about-micro-frontends/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "A lot of people ask me about the difference between C and C++. They are related languages that have an interesting shared history. The main difference is that C++ is object-oriented, and has a ton of features that make it easier to code complicated applications. This article will delve into both languages, with plenty of helpful code examples.",
+          "link": "https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/",
+          "order": "3",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Array Destructuring is a DRY (Don't Repeat Yourself) way to extract values from your arrays. Almost as if they were JavaScript objects. You can code along with this tutorial and practice using this novel programming approach.",
+          "link": "https://www.freecodecamp.org/news/array-vs-object-destructuring-in-javascript/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "A lot of people have been recommending this new TV show from South Korea called Squid Game. I haven't watched it, but I did enjoy this Squid Game JavaScript game tutorial. You can code along at home and build it to show your friends. Don't worry -- this game is not violent. But it does feature a creepy doll. \u25ce\u072b\u25ce.",
+          "link": "https://www.freecodecamp.org/news/create-a-squid-game-javascript-game-with-three-js/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Python is the most powerful language you can still read.",
+      "quote_author": "Paul Dubois, physicist and lead developer of NumPy"
+    },
+    {
       "date": "November 5, 2021",
       "links": [
         {
