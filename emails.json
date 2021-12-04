@@ -1,6 +1,47 @@
 {
   "emails": [
     {
+      "date": "December 3, 2021",
+      "links": [
+        {
+          "description": "This course will teach you about the 4 most popular types of NoSQL databases: key-value, tabular, document, and graph. freeCodeCamp teacher Ania Kubow will walk you through how to build these databases. You'll leverage each one's interface layer, execution layer, and storage layer.",
+          "link": "https://www.freecodecamp.org/news/learn-nosql-in-3-hours/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you know how to use Microsoft Excel, you already have one of the most powerful data analysis tools at your disposal. This course will help you pair Excel with Python to build pivot tables, Jupyter Notebooks, and other data analysis artifacts.",
+          "link": "https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Sim-swapping is a type of cyber attack where someone convinces a phone company employee to transfer your phone number to a new SIM card -- a sim card the attacker owns. This happens way more often than you might think. In this tutorial, security researcher Megan Kaczanowski will show you several ways you can protect yourself from these attacks.",
+          "link": "https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/",
+          "order": "3",
+          "time_duration": "13",
+          "time_type": "minutes"
+        },
+        {
+          "description": "The Design Thinking process can help you come up with new ways to solve your users' problems. freeCodeCamp Teacher Jessica Wilkins will show you how you can apply Design Thinking to empathize with your users and build better projects.",
+          "link": "https://www.freecodecamp.org/news/the-design-thinking-process-explained/",
+          "order": "4",
+          "time_duration": "8",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Rust is the most-loved programming language in the world, according to 6 back-to-back Stack Overflow surveys. After months of hard work, freeCodeCamp just published a full-length Rust course. Now you can learn Rust development interactively -- right in your browser.",
+          "link": "https://www.freecodecamp.org/news/rust-in-replit/",
+          "order": "5"
+        },
+        {}
+      ],
+      "quote": "A database administrator walks into a NoSQL bar. But he turns and leaves because he couldn't find a table.",
+      "quote_author": "Erlend Oftedal, security researcher and maintainer of Retire.js"
+    },
+    {
       "date": "November 19, 2021",
       "links": [
         {
