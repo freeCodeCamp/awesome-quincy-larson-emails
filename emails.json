@@ -1,6 +1,90 @@
 {
   "emails": [
     {
+      "date": "December 17, 2021",
+      "links": [
+        {
+          "description": "DevSecOps is where you start thinking about security early in the process of building your app or website. This DevOps and cybersecurity course by Beau Carnes will help you prevent vulnerabilities, threats, and exploits.",
+          "link": "https://www.freecodecamp.org/news/what-is-devsecops/",
+          "order": "1",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you want to work with some emerging full-stack development tools, this course is a good place to start. You'll learn Svelte, Prisma, and Vercel, running on top of a sensible Postgres database. And you can code the entire app right in your browser using GitPod.",
+          "link": "https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/",
+          "order": "2",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "Did you know you can run Linux on a Windows computer? In this tutorial, Yosra will show you how to use Windows Subsystem for Linux -- also known as WSL -- without needing to use a virtual machine or dual-boot your computer.",
+          "link": "https://www.freecodecamp.org/news/how-to-run-linux-apps-on-windows-10-11-using-wsl/",
+          "order": "3",
+          "time_duration": "5",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Linked Lists are an efficient data structure used in high-performance programming. They often come up in developer job interview questions. This course will teach you how to sum, traverse, and reverse a linked list.",
+          "link": "https://www.freecodecamp.org/news/linked-lists-in-technical-interviews/",
+          "order": "4",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "'Tis the season. This fun tutorial will teach you the basics of SVG images. You'll build several holiday-themed graphics.",
+          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Better to be despised for too anxious apprehensions than ruined by too confident security.",
+      "quote_author": "Edmund Burke, Irish philosopher, in 1790"
+    },
+    {
+      "date": "December 10, 2021",
+      "links": [
+        {
+          "description": "This course by computer science professor and entrepreneur Shad Sluiter will teach you business essentials for developers. You'll learn the basics of product development, agile project management, marketing, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/",
+          "order": "1",
+          "time_duration": "8",
+          "time_type": "hours"
+        },
+        {
+          "description": "The popular Bootstrap responsive design framework just hit Version 5.0. This course will teach you how to make your websites and apps look good on any device size, without having to write a lot of your own custom CSS.",
+          "link": "https://www.freecodecamp.org/news/full-bootstrap-5-tutorial-for-beginners/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "In the movie Iron Man, Tony Stark has a friendly artificial intelligence named J.A.R.V.I.S. who helps him get things done. You can build your own AI helper in Python with the help of this fun tutorial.",
+          "link": "https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/",
+          "order": "3",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Did you know that you can write code on a phone? There are more than 2 billion people around the world who have access to an Android phone, but not a laptop. In this course, 18-year-old Back End Developer Precious Oladele will show you how he builds apps right from his Android phone, and the many tools available for coding on the go.",
+          "link": "https://www.freecodecamp.org/news/can-you-code-on-a-phone/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Over the past 4 months, Boston University sociologist Dilan Eren and I asked more than 18,000 people to anonymously tell us how they are learning to code and which tools they're using. And today I'm proud to announce that we just published the full results, along with a massive open dataset.",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/",
+          "order": "5",
+          "time_duration": "10",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Don't worry about people trying to steal your design work. Worry about the day that they stop.",
+      "quote_author": "Jeffery Zeldman, Developer, Designer, and co-founder of the Web Standards Project"
+    },
+    {
       "date": "December 3, 2021",
       "links": [
         {
