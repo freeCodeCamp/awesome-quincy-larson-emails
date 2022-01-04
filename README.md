@@ -6,9 +6,9 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 ### December 24, 2021
 1. We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs.
 
-It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter eggs to discover, and multiple endings. And it's all open source.
+      It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter     eggs to discover, and multiple endings. And it's all open source.
 
-It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour "let's play" video with Ania Kubow and the game's developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/
+      It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour "let's play" video with Ania Kubow and the game's         developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/
 
 2. Also, we just published a comprehensive history of the internet, taught by a professor who has been at its forefront since the 1990s: University of Michigan legend Dr. Chuck. You'll learn about ARPANET & CERN, DNS, TCP/IP, network security, and more. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/
 
