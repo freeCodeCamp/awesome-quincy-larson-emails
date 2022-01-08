@@ -1,6 +1,49 @@
 {
   "emails": [
     {
+      "bonus": "Finally, I am proud to congratulate the 647 people who have earned freeCodeCamp's 2021 Top Contributor award. You can read about these kind human beings and how they've been volunteering within the community: https://www.freecodecamp.org/news/2021-top-contributors/",
+      "date": "January 07, 2022",
+      "links": [
+        {
+          "description": "This in-depth course will show you how to code your own Super Mario video game -- complete with physics engine, shaders, sprite sheets, animations, and enemy AI. You'll learn some Java programming and some Java ecosystem game development tools.",
+          "link": "https://www.freecodecamp.org/news/code-a-2d-game-engine-using-java/",
+          "order": "1",
+          "time_duration": "25",
+          "time_type": "hours"
+        },
+        {
+          "description": "Figma is a powerful user experience design tool used by web and mobile developers. This course will teach you Figma basics, along with Material Design, vector graphics, and Tailwind CSS.",
+          "link": "https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/",
+          "order": "2",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "How does Git work under the hood? This deep dive will show you the key concepts of version control, and the three states of code changes: modified, staged, and committed. It will also show you how Git tracks files and handles tasks like merging.",
+          "link": "https://www.freecodecamp.org/news/git-under-the-hood/",
+          "order": "3",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "The high art of Git commit messages. This tutorial will teach you how to explain to other developers what exactly your code does.",
+          "link": "https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/",
+          "order": "4",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "You can start 2022 off strong by accepting my Become-a-Dev New Year's Resolution Challenge. You'll learn about Linux, SQL, and practice your coding. You'll also play our new Learn to Code RPG video game.",
+          "link": "https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Players are artists who create their own reality within the game.",
+      "quote_author": "Shigeru Miyamoto, Creator of Super Mario Bros."
+    },
+    {
       "bonus": "It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour \"let's play\" video with Ania Kubow and the game's         developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/",
       "date": "December 24, 2021",
       "links": [
