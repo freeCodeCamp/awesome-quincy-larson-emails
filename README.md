@@ -3,6 +3,23 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### January 07, 2022
+1. This in-depth course will show you how to code your own Super Mario video game – complete with physics engine, shaders, sprite sheets, animations, and enemy AI. You'll learn some Java programming and some Java ecosystem game development tools. (25 hour YouTube course): https://www.freecodecamp.org/news/code-a-2d-game-engine-using-java/
+
+2. Figma is a powerful user experience design tool used by web and mobile developers. This course will teach you Figma basics, along with Material Design, vector graphics, and Tailwind CSS. (10 hour YouTube course): https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/
+
+3. How does Git work under the hood? This deep dive will show you the key concepts of version control, and the three states of code changes: modified, staged, and committed. It will also show you how Git tracks files and handles tasks like merging. (15 minute read): https://www.freecodecamp.org/news/git-under-the-hood/
+
+4. The high art of Git commit messages. This tutorial will teach you how to explain to other developers what exactly your code does. (10 minute read): https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+
+5. You can start 2022 off strong by accepting my Become-a-Dev New Year's Resolution Challenge. You'll learn about Linux, SQL, and practice your coding. You'll also play our new Learn to Code RPG video game. (5 minute read): https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/
+
+Also, I'm sure this is no big deal, but I'll leave it here if you're interested 😉 https://www.freecodecamp.org/news/free-accredited-bachelors-degrees-in-computer-science-how-do-we-get-there/
+
+Finally, I am proud to congratulate the 647 people who have earned freeCodeCamp's 2021 Top Contributor award. You can read about these kind human beings and how they've been volunteering within the community: https://www.freecodecamp.org/news/2021-top-contributors/
+
+Quote of the Week: *"Players are artists who create their own reality within the game."* — Shigeru Miyamoto, Creator of Super Mario Bros.
+
 ### December 24, 2021
 1. We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs.
 
