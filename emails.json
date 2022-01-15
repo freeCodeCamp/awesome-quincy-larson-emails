@@ -1,6 +1,49 @@
 {
   "emails": [
     {
+      "date": "January 14, 2022",
+      "links": [
+        {
+          "description": "React is a popular JavaScript front end development library. This course will teach you React for beginners. Learn about props, state, async functions, JSX, and more. Along the way, you'll build 8 real-world projects, and solve more than 140 interactive coding challenges.",
+          "link": "https://www.freecodecamp.org/news/free-react-course-2022/",
+          "order": "1",
+          "time_duration": "12",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn to solve 10 of the most common coding job interview problems. You'll learn classics like Valid Anagram, Minimum Window Substring, Kth permutation, and Largest Rectangle in Histogram.",
+          "link": "https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Code your own Instagram clone full-stack Android app. You'll learn how to use Flutter for coding the native app and user interface. You'll also learn how to use Firebase for your database and authentication. You can sit back and watch or code along at home using the codebase repository on GitHub.",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase/",
+          "order": "3",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you want to expand your Machine Learning skills in 2022, Manoel has you covered. He dug through tons of course data to find 10 publicly accessible university courses that will teach you key topics from the ground up.",
+          "link": "https://www.freecodecamp.org/news/best-machine-learning-courses/",
+          "order": "4",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "How do file systems work? This in-depth article will give you a solid understanding. You'll learn about partitioning schemes, system firmware, booting, and the computer science concepts that underpin them.",
+          "link": "https://www.freecodecamp.org/news/file-systems-architecture-explained/",
+          "order": "5",
+          "time_duration": "45",
+          "time_type": "minutes"
+        },
+        {}
+      ],
+      "quote": "There is no such thing as 'zero-config' software. It's just someone else's hard-coded settings.",
+      "quote_author": "Jordan Walke, creator of React"
+    },
+    {
       "bonus": "Finally, I am proud to congratulate the 647 people who have earned freeCodeCamp's 2021 Top Contributor award. You can read about these kind human beings and how they've been volunteering within the community: https://www.freecodecamp.org/news/2021-top-contributors/",
       "date": "January 07, 2022",
       "links": [
