@@ -3,6 +3,32 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### January 28, 2022
+1. This course will show you how to build your own video games using an open source JavaScript GameDev engine called GDevelop. You'll build a Mario Bros. platform game and an Asteroids space shooting game. You can publish your games to the web or to iPhone / Android. You don't need any previous programming experience. (1 hour YouTube course): https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/
+
+2. freeCodeCamp just published our first-ever AutoCAD course, taught by architect and Lund University lecturer Gediminas Kirdeikis. Computer Aided Design is a powerful tool for creating 3D models, most often in the field of architecture. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/
+
+3. HTTP is a set of rules for how servers share resources on the web. In this tutorial, Camila will show you how to use the common HTTP methods – Get, Put, Post, Patch, and Delete – to coordinate servers and clients. (20 minute read): https://www.freecodecamp.org/news/http-request-methods-explained/
+
+4. Self-driving car prototypes rely heavily on Computer Vision for perceiving their surroundings. This Python Deep Learning course will explain how cars can "see" the road, and how they process this information using neural networks. (2 hour YouTube course): https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/
+
+5. Learn how to use TypeScript with your React apps. This course will teach you about aliases, inheritance, reducers, React Hooks, and more – all while coding your own todo list app. (2 hour watch): https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/
+
+Quote of the Week: *"In the right context, a game is not just a vehicle for fun, but an exercise in self-determination and confidence."* — Sid Meier, game designer and creator of the Civilization game series
+
+### January 21, 2022
+1. freeCodeCamp just published an entire book on Arch Linux. If you want to get into the most customizable Linux distribution, this book will show you how to install it and season to taste. (free full-length handbook): https://www.freecodecamp.org/news/how-to-install-arch-linux/
+
+2. Build your own version of the Netflix website using Python Django and Tailwind CSS. You can code along at home and get some practice building APIs and tweaking user interfaces. (2 hour YouTube course): https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/
+
+3. Next.js is a React framework that describes itself as "unopinionated" and "batteries-included". It combines simple tools like Create React App with more advanced features. This tutorial will show you how to build a Next.js app. You'll learn about pages, routes, data requests, SEO considerations, and more. (20 minute read): https://www.freecodecamp.org/news/nextjs-tutorial/
+
+4. Kubernetes is a popular open-source DevOps tool. It can help automate the deployment, management, scaling, and networking of containers. This course will help you learn it so you can more easily deploy apps to production. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-kubernetes-and-start-containerizing-your-applications/
+
+5. And if you want to get certified in Kubernetes, freeCodeCamp just published this guide to the official Certified Kubernetes Administrator Exam. This will help you decide whether the certification is worth the effort. Then it will cover all five modules in detail. It also includes a handy kubectl cheat sheet. (25 minute read): https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/
+
+Quote of the Week: *"Linux only became possible because 20 years of operating system research was carefully studied, analyzed, discussed, and thrown away."* — Ingo Molnar, Prolific Linux Contributor from Hungary
+
 ### January 14, 2022
 1. React is a popular JavaScript front end development library. This course will teach you React for beginners. Learn about props, state, async functions, JSX, and more. Along the way, you'll build 8 real-world projects, and solve more than 140 interactive coding challenges. (12 hour YouTube course): https://www.freecodecamp.org/news/free-react-course-2022/
 
