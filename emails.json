@@ -1,6 +1,88 @@
 {
   "emails": [
     {
+      "date": "January 28, 2022",
+      "links": [
+        {
+          "description": "This course will show you how to build your own video games using an open source JavaScript GameDev engine called GDevelop. You'll build a Mario Bros. platform game and an Asteroids space shooting game. You can publish your games to the web or to iPhone / Android. You don't need any previous programming experience.",
+          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/",
+          "order": "1",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp just published our first-ever AutoCAD course, taught by architect and Lund University lecturer Gediminas Kirdeikis. Computer Aided Design is a powerful tool for creating 3D models, most often in the field of architecture.",
+          "link": "https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/",
+          "order": "2",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "HTTP is a set of rules for how servers share resources on the web. In this tutorial, Camila will show you how to use the common HTTP methods -- Get, Put, Post, Patch, and Delete -- to coordinate servers and clients.",
+          "link": "https://www.freecodecamp.org/news/http-request-methods-explained/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Self-driving car prototypes rely heavily on Computer Vision for perceiving their surroundings. This Python Deep Learning course will explain how cars can \"see\" the road, and how they process this information using neural networks.",
+          "link": "https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to use TypeScript with your React apps. This course will teach you about aliases, inheritance, reducers, React Hooks, and more -- all while coding your own todo list app.",
+          "link": "https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "In the right context, a game is not just a vehicle for fun, but an exercise in self-determination and confidence.",
+      "quote_author": "Sid Meier, game designer and creator of the Civilization game series"
+    },
+    {
+      "date": "January 21, 2022",
+      "links": [
+        {
+          "description": "freeCodeCamp just published an entire book on Arch Linux. If you want to get into the most customizable Linux distribution, this book will show you how to install it and season to taste.",
+          "link": "https://www.freecodecamp.org/news/how-to-install-arch-linux/",
+          "order": "1"
+        },
+        {
+          "description": "Build your own version of the Netflix website using Python Django and Tailwind CSS. You can code along at home and get some practice building APIs and tweaking user interfaces.",
+          "link": "https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Next.js is a React framework that describes itself as \"unopinionated\" and \"batteries-included\". It combines simple tools like Create React App with more advanced features. This tutorial will show you how to build a Next.js app. You'll learn about pages, routes, data requests, SEO considerations, and more.",
+          "link": "https://www.freecodecamp.org/news/nextjs-tutorial/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Kubernetes is a popular open-source DevOps tool. It can help automate the deployment, management, scaling, and networking of containers. This course will help you learn it so you can more easily deploy apps to production.",
+          "link": "https://www.freecodecamp.org/news/learn-kubernetes-and-start-containerizing-your-applications/",
+          "order": "4",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to get certified in Kubernetes, freeCodeCamp just published this guide to the official Certified Kubernetes Administrator Exam. This will help you decide whether the certification is worth the effort. Then it will cover all five modules in detail. It also includes a handy kubectl cheat sheet.",
+          "link": "https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/",
+          "order": "5",
+          "time_duration": "25",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Linux only became possible because 20 years of operating system research was carefully studied, analyzed, discussed, and thrown away.",
+      "quote_author": "Ingo Molnar, Prolific Linux Contributor from Hungary"
+    },
+    {
       "date": "January 14, 2022",
       "links": [
         {
