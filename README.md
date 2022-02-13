@@ -3,6 +3,32 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### February 11, 2022
+1. A Design System can save you time when you code a website, and help the pages feel more consistent. This course is taught by the King of CSS, Kevin Powell. (And yes, if you google "king of CSS", Kevin will be the top result.) You'll learn a ton of advanced CSS and UI design concepts. (7 hour YouTube course): https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css/
+
+2. We asked 15 experienced software engineers the most common questions people ask about learning to code. I'm friends with several of the devs in this video, and enjoyed hearing their perspectives. I think you will, too. (45 minute watch): https://www.freecodecamp.org/news/your-developer-career-questions-answered/
+
+3. Markdown is a powerful way to add formatting to your plain-text notes. I use it whenever I create GitHub issues, or post on freeCodeCamp's forum. In this tutorial, Zaira will teach you Markdown syntax. She'll show you how you can add code blocks to your text, and format everything on the fly. (5 minute read): https://www.freecodecamp.org/news/markdown-cheat-sheet/
+
+4. Learn how JavaScript works behind the scenes. This deep dive will show you how JavaScript engines like V8 and SpiderMonkey parse and run code in your browser. You'll learn about Scope Chains, Execution Stacks, Hoisting, and more. (20 minute read): https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes
+
+5. This article will give you some practical tips for strengthening your developer portfolio. If you want to convince potential clients and hiring managers that you know what you're doing, a strong portfolio will go a long way. (15 minute read): https://www.freecodecamp.org/news/level-up-developer-portfolio/
+
+Quote of the Week: *"Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are."* — Danny Thorpe, Software Engineer and major contributor to the Delphi programming language
+
+### February 4, 2022
+1. This course will teach you User Experience Design best practices. You'll learn the design thinking methodology of Stanford's famous d.school, and build prototypes in Figma. This is a beginner-level course and does not require any prior programming experience. (2 hour YouTube course): https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/
+
+2. Four years ago, an electrician discovered freeCodeCamp and started teaching himself to code. Today he works as a software engineer. In this in-depth guide, he reflects on the React best practices he has picked up over the years. These are his tips for writing better React code in 2022. (1 hour read): https://www.freecodecamp.org/news/best-practices-for-react/
+
+3. You may have heard of the Go programming language, which is famous for being extremely fast. This course will show you how to write your own serverless API using Go and AWS Lambda. You'll also learn how to test and deploy your serverless Go functions to the cloud. (2 hour YouTube course): https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/
+
+4. If you want to build your own video game with 3D graphics, you can use the Unreal Engine and its powerful Blueprint Visual Scripting system. This course for beginners will show you how to trigger events like game over, and even some basic level design. (2 hour YouTube course): https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/
+
+5. Every year developers hold a competition to build video games using just 13 kilobytes of JavaScript. For reference, the original Donkey Kong game from 1981 was 16 kilobytes. And yet these devs are able to build platformers, puzzle games, and even 3D games in just 13KB. In this video, Ania will demo the top 20 games from this year's js13k competition, and she'll explain some of the techniques developers used to code these games. (90 minute watch): https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/
+
+Quote of the Week: *"Every great design begins with an even better story."* — Lorinda Mamo, designer and creative director
+
 ### January 28, 2022
 1. This course will show you how to build your own video games using an open source JavaScript GameDev engine called GDevelop. You'll build a Mario Bros. platform game and an Asteroids space shooting game. You can publish your games to the web or to iPhone / Android. You don't need any previous programming experience. (1 hour YouTube course): https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/
 
