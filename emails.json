@@ -1,6 +1,90 @@
 {
   "emails": [
     {
+      "date": "February 11, 2022",
+      "links": [
+        {
+          "description": "A Design System can save you time when you code a website, and help the pages feel more consistent. This course is taught by the King of CSS, Kevin Powell. (And yes, if you google \"king of CSS\", Kevin will be the top result.) You'll learn a ton of advanced CSS and UI design concepts.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css/",
+          "order": "1",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "We asked 15 experienced software engineers the most common questions people ask about learning to code. I'm friends with several of the devs in this video, and enjoyed hearing their perspectives. I think you will, too.",
+          "link": "https://www.freecodecamp.org/news/your-developer-career-questions-answered/",
+          "order": "2",
+          "time_duration": "45",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Markdown is a powerful way to add formatting to your plain-text notes. I use it whenever I create GitHub issues, or post on freeCodeCamp's forum. In this tutorial, Zaira will teach you Markdown syntax. She'll show you how you can add code blocks to your text, and format everything on the fly.",
+          "link": "https://www.freecodecamp.org/news/markdown-cheat-sheet/",
+          "order": "3",
+          "time_duration": "5",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn how JavaScript works behind the scenes. This deep dive will show you how JavaScript engines like V8 and SpiderMonkey parse and run code in your browser. You'll learn about Scope Chains, Execution Stacks, Hoisting, and more.",
+          "link": "https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "This article will give you some practical tips for strengthening your developer portfolio. If you want to convince potential clients and hiring managers that you know what you're doing, a strong portfolio will go a long way.",
+          "link": "https://www.freecodecamp.org/news/level-up-developer-portfolio/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don't know where you've been, you don't know where you're going, and you don't know quite where you are.",
+      "quote_author": "Danny Thorpe, Software Engineer and major contributor to the Delphi programming language"
+    },
+    {
+      "date": "February 4, 2022",
+      "links": [
+        {
+          "description": "This course will teach you User Experience Design best practices. You'll learn the design thinking methodology of Stanford's famous d.school, and build prototypes in Figma. This is a beginner-level course and does not require any prior programming experience.",
+          "link": "https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Four years ago, an electrician discovered freeCodeCamp and started teaching himself to code. Today he works as a software engineer. In this in-depth guide, he reflects on the React best practices he has picked up over the years. These are his tips for writing better React code in 2022.",
+          "link": "https://www.freecodecamp.org/news/best-practices-for-react/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard of the Go programming language, which is famous for being extremely fast. This course will show you how to write your own serverless API using Go and AWS Lambda. You'll also learn how to test and deploy your serverless Go functions to the cloud.",
+          "link": "https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you want to build your own video game with 3D graphics, you can use the Unreal Engine and its powerful Blueprint Visual Scripting system. This course for beginners will show you how to trigger events like game over, and even some basic level design.",
+          "link": "https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Every year developers hold a competition to build video games using just 13 kilobytes of JavaScript. For reference, the original Donkey Kong game from 1981 was 16 kilobytes. And yet these devs are able to build platformers, puzzle games, and even 3D games in just 13KB. In this video, Ania will demo the top 20 games from this year's js13k competition, and she'll explain some of the techniques developers used to code these games.",
+          "link": "https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/",
+          "order": "5",
+          "time_duration": "90",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Every great design begins with an even better story.",
+      "quote_author": "Lorinda Mamo, designer and creative director"
+    },
+    {
       "date": "January 28, 2022",
       "links": [
         {
