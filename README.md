@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### February 18, 2022
+1. Learn C++ for beginners. This course will show you how to install the C++ programming language and start writing and running your code. You'll learn concepts like control flow, data handling, object oriented programming, pointers & references, polymorphism, and even some functional programming. (31 hour YouTube course): https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/
+
+2. How to rock the coding interview. This in-depth guide will teach you tips that helped one freeCodeCamp community member land multiple job offers from Google, Airbnb, and Dropbox. (40 minute read): https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
+
+3. Learn iOS development by coding your own Netflix app. You'll use Swift 5 and UIkit to create a new Xcode project, customize the navigation bar, and access public APIs. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-ios-development-by-building-a-netflix-clone/
+
+4. Tech Entrepreneurship 101. Chris Haroun created this course called "Crucial Lessons They Don't Teach you in Business School." It's a collection of lessons like "every battle is won before it has been fought" and "only the paranoid survive." If you are considering founding a startup or software development consultancy, this course is a sound place to start. (6 hour YouTube course): https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/
+
+5. This guide will walk you through how to audit one of thousands of publicly available university courses. You can learn at your own pace without needing to enroll. It also includes tips for choosing among similar courses. It will help you take a structured, sustainable approach to self teaching. (1 hour YouTube course): https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/
+
+Quote of the Week: *"C makes it easy to shoot yourself in the foot. C++ makes it harder. But when you do, it blows your whole leg off."* — Bjarne Stroustrup, Creator of C++
+
 ### February 11, 2022
 1. A Design System can save you time when you code a website, and help the pages feel more consistent. This course is taught by the King of CSS, Kevin Powell. (And yes, if you google "king of CSS", Kevin will be the top result.) You'll learn a ton of advanced CSS and UI design concepts. (7 hour YouTube course): https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css/
 
