@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "February 18, 2022",
+      "links": [
+        {
+          "description": "Learn C++ for beginners. This course will show you how to install the C++ programming language and start writing and running your code. You'll learn concepts like control flow, data handling, object oriented programming, pointers & references, polymorphism, and even some functional programming.",
+          "link": "https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/",
+          "order": "1",
+          "time_duration": "31",
+          "time_type": "hours"
+        },
+        {
+          "description": "How to rock the coding interview. This in-depth guide will teach you tips that helped one freeCodeCamp community member land multiple job offers from Google, Airbnb, and Dropbox.",
+          "link": "https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/",
+          "order": "2",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn iOS development by coding your own Netflix app. You'll use Swift 5 and UIkit to create a new Xcode project, customize the navigation bar, and access public APIs.",
+          "link": "https://www.freecodecamp.org/news/learn-ios-development-by-building-a-netflix-clone/",
+          "order": "3",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Tech Entrepreneurship 101. Chris Haroun created this course called \"Crucial Lessons They Don't Teach you in Business School.\" It's a collection of lessons like \"every battle is won before it has been fought\" and \"only the paranoid survive.\" If you are considering founding a startup or software development consultancy, this course is a sound place to start.",
+          "link": "https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/",
+          "order": "4",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "This guide will walk you through how to audit one of thousands of publicly available university courses. You can learn at your own pace without needing to enroll. It also includes tips for choosing among similar courses. It will help you take a structured, sustainable approach to self teaching.",
+          "link": "https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "C makes it easy to shoot yourself in the foot. C++ makes it harder. But when you do, it blows your whole leg off.",
+      "quote_author": "Bjarne Stroustrup, Creator of C++"
+    },
+    {
       "date": "February 11, 2022",
       "links": [
         {
