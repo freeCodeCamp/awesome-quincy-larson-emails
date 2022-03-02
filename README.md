@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
 
+### February 25, 2022
+1. Flutter is a popular open-source toolkit for coding cross-platform apps. You can then run these apps on Android, iOS, Windows, and Mac. freeCodeCamp uses Flutter to build our own Android app, rather than Android's usual Java code. And I have a lot of friends working at big tech companies who develop using it, too. This in-depth course for beginners will show you how to build your own app and publish it. (37 hour YouTube course): https://www.freecodecamp.org/news/learn-flutter-full-course/
+
+2. If you've ever wanted to learn how to use Linux as your operating system, this course is for you. It will walk you through the Linux tool ecosystem and help you install it on a computer. You'll gain an understanding of Linux's file structure, package manager, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/
+
+3. Learn NestJS by building your own bookmark API. This full stack JavaScript course will show you how to build a scalable back-end using NestJS, along with Postgres, Docker, Passport.js, and other popular tools. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/
+
+4. I hear from many developers who would like to work remotely. Some want to travel the world as a "digital nomad." Others just want to spend more of the day with their families. This tutorial will give you some of the pros and cons of working remotely, as well as share some tips for how to uncover remote development opportunities. (25 minute read): https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/
+
+5. And if you land a remote role, this guide will help you make the most of it. You'll learn techniques for separating work from your personal life – even when those share the same space. (12 minute read): https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/
+
+Quote of the Week: *"When I am working on a problem, I never think about beauty. I think only of how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong."* — Buckminister Fuller, Architect and Systems Theorist
+
 ### February 18, 2022
 1. Learn C++ for beginners. This course will show you how to install the C++ programming language and start writing and running your code. You'll learn concepts like control flow, data handling, object oriented programming, pointers & references, polymorphism, and even some functional programming. (31 hour YouTube course): https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/
 
