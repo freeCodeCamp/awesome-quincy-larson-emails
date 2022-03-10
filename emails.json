@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "March 4, 2022",
+      "links": [
+        {
+          "description": "One of the best ways to practice your coding skills is to build projects. In this course, Ania will walk you through building 7 retro video games, including Whac-a-Mole, Breakout, Frogger, and Space Invaders.",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-by-coding-7-games/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Jessica is an orchestral musician who played live on national television at last month's NFL award ceremony. She explores how she became a software developer by using freeCodeCamp.",
+          "link": "https://www.freecodecamp.org/news/how-i-went-from-a-classical-musician-to-software-developer-and-techinal-writer/",
+          "order": "2",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "GitLab is an open source Git repository tool. This DevOps course will show you how to use GitLab to build Continuous Integration Build Pipelines, and then deploy them to AWS.",
+          "link": "https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/",
+          "order": "3",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to build your own e-commerce store using WordPress and WooCommerce. This hands-on tutorial will guide you through the process of getting your own store live within just a few hours.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce/",
+          "order": "4",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Project Euler is a legendary collection of coding challenges first published in 2001. The freeCodeCamp community recently wrote tests for these challenges and made them solvable in JavaScript. And now you can solve them in Rust, too.",
+          "link": "https://www.freecodecamp.org/news/project-euler-problems-in-rust/",
+          "order": "5"
+        }
+      ],
+      "quote": "The pinnacle of game design craft is combining perfect mechanics and compelling fiction into one seamless system of meaning.",
+      "quote_author": "Tynan Sylvester, Developer and Indie Game Designer"
+    },
+    {
       "date": "February 25, 2022",
       "links": [
         {
