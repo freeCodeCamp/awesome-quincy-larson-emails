@@ -1,6 +1,90 @@
 {
   "emails": [
     {
+      "date": "March 18, 2022",
+      "links": [
+        {
+          "description": "This beginner course will teach you the three most widely-used web development tools: HTML, CSS, and JavaScript. You'll code your own portfolio, which you can use to show off your future websites to potential clients and employers.",
+          "link": "https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "This Debugging Handbook will show you how to get into a debugging mindset and use a variety of problem-solving tools. You'll learn SOLID principles, how to write DRY code, and how to use both the Chrome and Visual Studio Code debugger tools.",
+          "link": "https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/",
+          "order": "2",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you really, really want to delete a file, you can use Linux's powerful shred command. In this quick tutorial, Zaira will show you how to not only remove a file, but also overwrite that sector of the hard drive several times so it becomes practically unrecoverable.",
+          "link": "https://www.freecodecamp.org/news/securely-erasing-a-disk-and-file-using-linux-command-shred/",
+          "order": "3",
+          "time_duration": "7",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you're interested in learning 3D animation, this OpenGL course will show you how to help your characters move fluidly. You'll \"rig\" your characters by placing virtual bones inside of them, then animate them at the skeleton level.",
+          "link": "https://www.freecodecamp.org/news/advanced-opengl-animation-technique-skeletal-animations/",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp just published a massive React course in Spanish. (We've also published several React courses in English, too). If you have Spanish-speaking friends who want to learn programming, please tell them that we now have in-depth courses on a broad range of coding topics. These are all taught in Spanish by Estefania, an experienced teacher and software engineer.",
+          "link": "https://www.freecodecamp.org/news/learn-react-in-spanish-course-for-beginners/",
+          "order": "5",
+          "time_duration": "8",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "When debugging, novices insert corrective code. Experts remove defective code.",
+      "quote_author": "Richard Pattis, computer science professor at the University of California, Irvine"
+    },
+    {
+      "date": "March 11, 2022",
+      "links": [
+        {
+          "description": "People often ask me where to start their coding journey. I tell them that HTML is the most concrete starting point, because you can see the results of your code changes right on the webpage. And this week freeCodeCamp published a new HTML course that will introduce you to elements, semantic tags, tables, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-html-beginners-course/",
+          "order": "1",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're learning DevOps and Cloud Engineering, freeCodeCamp just published a comprehensive Kubernetes course. This course will prepare you to earn the Cloud Native Associate certification, opening up lots of career opportunities.",
+          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course",
+          "order": "2",
+          "time_duration": "14",
+          "time_type": "hours"
+        },
+        {
+          "description": "Vim is a powerful text editor that comes built-in with most operating systems, including Linux and MacOS. Vim allows you to do almost anything with just a few keystrokes. It takes a few hours to learn the basics -- and years to become proficient -- but this course from a die-hard Vim enthusiast will give you a solid foundation.",
+          "link": "https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/",
+          "order": "3",
+          "time_duration": "75",
+          "time_type": "minutes"
+        },
+        {
+          "description": "One of the key concepts that underpins most modern websites is State. By tracking a website's State, you can understand what your visitors have done -- whether that's toggling a night mode switch or adding an item to their shopping cart. State is a particularly important concept in JavaScript and React. This primer will help you understand State and leverage it with your own web development.",
+          "link": "https://www.freecodecamp.org/news/react-state/",
+          "order": "4",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "A developer explores his 4-year journey toward publishing his first adventure game. After experimenting with both Java Playn and WebGL, he switched to Unity 2D. In this article, he shares his thoughts on various gamedev tools, and his evolving game design philosophy.",
+          "link": "https://www.freecodecamp.org/news/how-i-developed-my-first-game/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "I'm old-fashioned. I like my CSS seperated from my HTML; my HTML seperated from my JS; my JS separated from my CSS. I like my JS layer only added when I need it, usually progressively. CSS added progressively on top of semantic markup. I don't fight the C in CSS, I embrace it.",
+      "quote_author": "Sara Soueidan, Software Engineer and Accessibility Advocate"
+    },
+    {
       "date": "March 4, 2022",
       "links": [
         {
