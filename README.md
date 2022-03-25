@@ -14,11 +14,7 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 5. If you are a freelance developer in the US, this course will help you understand taxes. You'll learn some efficient ways to structure your business, and how to maximize your deductions. (1 hour YouTube course): https://www.freecodecamp.org/news/taxes-for-freelance-developers/
 
-Also, today is the 6-year anniversary of my "links worth your time" email. That's right. I have now sent nearly 300 of these. About 5 million people in the freeCodeCamp community have asked to receive this each week. I take this responsibility seriously. It is an honor to share these learning resources with you.
-
-:clap: a special mention of this archive in today's email from Quincy Larson
-
-You can browse the full archive on this open source repository: https://github.com/sourabh-joshi/awesome-quincy-larson-emails
+Quote of the Week: “I'm a core developer and security engineer of the second most popular programming language in the world. I wrote and maintain code that protects and encrypts petabytes of data each month. I don't have an engineering degree.” — Christian Heimes, Core Developer of Python
 
 
 ### March 18, 2022
