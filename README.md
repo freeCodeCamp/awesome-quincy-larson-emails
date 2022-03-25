@@ -1,7 +1,7 @@
 # Awesome *Quincy Larson* Email Archive
 This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
 
-**If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
+**If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
 ### March 18, 2022
 1. This beginner course will teach you the three most widely-used web development tools: HTML, CSS, and JavaScript. You'll code your own portfolio, which you can use to show off your future websites to potential clients and employers. (3 hour YouTube course): https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/
