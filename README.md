@@ -1,7 +1,7 @@
 # Awesome *Quincy Larson* Email Archive
 This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
 
-**If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
+**If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
 ### March 25, 2022
 1. If you're new to coding, Python is a beginner-friendly language to start with. This course will teach you how to install Python and build your first projects. You'll learn about data structures, loops, control flow, and even a bit about virtual environments. (3 hour YouTube course): https://www.freecodecamp.org/news/free-python-crash-course/
