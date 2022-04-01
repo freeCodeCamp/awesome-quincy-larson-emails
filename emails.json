@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "March 25, 2022",
+      "links": [
+        {
+          "description": "If you're new to coding, Python is a beginner-friendly language to start with. This course will teach you how to install Python and build your first projects. You'll learn about data structures, loops, control flow, and even a bit about virtual environments.",
+          "link": "https://www.freecodecamp.org/news/free-python-crash-course/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Visual Studio Code is an open source code editor that most of the freeCodeCamp team uses. One of its coolest features is extensions. They can save you a ton of time when you're coding. This course will show how to make use of 10 popular extensions, including GitLens, Prettier, Docker, and ESLint.",
+          "link": "https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/",
+          "order": "2",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Linux (and Unix-based operating systems like MacOS) have powerful built-in file search functionality. But like many command line tools, it can be tricky to use. This tutorial will show you how to easily find files right from your terminal. This is extra handy when you're managing remote servers.",
+          "link": "https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/",
+          "order": "3",
+          "time_duration": "8",
+          "time_type": "minutes"
+        },
+        {
+          "description": "In this intermediate Python FastAPI course, you'll code your own microservice. You'll use React on the frontend, and dispatch events using Redis Streams.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/",
+          "order": "4",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you are a freelance developer in the US, this course will help you understand taxes. You'll learn some efficient ways to structure your business, and how to maximize your deductions.",
+          "link": "https://www.freecodecamp.org/news/taxes-for-freelance-developers/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ]
+    },
+    {
       "date": "March 18, 2022",
       "links": [
         {

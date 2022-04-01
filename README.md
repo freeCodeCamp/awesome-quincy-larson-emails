@@ -1,7 +1,7 @@
 # Awesome *Quincy Larson* Email Archive
 This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
 
-**If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org**
+**If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
 ### April 1, 2022
 1. Go is a lightning-fast programming language used by Google, Apple, Twitch, and other companies that have lots of concurrent users. In this beginner Go course, you'll learn the fundamentals by building 11 different projects: a web server, a chat bot, an API, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
