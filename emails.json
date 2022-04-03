@@ -1,7 +1,6 @@
 {
   "emails": [
     {
-      "bonus": "> Quote of the Week: \"One of the reasons I enjoy working with Go is that I can mostly hold the spec in my head. And when I do misremember parts, it's a few seconds' work to correct myself. It's quite possibly the only non-trivial language I've worked with where this is the case.\" - Eleanor McHugh, a software engineer who's worked on avionics and satellite communication",
       "date": "April 1, 2022",
       "links": [
         {
@@ -37,7 +36,9 @@
           "time_duration": "10",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "One of the reasons I enjoy working with Go is that I can mostly hold the spec in my head. And when I do misremember parts, it's a few seconds' work to correct myself. It's quite possibly the only non-trivial language I've worked with where this is the case.",
+      "quote_author": "Eleanor McHugh, a software engineer who's worked on avionics and satellite communication"
     },
     {
       "date": "March 25, 2022",
