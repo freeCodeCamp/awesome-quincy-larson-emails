@@ -14,7 +14,7 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 5. One of Git's most powerful tools is its "git diff" command. It lists the differences between two files, commits, or git branches. This tutorial will show you some of the ways you can use git diff, and how to make sense of the command's output. (10 minute read): https://www.freecodecamp.org/news/git-diff-command/
 
-> Quote of the Week: “One of the reasons I enjoy working with Go is that I can mostly hold the spec in my head. And when I do misremember parts, it’s a few seconds' work to correct myself. It’s quite possibly the only non-trivial language I’ve worked with where this is the case.” — Eleanor McHugh, a software engineer who's worked on avionics and satellite communication
+Quote of the Week: *"One of the reasons I enjoy working with Go is that I can mostly hold the spec in my head. And when I do misremember parts, it’s a few seconds' work to correct myself. It’s quite possibly the only non-trivial language I’ve worked with where this is the case."* — Eleanor McHugh, a software engineer who's worked on avionics and satellite communication
 
 
 ### March 25, 2022
