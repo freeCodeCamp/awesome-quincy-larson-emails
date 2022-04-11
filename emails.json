@@ -1,6 +1,45 @@
 {
   "emails": [
     {
+      "bonus": "Fact of the Week: During the production of the movie Toy Story 2, an unnamed Pixar employee was doing some routine data cleanup. They wanted to delete some of their files. So they typed this into their command line: bin/rm -r -f \\*. But they didn't realize that they were running the command inside the server's root folder. Animators knew something was wrong when the files they were working on started vanishing. They rushed over and unplugged the computer. But it was too late. 90% of the Toy Story 2's files had been deleted. The team was going to have to completely restart the $100,000,000 project. Luckily, one of their animators was working from home after having a baby. She had a 2-week old backup of the data sitting on her desk. After she carefully drove her computer to the office, they were able to restore the database.",
+      "date": "April 8, 2022",
+      "links": [
+        {
+          "description": "Linux and Unix-based operating systems like MacOS have powerful command line interfaces. This handbook for beginners will show you how to open up your terminal, run some common Git commands, and even write your first shell script.",
+          "link": "https://www.freecodecamp.org/news/command-line-for-beginners/",
+          "order": "1",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "GitPod is an open source Cloud Developer Environment. With it, you can write and execute code on remote servers -- right from the comfort of your browser. This makes it easier to collaborate with friends on coding projects, or to test out other people's code before merging it into your codebase. Andrew Brown created this in-depth course on how to use GitPod, and how you can earn a GitPod certification.",
+          "link": "https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/",
+          "order": "2",
+          "time_duration": "12",
+          "time_type": "hours"
+        },
+        {
+          "description": "As I type this, there are more than 28,000 job openings seeking a \"Full-Stack Developer\". But what exactly is full-stack development? In this guide, Dionysia will explain some core concepts. And she'll give you some tips for learning key skills to land the job.",
+          "link": "https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/",
+          "order": "3",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Figma is a popular design tool for planning out apps and their functionality -- all before you embark on the lengthy process of coding them. This intermediate design course -- taught by an experienced UX Designer -- will show you how to use one of Figma's key features: Variants. Variants will help you streamline your design process and group related components in a single container.",
+          "link": "https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/",
+          "order": "4",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Break The Code 2.0 is a new browser game that sends you back in time to the year 1999. You complete codebreaking missions using your programming knowledge and your puzzle-solving intuition. In addition to cracking the game's many ciphers, you can explore the Windows 98-inspired game environment. It includes a lot of nostalgia-inducing Easter eggs.",
+          "link": "https://www.freecodecamp.org/news/break-the-code-2-game/",
+          "order": "5"
+        }
+      ]
+    },
+    {
       "date": "April 1, 2022",
       "links": [
         {
