@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### April 8, 2022
+1. Linux and Unix-based operating systems like MacOS have powerful command line interfaces. This handbook for beginners will show you how to open up your terminal, run some common Git commands, and even write your first shell script. (40 minute read): https://www.freecodecamp.org/news/command-line-for-beginners/
+
+2. GitPod is an open source Cloud Developer Environment. With it, you can write and execute code on remote servers – right from the comfort of your browser. This makes it easier to collaborate with friends on coding projects, or to test out other people's code before merging it into your codebase. Andrew Brown created this in-depth course on how to use GitPod, and how you can earn a GitPod certification. (12 hour YouTube course) https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/
+
+3. As I type this, there are more than 28,000 job openings seeking a "Full-Stack Developer". But what exactly is full-stack development? In this guide, Dionysia will explain some core concepts. And she'll give you some tips for learning key skills to land the job. (25 minute read): https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/
+
+4. Figma is a popular design tool for planning out apps and their functionality – all before you embark on the lengthy process of coding them. This intermediate design course – taught by an experienced UX Designer – will show you how to use one of Figma's key features: Variants. Variants will help you streamline your design process and group related components in a single container. (5 hour YouTube course): https://www.freecodecamp.org/news/design-a-scalable-mobile-app-with-figma-variants/
+
+5. Break The Code 2.0 is a new browser game that sends you back in time to the year 1999. You complete codebreaking missions using your programming knowledge and your puzzle-solving intuition. In addition to cracking the game's many ciphers, you can explore the Windows 98-inspired game environment. It includes a lot of nostalgia-inducing Easter eggs. (Interactive coding game): https://www.freecodecamp.org/news/break-the-code-2-game/
+
+Fact of the Week: During the production of the movie Toy Story 2, an unnamed Pixar employee was doing some routine data cleanup. They wanted to delete some of their files. So they typed this into their command line: bin/rm -r -f \*. But they didn't realize that they were running the command inside the server's root folder. Animators knew something was wrong when the files they were working on started vanishing. They rushed over and unplugged the computer. But it was too late. 90% of the Toy Story 2's files had been deleted. The team was going to have to completely restart the $100,000,000 project. Luckily, one of their animators was working from home after having a baby. She had a 2-week old backup of the data sitting on her desk. After she carefully drove her computer to the office, they were able to restore the database.
+
 ### April 1, 2022
 1. Go is a lightning-fast programming language used by Google, Apple, Twitch, and other companies that have lots of concurrent users. In this beginner Go course, you'll learn the fundamentals by building 11 different projects: a web server, a chat bot, an API, and more. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
 
@@ -16,7 +29,6 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 Quote of the Week: *"One of the reasons I enjoy working with Go is that I can mostly hold the spec in my head. And when I do misremember parts, it’s a few seconds' work to correct myself. It’s quite possibly the only non-trivial language I’ve worked with where this is the case."* — Eleanor McHugh, a software engineer who's worked on avionics and satellite communication
 
-
 ### March 25, 2022
 1. If you're new to coding, Python is a beginner-friendly language to start with. This course will teach you how to install Python and build your first projects. You'll learn about data structures, loops, control flow, and even a bit about virtual environments. (3 hour YouTube course): https://www.freecodecamp.org/news/free-python-crash-course/
 
@@ -29,7 +41,6 @@ Quote of the Week: *"One of the reasons I enjoy working with Go is that I can mo
 5. If you are a freelance developer in the US, this course will help you understand taxes. You'll learn some efficient ways to structure your business, and how to maximize your deductions. (1 hour YouTube course): https://www.freecodecamp.org/news/taxes-for-freelance-developers/
 
 Quote of the Week: “I'm a core developer and security engineer of the second most popular programming language in the world. I wrote and maintain code that protects and encrypts petabytes of data each month. I don't have an engineering degree.” — Christian Heimes, Core Developer of Python
-
 
 ### March 18, 2022
 1. This beginner course will teach you the three most widely-used web development tools: HTML, CSS, and JavaScript. You'll code your own portfolio, which you can use to show off your future websites to potential clients and employers. (3 hour YouTube course): https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/
