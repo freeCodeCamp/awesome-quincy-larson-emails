@@ -3,6 +3,20 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### April 15, 2022
+1. There are three big desktop operating systems: Linux, MacOS, and Windows. And this handbook will help you appreciate their relative strengths and weaknesses. You'll also learn about their histories, and key features like file systems and package managers. (full handbook): https://www.freecodecamp.org/news/an-introduction-to-operating-systems/
+
+2. Terraform is an open source Infrastructure-as-Code tool. It helps you write code that will spin up cloud servers and other cloud services. This saves you the hassle of manually configuring them each time you want to deploy. This course will teach you how to use Terraform and AWS to build your own development environment. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/
+
+3. Low-code tools make it easier to develop applications without needing to write as much custom code. These are helpful for non-technical managers, and also for developers in a hurry. In this course, you'll use low-code tools along with Google Sheets and some APIs to build your own customer support dashboard. (2 hour YouTube course): https://www.freecodecamp.org/news/low-code-for-freelance-developers-startups/
+
+4. TypeScript is a popular statically-typed version of JavaScript. And GraphQL is a lightning fast API query language. What do you get when you mix them together? TypeGraphQL. This tutorial will give you a quick introduction to these tools, so you can consider incorporating them into your next big project. (15 minute read): https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/
+
+5. Did you know that Windows, Linux, and MacOS are all at least partially written in C++? So is Chrome. This programming language first appeared nearly 4 decades ago. But it's just as relevant today as ever. If you want to code embedded systems, develop video games, or do anything that requires high performance, C++ is a good language to know. And this tutorial will cover some basics and give you a roadmap to learning more. (30 minute read): https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/
+
+Quote of the Week: *"If you think it's simple, then you have misunderstood the problem."* — Bjarne Stroustrup, Creator of C++. I think this quote can be applied to most of the world's problems.
+
+
 ### April 8, 2022
 1. Linux and Unix-based operating systems like MacOS have powerful command line interfaces. This handbook for beginners will show you how to open up your terminal, run some common Git commands, and even write your first shell script. (40 minute read): https://www.freecodecamp.org/news/command-line-for-beginners/
 
