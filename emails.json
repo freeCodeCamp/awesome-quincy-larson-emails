@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "April 15, 2022",
+      "links": [
+        {
+          "description": "There are three big desktop operating systems: Linux, MacOS, and Windows. And this handbook will help you appreciate their relative strengths and weaknesses. You'll also learn about their histories, and key features like file systems and package managers.",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-operating-systems/",
+          "order": "1"
+        },
+        {
+          "description": "Terraform is an open source Infrastructure-as-Code tool. It helps you write code that will spin up cloud servers and other cloud services. This saves you the hassle of manually configuring them each time you want to deploy. This course will teach you how to use Terraform and AWS to build your own development environment.",
+          "link": "https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Low-code tools make it easier to develop applications without needing to write as much custom code. These are helpful for non-technical managers, and also for developers in a hurry. In this course, you'll use low-code tools along with Google Sheets and some APIs to build your own customer support dashboard.",
+          "link": "https://www.freecodecamp.org/news/low-code-for-freelance-developers-startups/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "TypeScript is a popular statically-typed version of JavaScript. And GraphQL is a lightning fast API query language. What do you get when you mix them together? TypeGraphQL. This tutorial will give you a quick introduction to these tools, so you can consider incorporating them into your next big project.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/",
+          "order": "4",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Did you know that Windows, Linux, and MacOS are all at least partially written in C++? So is Chrome. This programming language first appeared nearly 4 decades ago. But it's just as relevant today as ever. If you want to code embedded systems, develop video games, or do anything that requires high performance, C++ is a good language to know. And this tutorial will cover some basics and give you a roadmap to learning more.",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/",
+          "order": "5",
+          "time_duration": "30",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "If you think it's simple, then you have misunderstood the problem.",
+      "quote_author": "Bjarne Stroustrup, Creator of C++. I think this quote can be applied to most of the world's problems."
+    },
+    {
       "bonus": "Fact of the Week: During the production of the movie Toy Story 2, an unnamed Pixar employee was doing some routine data cleanup. They wanted to delete some of their files. So they typed this into their command line: bin/rm -r -f \\*. But they didn't realize that they were running the command inside the server's root folder. Animators knew something was wrong when the files they were working on started vanishing. They rushed over and unplugged the computer. But it was too late. 90% of the Toy Story 2's files had been deleted. The team was going to have to completely restart the $100,000,000 project. Luckily, one of their animators was working from home after having a baby. She had a 2-week old backup of the data sitting on her desk. After she carefully drove her computer to the office, they were able to restore the database.",
       "date": "April 8, 2022",
       "links": [
