@@ -3,6 +3,34 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### April 29, 2022
+1. If you want to code “close to the metal” and write extremely efficient assembly code that runs directly on device hardware – this is the course for you. You'll get a solid introduction to ARM emulation and program structure. You'll also learn how to use registers, stacks, logical operators, branches, subroutines, and memory addressing modes. (2.5 hour YouTube course): https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/
+
+2. And here's another full-length course that the freeCodeCamp community published this week. It will teach you Python machine learning for beginners. You'll learn about Reinforcement Learning by training an AI to play the game Snake. (2 hour YouTube course): https://www.freecodecamp.org/news/train-an-ai-to-play-a-snake-game-using-python/
+
+3. Last week I shared a tutorial that explained how Linux and MacOS file permissions work. This week we're going deeper down the rabbit hole to teach you about CHOWN and CHMOD. No, these are not types of foreign cuisine. They are helpful tools you can use right in your command line to control who can access or modify a file. (10 minute read + interactive quiz): https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/
+
+4. You may have heard of the Fibonacci Sequence in math class. It's a series of numbers used in the Golden Ratio – most famously by Leonardo Divinci when painting the Mona Lisa. This tutorial will explain how the Fibonacci Sequence works, and how you can write a Python program that will print any number of digits from the sequence. (15 minute read): https://www.freecodecamp.org/news/python-program-to-print-the-fibonacci-sequence/
+
+5. Memoization is a common technique to speed up your applications. Instead of re-running calculations over and over again, you can store the results in cache. Then your code can retrieve that value the next time it needs it. This tutorial will show you some practical JavaScript memoization examples to help you grok this concept. (15 minute read): https://www.freecodecamp.org/news/memoization-in-javascript-and-react/
+
+Quote of the Week: *"Ugly programs are like ugly suspension bridges: they're much more liable to collapse than pretty ones, because the way humans (especially engineer-humans) perceive beauty is intimately related to our ability to process and understand complexity. A language that makes it hard to write elegant code makes it hard to write good code."* – Eric S. Raymond, author of the pioneering open source essay, “The Cathedral and the Bazaar”
+
+
+### April 22, 2022
+1. Learn Python object-oriented programming by coding your own playable version of the classic Windows Minesweeper game. You'll code the graphics, gameplay, and even the algorithm that determines where the mines go. (3 hour YouTube course): https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/
+
+2. You may have heard the term "Rubber Duck Debugging" before. This is a simple way you can debug problems in your code, and solve them yourself. This brief article will give you the history behind Rubber Duck Debugging, and some tips for using it when you code. (6 minute read): https://www.freecodecamp.org/news/rubber-duck-debugging/
+
+3. Redux is a popular open source tool for managing JavaScript state. And the team behind it created the Redux Toolkit to make it easier to follow Redux best practices. In this course, long-time freeCodeCamp contributor John Smilga will teach you about Setup Store, createAsyncThunk, and other key concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/
+
+4. If you've used Linux before, you may have discovered how security-focused it is by default. This guide will walk you through Linux file permissions, file ownership, superusers, and explain what on earth drwxrwx--- means. (6 minute read): https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/
+
+5. If you want to code your own blog instead of using common tools like WordPress or Ghost, this tutorial will show you how. You'll use React along with other open source JavaScript tools like Next.js and MDX. (30 minute read) https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/
+
+Quote of the Week: *"A very simple but particularly useful technique for finding the cause of a problem is simply to explain it to someone else. The other person should look over your shoulder at the screen, and nod his or her head constantly (like a rubber duck bobbing up and down in a bathtub)."* — Andrew Hunt and David Thomas, authors of the 1999 book The Pragmatic Programmer
+
+
 ### April 15, 2022
 1. There are three big desktop operating systems: Linux, MacOS, and Windows. And this handbook will help you appreciate their relative strengths and weaknesses. You'll also learn about their histories, and key features like file systems and package managers. (full handbook): https://www.freecodecamp.org/news/an-introduction-to-operating-systems/
 
