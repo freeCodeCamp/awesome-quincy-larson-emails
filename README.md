@@ -3,6 +3,34 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### May 13, 2022
+1. Learn how to create a neural network using JavaScript. No libraries necessary. You'll code your own self-driving car simulation and implement every component step-by-step. You'll learn how to implement the car driving mechanics, define the environment, and detect collisions. (3 hour YouTube course): https://www.freecodecamp.org/news/self-driving-car-javascript
+
+2. Django is a powerful Python web development framework. And this course will show you how to code your own social network app using it. Your users will be able to create posts, like each others' posts, and follow one another. You'll even learn how to add a search engine and algorithmic recommendations. (5 hour YouTube course): https://www.freecodecamp.org/news/create-a-social-media-app-with-django
+
+3. The JavaScript Module Handbook. If you are doing full stack JavaScript development, this book is in my humble opinion a must-bookmark. It has tons of code examples for how to import ES6 modules with Node.js, and how to bundle them using Webpack. (full-length book): https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/
+
+4. And the freeCodeCamp community is giving away another full length book, too. "Technology Trends in 2022" will help you keep up with key developments in security, privacy, and cloud development. Author and prolific freeCodeCamp contributor David Clinton wrote this book with managers in mind. And it should be helpful regardless of your skill level. (full-length book): https://www.freecodecamp.org/news/technology-trends-in-2022-keeping-up-full-book-for-managers/
+
+5. How to code your own Google Docs clone. This intermediate tutorial will give you a grand tour of React, Material UI, and Firebase, and how to use them in concert. You'll build a realtime collaborative editor. (30 minute read): https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase/
+
+Quote of the Week: *"With the rise of self-driving vehicles, it's only a matter of time before we get a country song where a guy's truck leaves him, too."* — Reddit user NormanRB
+
+
+### May 6, 2022
+1. This handbook will teach you Python for beginners through a series of helpful code examples. You'll learn basic data structures, loops, and if-then logic. It also includes plenty of project-oriented learning resources you can use to dive even deeper. (full handbook): https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/
+
+2. freeCodeCamp just published this course to help you pass the Google Associate Cloud Engineer certification exam. If you want to work as a DevOps or a SysAdmin, this cert may be worth your time. You'll learn Cloud Engineering fundamentals, Virtual Private Cloud concepts, networking, Kubernetes, and High Availability Computing. (20 hour YouTube course): https://www.freecodecamp.org/news/google-cloud-digital-leader-certification-study-course-pass-the-exam-with-this-free-20-hour-course/
+
+3. React Router 6 just came out a few months ago, and freeCodeCamp has already published an in-depth web development course teaching you how to use it. You'll learn about Page Components, Nested Routes, NavLink Components, and more. (90 minute YouTube course): https://www.freecodecamp.org/news/learn-react-router-6/
+
+4. Learn REST API design best practices. This comprehensive tutorial will teach you how to use JavaScript, Node.js, and Express.js to build your own Workout-of-the-Day app. You'll learn about 3-Layer Architecture, HTTP error codes, pagination, and how to format a JSON response. (2 hour read): https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
+
+5. Professor Kelleher has been teaching Data Visualization for over a decade at MIT and other universities. He's an expert in the popular D3.js JavaScript library. freeCodeCamp just published the latest version of his in-depth data viz course. He'll teach you how to use rendering logic, data transformation, and dynamic charts through a variety of projects you can code along with from home. (20 hour YouTube course): https://www.freecodecamp.org/news/data-visualizatoin-with-d3/
+
+Quote of the Week: *"Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered."* — Guido van Rossum, Creator of the Python programming language
+
+
 ### April 29, 2022
 1. If you want to code “close to the metal” and write extremely efficient assembly code that runs directly on device hardware – this is the course for you. You'll get a solid introduction to ARM emulation and program structure. You'll also learn how to use registers, stacks, logical operators, branches, subroutines, and memory addressing modes. (2.5 hour YouTube course): https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/
 
@@ -3284,48 +3312,4 @@ Bonus: Our forum for discussing all programming resources - books, videos, onlin
 ### May 6, 2016
 1. More than 15,000 people responded to the 2016 New Coder Survey. Find out who they are and how they’re learning to code (5 minute read): http://bit.ly/1NYpcD8
 
-2. A single Brazilian judge shut down WhatsApp, the country’s most popular communication tool, for 24 hours. Read about the legal drama and its global privacy implications (5 minute read): http://bit.ly/24t0anh
-
-3. Hackers stole $81 million from World Bank this week. Learn the history of electronic bank robbery, and how vulnerable our finaicial systems are (7 minute read): http://nyti.ms/1SQlN60
-
-Bonus: Join us on Saturday at Noon EDT for freeCodeCamp’s interactive live stream. We’ll share some exciting improvements — and answer your many questions — on our YouTube channel (you can subscribe for notifications): http://bit.ly/1QSEhkj
-
-### April 29, 2016
-1. Adrian destroys any concerns you may have about becoming an older developer (19 minute read): http://bit.ly/1qWJy53
-
-2. Collin spent last winter in a showerless, stove-heated cabin in Northern Utah. But he was able to complete freeCodeCamp’s Front End Development certification in record time (6 minute read): http://bit.ly/1UiImF9
-
-3. Silicon Valley — everyone’s favorite TV show about data compression — is back for a new season. Let’s learn how JPG image files are able to save so much space. There’s no “middle-out” here — just clever mathematics (10 minute read): http://bit.ly/1NC4skz
-
-Bonus: Check out this Rube Goldberg machine (silly chain reaction) made entirely out of HTML form elements (1 minute to watch): http://bit.ly/23a59Dx
-
-### April 19, 2016
-1. O’Reilly just published the results of their salary survey of 5,000 developers. Here are the highlights (3 minute read): http://bit.ly/1qVhvU6
-
-2. Kobe Bryant played his final game of professional basketball this week. The Los Angeles Times used Leaflet.js to build an interactive data visualization of all 30,699 shots he took over his 20 year career: http://bit.ly/1YEcrOk
-
-3. Building a website? Here’s are 101 concise tips to make it an awesome one (10 minute read): http://bit.ly/1Wc80v6
-
-### April 13, 2016
-1. The downside of the Internet of Things is that companies can turn the appliances you depend on into useless bricks, warns the Electronic Frontier Foundation (4 minute article): http://bit.ly/1qHatSE
-
-2. You may have heard of artificial neural networks, which use a series of interconnected “neurons.” These neuron’s connections to one another strengthen and weaken in response to data, as part of a “learning” algorithm. But hey, enough explaining. You can now experiment with neural networks right here in your browser: http://bit.ly/1SM2VVh
-
-3. Last year, programmer and journalist Paul Ford wrote an 30,000 word interactive essay called “What is Code” (http://bloom.bg/23tbUWe). This week, CodeNewbie interviewed him about his essay and what drew him to programming (1 hour podcast): http://bit.ly/25YSmrI
-
-Bonus: Today’s the final day to pick up a dapper black freeCodeCamp t-shirt for yourself and a loved one. We have fitted women’s sizes, too: http://bit.ly/1RYcaal (If you’re in the EU, use this link: http://bit.ly/236lXQT)
-
-### March 30, 2016
-1. Last week, a developer “broke the internet” when he unpublished his open source modules from npm. Read how another developer immediately stepped in and prevented a potential security disaster related to this: http://bit.ly/1qf5WGN
-
-2. Moore’s law, which held that computer power would double every two years at the same cost, is coming to an end: http://econ.st/1pIhodw
-
-3. The Gitter team talks about their real time chat app, and how they can accommodate freeCodeCamp’s massive community on this one-hour podcast: http://bit.ly/25uE2qt
-
-### March 22, 2016
-1. Learn about JavaScript’s complicated 20-year history, why its current ecosystem is so complicated, and how its tools are improving so rapidly: http://bit.ly/1pGyxFd
-
-2. If you flip a coin several times, the outcome of each flip is independent of the previous flip. But what about the weather? If it’s sunny today, tomorrow is more likely to be sunny than rainy. So how do we determine probabilities where each outcome is dependent on the previous outcome? With Markov Chains. Learn how these work in a fun, interactive way: http://bit.ly/1RbVABy
-
-3. Jeff Atwood, one of the creators of Stack Overflow, discusses his new open source project Discourse, JavaScript, and “hybrid cloud” web hosting on this one-hour podcast: http://bit.ly/1MytPOa
-
+2. A single 
