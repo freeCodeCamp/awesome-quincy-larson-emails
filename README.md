@@ -3,6 +3,47 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### June 3, 2022
+1. Learn how to code your own cloud deployment platform. If you've heard of Heroku before, that's essentially what you'll be building your own version of. This DevOps course will show you how to use the Flask Python framework – along with cloud engineering concepts and a tool called Pulumi – to get your cloud live. (80 minute YouTube course): https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/
+
+2. Learn how to work with files in Python like a pro. This in-depth tutorial will walk you through how to load files into Python's main memory and create file handles. You'll then use these file handles to open files and read them or write to them. You'll also learn about Python Exception Handling when working with files. (15 minute read): https://www.freecodecamp.org/news/how-to-read-files-in-python/
+
+3. Learn to code your own Chrome browser extension. In this JavaScript-focused course, you'll build your own YouTube timestamp bookmark extension. You'll also use Google's new Manifest V3 web extensions platform. (1 hour YouTube course): https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/
+
+4. CSS Grid is built into CSS, and helps you create responsive website layouts. It's a 2-dimensional grid that can dramatically simplify your web design process. This tutorial will teach you how to use CSS Grid through a series of examples. It will really help you solidify your understanding of the key concepts. (12 minute read): https://www.freecodecamp.org/news/how-to-use-css-grid-layout/
+
+5. Gradio is an open source Python tool for building machine learning web apps. This tutorial will show you how you can take a machine learning model and deploy it to the web so you can debug it and demo it to your friends. (10 minute read): https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/
+
+Quote of the Week: *"Programming is not a zero-sum game. Teaching something to a fellow programmer doesn’t take it away from you."* – John Carmack, co-founder of id Software, and lead developer of DOOM and Quake
+
+
+### May 27, 2022
+1. This week I'm sharing 5 new JavaScript learning resources. The first is a book on Intermediate TypeScript and React. TypeScript is a popular statically-typed version of JavaScript that many codebases are switching to, including freeCodeCamp's open source curriculum. You'll learn how to build strongly-typed polymorphic components for your React front end. (full-length book): https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/
+
+2. There are hundreds of open jobs for blockchain developers at companies like IBM, VMware, and Deloitte. And freeCodeCamp just published an in-depth JavaScript course taught by software engineer and finance industry veteran Patrick Collins. You'll learn key distributed ledger concepts, and even code your own smart contracts. (32 hour YouTube course): https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/
+
+3. freeCodeCamp also published a comprehensive course on how to test your React apps. You'll learn about testing frameworks like Happo.io, Cypress, and Jest. You'll also build and deploy your own fully-tested birthday reminder app. (2 hour YouTube course): https://www.freecodecamp.org/news/how-to-test-react-applications/
+
+4. Learn how Lexical Scope works in JavaScript. This guide for beginner JavaScript programmers will teach you about Tokenizing, Parsing, and Function Hoisting. You'll also get a feel for how JavaScript compiles and executes programs. (20 minute read): https://www.freecodecamp.org/news/lexical-scope-in-javascript/
+
+5. Anatomy of a JavaScript Framework. In this article, Fabio explores the very first commits on the Vue.js open source GitHub repository. He retraces legendary developer Evan You's first few lines of JavaScript that created the now-famous Mustache Syntax data binding. (15 minute read): https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/
+
+Quote of the Week: *"JavaScript’s global scope is like a public toilet. You can’t avoid going in there, but try to limit your contact with surfaces when you do."* ― Dmitry Baranovskiy, Australian developer and JavaScript artist
+
+
+### May 20, 2022
+1. Learn Python by coding your own playable drum machine. This course will teach you Object Oriented Programming basics, the popular Pygame library, and how to use audio files to generate sound. Your users will even be able to save the beats they create. (3 hour YouTube course): https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/
+
+2. This SQL course will teach you how to improve your database performance. It focuses on SQL Server, but much of it is applicable to Postgres and other SQL flavors. You'll learn how to build indexes, and how to identify bottlenecks using powerful diagnostic tools. (4 hour YouTube course): https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/
+
+3. Learn all about data structures: hash tables, stacks, graphs, linked lists, and more. This in-depth JavaScript tutorial will explain core concepts, including Big O Notation. You can code along at home, and implement these data structures yourself. It's a great way to add these to your developer skill toolbox. (40 minute read): https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/
+
+4. If you're just getting started with learning to code, you may be wondering whether you can get some sort of IT job in the meantime. This guide will walk you through some of the semi-technical fields you can work in while you continue the long process of becoming a full-blown software developer. (12 minute read): https://www.freecodecamp.org/news/entry-level-tech-job-guide/
+
+5. Over the years, I have maintained that any sufficiently motivated person can learn to code. This said, not everyone enjoys the process of writing software. If you're wondering whether software development is the right career for you, this guide from an experienced freelance developer may give you some helpful insight. (30 minute read): https://www.freecodecamp.org/news/should-i-be-a-developer-programmer/
+
+Quote of the Week: *"The Oberheim DMX [drum machine], released in 1981, featured separate voice boards for each sound, where the tuning would alter sample playback rate. Over the years, many people attributed a particular kind of ‘groove’ to the DMX. After much investigation, I discovered that this is just a by-product of the original factory bass drum sound containing a small amount of silence at the very start of the sample. This delay imparts a very ‘lazy’, dragging feel on any beat using the bass drum – and the lower the pitch the greater the drag."* — A fun fact from the music production-focused Attack Magazine
+
 ### May 13, 2022
 1. Learn how to create a neural network using JavaScript. No libraries necessary. You'll code your own self-driving car simulation and implement every component step-by-step. You'll learn how to implement the car driving mechanics, define the environment, and detect collisions. (3 hour YouTube course): https://www.freecodecamp.org/news/self-driving-car-javascript
 
