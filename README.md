@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### June 10, 2022
+1. Flutter is an open source framework for coding Android or iPhone apps. freeCodeCamp uses Flutter to code our own Android app as well. In this course, you will code your own clone of Amazon's Android app, and implement many of its key features. You'll learn how to use Node.js to code a web API. Then you'll use Flutter to build out routing, authentication, shopping cart functionality, deal-of-the-day, and more. (12 hour YouTube course): https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/
+
+2. If you are new to algorithms, this is handbook is a great place to start. It's chock-full of JavaScript algorithm code examples. And it explains key concepts like Time Complexity and Big O Notation. (full-length handbook): https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/
+
+3. Learn how to incorporate speech recognition into your Python apps. In this course, you'll build 5 Python projects: a YouTube video transcriber, a sentiment analysis tool, a podcast summarizer, and more. Along the way, you'll learn how to use PyAudio, Streamlit, OpenAI, and the AssemblyAI API. (2 hour YouTube course): https://www.freecodecamp.org/news/speech-recognition-in-python/
+
+4. Raspberry Pi is a small, inexpensive computer used by both hobbyists and serious developers. If you're thinking about getting one, this tutorial will show you how you can execute Rust programs on it. It will also show you how to code a simple Rust app: a morse code translator. (12 minute read): https://www.freecodecamp.org/news/embedded-rust-programming-on-raspberry-pi-zero-w/
+
+5. Learn how to manage a PostgreSQL database right from the command line using psql. If you're new to SQL, PostgreSQL is a solid open source database option. And we use it in freeCodeCamp's Relational Database Certification as well. (20 minute read): https://www.freecodecamp.org/news/manage-postgresql-with-psql/
+
+Quote of the Week: *"Every long-lived open source project I've ever been involved with has bugs on file from early on. And in every case I see people express surprise that there are bugs that have been open for years. Like, yes, that's how software development works when you're successful."* — Ian Hickson, Software Engineer and contributor to the Flutter open source codebase
+
 ### June 3, 2022
 1. Learn how to code your own cloud deployment platform. If you've heard of Heroku before, that's essentially what you'll be building your own version of. This DevOps course will show you how to use the Flask Python framework – along with cloud engineering concepts and a tool called Pulumi – to get your cloud live. (80 minute YouTube course): https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/
 
