@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "June 17, 2022",
+      "links": [
+        {
+          "description": "If you're interested in Data Science and Machine Learning, I recommend this new intermediate-level Python course taught by MIT grad student Kylie Ying. You can code along at home in your browser. You'll use TensorFlow to train Neural Networks, visualize a diabetes dataset, and perform Text Classification on wine reviews.",
+          "link": "https://www.freecodecamp.org/news/text-classification-tensorflow/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you're relatively new to Data Science, this tutorial will give you a gentle introduction to a lot of key Statistics concepts and terminology. This will make it easier for you to understand more advanced articles about Data Science, Machine Learning, and Scientific Computing in general.",
+          "link": "https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/",
+          "order": "2",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "What is CRUD? You may have heard the term \"CRUD app\" before to describe a website. It stands for Create, Read, Update, Delete -- the 4 essential operations you can do with data. These are what separate a modern website with \"dynamic\" functionality from the \"static\" websites pioneered in the 1990s. This short article will explain how these 4 operations power so many dynamic websites.",
+          "link": "https://www.freecodecamp.org/news/crud-operations-explained/",
+          "order": "3",
+          "time_duration": "6",
+          "time_type": "minutes"
+        },
+        {
+          "description": "How to solve the Parking Lot Challenge in JavaScript. You'll use Object-Oriented Programming to build a parking lot that you can fill with cars. Mihail originally created this for his 5 year old daughter to play, but you can learn from it too.",
+          "link": "https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/",
+          "order": "4",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "PDF files are great for certain types of documents. But they can be hard to work with as a developer. This tutorial will give you an overview of popular libraries for working with PDF files. Then it will show you how to extract pages from a PDF and render them using JavaScript.",
+          "link": "https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "The future depends on some graduate student who is deeply suspicious of everything I have said.",
+      "quote_author": "Geoffrey Hinton, Computer Science professor known as the \"Godfather of AI\""
+    },
+    {
       "date": "June 10, 2022",
       "links": [
         {
