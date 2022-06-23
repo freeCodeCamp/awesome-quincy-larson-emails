@@ -3,6 +3,20 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+
+### June 17, 2022
+1. If you're interested in Data Science and Machine Learning, I recommend this new intermediate-level Python course taught by MIT grad student Kylie Ying. You can code along at home in your browser. You'll use TensorFlow to train Neural Networks, visualize a diabetes dataset, and perform Text Classification on wine reviews. (2 hour YouTube course): https://www.freecodecamp.org/news/text-classification-tensorflow/
+
+2. And if you're relatively new to Data Science, this tutorial will give you a gentle introduction to a lot of key Statistics concepts and terminology. This will make it easier for you to understand more advanced articles about Data Science, Machine Learning, and Scientific Computing in general. (20 minute read): https://www.freecodecamp.org/news/top-statistics-concepts-to-know-before-getting-into-data-science/
+
+3. What is CRUD? You may have heard the term “CRUD app” before to describe a website. It stands for Create, Read, Update, Delete – the 4 essential operations you can do with data. These are what separate a modern website with “dynamic” functionality from the “static” websites pioneered in the 1990s. This short article will explain how these 4 operations power so many dynamic websites. (6 minute read): https://www.freecodecamp.org/news/crud-operations-explained/
+
+4. How to solve the Parking Lot Challenge in JavaScript. You'll use Object-Oriented Programming to build a parking lot that you can fill with cars. Mihail originally created this for his 5 year old daughter to play, but you can learn from it too. (12 minute read): https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/
+
+5. PDF files are great for certain types of documents. But they can be hard to work with as a developer. This tutorial will give you an overview of popular libraries for working with PDF files. Then it will show you how to extract pages from a PDF and render them using JavaScript. (20 minute read): https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/
+
+Quote of the Week: *“The future depends on some graduate student who is deeply suspicious of everything I have said.”* — Geoffrey Hinton, Computer Science professor known as the “Godfather of AI”
+
 ### June 10, 2022
 1. Flutter is an open source framework for coding Android or iPhone apps. freeCodeCamp uses Flutter to code our own Android app as well. In this course, you will code your own clone of Amazon's Android app, and implement many of its key features. You'll learn how to use Node.js to code a web API. Then you'll use Flutter to build out routing, authentication, shopping cart functionality, deal-of-the-day, and more. (12 hour YouTube course): https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/
 
