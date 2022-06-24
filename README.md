@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### June 24, 2022
+1. This Python course will teach you how to automate boring and repetitive tasks. You'll learn how to automate the process of extracting tables from websites, interacting with spreadsheets, sending text messages, and more. You'll pick up a variety of Python libraries, including Selenium, XPath, and crontab. (3 hour YouTube course): https://www.freecodecamp.org/news/automate-your-life-with-python/
+
+2. Learn JavaScript Design Patterns. These come up all the time in large codebases – and also in coding interviews. This tutorial will teach you classics like the Singleton Pattern, the Chain of Responsibility Pattern, and the Abstract Factory Pattern. Each comes with a detailed explanation and a code example. (30 minute read): https://www.freecodecamp.org/news/javascript-design-patterns-explained/
+
+3. One key concept that all web developers have to wrap their heads around is the Document Object Model, or DOM. It's a tree-like structure of HTML elements that makes up a webpage. This tutorial will walk you through how DOMs work in the browser, and how you can use them to build sophisticated web apps. (25 minute read): https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/
+
+4. React is a powerful JavaScript front end development library. But how do you link your React app to a back end? Through APIs. This in-depth tutorial will teach you how to use the useEffect() hook and the useState() hook. You'll learn the built-in JavaScript Fetch API, along with the Axios HTTP client. (20 minute read): https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/
+
+5. Visual Basic is one of the original Object Oriented Programming languages. It's most famously usable within Excel. There are a lot of openings for Visual Basic .NET developers, and this course can serve as a first step toward pursuing them. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/
+
+Quote of the Week: *"The great paradox of automation is that the desire to eliminate human labor always generates new tasks for humans."* — Mary L. Gray, Computer Science Professor and Automation Researcher
+
 
 ### June 17, 2022
 1. If you're interested in Data Science and Machine Learning, I recommend this new intermediate-level Python course taught by MIT grad student Kylie Ying. You can code along at home in your browser. You'll use TensorFlow to train Neural Networks, visualize a diabetes dataset, and perform Text Classification on wine reviews. (2 hour YouTube course): https://www.freecodecamp.org/news/text-classification-tensorflow/
@@ -16,6 +29,7 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 5. PDF files are great for certain types of documents. But they can be hard to work with as a developer. This tutorial will give you an overview of popular libraries for working with PDF files. Then it will show you how to extract pages from a PDF and render them using JavaScript. (20 minute read): https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/
 
 Quote of the Week: *“The future depends on some graduate student who is deeply suspicious of everything I have said.”* — Geoffrey Hinton, Computer Science professor known as the “Godfather of AI”
+
 
 ### June 10, 2022
 1. Flutter is an open source framework for coding Android or iPhone apps. freeCodeCamp uses Flutter to code our own Android app as well. In this course, you will code your own clone of Amazon's Android app, and implement many of its key features. You'll learn how to use Node.js to code a web API. Then you'll use Flutter to build out routing, authentication, shopping cart functionality, deal-of-the-day, and more. (12 hour YouTube course): https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/
