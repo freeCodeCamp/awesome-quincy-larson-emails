@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "June 24, 2022",
+      "links": [
+        {
+          "description": "This Python course will teach you how to automate boring and repetitive tasks. You'll learn how to automate the process of extracting tables from websites, interacting with spreadsheets, sending text messages, and more. You'll pick up a variety of Python libraries, including Selenium, XPath, and crontab.",
+          "link": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn JavaScript Design Patterns. These come up all the time in large codebases -- and also in coding interviews. This tutorial will teach you classics like the Singleton Pattern, the Chain of Responsibility Pattern, and the Abstract Factory Pattern. Each comes with a detailed explanation and a code example.",
+          "link": "https://www.freecodecamp.org/news/javascript-design-patterns-explained/",
+          "order": "2",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "One key concept that all web developers have to wrap their heads around is the Document Object Model, or DOM. It's a tree-like structure of HTML elements that makes up a webpage. This tutorial will walk you through how DOMs work in the browser, and how you can use them to build sophisticated web apps.",
+          "link": "https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/",
+          "order": "3",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "React is a powerful JavaScript front end development library. But how do you link your React app to a back end? Through APIs. This in-depth tutorial will teach you how to use the useEffect() hook and the useState() hook. You'll learn the built-in JavaScript Fetch API, along with the Axios HTTP client.",
+          "link": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Visual Basic is one of the original Object Oriented Programming languages. It's most famously usable within Excel. There are a lot of openings for Visual Basic .NET developers, and this course can serve as a first step toward pursuing them.",
+          "link": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
+          "order": "5",
+          "time_duration": "3",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "The great paradox of automation is that the desire to eliminate human labor always generates new tasks for humans.",
+      "quote_author": "Mary L. Gray, Computer Science Professor and Automation Researcher"
+    },
+    {
       "date": "June 17, 2022",
       "links": [
         {
