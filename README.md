@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### July 5, 2022
+1. Greedy Algorithms are a powerful approach to solving coding challenges. These work by always choosing the “locally optimal” solution at each stage of problem solving – regardless of the long-term consequences. For example, let's say I'm hiking in the mountains, and my goal is to reach as high an elevation as possible. I take the quick-and-dirty Greedy Algorithm approach of always hiking upward – never downward. At some point I will reach a local maximum – the highest point I can reach. And from that hill I will probably look over and see much taller mountains that I could have reached if I used a different algorithmic approach, such as Divide & Conquer or Dynamic Programming. This course will teach you how to code Greedy Algorithms in Python, and when to best make use of them. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-greedy-algorithms/
+
+2. As you may have heard, the freeCodeCamp community recently redesigned our entire Responsive Web Design certification. It now contains 1,000+ additional coding challenges. And Jessica just published this step-by-step strategy guide. You can reference this while you blaze through the first project, where you'll code your own cat photo app. (30 minute read): https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/
+
+3. Terraform is an open source Infrastructure-as-Code tool. It helps you write code that will spin up cloud servers and other cloud services. This saves you the hassle of manually configuring them each time you want to deploy. This course will teach you how to use Terraform and Azure to build your own development environment. You'll learn about subnets, security groups, and The Provisioner – and no, that is not a WWE villain. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/
+
+4. Code your own customer support dashboard for your small business or startup. This course is taught by freeCodeCamp instructor Ania Kubów. She'll show you how to use the Discord API, SMTP email APIs, MongoDB, and Appsmith to build this in the cloud. (2 hour YouTube course): https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/
+
+5. React is a powerful front-end JavaScript library. But did you know you can also use it to code your own command line applications? This tutorial will show you how to build your own CLI app that runs in your terminal. You'll learn how to use React along with the popular Ink library. (20 minute read): https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/
+
+Quote of the Week: *"Although greed is considered one of the seven deadly sins, it turns out that greedy algorithms often perform quite well."* — Stuart Russell, Computer Scientist and co-author of the popular book *"Artificial Intelligence: A Modern Approach"*
+
 ### June 24, 2022
 1. This Python course will teach you how to automate boring and repetitive tasks. You'll learn how to automate the process of extracting tables from websites, interacting with spreadsheets, sending text messages, and more. You'll pick up a variety of Python libraries, including Selenium, XPath, and crontab. (3 hour YouTube course): https://www.freecodecamp.org/news/automate-your-life-with-python/
 
