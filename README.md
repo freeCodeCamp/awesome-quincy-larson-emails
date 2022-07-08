@@ -3,7 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
-### July 5, 2022
+### July 8, 2022
+1. DOM stands for Document Object Model. It's a tool that helps developers update HTML elements without needing to reload the page. DOM manipulation is when you use JavaScript to add, remove, or modify parts of a web page. This is a core skill in front-end development. And this course will teach you the basics before moving on to more advanced DOM techniques. (3 hour YouTube course): https://www.freecodecamp.org/news/javascript-dom-manipulation/
+
+2. Code your own Jeopardy game. You can channel the spirit of late, great game show host Alex Trebek and expand your web development skills at the same time. This course is taught by freeCodeCamp teacher Ania Kubów. She will guide you through writing the JavaScript line-by-line, teaching you best practices along the way. By the end of this course, you'll have built two playable games that you can share with your friends and family. (2 hour YouTube course): https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/
+
+3. PHP is a popular back-end development programming language for websites. Even though most new websites use more contemporary frameworks like Node.js or Django, a significant portion of the web still uses PHP — including Wikipedia, Tumblr, and millions of WordPress sites. Flavio Copes is a software engineer and long-time freeCodeCamp contributor. If you're looking for a solid, up-to-date PHP reference, he just published his PHP Handbook and made it freely available. At the very least it's worth bookmarking. (full length book): https://www.freecodecamp.org/news/the-php-handbook/
+
+4. An outlier is a data point that is significantly different from the rest of your data. These may be “true outliers”, which are truly exceptional data points. But many outliers are just caused by errors in your data collection process. This Python tutorial will teach you some common techniques for detecting this statistical noise and removing it from your datasets. (10 minute read): https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/
+
+5. A React Hook is a special kind of function that lets you "hook into" powerful React features. If you're interested in React or front-end JavaScript development, this tutorial by long-time freeCodeCamp contributor Eduardo Vedes will teach you one of the most popular hooks – useState – in just a few minutes. (10 minute read): https://www.freecodecamp.org/news/learn-react-usestate-hook-in-10-minutes/
+
+Quote of the Week: *"I know a ton of Ruby devs who named their kid Ruby but not a single JavaScript engineer with a kid named DOM."* — Emily Freeman, Software Engineer and Author
+
+
+### July 1, 2022
 1. Greedy Algorithms are a powerful approach to solving coding challenges. These work by always choosing the “locally optimal” solution at each stage of problem solving – regardless of the long-term consequences. For example, let's say I'm hiking in the mountains, and my goal is to reach as high an elevation as possible. I take the quick-and-dirty Greedy Algorithm approach of always hiking upward – never downward. At some point I will reach a local maximum – the highest point I can reach. And from that hill I will probably look over and see much taller mountains that I could have reached if I used a different algorithmic approach, such as Divide & Conquer or Dynamic Programming. This course will teach you how to code Greedy Algorithms in Python, and when to best make use of them. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-greedy-algorithms/
 
 2. As you may have heard, the freeCodeCamp community recently redesigned our entire Responsive Web Design certification. It now contains 1,000+ additional coding challenges. And Jessica just published this step-by-step strategy guide. You can reference this while you blaze through the first project, where you'll code your own cat photo app. (30 minute read): https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/
