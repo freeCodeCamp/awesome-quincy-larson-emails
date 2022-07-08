@@ -1,7 +1,47 @@
 {
   "emails": [
     {
-      "date": "July 5, 2022",
+      "date": "July 8, 2022",
+      "links": [
+        {
+          "description": "DOM stands for Document Object Model. It's a tool that helps developers update HTML elements without needing to reload the page. DOM manipulation is when you use JavaScript to add, remove, or modify parts of a web page. This is a core skill in front-end development. And this course will teach you the basics before moving on to more advanced DOM techniques.",
+          "link": "https://www.freecodecamp.org/news/javascript-dom-manipulation/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Code your own Jeopardy game. You can channel the spirit of late, great game show host Alex Trebek and expand your web development skills at the same time. This course is taught by freeCodeCamp teacher Ania Kub\u00f3w. She will guide you through writing the JavaScript line-by-line, teaching you best practices along the way. By the end of this course, you'll have built two playable games that you can share with your friends and family.",
+          "link": "https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "PHP is a popular back-end development programming language for websites. Even though most new websites use more contemporary frameworks like Node.js or Django, a significant portion of the web still uses PHP \u2014 including Wikipedia, Tumblr, and millions of WordPress sites. Flavio Copes is a software engineer and long-time freeCodeCamp contributor. If you're looking for a solid, up-to-date PHP reference, he just published his PHP Handbook and made it freely available. At the very least it's worth bookmarking.",
+          "link": "https://www.freecodecamp.org/news/the-php-handbook/",
+          "order": "3"
+        },
+        {
+          "description": "An outlier is a data point that is significantly different from the rest of your data. These may be \"true outliers\", which are truly exceptional data points. But many outliers are just caused by errors in your data collection process. This Python tutorial will teach you some common techniques for detecting this statistical noise and removing it from your datasets.",
+          "link": "https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/",
+          "order": "4",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "A React Hook is a special kind of function that lets you \"hook into\" powerful React features. If you're interested in React or front-end JavaScript development, this tutorial by long-time freeCodeCamp contributor Eduardo Vedes will teach you one of the most popular hooks -- useState -- in just a few minutes.",
+          "link": "https://www.freecodecamp.org/news/learn-react-usestate-hook-in-10-minutes/",
+          "order": "5",
+          "time_duration": "10",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "I know a ton of Ruby devs who named their kid Ruby but not a single JavaScript engineer with a kid named DOM.",
+      "quote_author": "Emily Freeman, Software Engineer and Author"
+    },
+    {
+      "date": "July 1, 2022",
       "links": [
         {
           "description": "Greedy Algorithms are a powerful approach to solving coding challenges. These work by always choosing the \"locally optimal\" solution at each stage of problem solving -- regardless of the long-term consequences. For example, let's say I'm hiking in the mountains, and my goal is to reach as high an elevation as possible. I take the quick-and-dirty Greedy Algorithm approach of always hiking upward -- never downward. At some point I will reach a local maximum -- the highest point I can reach. And from that hill I will probably look over and see much taller mountains that I could have reached if I used a different algorithmic approach, such as Divide & Conquer or Dynamic Programming. This course will teach you how to code Greedy Algorithms in Python, and when to best make use of them.",
