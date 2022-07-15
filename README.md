@@ -3,6 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: https://donate.freecodecamp.org or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+
+### July 15, 2022
+1. Zubin was 37 when he started learning to code. Two years later, he landed a job as a developer at Google. In this comprehensive career change guide, Zubin shares his tips for minimizing risk during your job search, preparing for technical interviews, and turning your disadvantages into advantages. (1 hour read): https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/
+
+2. You may have heard the term “private cloud” before. It's where you have more fine-grained control of all your servers and services, rather than using a “public cloud” like AWS or Azure. freeCodeCamp just published an in-depth course on Open Stack, an open source DevOps tool for building your own private cloud. (1 hour YouTube course): https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/
+
+3. Practice your React skills by building your own weather app project. You'll code your own weather search engine using the GeoDB API to autocomplete city names, and the OpenWeatherMap API to fetch weather data. You'll also learn how to use the powerful Promise.all JavaScript method, along with async/await design patterns. (2 hour YouTube course): https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/
+
+4. Ohans Emannuel is a prolific freeCodeCamp contributor and TypeScript enthusiast. He analyzed Stack Overflow to find the 7 questions developers ask most about TypeScript. In this tutorial, he will answer all of these, including: the difference between Types and Interfaces, how to dynamically assign properties, and what that ! operator does. (40 minute read): https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/
+
+5. What is abstraction? And why is it useful in programming? In this tutorial, Tiago will explain how developers use abstraction, through the analogy of learning to drive a car. For example, you don't need to know how a braking system works – you just need to know that when you stomp on the brake, the car slows to a stop. The exact mechanisms can be abstracted away from the user interface (the brake pedal). (10 minute read): https://www.freecodecamp.org/news/what-is-abstraction-in-programming/
+
+Quote of the Week: *"Behind all developers there are: tons of hours of practice, failed interviews, failed projects, negative emotions like self-doubt, and impostor syndrome. No matter how popular, or successful, or good, or smart they are."* — Catalin Pit, Developer and freeCodeCamp Contributor
+
+
 ### July 8, 2022
 1. DOM stands for Document Object Model. It's a tool that helps developers update HTML elements without needing to reload the page. DOM manipulation is when you use JavaScript to add, remove, or modify parts of a web page. This is a core skill in front-end development. And this course will teach you the basics before moving on to more advanced DOM techniques. (3 hour YouTube course): https://www.freecodecamp.org/news/javascript-dom-manipulation/
 
