@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "July 15, 2022",
+      "links": [
+        {
+          "description": "Zubin was 37 when he started learning to code. Two years later, he landed a job as a developer at Google. In this comprehensive career change guide, Zubin shares his tips for minimizing risk during your job search, preparing for technical interviews, and turning your disadvantages into advantages.",
+          "link": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
+          "order": "1",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the term \"private cloud\" before. It's where you have more fine-grained control of all your servers and services, rather than using a \"public cloud\" like AWS or Azure. freeCodeCamp just published an in-depth course on Open Stack, an open source DevOps tool for building your own private cloud.",
+          "link": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Practice your React skills by building your own weather app project. You'll code your own weather search engine using the GeoDB API to autocomplete city names, and the OpenWeatherMap API to fetch weather data. You'll also learn how to use the powerful Promise.all JavaScript method, along with async/await design patterns.",
+          "link": "https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Ohans Emannuel is a prolific freeCodeCamp contributor and TypeScript enthusiast. He analyzed Stack Overflow to find the 7 questions developers ask most about TypeScript. In this tutorial, he will answer all of these, including: the difference between Types and Interfaces, how to dynamically assign properties, and what that ! operator does.",
+          "link": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
+          "order": "4",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "What is abstraction? And why is it useful in programming? In this tutorial, Tiago will explain how developers use abstraction, through the analogy of learning to drive a car. For example, you don't need to know how a braking system works -- you just need to know that when you stomp on the brake, the car slows to a stop. The exact mechanisms can be abstracted away from the user interface (the brake pedal).",
+          "link": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
+          "order": "5",
+          "time_duration": "10",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Behind all developers there are: tons of hours of practice, failed interviews, failed projects, negative emotions like self-doubt, and impostor syndrome. No matter how popular, or successful, or good, or smart they are.",
+      "quote_author": "Catalin Pit, Developer and freeCodeCamp Contributor"
+    },
+    {
       "date": "July 8, 2022",
       "links": [
         {
