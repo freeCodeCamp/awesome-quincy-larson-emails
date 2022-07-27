@@ -3450,4 +3450,49 @@ Bonus: Our forum for discussing all programming resources - books, videos, onlin
 ### May 6, 2016
 1. More than 15,000 people responded to the 2016 New Coder Survey. Find out who they are and how they’re learning to code (5 minute read): http://bit.ly/1NYpcD8
 
-2. A single 
+2. A single Brazilian judge shut down WhatsApp, the country’s most popular communication tool, for 24 hours. Read about the legal drama and its global privacy implications (5 minute read): http://bit.ly/24t0anh	2. A single 
+
+3. Hackers stole $81 million from World Bank this week. Learn the history of electronic bank robbery, and how vulnerable our finaicial systems are (7 minute read): http://nyti.ms/1SQlN60	
+
+Bonus: Join us on Saturday at Noon EDT for freeCodeCamp’s interactive live stream. We’ll share some exciting improvements — and answer your many questions — on our YouTube channel (you can subscribe for notifications): http://bit.ly/1QSEhkj	
+
+### April 29, 2016	
+1. Adrian destroys any concerns you may have about becoming an older developer (19 minute read): http://bit.ly/1qWJy53	
+
+2. Collin spent last winter in a showerless, stove-heated cabin in Northern Utah. But he was able to complete freeCodeCamp’s Front End Development certification in record time (6 minute read): http://bit.ly/1UiImF9	
+
+3. Silicon Valley — everyone’s favorite TV show about data compression — is back for a new season. Let’s learn how JPG image files are able to save so much space. There’s no “middle-out” here — just clever mathematics (10 minute read): http://bit.ly/1NC4skz	
+
+Bonus: Check out this Rube Goldberg machine (silly chain reaction) made entirely out of HTML form elements (1 minute to watch): http://bit.ly/23a59Dx	
+
+### April 19, 2016	
+1. O’Reilly just published the results of their salary survey of 5,000 developers. Here are the highlights (3 minute read): http://bit.ly/1qVhvU6	
+
+2. Kobe Bryant played his final game of professional basketball this week. The Los Angeles Times used Leaflet.js to build an interactive data visualization of all 30,699 shots he took over his 20 year career: http://bit.ly/1YEcrOk	
+
+3. Building a website? Here’s are 101 concise tips to make it an awesome one (10 minute read): http://bit.ly/1Wc80v6	
+
+### April 13, 2016	
+1. The downside of the Internet of Things is that companies can turn the appliances you depend on into useless bricks, warns the Electronic Frontier Foundation (4 minute article): http://bit.ly/1qHatSE	
+
+2. You may have heard of artificial neural networks, which use a series of interconnected “neurons.” These neuron’s connections to one another strengthen and weaken in response to data, as part of a “learning” algorithm. But hey, enough explaining. You can now experiment with neural networks right here in your browser: http://bit.ly/1SM2VVh	
+
+3. Last year, programmer and journalist Paul Ford wrote an 30,000 word interactive essay called “What is Code” (http://bloom.bg/23tbUWe). This week, CodeNewbie interviewed him about his essay and what drew him to programming (1 hour podcast): http://bit.ly/25YSmrI	
+
+Bonus: Today’s the final day to pick up a dapper black freeCodeCamp t-shirt for yourself and a loved one. We have fitted women’s sizes, too: http://bit.ly/1RYcaal (If you’re in the EU, use this link: http://bit.ly/236lXQT)	
+
+### March 30, 2016	
+1. Last week, a developer “broke the internet” when he unpublished his open source modules from npm. Read how another developer immediately stepped in and prevented a potential security disaster related to this: http://bit.ly/1qf5WGN	
+
+2. Moore’s law, which held that computer power would double every two years at the same cost, is coming to an end: http://econ.st/1pIhodw	
+
+3. The Gitter team talks about their real time chat app, and how they can accommodate freeCodeCamp’s massive community on this one-hour podcast: http://bit.ly/25uE2qt	
+
+### March 22, 2016	
+1. Learn about JavaScript’s complicated 20-year history, why its current ecosystem is so complicated, and how its tools are improving so rapidly: http://bit.ly/1pGyxFd	
+
+2. If you flip a coin several times, the outcome of each flip is independent of the previous flip. But what about the weather? If it’s sunny today, tomorrow is more likely to be sunny than rainy. So how do we determine probabilities where each outcome is dependent on the previous outcome? With Markov Chains. Learn how these work in a fun, interactive way: http://bit.ly/1RbVABy	
+
+3. Jeff Atwood, one of the creators of Stack Overflow, discusses his new open source project Discourse, JavaScript, and “hybrid cloud” web hosting on this one-hour podcast: http://bit.ly/1MytPOa	
+
+
