@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### July 28, 2022
+1. This game development course will teach you how to code your own Mario Bros-like 2D platformer games. You'll use the simplest tools available: HTML, CSS, and plain-vanilla JavaScript. You'll learn about sprite animation, parallax scrolling, collision detection, and more. By the end of the course, you'll have your own playable game featuring an adorable flaming chihuahua fighting against a phalanx of mosquitoes. (10 hour YouTube course): https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/
+
+2. The AI Chatbot Handbook. This advanced project will walk you through coding your own chatbot. Some of the tools you'll use include Redis, Python, GPT-J-6B, and the Hugging Face API. You'll learn about architecture, language models, and more. (1 hour read): https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/
+
+3. Learn Test-Driven Development with JavaScript. This tutorial will teach you the strengths of this software development methodology. You'll use the Jest library to code your own Unit Tests, Integration Tests, and End-to-End Tests. You'll even learn how to mimic real-life code dependencies using Test Doubles. (40 minute read): https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/
+
+4. Redux is a popular state management library. It works with major JavaScript front end development frameworks like React, Angular, and Vue. This introduction to Redux will show you how to manage state within your apps. You'll learn about Redux Stores, Actions, and Reducers. (12 minute read): https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/
+
+5. Elementor is an open source tool that helps you build WordPress websites by dragging-and-dropping elements onto a page. freeCodeCamp developer Beau Carnes will teach you how to use Elementor. You'll build your own WordPress site without needing to write custom code. (80 minute YouTube course): https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/
+
+Quote of the Week: “Old video games couldn’t be won. They just got harder and faster until you died. Just like real life.” — Unknown game developer
+
 
 ### July 22, 2022
 1. Learn how to think like a computer scientist. Watch this Comp Sci professor code his own motion-detecting avatar from scratch in real time. He doesn't even use the internet. Just JavaScript, HTML, and his intuition. This is a master class in creative problem solving with code. (13 hour YouTube course): https://www.freecodecamp.org/news/how-to-think-like-a-computer-science-professor/
