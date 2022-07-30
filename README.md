@@ -3,7 +3,7 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
-### July 28, 2022
+### July 29, 2022
 1. This game development course will teach you how to code your own Mario Bros-like 2D platformer games. You'll use the simplest tools available: HTML, CSS, and plain-vanilla JavaScript. You'll learn about sprite animation, parallax scrolling, collision detection, and more. By the end of the course, you'll have your own playable game featuring an adorable flaming chihuahua fighting against a phalanx of mosquitoes. (10 hour YouTube course): https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/
 
 2. The AI Chatbot Handbook. This advanced project will walk you through coding your own chatbot. Some of the tools you'll use include Redis, Python, GPT-J-6B, and the Hugging Face API. You'll learn about architecture, language models, and more. (1 hour read): https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/
