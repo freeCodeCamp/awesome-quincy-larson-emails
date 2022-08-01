@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "July 29, 2022",
+      "links": [
+        {
+          "description": "This game development course will teach you how to code your own Mario Bros-like 2D platformer games. You'll use the simplest tools available: HTML, CSS, and plain-vanilla JavaScript. You'll learn about sprite animation, parallax scrolling, collision detection, and more. By the end of the course, you'll have your own playable game featuring an adorable flaming chihuahua fighting against a phalanx of mosquitoes.",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "The AI Chatbot Handbook. This advanced project will walk you through coding your own chatbot. Some of the tools you'll use include Redis, Python, GPT-J-6B, and the Hugging Face API. You'll learn about architecture, language models, and more.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn Test-Driven Development with JavaScript. This tutorial will teach you the strengths of this software development methodology. You'll use the Jest library to code your own Unit Tests, Integration Tests, and End-to-End Tests. You'll even learn how to mimic real-life code dependencies using Test Doubles.",
+          "link": "https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/",
+          "order": "3",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Redux is a popular state management library. It works with major JavaScript front end development frameworks like React, Angular, and Vue. This introduction to Redux will show you how to manage state within your apps. You'll learn about Redux Stores, Actions, and Reducers.",
+          "link": "https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/",
+          "order": "4",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Elementor is an open source tool that helps you build WordPress websites by dragging-and-dropping elements onto a page. freeCodeCamp developer Beau Carnes will teach you how to use Elementor. You'll build your own WordPress site without needing to write custom code.",
+          "link": "https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/",
+          "order": "5",
+          "time_duration": "80",
+          "time_type": "minutes"
+        }
+      ]
+    },
+    {
       "date": "July 22, 2022",
       "links": [
         {
