@@ -14,7 +14,7 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 5. Elementor is an open source tool that helps you build WordPress websites by dragging-and-dropping elements onto a page. freeCodeCamp developer Beau Carnes will teach you how to use Elementor. You'll build your own WordPress site without needing to write custom code. (80 minute YouTube course): https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/
 
-Quote of the Week: “Old video games couldn’t be won. They just got harder and faster until you died. Just like real life.” — Unknown game developer
+Quote of the Week: *"Old video games couldn’t be won. They just got harder and faster until you died. Just like real life."* — Unknown game developer
 
 
 ### July 22, 2022
