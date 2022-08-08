@@ -14,7 +14,7 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 5. Have you ever seen a number followed by an exclamation point? In math, this is called a factorial. 5! is the number 5 x 4 x 3 x 2 x 1 = 120. In programming, if an algorithm has n! time complexity, it means it will be extremely slow and inefficient. Thankfully, you can almost always avoid this through more thoughtful programming. This quick tutorial will teach you a bit more about factorials, with some beginner JavaScript exercises for how you can calculate them. (5 minute read): https://www.freecodecamp.org/news/what-is-a-factorial/
 
-Quote of the Week: “You can use an eraser on the drafting table or a sledgehammer on the construction site.” — Frank Lloyd Wright, American architect, on the importance of starting a project with a well-reasoned design process
+Quote of the Week: *"You can use an eraser on the drafting table or a sledgehammer on the construction site."* — Frank Lloyd Wright, American architect, on the importance of starting a project with a well-reasoned design process
 
 
 ### July 29, 2022
