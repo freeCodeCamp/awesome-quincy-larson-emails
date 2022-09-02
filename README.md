@@ -3,6 +3,34 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Sep 2, 2022
+1. freeCodeCamp just published an in-depth CSS for Beginners course, taught by an experienced developer and software architect. You'll learn Selectors, Typography, Variables, CSS Flexbox, CSS Grid, and other key concepts. You don't have to rely on templates and copy-pasted CSS examples. If you put in the time, you can understand how CSS really works under the hood. This course is a solid starting point. (11 hour YouTube course): https://www.freecodecamp.org/news/learn-css-in-11-hours/
+
+2. Learn Python by building 20 beginner projects. You can code along at home, and get practice by writing these Python scripts yourself. Along the way, you'll code your own calculator, image resizer, dice roller, and even a Rock-Paper-Scissors game. (3 hour YouTube course): https://www.freecodecamp.org/news/20-beginner-python-projects/
+
+3. How to protect your personal digital security. This guide will teach you several practical Information Security tips, straight from a Threat Intelligence expert. (10 minute read): https://www.freecodecamp.org/news/personal-digital-security-an-intro/
+
+4. One way you can boost your security is by using asymmetric encryption. SSH is a popular protocol for securely connecting to a server. Linux, Git, and many other tools use SSH. This tutorial will show you how to create your own SSH key from your computer's command line, and explain how the technology works. (8 minute read): https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/
+
+5. One of the most common ways developers mess up their security is by accidentally sharing their API keys on GitHub. You can avoid this mistake by using Git's built-in .gitignore feature. This tutorial will show you how you can safely put your code's API keys and other sensitive information into a .env file, and prevent Git from committing certain files or folders. (12 minute read): https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/
+
+Quote of the Week: *"CSS is a programming language. As unintuitive as it might feel to you at times, it's not just these random things that happen. It's built using very specific rules. The problem is that most people never learn those rules. We start learning CSS by learning the syntax, which is super simple. That tricks us into thinking that it's a simple language. Don't let the simple syntax trick you. Dive into it and learn how it works."* — Kevin Powell, Software Engineer, CSS Educator, and freeCodeCamp contributor
+
+
+### Aug 26, 2022
+1. freeCodeCamp just published an in-depth Front End Developer course, taught by a software engineer and freeCodeCamp alum. You'll learn HTML, CSS, DOM manipulation, and how to use your browser's DevTools. You'll also learn key JavaScript concepts, such as primitives, functions, loops, control flow logic, Regular Expressions, and more. This is a beginner course, and it's good review for intermediate developers as well. (21 hour YouTube course): https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/
+
+2. My friend Andrew Brown is a CTO and has an encyclopedic knowledge of Cloud Engineering. He's passed most of the AWS and Azure cloud certification exams. And this week, we released his latest course, which will help you pass the Microsoft Azure Developer Associate exam (AZ-204). Lots of people in the freeCodeCamp community have earned these certs to level-up their DevOps and Site Reliability Engineer careers. (13 hour YouTube course): https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/
+
+3. Markdown is a powerful way to write precise HTML-like documents. I use it every day. By knowing just a little bit of syntax, you can quickly type out a document using plain text. Then you can paste it into websites like GitHub, Stack Overflow, and freeCodeCamp, where it will expand into a Rich Text Document with headers, hyperlinks, and images. You can bookmark this Markdown cheat sheet, and refer to it the next time you want to practice your Markdown skills. (12 minute read): https://www.freecodecamp.org/news/markdown-cheatsheet/
+
+4. Advice from a Full Stack Developer who just finished his first year in tech. Germán talks about his non-traditional path into Argentina's software industry. He shares tips on how to pick a tech stack to specialize in, how to know when you're ready to start applying for roles, and how to cope with the stresses of the job. (50 minute read): https://www.freecodecamp.org/news/my-first-year-as-a-professional-developer-tips-for-getting-into-tech/
+
+5. Lua is a programming language commonly used for modifying video games, such as Roblox. But you can also use it to build entirely new games. This comprehensive course will teach you Lua fundamentals, and how to use the popular LÖVE 2D GameDev framework. You'll even code your own playable version of the 1979 Asteroids arcade game. (11 hour YouTube course): https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/
+
+Quote of the Week: *"Some prefer backend, some prefer frontend, but I always prefer weekend."* — Dan (@khazifire), Front End Developer
+
+
 ### Aug 19, 2022
 1. Learn C Programming by reading the classic book by C's creators, Dennis Ritchie and Brian Kernighan. In this cover-to-cover read-along, University of Michigan professor Dr. Chuck will guide you through the book, adding his own commentary as a developer and computer scientist. Dr. Chuck has also prepared a number of coding exercises that you can work through to solidify your understanding of key C concepts. You'll learn Operators, Control Flow, Input/Output, and C data structures including Pointers. This is a deep dive into one of the most widely-used languages in the world, as it was first taught nearly 50 years ago. (10 hour YouTube course): https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/
 
