@@ -3,6 +3,35 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+
+### Sep 23, 2022
+1. freeCodeCamp just published a Python Algorithms for Beginners course. You'll learn Recursion, Binary Search, Divide and Conquer Algorithms, The Traveling Salesman Problem, The N-Queens Problem, and more. You'll also solve a lot of algorithm challenges. (2 hour YouTube course): https://www.freecodecamp.org/news/intro-to-algorithms-with-python/
+
+2. Learn Three.js and React by coding your own playable Minecraft game. This JavaScript GameDev course will teach you about textures, 3D camera angles, keyboard input events, and more. (2 hour YouTube course): https://www.freecodecamp.org/news/code-a-minecraft-clone-using-react-and-three-js/
+
+3. Selectors are one of the most powerful concepts in CSS. And this tutorial will show common ways of grabbing HTML elements from a website's DOM using Selectors. You can then style these elements or run JavaScript on them. You'll also learn about CSS IDs, Classes, and Pseudo-classes. You'll even learn about the mythical, magical Universal Selector. (12 minute read): https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/
+
+4. freeCodeCamp also just published a long-requested Jenkins course. Jenkins is a powerful open source automation server. Developers often use Jenkins for running tests on their codebase before deploying it to the cloud. In this course, you'll learn DevOps Pipeline concepts, Debian Linux Command Line Interface tips, and about Docker & DockerHub. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/
+
+5. You may have heard the terms “white hat”, “black hat”, or even “red hat.” These are terms used in cybersecurity to express whether someone is an attacker, a defender, or a “hacktivist” with a broader agenda. In this fun, totally-not-scientific overview of the types of hackers, Daniel will help you learn each of these through comparisons with popular comic book figures. Which hat would Batman wear if he were in security? (8 minute read): https://www.freecodecamp.org/news/white-hat-black-hat-red-hat-hackers/
+
+Quote of the Week: *"Programming is the art of algorithm design and the craft of debugging errant code."* — Ellen Ullman, Programmer and Author
+
+
+### Sep 16, 2022
+1. freeCodeCamp just published an HTML & CSS for Beginners course, where you learn by coding along at home and building 5 projects. It's taught by experienced software engineer and tech CEO Per Borgan. This course will teach you about Text Elements, the CSS Box Model, Chrome Devtools, Document Structure, and more. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/
+
+2. What are the main differences between SQL and NoSQL? And which should you use in which situations? In this course, freeCodeCamp instructor Ania Kubów will teach you about common Database Models like Relational Databases, Key-Value DBs, Document DBs, and Wide Column DBs. More tools for your developer toolbox. (1 hour YouTube course): https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/
+
+3. When you visit a webpage, everything you see is HTML elements rendered with the Document Object Model. But how does the DOM work? In this hands-on tutorial by Front-End Engineer Ophelia Boamah, you'll code your own car shopping User Interface. You'll learn about DOM Selectors, Event Listeners, and more. (25 minute read): https://www.freecodecamp.org/news/the-javascript-dom-a-practical-tutorial/
+
+4. If you have a developer job interview coming up, you may want to brush up on your React. Veteran software engineer Nishant Singh will walk you through 20 common React interview questions, and share his process for solving them. This is an ideal course for intermediate JavaScript developers. (5 hour YouTube course): https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/
+
+5. You may have heard that one of the best ways to solidify your developer skills is to contribute to open source software. But getting started can be a confusing process. Thankfully, prolific freeCodeCamp contributor Tapas Adhikary has created a comprehensive beginner's manual to help you understand OSS, identify where you can help, and get your first pull request merged. (30 minute read): https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/
+
+Quote of the Week: *"Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true, and the tendency to miss lunch."* — Tim Berners-Lee, Creator of HTML, and Inventor of the World Wide Web (Yeah, this is one impactful dev.)
+
+
 ### Sep 9, 2022
 1. Learn React for Beginners. This new freeCodeCamp Front-End JavaScript course will teach you all about React Hooks, State, the Context API, and more. You'll code along with three experienced software engineers, building projects step-by-step. (8 hour YouTube course): https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/
 
