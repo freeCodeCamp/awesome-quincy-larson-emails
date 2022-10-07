@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Oct 7, 2022
+1. Pytorch is a popular framework for doing Machine Learning in Python. You can use it to build data models, then ask questions of those models. If you're interested in Data Science, and know a bit of Python, this course is a solid place to start your journey. You'll code along at home as you learn about Datasets, Neural Networks, Computer Vision, and more. (26 hour YouTube course): https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/
+
+2. And if you're new to Python programming, this course focuses on core concepts rather than just the language syntax. You'll explore Computer Science concepts like Primitive Data Types, Memory Allocation, Error Handling, and Scope. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/
+
+3. Linux is a popular operating system for Security Researchers. It's open source and highly customizable. This tutorial will walk you through how some popular distros – like Kali, Arch, and Ubuntu – work under the hood. You'll get a feel for their many moving parts, and the common shell commands used in infosec. (30 minute read): https://www.freecodecamp.org/news/linux-basics/
+
+4. And if you have always wanted to learn some Java, you're in luck. We just published a Java for Beginners course, taught by Java Engineer and prolific freeCodeCamp instructor Farhan Chowdhury. You'll learn all about Java's Data Types, Operators, Conditional Statements, Loops, and even some Object-Oriented Programming. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-java-programming/
+
+5. One of the most powerful concepts in CSS is Selectors. You can use Selectors to grab an HTML element from a website's DOM. You can then style these elements, or run JavaScript on them. This tutorial will teach you all about Attribute Selectors, CSS Combinators, Pseudo-Element Selectors, and more. (30 minute read): https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/
+
+Quote of the Week: “I hooked a neural network up to my Roomba. I wanted it to learn to navigate without bumping into things, so I set up a reward scheme to encourage speed and discourage hitting the bumper sensors. It learnt to drive backwards, because there are no bumpers on the back.” — Custard Smingleigh, Developer and Roboticist
+
 
 ### Sep 23, 2022
 1. freeCodeCamp just published a Python Algorithms for Beginners course. You'll learn Recursion, Binary Search, Divide and Conquer Algorithms, The Traveling Salesman Problem, The N-Queens Problem, and more. You'll also solve a lot of algorithm challenges. (2 hour YouTube course): https://www.freecodecamp.org/news/intro-to-algorithms-with-python/
