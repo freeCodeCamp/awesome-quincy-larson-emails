@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Sep 30, 2022
+1. We just published Machine Learning for Everybody, a course for intermediate developers and students who are interested in AI. freeCodeCamp instructor Kylie Ying (of CERN and MIT) will teach you about key concepts like Classification, Regression, and Training Models. You'll code in Python and learn how to use TensorFlow, Jupyter Notebooks, and other powerful tools. (4 hour YouTube course): https://www.freecodecamp.org/news/machine-learning-for-everybody/
+
+2. Learn JavaScript game development and code your own space shooter game. This GameDev course will teach you about HTML Canvas, Object-Oriented Programming, Core Gameplay Loops, Parallax Scrolling, and more. (2 hour YouTube course): https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/
+
+3. Kali Linux is a popular operating system in the information security community. If you watched the show Mr. Robot, it's the main operating system the characters use while carrying out their exploits. This step-by-step tutorial will show you how to install Kali Linux so you can leverage the tools of the trade. (20 minute read): https://www.freecodecamp.org/news/how-to-install-kali-linux/
+
+4. Learn how to build your own ecommerce shop back end from Software Engineer and freeCodeCamp Instructor Ania Kubów. She'll walk you through using PostgreSQL, Stripe, and REST APIs to build 3 internal B2B apps – all using Low Code tools that require less coding. By the end of this course, you'll have your own order management dashboard, employee dashboard, and developer portal. (2 hour YouTube course): https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend/
+
+5. What's the difference between Authentication and Authorization? These two concepts are related, but there's a bit of nuance. Authentication is the process of verifying your credentials, and that you're allowed to access a system. Authorization involves verifying what you're allowed to do within that system. This tutorial will help you better understand these security concepts so you can apply them as a developer. (10 minute read): https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation
+
+Quote of the Week: *"Changing random stuff until your program works is ‘hacky’ and a ‘bad coding practice’. But if you do it fast enough, it's called ‘Machine Learning’ and pays 4x your current salary."* — Steve Maine, Software Engineer
+
 
 ### Sep 23, 2022
 1. freeCodeCamp just published a Python Algorithms for Beginners course. You'll learn Recursion, Binary Search, Divide and Conquer Algorithms, The Traveling Salesman Problem, The N-Queens Problem, and more. You'll also solve a lot of algorithm challenges. (2 hour YouTube course): https://www.freecodecamp.org/news/intro-to-algorithms-with-python/
