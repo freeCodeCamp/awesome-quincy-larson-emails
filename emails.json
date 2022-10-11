@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "Oct 7, 2022",
+      "links": [
+        {
+          "description": "Pytorch is a popular framework for doing Machine Learning in Python. You can use it to build data models, then ask questions of those models. If you're interested in Data Science, and know a bit of Python, this course is a solid place to start your journey. You'll code along at home as you learn about Datasets, Neural Networks, Computer Vision, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/",
+          "order": "1",
+          "time_duration": "26",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you're new to Python programming, this course focuses on core concepts rather than just the language syntax. You'll explore Computer Science concepts like Primitive Data Types, Memory Allocation, Error Handling, and Scope.",
+          "link": "https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/",
+          "order": "2",
+          "time_duration": "9",
+          "time_type": "hours"
+        },
+        {
+          "description": "Linux is a popular operating system for Security Researchers. It's open source and highly customizable. This tutorial will walk you through how some popular distros -- like Kali, Arch, and Ubuntu -- work under the hood. You'll get a feel for their many moving parts, and the common shell commands used in infosec.",
+          "link": "https://www.freecodecamp.org/news/linux-basics/",
+          "order": "3",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And if you have always wanted to learn some Java, you're in luck. We just published a Java for Beginners course, taught by Java Engineer and prolific freeCodeCamp instructor Farhan Chowdhury. You'll learn all about Java's Data Types, Operators, Conditional Statements, Loops, and even some Object-Oriented Programming.",
+          "link": "https://www.freecodecamp.org/news/learn-java-programming/",
+          "order": "4",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "One of the most powerful concepts in CSS is Selectors. You can use Selectors to grab an HTML element from a website's DOM. You can then style these elements, or run JavaScript on them. This tutorial will teach you all about Attribute Selectors, CSS Combinators, Pseudo-Element Selectors, and more.",
+          "link": "https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/",
+          "order": "5",
+          "time_duration": "30",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "I hooked a neural network up to my Roomba. I wanted it to learn to navigate without bumping into things, so I set up a reward scheme to encourage speed and discourage hitting the bumper sensors. It learnt to drive backwards, because there are no bumpers on the back.",
+      "quote_author": "Custard Smingleigh, Developer and Roboticist"
+    },
+    {
       "date": "Sep 30, 2022",
       "links": [
         {
