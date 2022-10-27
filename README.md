@@ -3,6 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+
+### Oct 21, 2022
+1. The freeCodeCamp community is proud to publish the full Harvard CS50 computer science lecture series, taught by world-renowned professor David J. Malan. You'll learn about C programming, Python, SQL, web development, and a ton of computer science theory. This course also includes tons of labs, exercises, and even an offshoot course on game development. (25 hour YouTube course): https://www.freecodecamp.org/news/harvard-cs50/
+
+2. Learn the powerful Svelte JavaScript framework. This course is taught by Svelte core maintainer Li Hau Tan. He'll teach you about The Component Lifecycle, Svelte Store Contracts, Reactivity, RxJS, Redux, and so much more. (23 hour YouTube course): https://www.freecodecamp.org/news/learn-svelte-complete-course/
+
+3. Want to practice your coding skills by building your own Google Docs clone? In this course, you'll use Flutter, Node.js, Websockets, and MongoDB. You can code along at home and implement your own authentication, collaborative editing, auto-saving, and more. This is a solid intermediate course to sharpen your skills. (5 hour YouTube course): https://www.freecodecamp.org/news/code-google-docs-with-flutter/
+
+4. Go is a lightning fast programming language. It powers Docker, Kubernetes, and other popular open source tools. Software Engineer Flavio Copes will teach you how to set up your Go development environment. Then you'll learn about Golang control flow and data structures. You can bookmark this for reference as you expand your Go skills. (1 hour read): https://www.freecodecamp.org/news/go-beginners-handbook/
+
+5. What exactly is a database? This quick tutorial will explain how Relational Database Management Systems work. You'll learn a brief history of databases. And even how to write some of your own SQL queries. (20 minute read): https://www.freecodecamp.org/news/dbms-and-sql-basics/
+
+Quote of the Week: *"In C, there's no magic. If you want something to be somewhere in memory, you have to put it there yourself. If you want a hash table, you have to implement it yourself. The result by term's end, we hope, is that students understand how things work from the bottom up and, better yet, can explain as much."* — David J. Malan, the Computer Science professor who teaches Harvard CS50
+
+
 ### Oct 14, 2022
 1. DevOps engineers help software run at massive scale. The field of DevOps combines programming – the Dev part – with system administration – the Ops part. It is a highly specialized – and high-paying – field to go into. This course for intermediate learners will teach you two of the most widely-used DevOps tools: Docker and Kubernetes. You'll learn about Containers, Microservices, Persistence, Observability, and more. With these in your toolbox, you'll be able to efficiently scale your apps, websites, and APIs to millions of users. (6 hour YouTube course): https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/
 
