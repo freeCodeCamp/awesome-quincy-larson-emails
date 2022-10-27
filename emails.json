@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "Oct 21, 2022",
+      "links": [
+        {
+          "description": "The freeCodeCamp community is proud to publish the full Harvard CS50 computer science lecture series, taught by world-renowned professor David J. Malan. You'll learn about C programming, Python, SQL, web development, and a ton of computer science theory. This course also includes tons of labs, exercises, and even an offshoot course on game development.",
+          "link": "https://www.freecodecamp.org/news/harvard-cs50/",
+          "order": "1",
+          "time_duration": "25",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn the powerful Svelte JavaScript framework. This course is taught by Svelte core maintainer Li Hau Tan. He'll teach you about The Component Lifecycle, Svelte Store Contracts, Reactivity, RxJS, Redux, and so much more.",
+          "link": "https://www.freecodecamp.org/news/learn-svelte-complete-course/",
+          "order": "2",
+          "time_duration": "23",
+          "time_type": "hours"
+        },
+        {
+          "description": "Want to practice your coding skills by building your own Google Docs clone? In this course, you'll use Flutter, Node.js, Websockets, and MongoDB. You can code along at home and implement your own authentication, collaborative editing, auto-saving, and more. This is a solid intermediate course to sharpen your skills.",
+          "link": "https://www.freecodecamp.org/news/code-google-docs-with-flutter/",
+          "order": "3",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Go is a lightning fast programming language. It powers Docker, Kubernetes, and other popular open source tools. Software Engineer Flavio Copes will teach you how to set up your Go development environment. Then you'll learn about Golang control flow and data structures. You can bookmark this for reference as you expand your Go skills.",
+          "link": "https://www.freecodecamp.org/news/go-beginners-handbook/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "What exactly is a database? This quick tutorial will explain how Relational Database Management Systems work. You'll learn a brief history of databases. And even how to write some of your own SQL queries.",
+          "link": "https://www.freecodecamp.org/news/dbms-and-sql-basics/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "In C, there's no magic. If you want something to be somewhere in memory, you have to put it there yourself. If you want a hash table, you have to implement it yourself. The result by term's end, we hope, is that students understand how things work from the bottom up and, better yet, can explain as much.",
+      "quote_author": "David J. Malan, the Computer Science professor who teaches Harvard CS50"
+    },
+    {
       "date": "Oct 14, 2022",
       "links": [
         {
