@@ -4,6 +4,20 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
 
+### Oct 28, 2022
+1. Python is one of the most widely used programming languages on Earth right now. In science, in industry, and in high school robotics clubs around the world. You, too, can learn to wield this mighty Python power. I'm sick as a dog as I type this, so if what I'm saying sounds silly, it's probably the NyQuil talking. freeCodeCamp has published dozens of Python video courses, but this week I wanted to share something for the folks who prefer good old fashion book learning. (full-length book): https://www.freecodecamp.org/news/learn-python-book/
+
+2. Ah. Graph Algorithms. The bane of every coding interview prepper. These powerful programming patterns are over-represented in job interview questions, so you'll want to eventually learn them well. This course will help you grok Depth-First Traversal, Breadth-First Traversal, Shortest Path, and Dijkstra's Algorithm. This Dijkstra guy, he's kind of a big deal. More on him later. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-how-graph-algorithms-work/
+
+3. User Interface VS User Experience – what's the difference, you might ask? Well, User Interfaces have been around since the industrial revolution. Think the control room of a power station, or the cockpit of a plane. But User Experience – that's a more recent way of thinking about Human-Computer Interaction. The term was coined in the 1990s by a designer and cognitive psychologist at Apple. This tutorial by freeCodeCamp instructor Dionysia Lemonaki will explain the distinctions between the two and their shared history. She'll also walk you through the UX Design Process. (20 minute read): https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/
+
+4. Without computer networks, I'd need to put on my sneakers and run this letter to your door. Or bankrupt our charity buying postage stamps. Over the past 30 years, networks have changed almost everything about talking, learning, and getting things done. They are worthy of your attention and your respect. So learn a bit more about how they work. This tutorial will walk you through 5 of the most important layers – from the physical hardware all the way up to the applications running on top of all that sweet, sweet abstraction. (20 minute read): https://www.freecodecamp.org/news/the-five-layers-model-explained/
+
+5. The freeCodeCamp community just turned 8 years old. A big Happy Birthday to all y'all who've been a part of our charity's endeavor. I have a byte-sized update on the community (8.9Kb of text, to be exact). You'll learn about our progress with the Data Science courses, the Math and Computer Science degrees we're developing, and more. I promise it's worth your (12 minute read): https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/
+
+Quote of the Week (from the man himself, and apt given we started developing our computer science degree last year): *"Computer Science is no more about computers than astronomy is about telescopes."* — Edsger Dijkstra, Mathematician, Computer Scientist, Turing Award Winner, and fellow Texan (I live in Texas if you didn't know that. Nevermind. I'm not the important one here.)
+
+
 ### Oct 21, 2022
 1. The freeCodeCamp community is proud to publish the full Harvard CS50 computer science lecture series, taught by world-renowned professor David J. Malan. You'll learn about C programming, Python, SQL, web development, and a ton of computer science theory. This course also includes tons of labs, exercises, and even an offshoot course on game development. (25 hour YouTube course): https://www.freecodecamp.org/news/harvard-cs50/
 
