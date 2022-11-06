@@ -4,6 +4,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
 
+### Nov 4, 2022
+1. freeCodeCamp just published a new Full Stack Web Development course, taught by two of our most popular instructors. This beginner course will teach you HTML, CSS, JavaScript basics, Node.js, MongoDB, and more. (7.5 hour YouTube course): https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/
+
+2. If you're interested in working in the field of cloud computing, this new course will help you pass the Microsoft 365 Fundamentals (MS-900) Certification. In it, long-time freeCodeCamp contributor Andrew Brown shares how he passed the exam, and covers all of its material. (4 hour YouTube course): https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/
+
+3. Learn how to use CSS Flexbox to make responsive webpages that look good on any device size. This tutorial will walk you through the most common Flexbox properties and explain them visually, using helpful diagrams. Design concepts that were once intimidating will now be much easier to understand. Be sure to bookmark this and share it with a designer friend. (30 minute read): https://www.freecodecamp.org/news/css-flexbox-complete-guide/
+
+4. The Kotlin programming language is a popular alternative to Java. You can use Kotlin to do many of the same things, such as build Android apps or code for the Java Virtual Machine. But Kotlin offers a more contemporary developer experience. freeCodeCamp just published an in-depth Kotlin course to teach you about functions, types, logical operators, and Object-Oriented Programming. (14 hour YouTube course): https://www.freecodecamp.org/news/learn-kotlin-complete-course/
+
+5. Hacktoberfest was a blast. Jessica oversaw freeCodeCamp's DeveloperQuiz.org GitHub repository. She QA'd and merged more than 360 pull requests from volunteer code contributors. Her tips to other people who want to maintain open source projects: “Lead with patience, empathy, and kindness.” These are her insights from the past 31 days of coding. (12 minute read): https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/
+
+The freeCodeCamp community is hard at work on new math and data science courses, so that you and your family can learn these important skills. As you may know, we are a tax-exempt public charity. We rely on the support of kind, thoughtful people like you. Learn more and get involved: https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/
+
+Quote of the Week: *"Just crawl it."* — text from the top of Nike's robots.txt file on their website. (robots.txt is the file Google's crawlers look at when they're deciding how to index a website.)
+
 ### Oct 28, 2022
 1. Python is one of the most widely used programming languages on Earth right now. In science, in industry, and in high school robotics clubs around the world. You, too, can learn to wield this mighty Python power. I'm sick as a dog as I type this, so if what I'm saying sounds silly, it's probably the NyQuil talking. freeCodeCamp has published dozens of Python video courses, but this week I wanted to share something for the folks who prefer good old fashion book learning. (full-length book): https://www.freecodecamp.org/news/learn-python-book/
 
