@@ -1,6 +1,49 @@
 {
   "emails": [
     {
+      "bonus": "The freeCodeCamp community is hard at work on new math and data science courses, so that you and your family can learn these important skills. As you may know, we are a tax-exempt public charity. We rely on the support of kind, thoughtful people like you. Learn more and get involved: https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+      "date": "Nov 4, 2022",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a new Full Stack Web Development course, taught by two of our most popular instructors. This beginner course will teach you HTML, CSS, JavaScript basics, Node.js, MongoDB, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
+          "order": "1",
+          "time_duration": "7.5",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're interested in working in the field of cloud computing, this new course will help you pass the Microsoft 365 Fundamentals (MS-900) Certification. In it, long-time freeCodeCamp contributor Andrew Brown shares how he passed the exam, and covers all of its material.",
+          "link": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to use CSS Flexbox to make responsive webpages that look good on any device size. This tutorial will walk you through the most common Flexbox properties and explain them visually, using helpful diagrams. Design concepts that were once intimidating will now be much easier to understand. Be sure to bookmark this and share it with a designer friend.",
+          "link": "https://www.freecodecamp.org/news/css-flexbox-complete-guide/",
+          "order": "3",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "The Kotlin programming language is a popular alternative to Java. You can use Kotlin to do many of the same things, such as build Android apps or code for the Java Virtual Machine. But Kotlin offers a more contemporary developer experience. freeCodeCamp just published an in-depth Kotlin course to teach you about functions, types, logical operators, and Object-Oriented Programming.",
+          "link": "https://www.freecodecamp.org/news/learn-kotlin-complete-course/",
+          "order": "4",
+          "time_duration": "14",
+          "time_type": "hours"
+        },
+        {
+          "description": "Hacktoberfest was a blast. Jessica oversaw freeCodeCamp's DeveloperQuiz.org GitHub repository. She QA'd and merged more than 360 pull requests from volunteer code contributors. Her tips to other people who want to maintain open source projects: \"Lead with patience, empathy, and kindness.\" These are her insights from the past 31 days of coding.",
+          "link": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
+          "order": "5",
+          "time_duration": "12",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Just crawl it.",
+      "quote_author": "text from the top of Nike's robots.txt file on their website. (robots.txt is the file Google's crawlers look at when they're deciding how to index a website.)"
+    },
+    {
       "date": "Oct 28, 2022",
       "links": [
         {
