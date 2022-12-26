@@ -1,6 +1,87 @@
 {
   "emails": [
     {
+      "bonus": "This is my final letter to you for 2022. I hope you've had a fun, insightful year. This has been an amazing year for the freeCodeCamp community. People are using freeCodeCamp more than ever. (People spent more than 4 billion minutes learning on freeCodeCamp this year!) We also launched major improvements to our curriculum, our Android app, and \u2013 of course \u2013 Learn to Code RPG.",
+      "date": "Dec 24, 2022",
+      "links": [
+        {
+          "description": "The freeCodeCamp community just dramatically expanded our Learn to Code RPG video game. Learn to Code RPG is an interactive visual novel game where you teach yourself to code, make friends in the tech industry, and pursue your dream of working as a developer. The game features a quirky cast of characters, a charming cat, and more than 1,000 computer science quiz questions. While working as a developer in the game, you can unlock more than 50 achievements and 6 different endings. You can play the game on PC, Mac, Linux, and Android. I enjoyed working with Lynn, KayLa, and Nielda on this all year long. We're excited to get it to you in time for the holidays. Enjoy.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
+          "order": "1"
+        },
+        {
+          "description": "Build your own SaaS (Software as a Service) app. In this beginner course taught by freeCodeCamp instructor Ania Kub\u00f3w, you'll code your own PagerDuty clone project. This handy tool will notify you whenever one of your servers crashes. You'll learn PostgreSQL, the Stripe API, Twillio for notifications, and other powerful developer tools.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-saas-pagerduty-clone/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard about the GPT-3 and ChatGPT AI assistants, and how amazing they are at tasks like writing high school book reports. But how are they at coding? Well, programming book author and freeCodeCamp volunteer David Clinton sat down with ChatGPT for a pair programming session. He shares his thoughts on the quality of GPT's code, its limitations, and how effective it might be at helping developers.",
+          "link": "https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash/",
+          "order": "3",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Megan Kaczanowski has worked her way up the ranks in the field of information security. Not only has she written many infosec tutorials for the freeCodeCamp community over the years -- she's also created this guide for people entering the field. It will help you plan your learning and understand the alphabet soup of certifications. She'll also give you tips on how to get involved in your local security community, and how to gear up for the infosec job search.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn how to code your own Santa Tracker app using Next.js and React Leaflet. User Experience Designer and freeCodeCamp volunteer Colby Fayock will walk you through how to code this front end app. You'll learn how to fetch Santa's flight plan, including arrival time, departure time, and coordinates. Then you can plot his entire evening's journey onto a world map.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-santa-tracker-app-with-next-js-react-leaflet/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "The \u2018joy of discovery' is one of the fundamental joys of play itself. Not just the joy of discovering secrets within the game, but also the joy of uncovering the creator's vision. It's that \u2018Aha!' moment where it all makes sense, and behind the world the player can feel the touch of another creative mind. In order for it to be truly joyful, however, it must remain hidden from plain view-not carved as commandments into stone tablets but revealed, piece by piece, through the player's exploration of the game's rules.",
+      "quote_author": "Derek Yu, game developer and creator of Spelunky"
+    },
+    {
+      "date": "Dec 20, 2022",
+      "links": [
+        {
+          "description": "Programming is a skill that can help you blast your imagination out into the real world. This book -- by software engineer and freeCodeCamp teacher Estefania -- will give you a strong conceptual foundation in programming. You'll learn about binary, and how computers \"think.\" (More on this in the Quote of the Week below.) You'll also learn how to communicate with computers through code, so they can do your bidding. This book is an excellent starting point to share with friends and family who want to learn more about technology.",
+          "link": "https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/",
+          "order": "1"
+        },
+        {
+          "description": "Learn JavaScript by coding your own card game. This course is taught by one of freeCodeCamp's most experienced teachers. Gavin has worked as a software engineer for two decades, and it really comes through in his teaching. You can code along at home while you watch this, and build your own responsive web interface for the game. You'll use plain vanilla JavaScript to flip, shuffle, and deal cards from your deck. Once you're finished, you'll have a fun project to show your friends.",
+          "link": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you're a bit more experienced with JavaScript, I encourage you to learn the powerful Next.js web development framework. freeCodeCamp uses Next.js in several of our apps. And it's steadily growing in popularity. This course -- taught by Alicia Rodriguez -- will teach you Next.js fundamentals. You'll learn about server-side rendering, API routing, and data fetching. You'll even deploy your app to the cloud.",
+          "link": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
+          "order": "3",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard about GPT-3, DALL-E, and other powerful uses of artificial intelligence. But what if you want to code your own AI? You'll want to start with something simple. In this tutorial, you'll learn about the Minimax algorithm, and how you can use it to create an game AI that always wins or ties at tic-tac-toe.",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/",
+          "order": "4",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Did you know you can use your command line as a calculator? If you open your terminal in Mac or Linux (or in Windows Subsystem for Linux) you can type equations, and then your computer will solve them for you -- usually in just a few milliseconds. This is handy if you are fast at typing and don't want to use a spreadsheet or click around in a calculator. This tutorial will show you some of the key syntax and features for crunching numbers right in the command prompt.",
+          "link": "https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/",
+          "order": "5",
+          "time_duration": "12",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "The question of whether computers can think is like the question of whether submarines can swim.",
+      "quote_author": "Edsger Dijkstra, Mathematician and Computer Scientist"
+    },
+    {
       "date": "Dec 9, 2022",
       "links": [
         {
