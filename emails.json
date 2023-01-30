@@ -1,6 +1,165 @@
 {
   "emails": [
     {
+      "bonus": "Also fun fact: the word Algorithm comes from a Latinization of al-Khwarizmi's name.",
+      "date": "Jan 28, 2023",
+      "links": [
+        {
+          "description": "freeCodeCamp just published our own university-level course to help you learn Algebra using Python. If you have forgotten much of the Algebra you learned -- or if you never really learned it well in the first place -- this course is for you. In it, freeCodeCamp instructor Ed Pratowski will teach you how to use Python and Jupyter Notebook to do math. You'll learn all about Variables, Graphing, Cartesian Planes, Factoring, and more. Ed has been teaching math to university students for more than two decades. I think you'll find his teaching style to be clear and memorable.",
+          "link": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
+          "order": "1",
+          "time_duration": "15",
+          "time_type": "hours"
+        },
+        {
+          "description": "This course will teach you how to code your own fully-functional Reddit clone. Along the way, you'll learn some React, Firebase, Next.js, Chakra UI, and TypeScript. You'll code a lot of key business logic, including how to handle post deletion, community image customization, voting on posts, and more.",
+          "link": "https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/",
+          "order": "2",
+          "time_duration": "12",
+          "time_type": "hours"
+        },
+        {
+          "description": "Wireshark is a powerful computer network analysis tool. You can use it to analyze and \"sniff\" packets of data. This tutorial will teach you how to use Wireshark to better understand networks. You'll also learn about the 5 Layers Model for networks.",
+          "link": "https://www.freecodecamp.org/news/learn-wireshark-computer-networking/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Pre-caching is where you prepare data in advance of serving it to your users. By using this technique, you can speed up the performance of your website or app. This tutorial will teach you key pre-caching concepts. You'll learn how to use pre-caching both on the client side -- with browser-based caching -- and on the server side -- with CDNs. You'll learn the many tradeoffs and best practices involved in achieving fast page loads.",
+          "link": "https://www.freecodecamp.org/news/a-detailed-guide-to-pre-caching/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "In the age of Netflix and League of Legends, there are plenty of things to keep you from achieving your goals. But don't let a lack of learning resources be one of them. My friend Dhawal compiled an in-depth guide to more than 850 Ivy League university courses that are now freely available online. One of the very best things about the internet: it has made it possible for anyone with an internet connection to learn from world-class professors. I hope some of these courses help you push forward toward your learning goals.",
+          "link": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "order": "5"
+        }
+      ]
+    },
+    {
+      "date": "Jan 21, 2023",
+      "links": [
+        {
+          "description": "Tailwind CSS has quickly become one of the most popular Responsive Design frameworks for coding new projects. This beginner's course will teach you how to harness Tailwind's power. By the end of it, you'll know a lot more about CSS. You'll learn about colors, typography, spacing, animation, and more. You'll even build your own Design System, which you can use for your future websites and mobile apps.",
+          "link": "https://www.freecodecamp.org/news/learn-tailwind-css/",
+          "order": "1",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Python and JavaScript are not the only programming languages you can use to build full stack web apps. You can also use good old trusty Java. And this in-depth Java course will teach you how to build your own movie streaming website. You'll learn the Java Spring Boot web development framework, React, MongoDB, JDK, IntelliJ, and Material UI. If you want to take the next step with your Java skills, this course is for you.",
+          "link": "https://www.freecodecamp.org/news/full-stack-development-with-mongodb-java-and-react/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you want to expand the certification section of your r\u00e9sum\u00e9 or LinkedIn profile, I've got good news for you. freeCodeCamp just published a collection of more than 1,000 developer certs that you can earn from big tech companies and prestigious universities. All of these are self-paced and freely available. You just have to put in the effort.",
+          "link": "https://www.freecodecamp.org/news/free-certificates/",
+          "order": "3"
+        },
+        {
+          "description": "ChatGPT just came out and already it has blown so many developers' minds. You can ask the AI just about any question and get a fairly human-sounding response. What better way to familiarize yourself with ChatGPT than to clone its user interface, using React and ChatGPT's own APIs. This front end development course will help you code a powerful app that can answer questions, translate text, convert code from one language to another, and more.",
+          "link": "https://www.freecodecamp.org/news/chatgpt-react-course/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you feel stuck in your coding journey, I may have just the thing to help. I published a full-length book that will teach you how to build your coding skills, your personal network, and your reputation as a developer. You'll also learn how to prepare for the developer job search, and how to land freelance clients. These practical insights are freely available to read -- right in your browser.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-book/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "If you ever throw out an \u2018I love you' and don't get an \u2018I love you' in return, follow it up with: \u2018React is great too. But there's something I just love about Vue.' This will save you some embarrassment.",
+      "quote_author": "Adam Wathan, Developer and Creator of Tailwind CSS (Get it? \u2018I love Vue')"
+    },
+    {
+      "bonus": "Fact of the Week: About 15% of all Google search queries are queries that no one has ever searched before. That means every day, humans around the world are googling millions of unprecedented queries.",
+      "date": "Jan 14, 2023",
+      "links": [
+        {
+          "description": "You may use Google Search several times a day. I sure do. Well this freeCodeCamp course will teach you the art and science of getting good search results. Seth Goldin studies Computer Science at Yale. To prepare this course, he met with several engineers on Google's search team. In this course, you'll learn search techniques for developers, such as Matching Operators, Switch Operators, and Google Lens.",
+          "link": "https://www.freecodecamp.org/news/how-to-google-like-a-pro/",
+          "order": "1",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Unreal Engine 5 is a powerful tool for coding your own video games. Even big triple-A video games like Street Fighter and Fortnite are coded using Unreal Engine. This course is taught by Sourav, a seasoned game developer. He'll teach you about Blueprints, Modeling Inputs, Netcode, Plugins, Player Control, and more. By the end of the course, you will have coded your own endless runner game.",
+          "link": "https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/",
+          "order": "2",
+          "time_duration": "11",
+          "time_type": "hours"
+        },
+        {
+          "description": "What is the most popular computer science course in the world? Why, that would be Harvard's CS50 course. And freeCodeCamp has partnered with Harvard to publish the entire university-level course -- 25 hours worth of lectures -- on our community YouTube channel. But is this course for you? freeCodeCamp contributor Phoebe Voong-Fadel wrote an in-depth review of CS50. She'll help you make an educated decision as to whether this course is worth your time.",
+          "link": "https://www.freecodecamp.org/news/cs50-course-review/",
+          "order": "3",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn Software System Design. This course will teach you common engineering design patterns for building large-scale distributed systems. Then you'll use those techniques to code along at home and build your own live-streaming platform.",
+          "link": "https://www.freecodecamp.org/news/software-system-design-for-beginners/",
+          "order": "4",
+          "time_duration": "1.5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Last week I published my new book: \"How to Learn to Code and Get a Developer Job in 2023\". This week, by popular request, I added an additional chapter to it: \"How to Succeed in Your First Developer Job\". My book is freely available -- right in your browser. You can bookmark it and read it at your convenience.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-book/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "hours"
+        }
+      ]
+    },
+    {
+      "bonus": "If you're looking for a good starting point for your developer journey, this book is for you. You can read the whole thing now. (full-length book): https://www.freecodecamp.org/news/learn-to-code-book/",
+      "date": "Jan 7, 2023",
+      "links": [
+        {
+          "description": "Happy 2023. A few years back, one of the major book publishers from New York City reached out to me about a book deal. I met with them. But was too busy running freeCodeCamp. Well, last year I finally got caught up enough to write the book. And today I published it, right on freeCodeCamp. It's now freely available to anyone who wants to learn to code and become a professional.",
+          "link": null,
+          "order": "1"
+        },
+        {
+          "description": "Learn Python for web development. This crash course by freeCodeCamp teacher Tomi Tokko will teach you how to use Python with SQL and web APIs. You can code along at home and build several projects with both the Django and Flask frameworks.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-python-for-web-development/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the programming term \"abstraction\". But what exactly does it mean? This in-depth tutorial from software engineer Ryan Michael Kay will delve into abstraction, interfaces, protocols, and even lambda expressions. It should give you a basic grasp of these important programming concepts.",
+          "link": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming-for-beginners/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you enjoy listening to music, why not make some yourself? This beginners tutorial will teach you how to use a popular Digital Audio Workstation called FL Studio. In it, professional music producer Tristan Willcox will teach you about Virtual Instruments, Samples, Layers, Arrangement, Leveling, Mixing, Automation, Mastering, and more.",
+          "link": "https://www.freecodecamp.org/news/how-to-produce-music-with-fl-studio/",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Hundreds of universities around the world have made programming and computer science courses openly available on the web. My friend Dhawal has compiled 860 of these courses that you can explore. If you want, you can strap these together to build your own school year.",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "order": "5"
+        }
+      ],
+      "quote": "Give someone a program, you frustrate them for a day. Teach them how to program, you frustrate them for a lifetime.",
+      "quote_author": "David Leinweber, Mathematician and Berkeley Computer Science Professor"
+    },
+    {
       "bonus": "This is my final letter to you for 2022. I hope you've had a fun, insightful year. This has been an amazing year for the freeCodeCamp community. People are using freeCodeCamp more than ever. (People spent more than 4 billion minutes learning on freeCodeCamp this year!) We also launched major improvements to our curriculum, our Android app, and \u2013 of course \u2013 Learn to Code RPG.",
       "date": "Dec 24, 2022",
       "links": [
