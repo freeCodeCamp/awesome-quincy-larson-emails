@@ -4,7 +4,7 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
 ### Feb 3, 2023
-1.freeCodeCamp just published a fully-animated computer basics course. Even if you've been using computers for years, this course may be helpful for you. And it should definitely be helpful for any friends and family members who've never used a laptop or desktop before. This course covers computer hardware, how cloud computing works, security basics, and more. (1 hour YouTube course): https://www.freecodecamp.org/news/computer-basics-beginners
+1. freeCodeCamp just published a fully-animated computer basics course. Even if you've been using computers for years, this course may be helpful for you. And it should definitely be helpful for any friends and family members who've never used a laptop or desktop before. This course covers computer hardware, how cloud computing works, security basics, and more. (1 hour YouTube course): https://www.freecodecamp.org/news/computer-basics-beginners
 
 2. Hypertext Transfer Protocol (HTTP) is the foundation of data communication on the World Wide Web. And this in-depth course will teach you how this massive network of computers really works. You'll learn about Domain Name Systems, URL paths, security, and more. If you're interested in networks and back end development, this course should be well worth your time. (5 hour YouTube course): https://www.freecodecamp.org/news/http-networking-protocol-course/
 
