@@ -3,6 +3,18 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Feb 3, 2023
+1.freeCodeCamp just published a fully-animated computer basics course. Even if you've been using computers for years, this course may be helpful for you. And it should definitely be helpful for any friends and family members who've never used a laptop or desktop before. This course covers computer hardware, how cloud computing works, security basics, and more. (1 hour YouTube course): https://www.freecodecamp.org/news/computer-basics-beginners
+
+2. Hypertext Transfer Protocol (HTTP) is the foundation of data communication on the World Wide Web. And this in-depth course will teach you how this massive network of computers really works. You'll learn about Domain Name Systems, URL paths, security, and more. If you're interested in networks and back end development, this course should be well worth your time. (5 hour YouTube course): https://www.freecodecamp.org/news/http-networking-protocol-course/
+
+3. Django is a popular Python web development framework. If you want to build a sophisticated website, it may make sense to learn Django. Like Node.js, Django is used at scale – most notably powering Instagram's website and APIs. This course will teach you Django fundamentals. You'll code your own online marketplace while learning about core Django features. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/
+
+4. If you want to go old school and never even touch your mouse when you're coding, you can use the Vim code editor. Vim comes built-in with many operating systems. It uses a sophisticated series of keyboard shortcuts for quick code edits. It can take years to get really good at Vim. But I know many developers who swear up and down that this is worth the time investment. If you want to take the plunge, this Vim Beginner's Guide is a great starting point. (20 minute read): https://www.freecodecamp.org/news/vim-beginners-guide/
+
+5. I started freeCodeCamp back in 2014. Since then, a ton of people have asked for my advice on how to learn to code and ultimately get freelance clients and developer jobs. So last year, I wrote an entire book summarizing my many tips. Even though one of the Big 5 book publishers in New York was interested in a book deal, I decided to instead make this book freely available to everyone who wants to become a professional developer. I hope it's helpful for you and your friends who are getting into coding. (full-length book – roughly 6 hour read): https://www.freecodecamp.org/news/learn-to-code-book/
+
+Quote of the Week: *"To err is human. But to really foul things up you need a computer."* — Paul R. Ehrlich, biology professor at Stanford
 
 ### Jan 28, 2023
 1. freeCodeCamp just published our own university-level course to help you learn Algebra using Python. If you have forgotten much of the Algebra you learned – or if you never really learned it well in the first place – this course is for you. In it, freeCodeCamp instructor Ed Pratowski will teach you how to use Python and Jupyter Notebook to do math. You'll learn all about Variables, Graphing, Cartesian Planes, Factoring, and more. Ed has been teaching math to university students for more than two decades. I think you'll find his teaching style to be clear and memorable. (15 hour YouTube course): https://www.freecodecamp.org/news/college-algebra-course-with-python-code/
