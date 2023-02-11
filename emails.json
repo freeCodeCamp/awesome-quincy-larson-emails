@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "Feb 10, 2023",
+      "links": [
+        {
+          "description": "When I was first learning to code, I had trouble understanding exactly what an API is. But I came to understand that, in its simplest form, an API is like a website. But instead of sending HTML to a browser or mobile app, an API sends data. Usually JSON data. This in-depth freeCodeCamp course is taught by experienced developer and instructor Craig Dennis. It will teach you how to code your own REST API -- complete with server-side code, client-side data fetching, and more.",
+          "link": "https://www.freecodecamp.org/news/apis-for-beginners/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Remember those silly BuzzFeed personality quizzes? Like: \"What type of cheese are you?\" This course will teach you how to code your own BuzzFeed-style website using 3 different approaches: a vanilla JavaScript app, a React + JSON API app, and finally a TypeScript + Node.js mini-backend. This course is taught by long-time developer and freeCodeCamp instructor Ania Kub\u00f3w. If you code along at home, I think you'll learn a ton from this course, and have a lot of fun along the way.",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-code-a-buzzfeed-clone-in-three-ways/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you want to automate random tasks from your day-to-day life, Python is an excellent tool for the job. This tutorial will teach you how to write simple Python scripts that compress photos, turn text into speech, proof-read your messages, and more.",
+          "link": "https://www.freecodecamp.org/news/python-automation-scripts/",
+          "order": "3",
+          "time_duration": "12",
+          "time_type": "minutes"
+        },
+        {
+          "description": "In my years as a developer, I've found that people greatly underestimate how powerful spreadsheets are for doing data analysis. You don't need to be a statistician to squeeze out meaningful insights from your spreadsheet. One of the most helpful spreadsheet functions is LOOKUP, and its descendants VLOOKUP, HLOOKUP, and XLOOKUP. This in-depth tutorial will show you how to wield these powerful functions to slice and dice data just the way you need it.",
+          "link": "https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/",
+          "order": "4",
+          "time_duration": "14",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Also, freeCodeCamp just published a massive Git & GitHub course in Spanish. (Over the years, we've published several Git courses in English, too.) If you have Spanish-speaking friends who want to learn software development, please tell them that we now have in-depth courses on a broad range of coding topics. These are all taught in Spanish by Estefania. She's an experienced teacher and software engineer.",
+          "link": "https://www.freecodecamp.org/news/learn-git-and-github-in-spanish-course-for-beginners",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "An API that isn't comprehensible isn't usable.",
+      "quote_author": "James Gosling, Computer Scientist and Lead Developer of the Java Programming Language, on the importance of having easy-to-understand APIs"
+    },
+    {
       "date": "Feb 3, 2023",
       "links": [
         {
