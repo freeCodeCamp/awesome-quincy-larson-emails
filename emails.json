@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "Feb 17, 2023",
+      "links": [
+        {
+          "description": "It's 2023 and not only can you play other people's video games -- you can build games yourself. This freeCodeCamp GameDev course will teach you how to use JavaScript to code your own physics-based action game. You'll learn how to animate game sprites, implement collision detection, and program enemy AI. Along the way, you'll learn some CSS3, vanilla JavaScript, HTML Canvas, and other broadly useful open source tools.",
+          "link": "https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "What's the simplest way to get started with Python web development? Well, many developers will recommend Flask. You can learn the basics of this light-weight web development framework in just a few hours of study. This Python Web Development course will teach you how to build and deploy a production-ready, database-driven Flask app.",
+          "link": "https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "z-index is easily one of the most confusing properties in all of CSS. It controls how HTML elements appear on the page, and how close they are to your user's eyeballs. This beginner tutorial will teach you about \"Stacking Context.\" It will give you a solid mental model. Soon you too will understand how your browser's DOM renders elements on top of one another.",
+          "link": "https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/",
+          "order": "3",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "What are URIs? What are HTTP Headers? How does DNS work? This HTTP Networking Handbook will teach you many of the fundamentals about how the web works, with lots of helpful illustrations. You can bookmark it to use it as a reference. And freeCodeCamp also published a 4-hour video course to accompany it if you want to go even deeper.",
+          "link": "https://www.freecodecamp.org/news/http-full-course/",
+          "order": "4"
+        },
+        {
+          "description": "Learn Asynchronous Programming for beginners. This in-depth guide will teach you key async JavaScript concepts. You'll learn about the Call Stack, the Callback Queue, Promises, Threading, Async-Await, and more. If you want to take your computer science knowledge to the next level, this is well worth your time.",
+          "link": "https://www.freecodecamp.org/news/asynchronism-in-javascript/",
+          "order": "5",
+          "time_duration": "30",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "In physics, you don't have to go around making trouble for yourself. Nature does it for you.",
+      "quote_author": "Frank Wilczek, Physicist, Professor, and Nobel Laureate"
+    },
+    {
       "date": "Feb 10, 2023",
       "links": [
         {
