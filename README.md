@@ -3,6 +3,20 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Feb 17, 2023
+1. It's 2023 and not only can you play other people's video games – you can build games yourself. This freeCodeCamp GameDev course will teach you how to use JavaScript to code your own physics-based action game. You'll learn how to animate game sprites, implement collision detection, and program enemy AI. Along the way, you'll learn some CSS3, vanilla JavaScript, HTML Canvas, and other broadly useful open source tools. (3 hour YouTube course): https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/
+
+2. What's the simplest way to get started with Python web development? Well, many developers will recommend Flask. You can learn the basics of this light-weight web development framework in just a few hours of study. This Python Web Development course will teach you how to build and deploy a production-ready, database-driven Flask app. (4 hour YouTube course): https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/
+
+3. z-index is easily one of the most confusing properties in all of CSS. It controls how HTML elements appear on the page, and how close they are to your user's eyeballs. This beginner tutorial will teach you about "Stacking Context." It will give you a solid mental model. Soon you too will understand how your browser's DOM renders elements on top of one another. (40 minute read): https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/
+
+4. What are URIs? What are HTTP Headers? How does DNS work? This HTTP Networking Handbook will teach you many of the fundamentals about how the web works, with lots of helpful illustrations. You can bookmark it to use it as a reference. And freeCodeCamp also published a 4-hour video course to accompany it if you want to go even deeper. (full-length book): https://www.freecodecamp.org/news/http-full-course/
+
+5. Learn Asynchronous Programming for beginners. This in-depth guide will teach you key async JavaScript concepts. You'll learn about the Call Stack, the Callback Queue, Promises, Threading, Async-Await, and more. If you want to take your computer science knowledge to the next level, this is well worth your time. (30 minute read): https://www.freecodecamp.org/news/asynchronism-in-javascript/
+
+
+Quote of the Week: *"In physics, you don't have to go around making trouble for yourself. Nature does it for you."* — Frank Wilczek, Physicist, Professor, and Nobel Laureate
+
 ### Feb 10, 2023
 1. When I was first learning to code, I had trouble understanding exactly what an API is. But I came to understand that, in its simplest form, an API is like a website. But instead of sending HTML to a browser or mobile app, an API sends data. Usually JSON data. This in-depth freeCodeCamp course is taught by experienced developer and instructor Craig Dennis. It will teach you how to code your own REST API – complete with server-side code, client-side data fetching, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/apis-for-beginners/
 
