@@ -3,6 +3,20 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+
+### Feb 24, 2023
+1. If you're new to Linux, this freeCodeCamp course is for you. You'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distros like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical User Interfaces and powerful command line tool ecosystem. freeCodeCamp instructor Beau Carnes worked with engineers at Linux Foundation to develop this course for you. (6 hour YouTube course): https://www.freecodecamp.org/news/introduction-to-linux
+
+2. And if you're more experienced at Linux, you may want to learn how to code your own commands for the Linux command line. This tutorial will teach you how Bash aliases work, and how they can save you time. The author also shares a table of more than 20 aliases that he uses in his day-to-day work as a developer. (18 minute read): https://www.freecodecamp.org/news/how-to-create-your-own-command-in-linux/
+
+3. HTML gives structure to apps and websites. In this beginner course, you'll learn HTML fundamentals. freeCodeCamp instructor Ania Kubów will be your guide to many key web development concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/html-coding-introduction-course-for-beginners/
+
+4. SOLID Design Principles belong in your developer skill toolbox. They help you build codebases that will be easier to maintain and update without breaking things. This tutorial will introduce you to key concepts like the Single Responsibility Principle, the Open-Closed Principle, the Dependency Inversion Principle, and more. You'll even get some nice JavaScript code examples to illustrate these principles in action. (20 minute read): https://www.freecodecamp.org/news/solid-design-principles-in-software-development/
+
+5. More than 50 years ago, Pong kick-started the video game revolution. And today in 2023, you can code your own Pong game using Python and its built-in graphics library called Turtle. Turtle is even older than Pong. It was such a popular tool for teaching programming to kids in the 60s that Python imported it from an older language called Logo. This tutorial will teach you Python scripting and basic computer graphics concepts. (20 minute read): https://www.freecodecamp.org/news/how-to-code-pong-in-python/
+
+Quote of the Week: *"Theory and practice sometimes clash. And when that happens, theory loses. Every single time."* ― Linus Torvalds, Creator of Linux
+
 ### Feb 17, 2023
 1. It's 2023 and not only can you play other people's video games – you can build games yourself. This freeCodeCamp GameDev course will teach you how to use JavaScript to code your own physics-based action game. You'll learn how to animate game sprites, implement collision detection, and program enemy AI. Along the way, you'll learn some CSS3, vanilla JavaScript, HTML Canvas, and other broadly useful open source tools. (3 hour YouTube course): https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/
 
@@ -13,7 +27,6 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 4. What are URIs? What are HTTP Headers? How does DNS work? This HTTP Networking Handbook will teach you many of the fundamentals about how the web works, with lots of helpful illustrations. You can bookmark it to use it as a reference. And freeCodeCamp also published a 4-hour video course to accompany it if you want to go even deeper. (full-length book): https://www.freecodecamp.org/news/http-full-course/
 
 5. Learn Asynchronous Programming for beginners. This in-depth guide will teach you key async JavaScript concepts. You'll learn about the Call Stack, the Callback Queue, Promises, Threading, Async-Await, and more. If you want to take your computer science knowledge to the next level, this is well worth your time. (30 minute read): https://www.freecodecamp.org/news/asynchronism-in-javascript/
-
 
 Quote of the Week: *"In physics, you don't have to go around making trouble for yourself. Nature does it for you."* — Frank Wilczek, Physicist, Professor, and Nobel Laureate
 
