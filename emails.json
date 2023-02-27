@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "Feb 24, 2023",
+      "links": [
+        {
+          "description": "If you're new to Linux, this freeCodeCamp course is for you. You'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distros like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical User Interfaces and powerful command line tool ecosystem. freeCodeCamp instructor Beau Carnes worked with engineers at Linux Foundation to develop this course for you.",
+          "link": "https://www.freecodecamp.org/news/introduction-to-linux",
+          "order": "1",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you're more experienced at Linux, you may want to learn how to code your own commands for the Linux command line. This tutorial will teach you how Bash aliases work, and how they can save you time. The author also shares a table of more than 20 aliases that he uses in his day-to-day work as a developer.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-your-own-command-in-linux/",
+          "order": "2",
+          "time_duration": "18",
+          "time_type": "minutes"
+        },
+        {
+          "description": "HTML gives structure to apps and websites. In this beginner course, you'll learn HTML fundamentals. freeCodeCamp instructor Ania Kub\u00f3w will be your guide to many key web development concepts.",
+          "link": "https://www.freecodecamp.org/news/html-coding-introduction-course-for-beginners/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "SOLID Design Principles belong in your developer skill toolbox. They help you build codebases that will be easier to maintain and update without breaking things. This tutorial will introduce you to key concepts like the Single Responsibility Principle, the Open-Closed Principle, the Dependency Inversion Principle, and more. You'll even get some nice JavaScript code examples to illustrate these principles in action.",
+          "link": "https://www.freecodecamp.org/news/solid-design-principles-in-software-development/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "More than 50 years ago, Pong kick-started the video game revolution. And today in 2023, you can code your own Pong game using Python and its built-in graphics library called Turtle. Turtle is even older than Pong. It was such a popular tool for teaching programming to kids in the 60s that Python imported it from an older language called Logo. This tutorial will teach you Python scripting and basic computer graphics concepts.",
+          "link": "https://www.freecodecamp.org/news/how-to-code-pong-in-python/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Theory and practice sometimes clash. And when that happens, theory loses. Every single time.",
+      "quote_author": "Linus Torvalds, Creator of Linux"
+    },
+    {
       "date": "Feb 17, 2023",
       "links": [
         {
