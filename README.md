@@ -4,6 +4,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
 
+### Mar 3, 2023
+1. You may have heard about AIs that can beat the world's best Chess players, Go players, and even Starcraft players. Many of these AIs use a game-playing algorithm called AlphaZero. The AI starts out by playing a game against itself to learn the rules and discover strategies. After a few hours of training, it's often able to play the game at a superhuman level. This Python course will teach you how to code your own AlphaZero algorithm from scratch that can win at both Tic Tac Toe and Connect 4. You'll learn about Monte Carlo Tree Search, Neural Networks, and more. This is an ideal course for anyone who wants to learn more about Machine Learning. (4 hour YouTube course): https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/
+
+2. Security Researcher and freeCodeCamp contributor Sonya Moisset just made her Open Source Security Handbook freely available. If you're planning to open-source some of your code, this should be a helpful read. You'll learn about Static Analysis, Supply Chain Attacks, Secret Sprawl, and other s words. (full-length handbook): https://www.freecodecamp.org/news/oss-security-best-practices/
+
+3. Excel is a surprisingly powerful tool for doing data analysis. And you can get even more mileage out of Excel if you meld it with Python and the popular Pandas library. This tutorial will teach you how to merge spreadsheets, clean and filter them, and import them into datasets. You'll even learn how to turn spreadsheet data into Matplotlib data visualizations. (20 minute read): https://www.freecodecamp.org/news/automate-excel-tasks-with-python/
+
+4. If you're just starting your developer journey, you may hear a lot about APIs and how to use them in your projects. Well, this tutorial will give you a ton of examples of public APIs you can play around with. Weather APIs, News APIs, even an API to help you identify different breeds of dogs. This is a good place to get started. (16 minute read): https://www.freecodecamp.org/news/public-apis-for-developers/
+
+5. My friends Jess and Ramón have taught thousands of people how to code using the freeCodeCamp curriculum. And this week they're launching a new cohort program called the Bad Website Club. The pressure is off. Your website doesn't have to look perfect. You can instead just relax and enjoy the process of building websites with HTML, CSS, and JavaScript. Everything is freely available. You can join us at the launch party live stream on March 6. (5 minute read): https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/
+
+I've been sending these emails every Friday for 7 years now. It's such a joy to prepare these for you. A huge thanks to all the developers and teachers who help freeCodeCamp create these open learning resources. Now you can help our charity accomplish even more. Join thousands of kind people who are monthly supporters of our mission: https://www.freecodecamp.org/donate
+
+Quote of the Week: *"AlphaGo's way is not to make territory here or there, but to place every stone in a position where it will be most useful. This is the true theory of Go: not ‘what do I want to build?’, but rather ‘how can I use every stone to its full potential?’"* — Professional Go player Fan Hui after losing 5 games to AlphaGo, an AlphaZero algorithm trained to play the ancient strategy game of Go
+
 ### Feb 24, 2023
 1. If you're new to Linux, this freeCodeCamp course is for you. You'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distros like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical User Interfaces and powerful command line tool ecosystem. freeCodeCamp instructor Beau Carnes worked with engineers at Linux Foundation to develop this course for you. (6 hour YouTube course): https://www.freecodecamp.org/news/introduction-to-linux
 
