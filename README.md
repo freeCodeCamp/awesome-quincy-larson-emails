@@ -15,8 +15,6 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 5. My friends Jess and Ramón have taught thousands of people how to code using the freeCodeCamp curriculum. And this week they're launching a new cohort program called the Bad Website Club. The pressure is off. Your website doesn't have to look perfect. You can instead just relax and enjoy the process of building websites with HTML, CSS, and JavaScript. Everything is freely available. You can join us at the launch party live stream on March 6. (5 minute read): https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/
 
-I've been sending these emails every Friday for 7 years now. It's such a joy to prepare these for you. A huge thanks to all the developers and teachers who help freeCodeCamp create these open learning resources. Now you can help our charity accomplish even more. Join thousands of kind people who are monthly supporters of our mission: https://www.freecodecamp.org/donate
-
 Quote of the Week: *"AlphaGo's way is not to make territory here or there, but to place every stone in a position where it will be most useful. This is the true theory of Go: not ‘what do I want to build?’, but rather ‘how can I use every stone to its full potential?’"* — Professional Go player Fan Hui after losing 5 games to AlphaGo, an AlphaZero algorithm trained to play the ancient strategy game of Go
 
 ### Feb 24, 2023
