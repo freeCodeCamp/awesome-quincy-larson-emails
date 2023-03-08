@@ -1,6 +1,47 @@
 {
   "emails": [
     {
+      "bonus": "I've been sending these emails every Friday for 7 years now. It's such a joy to prepare these for you. A huge thanks to all the developers and teachers who help freeCodeCamp create these open learning resources. Now you can help our charity accomplish even more. Join thousands of kind people who are monthly supporters of our mission: https://www.freecodecamp.org/donate",
+      "date": "Mar 3, 2023",
+      "links": [
+        {
+          "description": "You may have heard about AIs that can beat the world's best Chess players, Go players, and even Starcraft players. Many of these AIs use a game-playing algorithm called AlphaZero. The AI starts out by playing a game against itself to learn the rules and discover strategies. After a few hours of training, it's often able to play the game at a superhuman level. This Python course will teach you how to code your own AlphaZero algorithm from scratch that can win at both Tic Tac Toe and Connect 4. You'll learn about Monte Carlo Tree Search, Neural Networks, and more. This is an ideal course for anyone who wants to learn more about Machine Learning.",
+          "link": "https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/",
+          "order": "1",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Security Researcher and freeCodeCamp contributor Sonya Moisset just made her Open Source Security Handbook freely available. If you're planning to open-source some of your code, this should be a helpful read. You'll learn about Static Analysis, Supply Chain Attacks, Secret Sprawl, and other s words.",
+          "link": "https://www.freecodecamp.org/news/oss-security-best-practices/",
+          "order": "2"
+        },
+        {
+          "description": "Excel is a surprisingly powerful tool for doing data analysis. And you can get even more mileage out of Excel if you meld it with Python and the popular Pandas library. This tutorial will teach you how to merge spreadsheets, clean and filter them, and import them into datasets. You'll even learn how to turn spreadsheet data into Matplotlib data visualizations.",
+          "link": "https://www.freecodecamp.org/news/automate-excel-tasks-with-python/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you're just starting your developer journey, you may hear a lot about APIs and how to use them in your projects. Well, this tutorial will give you a ton of examples of public APIs you can play around with. Weather APIs, News APIs, even an API to help you identify different breeds of dogs. This is a good place to get started.",
+          "link": "https://www.freecodecamp.org/news/public-apis-for-developers/",
+          "order": "4",
+          "time_duration": "16",
+          "time_type": "minutes"
+        },
+        {
+          "description": "My friends Jess and Ram\u00f3n have taught thousands of people how to code using the freeCodeCamp curriculum. And this week they're launching a new cohort program called the Bad Website Club. The pressure is off. Your website doesn't have to look perfect. You can instead just relax and enjoy the process of building websites with HTML, CSS, and JavaScript. Everything is freely available. You can join us at the launch party live stream on March 6.",
+          "link": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "AlphaGo's way is not to make territory here or there, but to place every stone in a position where it will be most useful. This is the true theory of Go: not \u2018what do I want to build?', but rather \u2018how can I use every stone to its full potential?'",
+      "quote_author": "Professional Go player Fan Hui after losing 5 games to AlphaGo, an AlphaZero algorithm trained to play the ancient strategy game of Go"
+    },
+    {
       "date": "Feb 24, 2023",
       "links": [
         {
