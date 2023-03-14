@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "Mar 10, 2023",
+      "links": [
+        {
+          "description": "The freeCodeCamp community is proud to bring you this latest computer science course in our partnership with Harvard. You'll learn Web Development with Python and the popular Django framework. You'll start by learning some HTML, CSS, and Git. Then you'll learn about user interface design, testing, scalability, and security. I hope you are able to code along at home, expand your skills, and enjoy some top-notch teaching.",
+          "link": "https://www.freecodecamp.org/news/learn-web-development-from-harvard-university-cs50/",
+          "order": "1",
+          "time_duration": "14",
+          "time_type": "hours"
+        },
+        {
+          "description": "One of our most requested courses over the past few years: LaTeX -- the powerful typesetting system used to design academic papers, scientific publications, and books. You'll learn these tools and concepts from Michelle Krummel. She has more than 20 years of teaching experience. You'll learn about mathematical notation, TexMaker, Overleaf, and the many packages available in the LaTeX ecosystem.",
+          "link": "https://www.freecodecamp.org/news/learn-latex-full-course/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "One of the most critical concepts you should understand about Git is Branching. We've got you covered. In this tutorial, Deborah Kurata will teach you how to create a local Git repository with a main branch, then branch off of it. She'll show you how to commit your code changes, then merge those files back into the main branch. This is what I like to call the \"core gameplay loop\" of software development. Enjoy.",
+          "link": "https://www.freecodecamp.org/news/git-branching-commands-explained/",
+          "order": "3",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "You may have heard about REST APIs. But have you heard about its predecessor, SOAP? Or cutting edge GraphQL APIs? This tutorial by software engineer Germ\u00e1n Cocca will teach you about the Client-Server Model, and how each of these API paradigms work. At the end of the day, an API is just \"a set of defined rules that establishes how one application can communicate with another.\" By the end, you'll have a better appreciation for how all these computers around the world communicate with one another.",
+          "link": "https://www.freecodecamp.org/news/rest-vs-graphql-apis/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you're a Linux enthusiast like I am, you may appreciate the sheer power Linux gives you. But only if you're willing to take the time to learn how to wield that power. The find command is one of those powerful tools. This tutorial will show you how to search through file systems by owner, type, permissions, recency, and even regex search. This is some SysAdmin-level stuff. And we'll keep these Linux tutorials coming.",
+          "link": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
+          "order": "5",
+          "time_duration": "10",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "We build our computers the way we build our cities: over time, without a plan, on top of ruins.",
+      "quote_author": "Ellen Ullman, Programmer and Author"
+    },
+    {
       "date": "Mar 3, 2023",
       "links": [
         {
