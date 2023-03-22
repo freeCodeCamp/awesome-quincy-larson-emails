@@ -3,6 +3,20 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+
+### Mar 17, 2023
+1. React is a powerful JavaScript library for coding web apps and mobile apps. This course will teach you the newest version of React – React 18 – along with the popular Redux Toolkit. This freeCodeCamp course is taught by legendary programming teacher John Smilga. You can code along at home as he teaches you all about Events, Props, Hooks, Data Flow, and more. (13 hour YouTube course): https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/
+
+2. And if you just can't get enough React, my fellow black-framed glasses enthusiast Germán Cocca has got you covered. The Argentinian software engineer wrote a detailed tutorial that shows you several ways of building the same React app, using a rainbow of React tools including Gatsby, Astro, Vite, Next, and Remix. Prepare to expand your mind. (1 hour read): https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/
+
+3. Ever wonder what it takes to land a Data Scientist role? No, you don't necessarily need a Ph.D. But you do need to be able to ace the technical interview. That's where my friends Kylie and Keith come in. They are both accomplished Data Scientists and prolific programming teachers. And they've designed this Data Science “Mock Interview” to give you a better idea of what this process will be like for you. (90-minute watch): https://www.freecodecamp.org/news/mock-data-science-job-interview/
+
+4. Flutter is a much-loved mobile app development framework. freeCodeCamp uses Flutter for our own Android app, and we swear by it. If you want to get into mobile development, Flutter is a great place to start, and this is a good first tutorial. You'll build your own mobile user experience using Flutter, Dart, and VS Code. (30 minute read): https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/
+
+5. My friend Dhawal uncovered more than 1,700 Coursera courses that are still freely available. If you just want to learn, and don't care about claiming the certificates at the end, this is for you. There are a ton of math, software engineering, and design courses – many taught by prominent university professors. This should be plenty to keep you learning new concepts and expanding your skills. (fully browsable list): https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
+
+Quote of the Week: *"The reason an experienced engineer moves so much faster than a beginner is because they've opened most of the “doors” they encounter in code thousands of times before. They stop to think, but so much is done purely by recall. This is why you need to practice, practice, practice."* — Dan Abramov, JavaScript Developer and Creator of Redux
+
 ### Mar 10, 2023
 1. The freeCodeCamp community is proud to bring you this latest computer science course in our partnership with Harvard. You'll learn Web Development with Python and the popular Django framework. You'll start by learning some HTML, CSS, and Git. Then you'll learn about user interface design, testing, scalability, and security. I hope you are able to code along at home, expand your skills, and enjoy some top-notch teaching. (14 hour YouTube course): https://www.freecodecamp.org/news/learn-web-development-from-harvard-university-cs50/
 
