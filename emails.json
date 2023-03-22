@@ -1,6 +1,44 @@
 {
   "emails": [
     {
+      "date": "Mar 17, 2023",
+      "links": [
+        {
+          "description": "React is a powerful JavaScript library for coding web apps and mobile apps. This course will teach you the newest version of React -- React 18 -- along with the popular Redux Toolkit. This freeCodeCamp course is taught by legendary programming teacher John Smilga. You can code along at home as he teaches you all about Events, Props, Hooks, Data Flow, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/",
+          "order": "1",
+          "time_duration": "13",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you just can't get enough React, my fellow black-framed glasses enthusiast Germ\u00e1n Cocca has got you covered. The Argentinian software engineer wrote a detailed tutorial that shows you several ways of building the same React app, using a rainbow of React tools including Gatsby, Astro, Vite, Next, and Remix. Prepare to expand your mind.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Ever wonder what it takes to land a Data Scientist role? No, you don't necessarily need a Ph.D. But you do need to be able to ace the technical interview. That's where my friends Kylie and Keith come in. They are both accomplished Data Scientists and prolific programming teachers. And they've designed this Data Science \"Mock Interview\" to give you a better idea of what this process will be like for you.",
+          "link": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
+          "order": "3"
+        },
+        {
+          "description": "Flutter is a much-loved mobile app development framework. freeCodeCamp uses Flutter for our own Android app, and we swear by it. If you want to get into mobile development, Flutter is a great place to start, and this is a good first tutorial. You'll build your own mobile user experience using Flutter, Dart, and VS Code.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "My friend Dhawal uncovered more than 1,700 Coursera courses that are still freely available. If you just want to learn, and don't care about claiming the certificates at the end, this is for you. There are a ton of math, software engineering, and design courses -- many taught by prominent university professors. This should be plenty to keep you learning new concepts and expanding your skills.",
+          "link": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
+          "order": "5"
+        }
+      ],
+      "quote": "The reason an experienced engineer moves so much faster than a beginner is because they've opened most of the \"doors\" they encounter in code thousands of times before. They stop to think, but so much is done purely by recall. This is why you need to practice, practice, practice.",
+      "quote_author": "Dan Abramov, JavaScript Developer and Creator of Redux"
+    },
+    {
       "date": "Mar 10, 2023",
       "links": [
         {
