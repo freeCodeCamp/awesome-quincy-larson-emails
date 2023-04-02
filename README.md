@@ -4,6 +4,42 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
 
+### Mar 31, 2023
+1. The most dreaded part of the developer job search is the “coding interview”. This is where a software engineer asks you to solve programming challenges right there on the spot – often by writing code on a whiteboard.
+
+Well, freeCodeCamp has hundreds of hours of practice challenges to help prepare you for this. And even better – we just published a course taught by my friends Kylie and Keith, who are both experienced software engineers.
+
+This “Mock Interview” will give you a much better idea of what a typical coding interview process is like. Kylie takes on the role of coding interview candidate, and answers Keith's questions about Object-Oriented Programming, Dynamic Programming, and more. (75-minute hour YouTube course): https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/
+
+2. Learn how to build a 3D animation that runs right inside a browser. You'll use React, WebGi, Three.js, and GSAP. You'll learn how to display 3D models on a website, animate them, and even optimize those 3D animations for mobile devices. Even though this may sound advanced, we made this course as beginner-accessible as possible. By the end of the course, you'll deploy your own 3D-animated website to the web. (2 hour YouTube course): https://www.freecodecamp.org/news/3d-react-webgi-threejs-course/
+
+3. Regular Expressions are a powerful – but notoriously tricky – programming tool. Luckily, ChatGPT is surprisingly good at creating these “RegEx” for you. In this course, freeCodeCamp instructor Ania Kubow will teach you how to build your very own RegEx-generating dashboard using the OpenAI API and Retool. (30-minute YouTube course): https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/
+
+4. When I first learned Git, I struggled a bit with the concepts of local repository, remote repository, and how to sync code changes between the two. But you don't have to struggle. Deborah Kurata has created this detailed Git tutorial that walks you through Git's key syncing features. She also included lots of short video demonstrations. If you're new to Git, this is a good place to start. (30 minute read): https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/
+
+5. freeCodeCamp just rolled out a major update to our Android app. You can now complete coding challenges right on your phone, with our smooth mobile coding user experience. And yes – we are working on an iOS version of the mobile app for iPhone, too. (5 minute read): https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/
+
+Quote of the Week: *"A lot of developers don’t realize that the interviewer is there to help you. It’s their job to bring out the best in you. You should always be working with your interviewer to show them your skills, and make sure you’re going down the right path. When they ask you a coding question, here’s what you should do: clarify the problem with them, articulate your plan, and then talk them through your code as you’re writing it."* — Alex Chiou, Software Engineer and founder of Taro
+
+### Mar 24, 2023
+1. Legendary programming teacher and frequent freeCodeCamp contributor Tim Ruscica will teach you how to code your own Mario-style platformer game in Python. You can code along at home and learn how to implement pixel-perfect collision detection, fully-animated character sprites, jump physics, and even double jump physics. (Don't try this last one in real life.) This course will also teach you some PyGame basics, and how to incorporate adorable pixel art assets. (2 hour YouTube course): https://www.freecodecamp.org/news/create-a-platformer-game-with-python/
+
+2. Django is a popular web development framework for Python. And in this course, you'll learn how to use Django by coding your own Customer Relationship Management (CRM) system. Software Engineer John Elder will walk you through building this web app step-by-step. You'll also learn some Git, MySQL, and the Bootstrap CSS library. CRM tools can help with your client work, job searches, and everyday tasks like keeping track of friends' birthdays. By the end of this course, you'll have built your own tool that you can use long-term. (2 hour YouTube course): https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/
+
+3. Linux is an incredibly powerful automation tool. And this tutorial will show you how to harness that power through the magical art of shell scripting. Zaira Hira is a developer at freeCodeCamp and a Linux superfan. She'll teach you Bash commands, data types, conditional logic, loops, cron jobs, and more. And yes, you can try all this without installing Linux on your computer. (30 minute read): https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
+
+4. Please Excuse My Dear Aunt Sally. That's the sentence kids memorize in the US, so that they can remember the mathematical Order of Operations: Parenthesis, Exponents, Multiplication, Division, Addition, Subtraction. And JavaScript has something similar: Operator Precedence. This in-depth tutorial by Franklin Okolie will teach you about these JavaScript operators and more. Enjoy greatest hits like Modulus, Increment, and Decrement. If you take the time to learn these, you'll save yourself a ton of headache down the road when you're debugging your code. (25 minute read): https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/
+
+5. If you want to get into Data Analytics, I have good news. Jeremiah Oluseye is a data scientist, and he created this roadmap to guide you in your journey. You'll learn which tools to focus your time on, which math you should brush up on, and how to build your network in the data community. (25 minute read): https://www.freecodecamp.org/news/data-analytics-roadmap/
+
+A big thanks to all 8,289 of you all who are now supporting freeCodeCamp. If you aren't yet donating to our charity, I encourage you to get involved. You can join us in our mission to create open learning resources for everyone, everywhere on Earth: https://www.freecodecamp.org/donate
+
+Quote of the Week: *"I think that in life, as in game design, you have to find the fun. There is joy out there waiting to be discovered, but it might not be where you expected.
+
+You can’t decide what something’s going to be before you embark on it, and you shouldn’t stick with a bad idea just because you’re fond of it. Take action as quickly and repeatedly as possible. Take advantage of what you already know. And take liberties with tradition.
+
+But most importantly, take the time to appreciate the possibilities, and make sure all of your decisions are interesting ones."* — Sid Meier, game developer and creator of the Civilization game series
+
 ### Mar 17, 2023
 1. React is a powerful JavaScript library for coding web apps and mobile apps. This course will teach you the newest version of React – React 18 – along with the popular Redux Toolkit. This freeCodeCamp course is taught by legendary programming teacher John Smilga. You can code along at home as he teaches you all about Events, Props, Hooks, Data Flow, and more. (13 hour YouTube course): https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/
 
