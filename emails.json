@@ -1,6 +1,86 @@
 {
   "emails": [
     {
+      "bonus": "This \"Mock Interview\" will give you a much better idea of what a typical coding interview process is like. Kylie takes on the role of coding interview candidate, and answers Keith's questions about Object-Oriented Programming, Dynamic Programming, and more. (75-minute hour YouTube course): https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
+      "date": "Mar 31, 2023",
+      "links": [
+        {
+          "description": "The most dreaded part of the developer job search is the \"coding interview\". This is where a software engineer asks you to solve programming challenges right there on the spot -- often by writing code on a.",
+          "link": null,
+          "order": "1"
+        },
+        {
+          "description": "Learn how to build a 3D animation that runs right inside a browser. You'll use React, WebGi, Three.js, and GSAP. You'll learn how to display 3D models on a website, animate them, and even optimize those 3D animations for mobile devices. Even though this may sound advanced, we made this course as beginner-accessible as possible. By the end of the course, you'll deploy your own 3D-animated website to the web.",
+          "link": "https://www.freecodecamp.org/news/3d-react-webgi-threejs-course/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Regular Expressions are a powerful -- but notoriously tricky -- programming tool. Luckily, ChatGPT is surprisingly good at creating these \"RegEx\" for you. In this course, freeCodeCamp instructor Ania Kubow will teach you how to build your very own RegEx-generating dashboard using the OpenAI API and Retool.",
+          "link": "https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/",
+          "order": "3"
+        },
+        {
+          "description": "When I first learned Git, I struggled a bit with the concepts of local repository, remote repository, and how to sync code changes between the two. But you don't have to struggle. Deborah Kurata has created this detailed Git tutorial that walks you through Git's key syncing features. She also included lots of short video demonstrations. If you're new to Git, this is a good place to start.",
+          "link": "https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "freeCodeCamp just rolled out a major update to our Android app. You can now complete coding challenges right on your phone, with our smooth mobile coding user experience. And yes -- we are working on an iOS version of the mobile app for iPhone, too.",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "A lot of developers don't realize that the interviewer is there to help you. It's their job to bring out the best in you. You should always be working with your interviewer to show them your skills, and make sure you're going down the right path. When they ask you a coding question, here's what you should do: clarify the problem with them, articulate your plan, and then talk them through your code as you're writing it.",
+      "quote_author": "Alex Chiou, Software Engineer and founder of Taro"
+    },
+    {
+      "bonus": "But most importantly, take the time to appreciate the possibilities, and make sure all of your decisions are interesting ones.\"* - Sid Meier, game developer and creator of the Civilization game series",
+      "date": "Mar 24, 2023",
+      "links": [
+        {
+          "description": "Legendary programming teacher and frequent freeCodeCamp contributor Tim Ruscica will teach you how to code your own Mario-style platformer game in Python. You can code along at home and learn how to implement pixel-perfect collision detection, fully-animated character sprites, jump physics, and even double jump physics. (Don't try this last one in real life.) This course will also teach you some PyGame basics, and how to incorporate adorable pixel art assets.",
+          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Django is a popular web development framework for Python. And in this course, you'll learn how to use Django by coding your own Customer Relationship Management (CRM) system. Software Engineer John Elder will walk you through building this web app step-by-step. You'll also learn some Git, MySQL, and the Bootstrap CSS library. CRM tools can help with your client work, job searches, and everyday tasks like keeping track of friends' birthdays. By the end of this course, you'll have built your own tool that you can use long-term.",
+          "link": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Linux is an incredibly powerful automation tool. And this tutorial will show you how to harness that power through the magical art of shell scripting. Zaira Hira is a developer at freeCodeCamp and a Linux superfan. She'll teach you Bash commands, data types, conditional logic, loops, cron jobs, and more. And yes, you can try all this without installing Linux on your computer.",
+          "link": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
+          "order": "3",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Please Excuse My Dear Aunt Sally. That's the sentence kids memorize in the US, so that they can remember the mathematical Order of Operations: Parenthesis, Exponents, Multiplication, Division, Addition, Subtraction. And JavaScript has something similar: Operator Precedence. This in-depth tutorial by Franklin Okolie will teach you about these JavaScript operators and more. Enjoy greatest hits like Modulus, Increment, and Decrement. If you take the time to learn these, you'll save yourself a ton of headache down the road when you're debugging your code.",
+          "link": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
+          "order": "4",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you want to get into Data Analytics, I have good news. Jeremiah Oluseye is a data scientist, and he created this roadmap to guide you in your journey. You'll learn which tools to focus your time on, which math you should brush up on, and how to build your network in the data community.",
+          "link": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
+          "order": "5",
+          "time_duration": "25",
+          "time_type": "minutes"
+        }
+      ]
+    },
+    {
       "date": "Mar 17, 2023",
       "links": [
         {
