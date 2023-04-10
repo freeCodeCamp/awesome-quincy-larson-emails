@@ -1,6 +1,45 @@
 {
   "emails": [
     {
+      "bonus": "I still do all my writing the old fashion way. But I'm finding LLMs to be helpful in a lot of other ways, including simplifying my code.",
+      "date": "Apr 7, 2023",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a new Front End Development course. You can code along at home and build your own game in raw HTML, CSS, and JavaScript. Then you'll learn how to refactor your game to make use of the Model-View-Controller design pattern. You'll then add TypeScript to improve the reliability of your code, and React to make your game more dynamic. This is an excellent project-oriented course for beginners.",
+          "link": "https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want even more web development practice, here's another beginner's course. It will teach you how to build a personal website using a lot of contemporary tools, including Next.js, Tailwind CSS, TypeScript, and Sanity. Kapehe has taught a lot of courses with freeCodeCamp, and I think you'll dig her friendly teaching style.",
+          "link": "https://www.freecodecamp.org/news/create-a-personal-website-with-next-js-13-sanity-io-tailwindcss-and-typescript/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the terms \"Symmetric Encryption\" and \"Asymmetric Encryption\". But what do they mean? This primer will teach you about these concepts, and how they power both the SSL protocol and its successor, TLS. Encryption makes the World Wide Web go \u2018round.",
+          "link": "https://www.freecodecamp.org/news/encryption-explained-in-plain-english/",
+          "order": "3",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And on the topic of encryption, it turns out that even something as basic as storing something safely on your computer requires quite a bit of applied mathematics. This tutorial on \"encryption at rest\" will walk you through some of the cryptography techniques developers use -- including hashing and salting. Just thinking about those makes me hungry for some hash browns.",
+          "link": "https://www.freecodecamp.org/news/encryption-at-rest/",
+          "order": "4",
+          "time_duration": "8",
+          "time_type": "minutes"
+        },
+        {
+          "description": "My friend Dhawal created this comprehensive list of 850 university courses that are freely available, which you can convert into college credit. There are a ton of different subjects to choose from, including Computer Science, Data Science, Math, and Information Security.",
+          "link": "https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/",
+          "order": "5"
+        }
+      ]
+    },
+    {
       "bonus": "This \"Mock Interview\" will give you a much better idea of what a typical coding interview process is like. Kylie takes on the role of coding interview candidate, and answers Keith's questions about Object-Oriented Programming, Dynamic Programming, and more. (75-minute hour YouTube course): https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
       "date": "Mar 31, 2023",
       "links": [
