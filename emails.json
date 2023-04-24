@@ -1,6 +1,90 @@
 {
   "emails": [
     {
+      "date": "Apr 21, 2023",
+      "links": [
+        {
+          "description": "The freeCodeCamp community just published a comprehensive project-based course on ChatGPT and the OpenAI API. This cutting-edge course will help you harness the power of Generative AI and Large Language Models. You'll learn from legendary programming teacher Ania Kub\u00f3w. She'll walk you through building 5 projects that leverage OpenAI's APIs: a SQL query generator, a custom ChatGPT React app, a DALL-E image creator, and more.",
+          "link": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to better understand the machine learning that powers AI tools like ChatGPT, this JavaScript Machine Learning course will most definitely be your jam. This \"No Black Box\" ML course is taught by Dr. Radu Mariescu-Istodor, one of the most popular computer science professors in the freeCodeCamp community. He'll show you how to build AI applications, implement classifiers, and explore data visualization -- all without relying on libraries. This is a great way to grok what's really running under the hood of AI systems.",
+          "link": "https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Functional Programming is hard. But it comes up all the time in developer coding interviews. This advanced JavaScript course will teach you key FP concepts like lexical scope, time optimization, hoisting, callbacks, and closures. You'll also gain a deeper understanding of currying and its practical applications in JavaScript.",
+          "link": "https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/",
+          "order": "3",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And if you really want to nail your coding interviews, take the advice of competitive programming world finalist Alberto Gonzalez. Instead of just memorizing the solutions to common interview questions, he recommends collaborating with your interviewer to talk through your coding assignment. He walks you through 3 mock interview questions, and gives you strategies for looking really smart while showcasing your problem-solving skills.",
+          "link": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
+          "order": "4",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Unleash your inner game developer with this new Godot Game Engine course. This beginner-friendly tutorial will guide you through coding your own platformer game. You'll design your game's User Interface, enemies, and 2D background scenes. Along the way, you'll also learn skills like event scripting, animation, and camera movement.",
+          "link": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
+          "order": "5",
+          "time_duration": "25",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Everything that civilisation has to offer is a product of human intelligence. We cannot predict what we might achieve when this intelligence is magnified by the tools that AI may provide, but the eradication of war, disease, and poverty would be high on anyone's list. Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last.",
+      "quote_author": "Stephen Hawking, Cosmologist, Theoretical Physicist, and my childhood hero"
+    },
+    {
+      "date": "Apr 14, 2023",
+      "links": [
+        {
+          "description": "freeCodeCamp just published an in-depth course on React Native. You can use this framework to code your own native mobile apps using JavaScript. You'll learn how to structure your app and set up your developer environment. Then you'll learn about React Components, Props, Styles, and more. By the end of the course, you'll have your own weather app you can run right on your phone.",
+          "link": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn to automate tasks and get Linux servers to do your bidding. This Bash course will teach you powerful command line skills you can use on Mac, Linux, and even Windows (using Subsystem for Linux). You'll learn about input redirection, logic operators, control flow, exit codes, and even text manipulation with AWK and SED.",
+          "link": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Firebase is a powerful database that runs in the cloud. This course will teach you how to use Firebase along with HTML, CSS, and React to develop your own simple shopping cart app. You can code along at home in your browser, and even deploy your finished app to the cloud.",
+          "link": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Linting is not just when you clean out your pockets. It's also a term for tools that can spot errors in your source code before you even run it. This tutorial will walk you through the history of linting tools stretching all the way back to the 1970s. It will also teach you about Code Formatters like Prettier, Beautify, and ESLint. This is an excellent primer for JavaScript devs.",
+          "link": "https://www.freecodecamp.org/news/using-prettier-and-jslint/",
+          "order": "4",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Keeping up with all this year's AI breakthroughs can feel overwhelming. Which is why I'm thrilled to share Edem Gold's History of AI, which stretches all the way back to the 1950s. You'll learn about Perceptrons, Hidden Markov Models, Deep learning, and more.",
+          "link": "https://www.freecodecamp.org/news/the-history-of-ai/",
+          "order": "5",
+          "time_duration": "25",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Early AI was mainly based on logic. You're trying to make computers that reason like people. The second route is from biology: You're trying to make computers that can perceive and act and adapt like animals.",
+      "quote_author": "Geoffrey Hinton, Computer Scientist, Cognitive Psychologist, and the \"Godfather of Artificial Intelligence\", talking about the increasingly successful neural network approach to Machine Learning"
+    },
+    {
       "bonus": "I still do all my writing the old fashion way. But I'm finding LLMs to be helpful in a lot of other ways, including simplifying my code.",
       "date": "Apr 7, 2023",
       "links": [
@@ -37,7 +121,9 @@
           "link": "https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/",
           "order": "5"
         }
-      ]
+      ],
+      "quote": "The more I study, the more insatiable do I feel my genius to be.",
+      "quote_author": "Ada Lovelace, mathematician and the world's first computer programmer"
     },
     {
       "bonus": "This \"Mock Interview\" will give you a much better idea of what a typical coding interview process is like. Kylie takes on the role of coding interview candidate, and answers Keith's questions about Object-Oriented Programming, Dynamic Programming, and more. (75-minute hour YouTube course): https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
