@@ -3,6 +3,31 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Apr 21, 2023
+1. The freeCodeCamp community just published a comprehensive project-based course on ChatGPT and the OpenAI API. This cutting-edge course will help you harness the power of Generative AI and Large Language Models. You'll learn from legendary programming teacher Ania Kubów. She'll walk you through building 5 projects that leverage OpenAI's APIs: a SQL query generator, a custom ChatGPT React app, a DALL-E image creator, and more. (5 hour YouTube course): https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/
+
+2. And if you want to better understand the machine learning that powers AI tools like ChatGPT, this JavaScript Machine Learning course will most definitely be your jam. This "No Black Box" ML course is taught by Dr. Radu Mariescu-Istodor, one of the most popular computer science professors in the freeCodeCamp community. He'll show you how to build AI applications, implement classifiers, and explore data visualization – all without relying on libraries. This is a great way to grok what's really running under the hood of AI systems. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/
+
+3. Functional Programming is hard. But it comes up all the time in developer coding interviews. This advanced JavaScript course will teach you key FP concepts like lexical scope, time optimization, hoisting, callbacks, and closures. You'll also gain a deeper understanding of currying and its practical applications in JavaScript. (30 minute read): https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/
+
+4. And if you really want to nail your coding interviews, take the advice of competitive programming world finalist Alberto Gonzalez. Instead of just memorizing the solutions to common interview questions, he recommends collaborating with your interviewer to talk through your coding assignment. He walks you through 3 mock interview questions, and gives you strategies for looking really smart while showcasing your problem-solving skills. (25 minute read): https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/
+
+5. Unleash your inner game developer with this new Godot Game Engine course. This beginner-friendly tutorial will guide you through coding your own platformer game. You'll design your game's User Interface, enemies, and 2D background scenes. Along the way, you'll also learn skills like event scripting, animation, and camera movement. (25 minute read): https://www.freecodecamp.org/news/learn-godot-for-game-development/
+
+Quote of the Week: *"Everything that civilisation has to offer is a product of human intelligence. We cannot predict what we might achieve when this intelligence is magnified by the tools that AI may provide, but the eradication of war, disease, and poverty would be high on anyone’s list. Success in creating AI would be the biggest event in human history. Unfortunately, it might also be the last."* — Stephen Hawking, Cosmologist, Theoretical Physicist, and my childhood hero
+
+### Apr 14, 2023
+1. freeCodeCamp just published an in-depth course on React Native. You can use this framework to code your own native mobile apps using JavaScript. You'll learn how to structure your app and set up your developer environment. Then you'll learn about React Components, Props, Styles, and more. By the end of the course, you'll have your own weather app you can run right on your phone. (5 hour YouTube course): https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/
+
+2. Learn to automate tasks and get Linux servers to do your bidding. This Bash course will teach you powerful command line skills you can use on Mac, Linux, and even Windows (using Subsystem for Linux). You'll learn about input redirection, logic operators, control flow, exit codes, and even text manipulation with AWK and SED. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/
+
+3. Firebase is a powerful database that runs in the cloud. This course will teach you how to use Firebase along with HTML, CSS, and React to develop your own simple shopping cart app. You can code along at home in your browser, and even deploy your finished app to the cloud. (2 hour YouTube course): https://www.freecodecamp.org/news/firebase-course-html-css-javascript/
+
+4. Linting is not just when you clean out your pockets. It's also a term for tools that can spot errors in your source code before you even run it. This tutorial will walk you through the history of linting tools stretching all the way back to the 1970s. It will also teach you about Code Formatters like Prettier, Beautify, and ESLint. This is an excellent primer for JavaScript devs. (15 minute read): https://www.freecodecamp.org/news/using-prettier-and-jslint/
+
+5. Keeping up with all this year's AI breakthroughs can feel overwhelming. Which is why I'm thrilled to share Edem Gold's History of AI, which stretches all the way back to the 1950s. You'll learn about Perceptrons, Hidden Markov Models, Deep learning, and more. (25 minute read): https://www.freecodecamp.org/news/the-history-of-ai/
+
+Quote of the Week: *"Early AI was mainly based on logic. You're trying to make computers that reason like people. The second route is from biology: You're trying to make computers that can perceive and act and adapt like animals."* — Geoffrey Hinton, Computer Scientist, Cognitive Psychologist, and the “Godfather of Artificial Intelligence”, talking about the increasingly successful neural network approach to Machine Learning
 
 ### Apr 7, 2023
 1. freeCodeCamp just published a new Front End Development course. You can code along at home and build your own game in raw HTML, CSS, and JavaScript. Then you'll learn how to refactor your game to make use of the Model-View-Controller design pattern. You'll then add TypeScript to improve the reliability of your code, and React to make your game more dynamic. This is an excellent project-oriented course for beginners. (10 hour YouTube course): https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/
@@ -19,8 +44,7 @@ A quick note on GPT-4 and other Large Language Model (LLM) tools: I'm spending s
 
 I still do all my writing the old fashion way. But I'm finding LLMs to be helpful in a lot of other ways, including simplifying my code.
 
-Quote of the Week: “The more I study, the more insatiable do I feel my genius to be.” — Ada Lovelace, mathematician and the world's first computer programmer
-
+Quote of the Week: *"The more I study, the more insatiable do I feel my genius to be."* — Ada Lovelace, mathematician and the world's first computer programmer
 
 ### Mar 31, 2023
 1. The most dreaded part of the developer job search is the “coding interview”. This is where a software engineer asks you to solve programming challenges right there on the spot – often by writing code on a whiteboard.
