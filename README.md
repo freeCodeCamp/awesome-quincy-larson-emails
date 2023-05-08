@@ -3,6 +3,36 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### May 5, 2023
+1. Learn to code in Python from one of the greatest living Computer Science professors, Harvard's David J. Malan. This is the newest course in freeCodeCamp's partnership with Harvard. It will teach you Python programming fundamentals like functions, conditionals, loops, libraries, file I/O, and more. If you are new to Python, or to coding in general, this is an excellent place to start. (16 hour YouTube course): https://www.freecodecamp.org/news/learn-python-from-harvard-university/
+
+2. And if you want to use your Python for data science, this course on Regression Analysis will help you understand relationships in your data. You'll learn concepts that underpin many machine learning algorithms, such as Linear Regression, Polynomial Regression, Feature Engineering, and more. And you'll reinforce your understanding along the way by coding several Python projects. (10 hour YouTube course): https://www.freecodecamp.org/news/master-regression-analysis-for-machine-learning/
+
+3. There's not a public API for everything. Sometimes developers have to resort to scraping. Scraping is a technique where you extract data directly from a webpage. And Python makes scraping so much easier. This course will teach you how to code your own Scrapy spider to crawl websites. Then you'll learn how to clean your data, build pipelines, and ultimately automate the entire process in the cloud. (5 hour YouTube course): https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/
+
+4. But if you have a website of your own and you don't want people to scrape it, you can provide an API for them instead. This freely available REST API Handbook will teach you how to code your own API using Node.js and Express. You'll also learn how to write tests for your API to ensure it works reliably. This is very important if you don't like waking up late at night to fix outages. You'll even learn how to document your API using a tool called Swagger. (full book): https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api
+
+5. You may have run Git's Merge command before. You may even have messed up a Git Merge before, resulting in a lot of extra work for yourself. To many, Git Merge is a mystery. But to you, no more. This definitive guide to Git's Merge feature will finally put those ambiguities to rest. And for the rest of your life, when you do a Git Merge, you'll do so with confidence that you actually understand what the heck is going on. (1 hour read): https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/
+
+It's been an amazing week for open learning resources. And these are just some of the books and courses the freeCodeCamp community published this week.
+
+If you haven't read my book yet, you should. It's called "How to Learn to Code and Get a Developer Job" and it's fully available on freeCodeCamp. It's really long, so you can bookmark it and read it at your own pace: https://www.freecodecamp.org/news/learn-to-code-book/
+
+Quote of the Week: *"Python is a truly wonderful language. When somebody comes up with a good idea, it takes about 1 minute and five lines to program something that almost does what you want. Then it takes only an hour to extend the script to 300 lines, after which it still does almost what you want."* — Jack Jansen, Scientific Programmer and Software Engineer
+
+### Apr 28, 2023
+1. If you're new to HTML, CSS, and JavaScript, this freeCodeCamp course is for you. Jess, AKA CoderCoder, will walk you through building your own social media dashboard app step-by-step. You'll build a simple website, then optimize it for different device sizes. You'll learn how to use hover states for your interactive elements, and even add a day-night mode toggle. This course touches on so many key skills, including how to create a GitHub repository for your code, how to approach basic web design, and how to keep accessibility top of mind. (7 hour YouTube course): https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/
+
+2. React is a powerful front end development JavaScript library. And one of its key components is React Router. This tool helps you pipe all your different React elements together into a sophisticated app. In this course, you'll learn on React Router 6 from renowned JavaScript instructor Bob Ziroll. He'll guide you through coding your own production-grade dynamic web app. (10 hour YouTube course): https://www.freecodecamp.org/news/learn-react-router-6-full-course/
+
+3. We've been talking a lot about the impact of Generative AI and Large Language Models (LLMs) like GPT-4. These are impacting software development in a lot of profound ways. And they're also making a splash in the field of cybersecurity. It turns out you can use LLMs to analyze threat patterns, write incident reports, and even debug your code. But this comes with its own set of risks, writes Daniel Iwugo. His primer will give you a higher fidelity lens through which you can look at AI and its implications for security. (20 minute read): https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/
+
+4. Even with all the recent AI breakthroughs, code still doesn't deploy itself. DevOps engineers and even regular devs need to know how to push their code to the internet. This beginner tutorial will explain common strategies you can use to deploy your code to production. You'll learn about Rolling Deployment, Blue/Green Deployment, and my personal favorite, Canary Deployment. (20 minute read): https://www.freecodecamp.org/news/application-deployment-strategies/
+
+5. I'm obsessed with learning. I'm constantly looking for ways to learn more efficiently so I can cram more into the 30-watt computer that is my brain. Which is why I was jazzed to read this guide by Otavio Ehrenberger. He shows you how to use tools like Python, Anki, and ChatGPT to automate your flashcard workflows and turbo-charge your learning. (15 minute read): https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/
+
+Quote of the Week: *"In a relatively short time we've taken a system built to resist destruction by nuclear weapons and made it vulnerable to toasters."* — Jeff Jarmoc, cybersecurity researcher, speaking of the World Wide Web and the Internet of Things
+
 ### Apr 21, 2023
 1. The freeCodeCamp community just published a comprehensive project-based course on ChatGPT and the OpenAI API. This cutting-edge course will help you harness the power of Generative AI and Large Language Models. You'll learn from legendary programming teacher Ania Kubów. She'll walk you through building 5 projects that leverage OpenAI's APIs: a SQL query generator, a custom ChatGPT React app, a DALL-E image creator, and more. (5 hour YouTube course): https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/
 
