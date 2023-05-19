@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "May 12, 2023",
+      "links": [
+        {
+          "description": "Learn the basics of Relational Databases. This SQL course for beginners will give you a strong conceptual foundation. You'll learn how to create Tables and how to drop them. You'll learn about Aggregation, Grouping, and Pagination. We've even included several SQL technical interview questions and answers that you may encounter during the developer job search.",
+          "link": "https://www.freecodecamp.org/news/learn-sql-full-course/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Go is a fast, statically-typed programming language. Over the past decade, it's gained somewhat of a cult following among developers. And we're proud to bring you this in-depth Go course. You'll code real-world projects like an RSS aggregator and an API key authenticator.",
+          "link": "https://www.freecodecamp.org/news/go-programming-video-course/",
+          "order": "2",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're interested in Back-End Development, you should familiarize yourself with these powerful software Design Patterns. This primer will introduce you to the Observer Pattern, the Decorator Pattern, Model-View-Controller, and more. You'll then learn how to use each of these approaches by examining real-world examples.",
+          "link": "https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/",
+          "order": "3",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "This tutorial will walk you through how to build your own chatbot powered by OpenAI's GPT API. You'll start by coding a simple command-line chat app using Node.js. Then you'll use React to build a web interface for your chatbot. Finally, you'll combine the two together. After a few hours of coding, you'll have your own custom chat interface. You can then expand upon it or incorporate it into other apps.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Many of the recent breakthroughs in AI are powered by Artificial Neural Networks. These work in surprisingly similar ways to how we think the human brain works. This article will explore the brain-inspired approach to building AI systems. You'll learn about Distributed Representations, Recurrent Feedback, Parallel Processing, and more.",
+          "link": "https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai/",
+          "order": "5",
+          "time_duration": "25",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Don't ask SQL developers to help you move furniture. They drop tables.",
+      "quote_author": "Carla Notarobot, Software Engineer and Bad Joke Sharer"
+    },
+    {
       "bonus": "If you haven't read my book yet, you should. It's called \"How to Learn to Code and Get a Developer Job\" and it's fully available on freeCodeCamp. It's really long, so you can bookmark it and read it at your own pace: https://www.freecodecamp.org/news/learn-to-code-book/",
       "date": "May 5, 2023",
       "links": [
