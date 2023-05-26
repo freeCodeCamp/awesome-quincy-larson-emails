@@ -3,6 +3,18 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### May 19, 2023
+1. Learn how to speed up your software development by making use of ChatGPT. In this freeCodeCamp course, you'll watch an experienced software developer as she builds a full-stack app in just 2 hours, with the help of ChatGPT. Along the way, she'll explain a bit about how Large Language Models like GPT-4 work, so you can better judge the quality of their output. These AI tools are improving quickly. And to harness their full power, you'll want to put in the time to really learn your math, programming, and computer science concepts. (2 hour YouTube course): https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/
+
+2. Learn to code an iPhone app, Android app, and native desktop app – all with the same codebase. This course will teach you cross-platform development using the powerful Ionic and Capacitor JavaScript libraries. You'll learn about Responsive UI, the Gesture API, Data storage, and more. (3 hour YouTube course): https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/
+
+3. You may have heard of "Clean Code" before. It's a collection of coding best practices. You can read this handbook, then bookmark it so you can refer to it when you need to understand key Clean Code concepts. You'll learn about Modularization, The Single Responsibility Principle, Naming Conventions, and more. (Full-length handbook): https://www.freecodecamp.org/news/how-to-write-clean-code/
+
+4. Can you spot the bug? This JavaScript course will teach you about common JavaScript security vulnerabilities and how to fix them. You'll look at code samples from JS, MongoDB, and Docker. Be sure to write me back and let me know how many of these you managed to get right. (30 minute YouTube course): https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/
+
+5. Learn GameDev with... Google Sheets? This tutorial will walk you through coding your own Tic Tac Toe game using Apps Script – right in a spreadsheet. (12 minute read): https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/
+
+Quote of the Week: *"Debugging is like being the detective in a crime movie where you are also the murderer."* — Filipe Fortes, Software Engineer
 
 ### May 12, 2023
 1. Learn the basics of Relational Databases. This SQL course for beginners will give you a strong conceptual foundation. You'll learn how to create Tables and how to drop them. You'll learn about Aggregation, Grouping, and Pagination. We've even included several SQL technical interview questions and answers that you may encounter during the developer job search. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-sql-full-course/
