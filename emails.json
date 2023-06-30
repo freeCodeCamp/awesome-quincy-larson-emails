@@ -1,13 +1,56 @@
 {
   "emails": [
     {
-      "bonus": "In this beginner's freeCodeCamp course on C programming, you'll learn about Pointers and key concepts like Passing By Reference, Passing By Value, Void Pointers, Arrays, and more. (2 hour YouTube course): https://www.freecodecamp.org/news/finally-understand-pointers-in-c/",
+      "date": "June 23, 2023",
+      "links": [
+        {
+          "description": "Pandas is a powerful data analysis library for Python. And in this course, freeCodeCamp instructor Santiago Basulto will teach you how to harness this power. You'll learn data analysis by categorizing Pok\u00e9mon. You'll learn data cleaning with a Premier League Match soccer dataset. And you'll learn data wrangling with an NBA season dataset. I encourage you to code along at home and build some Pandas muscle memory as you progress through these projects.",
+          "link": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Supabase is an open source alternative to Firebase. It's built on top of PostgreSQL, which makes it easier to learn if you're already familiar with SQL databases. This course will teach you how to use Supabase to streamline your back-end development. freeCodeCamp instructor Guillaume Duhan will teach you about real time databases and instant APIs. You'll learn about schemas, triggers, logs, webhooks, and tons of security features as well.",
+          "link": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "One of the key features of CSS is its Transform property. You can take any HTML element -- such as an image -- and stretch it, skew it, or flip it. Oluwatobi Sofela wrote this CSS Transform Handbook, which you can bookmark for the next time you want to alter an image right in your CSS.",
+          "link": "https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/",
+          "order": "3",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to incorporate AI tools into your web apps. Software engineer Tom Chant will walk you through coding your own \"know it all\" chatbot. If you already know some basic HTML, CSS, and JavaScript, you're all set to follow along with this intermediate tutorial. And if you enjoy it, Tom also created a full 5-hour course that expands upon it -- also available on freeCodeCamp.",
+          "link": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
+          "order": "4",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "As you may know, the freeCodeCamp community has invested a ton of time and energy into making our courses available in other languages. Estefania has been creating Spanish-language programming courses, and she just released her newest one on JavaScript DOM Manipulation. Be sure to tell your Spanish-speaking friends. And Estefania has written this article in English if you're curious to learn more about our localization efforts.",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-for-dom-manipulation-in-spanish-course-for-beginners/",
+          "order": "5",
+          "time_duration": "6",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Numbers have an important story to tell. They rely on you to give them a voice.",
+      "quote_author": "Stephen Few, Author and Data Analyst"
+    },
+    {
       "date": "June 16, 2023",
       "links": [
         {
-          "description": "C is the most widely-used programming language in the world. Even when you're coding in Python or JavaScript, you're still using C under the hood. One key reason why C is still so popular 50 years after its creation is its high performance. C directly interacts with computer hardware. One way it does this is through Pointers, which point to the location of data in the computer's physical.",
-          "link": null,
-          "order": "1"
+          "description": "C is the most widely-used programming language in the world. Even when you're coding in Python or JavaScript, you're still using C under the hood. One key reason why C is still so popular 50 years after its creation is its high performance. C directly interacts with computer hardware. One way it does this is through Pointers, which point to the location of data in the computer's physical memory. In this beginner's freeCodeCamp course on C programming, you'll learn about Pointers and key concepts like Passing By Reference, Passing By Value, Void Pointers, Arrays, and more.",
+          "link": "https://www.freecodecamp.org/news/finally-understand-pointers-in-c/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
         },
         {
           "description": "If you're wanting to earn professional certifications for your r\u00e9sum\u00e9 or LinkedIn, this new freeCodeCamp course will help you pass the Microsoft Power Platform Fundamentals Certification (PL-900) exam. You'll learn about Power BI, Power Virtual Agents, Power Automate, and other tools. freeCodeCamp now also has full-length courses on dozens of certifications from Azure, AWS, Google Cloud, Terraform, and more. We've got you covered.",
