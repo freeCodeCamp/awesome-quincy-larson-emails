@@ -1,6 +1,47 @@
 {
   "emails": [
     {
+      "bonus": "Joke of the Week: *\"It's only called a Neural Network if it comes from the Neural\u00e8 region of France. Otherwise you have to call it a logistic regression.\"* - Vicki Boykis, Machine Learning Engineer",
+      "date": "July 7, 2023",
+      "links": [
+        {
+          "description": "Is that a hot dog or not a hot dog? This Python AI course will teach you how to build a Convolutional Neural Network that can classify images. You'll use a database of food photos to train your AI to spot the hot dogs. You can also use CNNs for natural language processing -- think ChatGPT -- and time series forecasting. This is an excellent beginner AI course taught by freeCodeCamp instructor and Google engineer Kylie Ying.",
+          "link": "https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn to create your own programming language. If you know some basic Python, you're all set to dive in. This freeCodeCamp course will teach you language design concepts and data structures. You'll learn about Object Oriented Programming, Binary Trees, Linear Programming, Tokenization, Lexing, Parsing, and more.",
+          "link": "https://www.freecodecamp.org/news/create-your-own-programming-language-using-python/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp just published this full-length handbook on JavaScript. It will teach you how to set up your computer for JavaScript development with tools like VS Code. Then it will walk you through many features of the programming language, including Variables, Data Types, Operators, and Control Flow. You can read this and bookmark it for future reference as you continue to expand your JS skills.",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-for-beginners/",
+          "order": "3",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Most developers learn how to use Git's merge feature to add new code to an existing codebase. Git Merge preserves the exact history of code contributions. But sometimes you need a more surgical tool. That's where Git Rebase comes in. This handbook by software engineer and CTO Omer Rosenbaum will teach you how to use Git Merge, Git Rebase, Cherry Picking, and more.",
+          "link": "https://www.freecodecamp.org/news/git-rebase-handbook/",
+          "order": "4",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "What's the difference between Supervised Learning and Unsupervised Learning? This quick article will explain these two approaches to Machine Learning, and how each works. You'll also learn some AI techniques that each approach applies.",
+          "link": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ]
+    },
+    {
       "date": "June 30, 2023",
       "links": [
         {
