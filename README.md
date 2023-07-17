@@ -3,6 +3,21 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### July 14, 2023
+1. TypeScript is a popular version of JavaScript that uses static types. This means that for each variable in your code, you specify whether it's a string, array, integer, or other data type. Why bother with this? Because it will dramatically reduce the number of bugs in your codebase. freeCodeCamp moved to TypeScript a few years ago, and we haven't looked back. If you know some basic JavaScript, you can quickly learn TypeScript and start reaping the benefits. This full-length handbook will teach you how to use React with TypeScript. You can code along at home and build your own type-safe To Do List app. (full-length handbook – 2 hour read): https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/
+
+2. We also published a full-length book on Astro. It's a popular new User Interface framework that a lot of my friends are adopting. Astro is written in TypeScript, and built for speed. This book is structured as a series of projects. You can code along at home and build your own Component Island, then build React apps on top of it. Along the way, you'll get a feel for Server-Side Rendering. (full-length book - 8 hour read): https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/
+
+3. Steganography is the art of hiding things in plain sight. It translates to “the study of hidden things” in Greek. You can hide data inside of other data. Then – if you did it right – people will be none the wiser. This tutorial will show you how to use Steganography to hide information in text, images, video, and even network traffic itself. (15 minute read): https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/
+
+4. Deploying an app to the cloud can be a daunting task. Thankfully, we have Infrastructure-as-Code tools that make this process a lot simpler. This DevOps course will teach you how to use Terraform to configure your servers and domains. If you learn how to automate app deployment, you'll save a lot of time and headache down the line. (1 hour YouTube course): https://www.freecodecamp.org/news/how-to-use-terraform-to-deploy-a-site-on-google-cloud-platform
+
+5. Postman is a powerful tool for testing your APIs, and making sure that new feature code doesn't break your existing codebase. This in-depth course will show you how to use Postman to debug your API endpoints, and ultimately automate deployment using Continuous Integration / Continuous Delivery tools. You can code along at home, and do some CI/CD while listening to some AC/DC. (4 hour YouTube course): https://www.freecodecamp.org/news/master-api-testing-with-postman/
+
+Finally, I'm excited to share that after a 4 year break, I've relaunched the freeCodeCamp Podcast. I spent several weeks in San Francisco interviewing developers in-person at public libraries across the city. And this week I'm heading to New York City to interview even more devs. I'll publish a new interview each week. The first 3 interviews are already live. (3 new 2-hour episodes + 85 older episodes): https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/
+
+Quote of the Week: *"I love working with smart people and being challenged. I also like working on stuff that's relevant. That's my adrenaline shot."* — Anders Hejlsberg, Co-creator of TypeScript
+
 ### July 7, 2023
 1. Is that a hot dog or not a hot dog? This Python AI course will teach you how to build a Convolutional Neural Network that can classify images. You'll use a database of food photos to train your AI to spot the hot dogs. You can also use CNNs for natural language processing – think ChatGPT – and time series forecasting. This is an excellent beginner AI course taught by freeCodeCamp instructor and Google engineer Kylie Ying. (2 hour watch): https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/
 
