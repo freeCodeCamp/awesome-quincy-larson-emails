@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### July 21, 2023
+1. Learn to code your own Threads clone. Oops. I mean Twitter clone. Mastodon, Blue Sky, everyone's building their own Twitter. And now you can, too. Of course, the real goal is to learn new tools. And learn you shall. You'll get hands-on practice with powerful new tools like Next.js, Supabase, and Tailwind.css. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/
+
+2. Websites are fun. But sometimes you want a Graphical User Interface (GUI) that runs right on your user's operating system. That's where Python and the TKinter GUI library come in. This course is taught by software engineer and prolific freeCodeCamp contributor John Elder. You'll learn how to build ttkbootstrap widgets so your users can easily navigate and interact with your app. (3 hour YouTube course): https://www.freecodecamp.org/news/modern-python-app-design-with-ttkbootstrap/
+
+3. If you've got an old computer lying around, why not breathe new life into it by loading up a high-performance Linux operating system. I've found that even decade-old laptops can run like new with a light-weight Linux distribution. This tutorial will guide you through several options you can use to learn Linux through tinkering, while also resurrecting an old PC. (16 minute read): https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/
+
+4. You may have heard the term “Information Architecture”. Designers think in terms of how to structure information so it can be as digestible as possible for users. This tutorial will explain key IA and User-Centric Design concepts. Then it will walk you through the process of planning the Userflow for a website or app. (20 minute read): https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/
+
+5. I'm thrilled to announce that my friends Jess and Ramón are hosting another freely available coding bootcamp that uses freeCodeCamp's curriculum. This is the latest in their “Bad Website Club” series where people set their pride aside and just start coding for fun and practice. They'll host live streams throughout the month of August, and answer questions on the freeCodeCamp forum. If you have time, this is a fun way to make friends and learn about web development. (5 minute read): https://www.freecodecamp.org/news/free-webdev-bootcamp/
+
+Quote of the Week: *"There's a strand of the data viz world that argues that everything could be a bar chart. That's possibly true but also possibly a world without joy."* — Amanda Cox, Developer and Data Journalist
+
 ### July 14, 2023
 1. TypeScript is a popular version of JavaScript that uses static types. This means that for each variable in your code, you specify whether it's a string, array, integer, or other data type. Why bother with this? Because it will dramatically reduce the number of bugs in your codebase. freeCodeCamp moved to TypeScript a few years ago, and we haven't looked back. If you know some basic JavaScript, you can quickly learn TypeScript and start reaping the benefits. This full-length handbook will teach you how to use React with TypeScript. You can code along at home and build your own type-safe To Do List app. (full-length handbook – 2 hour read): https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/
 
