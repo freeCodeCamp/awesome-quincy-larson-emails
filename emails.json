@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "July 21, 2023",
+      "links": [
+        {
+          "description": "Learn to code your own Threads clone. Oops. I mean Twitter clone. Mastodon, Blue Sky, everyone's building their own Twitter. And now you can, too. Of course, the real goal is to learn new tools. And learn you shall. You'll get hands-on practice with powerful new tools like Next.js, Supabase, and Tailwind.css.",
+          "link": "https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/",
+          "order": "1",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Websites are fun. But sometimes you want a Graphical User Interface (GUI) that runs right on your user's operating system. That's where Python and the TKinter GUI library come in. This course is taught by software engineer and prolific freeCodeCamp contributor John Elder. You'll learn how to build ttkbootstrap widgets so your users can easily navigate and interact with your app.",
+          "link": "https://www.freecodecamp.org/news/modern-python-app-design-with-ttkbootstrap/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you've got an old computer lying around, why not breathe new life into it by loading up a high-performance Linux operating system. I've found that even decade-old laptops can run like new with a light-weight Linux distribution. This tutorial will guide you through several options you can use to learn Linux through tinkering, while also resurrecting an old PC.",
+          "link": "https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/",
+          "order": "3",
+          "time_duration": "16",
+          "time_type": "minutes"
+        },
+        {
+          "description": "You may have heard the term \"Information Architecture\". Designers think in terms of how to structure information so it can be as digestible as possible for users. This tutorial will explain key IA and User-Centric Design concepts. Then it will walk you through the process of planning the Userflow for a website or app.",
+          "link": "https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "I'm thrilled to announce that my friends Jess and Ram\u00f3n are hosting another freely available coding bootcamp that uses freeCodeCamp's curriculum. This is the latest in their \"Bad Website Club\" series where people set their pride aside and just start coding for fun and practice. They'll host live streams throughout the month of August, and answer questions on the freeCodeCamp forum. If you have time, this is a fun way to make friends and learn about web development.",
+          "link": "https://www.freecodecamp.org/news/free-webdev-bootcamp/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "There's a strand of the data viz world that argues that everything could be a bar chart. That's possibly true but also possibly a world without joy.",
+      "quote_author": "Amanda Cox, Developer and Data Journalist"
+    },
+    {
       "bonus": "Finally, I'm excited to share that after a 4 year break, I've relaunched the freeCodeCamp Podcast. I spent several weeks in San Francisco interviewing developers in-person at public libraries across the city. And this week I'm heading to New York City to interview even more devs. I'll publish a new interview each week. The first 3 interviews are already live. (3 new 2-hour episodes + 85 older episodes): https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
       "date": "July 14, 2023",
       "links": [
