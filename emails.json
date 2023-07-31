@@ -1,6 +1,44 @@
 {
   "emails": [
     {
+      "date": "July 28, 2023",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a full-length book on RegEx. Regular Expressions are one of the most powerful -- and most confusing -- features of programming languages. You'll learn concepts like flags, metacharacters, grouping, lookaround, and other advanced techniques. If you know even a little JavaScript, this book is for you.",
+          "link": "https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/",
+          "order": "1"
+        },
+        {
+          "description": "We also published an API development handbook. This book will walk you through setting up your own backend architecture using the powerful FastAPI Python framework. You'll learn how to structure your API, add a database, test it, and deploy it. Along the way, you'll code your own IMDB-like review aggregator site. Be sure to bookmark this and share it with your developer friends.",
+          "link": "https://www.freecodecamp.org/news/fastapi-quickstart/",
+          "order": "2"
+        },
+        {
+          "description": "And if you want to go even deeper into full-stack web development, this next course is for you. You'll code your own Next.js front end, API backend, and secure JSON Web Token user authentication system. You'll also learn about Middleware Route Protection, Appwrite, and MongoDB databases.",
+          "link": "https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/",
+          "order": "3",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "I'm going to attempt to explain 3 types of cloud storage in this single paragraph. Block Storage is like a book shelf that can hold a set number of pages -- say 100. A 200 page book would take up 2 shelves. File Storage then adds abstractions on top of that, such as directories and hierarchy. Finally, Object Storage is the newest, most durable approach. It just uses flat files. And I'm just scratching the surface here. You should totally read more in Daniel's thoughtful tutorial.",
+          "link": "https://www.freecodecamp.org/news/cloud-storage-options/",
+          "order": "4",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn to build \"markerless\" Augmented Reality objects that effortlessly float in space without the need for QR codes or other markers. This freeCodeCamp course will show you how to render a solar system around you. You'll render jet turbine simulations, virtual gardens, and even figure out how much furniture you can fit in your room. This is some cool emerging tech and I think you'll enjoy playing with it.",
+          "link": "https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Some people, when confronted with a problem, think \"I know, I'll use regular expressions.\" Now they have two problems.",
+      "quote_author": "Jamie Zawinski, Netscape Navigator Developer and reluctant RegEx user"
+    },
+    {
       "date": "July 21, 2023",
       "links": [
         {
