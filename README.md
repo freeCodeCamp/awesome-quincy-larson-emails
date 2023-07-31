@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### July 28, 2023
+1. freeCodeCamp just published a full-length book on RegEx. Regular Expressions are one of the most powerful – and most confusing – features of programming languages. You'll learn concepts like flags, metacharacters, grouping, lookaround, and other advanced techniques. If you know even a little JavaScript, this book is for you. (full-length book): https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/
+
+2. We also published an API development handbook. This book will walk you through setting up your own backend architecture using the powerful FastAPI Python framework. You'll learn how to structure your API, add a database, test it, and deploy it. Along the way, you'll code your own IMDB-like review aggregator site. Be sure to bookmark this and share it with your developer friends. (full-length handbook): https://www.freecodecamp.org/news/fastapi-quickstart/
+
+3. And if you want to go even deeper into full-stack web development, this next course is for you. You'll code your own Next.js front end, API backend, and secure JSON Web Token user authentication system. You'll also learn about Middleware Route Protection, Appwrite, and MongoDB databases. (6 hour YouTube course): https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/
+
+4. I'm going to attempt to explain 3 types of cloud storage in this single paragraph. Block Storage is like a book shelf that can hold a set number of pages – say 100. A 200 page book would take up 2 shelves. File Storage then adds abstractions on top of that, such as directories and hierarchy. Finally, Object Storage is the newest, most durable approach. It just uses flat files. And I'm just scratching the surface here. You should totally read more in Daniel's thoughtful tutorial. (15 minute read): https://www.freecodecamp.org/news/cloud-storage-options/
+
+5. Learn to build “markerless” Augmented Reality objects that effortlessly float in space without the need for QR codes or other markers. This freeCodeCamp course will show you how to render a solar system around you. You'll render jet turbine simulations, virtual gardens, and even figure out how much furniture you can fit in your room. This is some cool emerging tech and I think you'll enjoy playing with it. (2 hour YouTube course): https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/
+
+Quote of the Week: *"Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems."* — Jamie Zawinski, Netscape Navigator Developer and reluctant RegEx user
+
 ### July 21, 2023
 1. Learn to code your own Threads clone. Oops. I mean Twitter clone. Mastodon, Blue Sky, everyone's building their own Twitter. And now you can, too. Of course, the real goal is to learn new tools. And learn you shall. You'll get hands-on practice with powerful new tools like Next.js, Supabase, and Tailwind.css. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/
 
