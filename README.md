@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Aug 4, 2023
+1. For decades, Hollywood has created nightmare scenarios around AI destroying humanity. The Terminator, The Matrix, and most recently Ex Machina. Of course, we've already been using primative forms of AI for decades. It already powers many of the systems we rely on as a society. So how can we make new AI systems as safe as possible? Well, this freeCodeCamp course taught by the founder of Safe.AI will walk you through key concepts like Anomaly Detection, Interpretable Uncertainty, Black Swan Robustness, and Detecting Emergent Behavior. If you're serious about working on AI as a developer, this course should be required viewing. Take lots of notes and share it with your friends. (8 hour YouTube course): https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/
+
+2. One unambiguously good way to use AI is to help doctors detect diseases like cancer. This course is taught by New York City physician and programmer Dr. Jason Adleberg. In it, he'll share how he uses Machine Learning to help identify diseases. He'll show you how to use Python TensorFlow to prepare data, train your model, and evaluate its performance. If you're interested in the overlap between AI and medicine, this course is for you. (1 hour YouTube course): https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/
+
+3. Computers have been able to add numbers for more than 100 years. But today we're going to add numbers the hard way: by training a neural network to do it. This tutorial will teach you some Python Machine Learning concepts in the context of a very simple problem: adding 1 plus 1. (10 minute read): https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/
+
+4. Higher-Order Components are a powerful feature of the React JavaScript Library. You can use HOCs to take one React component and wrap it in another, returning a new component. These make your React code more flexible, more reusable, and easier to maintain. This tutorial will show you how to build your first HOC, and explain what's happening under the hood. (15 minute read): https://www.freecodecamp.org/news/higher-order-components-in-react/
+
+5. I just published my sixth episode of The freeCodeCamp Podcast. This week I talked with Sasha Sheng about how she got laid off from a Big Tech company, then dusted herself off and won a bunch of AI hackathons around San Francisco. And last week I met with one-and-only Shawn “Swyx” Wang to talk about his new AI Engineering projects, and where he thinks all this is heading. Search freeCodeCamp in your podcast player of choice, download some of the episodes, and tell your friends. I'll keep these interviews coming every Friday.
+
+Quote of the Week: *"The genie is out of the bottle. We need to move forward on artificial intelligence development, but we also need to be mindful of its very real dangers."* — Stephen Hawking, Theoretical Physicist, way back in 2017
+
 ### July 28, 2023
 1. freeCodeCamp just published a full-length book on RegEx. Regular Expressions are one of the most powerful – and most confusing – features of programming languages. You'll learn concepts like flags, metacharacters, grouping, lookaround, and other advanced techniques. If you know even a little JavaScript, this book is for you. (full-length book): https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/
 
