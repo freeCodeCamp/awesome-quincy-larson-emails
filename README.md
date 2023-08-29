@@ -3,6 +3,38 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Aug 25, 2023
+1. freeCodeCamp just published a new book to help you learn Python programming. This book explains core Python concepts through more than 100 code examples. It also shows you how to install the latest version of Python and use it in both VS Code and PyCharm. You'll learn about loops, data types, conditional logic, modules, and more. (full-length book): https://www.freecodecamp.org/news/the-python-code-example-handbook/
+
+2. For more Python practice, you can develop your own game with Pygame. You'll code your own playable version of the 1970s arcade classic Pong. This is a great first project for a beginner Python developer. (1 hour YouTube course): https://www.freecodecamp.org/news/beginners-python-tutorial-pong/
+
+3. And if you're ready for some more advanced Python, how about building an app on top of GPT-4, the powerful Large Language Model that powers ChatGPT? This course will show you how to use Python libraries, Vector Databases, and LLM APIs to create your own AI agents that can browse the web and carry out tasks for you. This is no longer science fiction – it's something anyone can sit down and learn how to do with some patience and good instruction. And freeCodeCamp has got good instruction in spades. (2 hour YouTube course): https://www.freecodecamp.org/news/development-with-large-language-models/
+
+4. Steganography. It's not a dinosaur – it's a method of hiding information in plain sight. This tutorial will teach you how Steganography works. Then it will show you how to code your own algorithm that can encrypt data right into the pixels of an image. (20 minute read): https://www.freecodecamp.org/news/build-a-photo-encryption-app/
+
+5. If you're feeling really ambitious, why not code your own Dropbox-like cloud storage app? This new freeCodeCamp course will teach you how to use the popular PHP Laravel web development framework. You can code along at home and build your own cloud locker app with a user-friendly web interface. This app will back up your files to Amazon's cloud, so you can conveniently share them with friends. (14 hour YouTube course): https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/
+
+These are just some of the many books and courses the freeCodeCamp community published this week. No one can stop us. They can't even slow us down. And you can help us further accelerate our mission to create open learning resources for everyone. Join the cause and become a supporter: https://www.freecodecamp.org/donate
+
+Quote of the Week: *"Only ugly languages become popular. Python is the one exception."* — Donald Knuth, prolific computer science author and Turing Award recipient
+
+### Aug 18, 2023
+1. The freeCodeCamp community loves JavaScript almost as much as we love Python. And we published several JavaScript tutorials for you this week. First and foremost, this tutorial by Kolade Chris will teach you some advanced JS concepts like Template Interpolation, Unary Plus, the Spread Operator, Destructuring, and Math Object methods. With tons of code examples, this tutorial should help you take your JS to the next level. (40 minute read): https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/
+
+2. Next you'll want to brush up on your JavaScript Operators. These are the valves that control how data flows through your app. This tutorial by freeCodeCamp contributor Nathan Sebhastian will walk you through Logical Operators, Comparison Operators, and even Bitwise Operators for extremely granular control. You'll even learn the ultra-concise Ternary Operator. (25 minute read): https://www.freecodecamp.org/news/javascript-operators/
+
+3. And if you want to turn your JS skills all the way up to 11, you can learn JavaScript Promises. Unlike Python, JavaScript is famously an asynchronous programming language. If you're a beginner, this asynchronicity can really melt your brain. That's where Promises come in. They help you rein in your parallel-running code so you can harness its true high-performance power. (25 minute read): https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/
+
+4.freeCodeCamp just published a comprehensive website optimization course, taught by prolific teacher Beau Carnes. You'll learn about caching techniques, server configuration, monitoring, Domain Name Systems, Content Delivery Networks, and more. This course is focused on WordPress, but you can apply most of these concepts to your website regardless of which tools you're using. Beau also included a book-length optimization guide. You should be able to read it and find a few low-hanging fruit ways to speed up your site. (full book + 2 hour YouTube course): https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/
+
+5. Terraform is a powerful Infrastructure-as-Code DevOps tool. You can write Terraform code that provisions infrastructure from multiple cloud service providers at the same time. For example Amazon Web Services, Microsoft Azure, and Google Cloud Platform. freeCodeCamp uses Terraform extensively to wrangle our 100+ servers around the world. And now you can learn to use it, too, and earn a professional certification as well. This Terraform cert prep course will help you grok the advanced concepts, modules, and workflows necessary to pass the exam. (7 hour YouTube course): https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course
+
+Finally, I created a video of my own. Over the years, one of the most common questions people ask me is: "With freeCodeCamp and other self-teaching tools, do I still need to go to university?" I answer this question and many more about technology, higher education, and the labor market. If you're considering going to university or have college-age kids, I encourage you to watch this and share it with your friends. I'd welcome any feedback you have. (1 hour watch): https://www.freecodecamp.org/news/is-college-worth-it
+
+The freeCodeCamp community is working hard to ensure that everyone everywhere on Earth has access to a world-class developer education. You can help our charity by donating to aid us in our mission. Thank you for your support: https://www.freecodecamp.org/donate
+
+Quote of the Week: *"Any application that can be written in JavaScript, will eventually be written in JavaScript."* — Atwood's Law, coined by Stack Overflow co-founder Jeff Atwood. I interviewed Jeff Atwood at his home in California. And I'm publishing my interview this week on The freeCodeCamp Podcast. Search for it in your podcast player of choice. And tell your friends.
+
 ### Aug 11, 2023
 1. freeCodeCamp has partnered with Harvard to bring you another mind-expanding CS50 course: Introduction to Artificial Intelligence with Python. You'll get broad exposure to Machine Learning theory: Optimization, Classification, Graph Search Algorithms, Reinforcement Learning, and more. You can code along at home and implement your own basic AIs using Python. This is a full university course that's completely self-paced and freely available. Enjoy. (12 hour YouTube course): https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course
 
