@@ -1,6 +1,84 @@
 {
   "emails": [
     {
+      "bonus": "These are just some of the many books and courses the freeCodeCamp community published this week. No one can stop us. They can't even slow us down. And you can help us further accelerate our mission to create open learning resources for everyone. Join the cause and become a supporter: https://www.freecodecamp.org/donate",
+      "date": "Aug 25, 2023",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a new book to help you learn Python programming. This book explains core Python concepts through more than 100 code examples. It also shows you how to install the latest version of Python and use it in both VS Code and PyCharm. You'll learn about loops, data types, conditional logic, modules, and more.",
+          "link": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
+          "order": "1"
+        },
+        {
+          "description": "For more Python practice, you can develop your own game with Pygame. You'll code your own playable version of the 1970s arcade classic Pong. This is a great first project for a beginner Python developer.",
+          "link": "https://www.freecodecamp.org/news/beginners-python-tutorial-pong/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you're ready for some more advanced Python, how about building an app on top of GPT-4, the powerful Large Language Model that powers ChatGPT? This course will show you how to use Python libraries, Vector Databases, and LLM APIs to create your own AI agents that can browse the web and carry out tasks for you. This is no longer science fiction -- it's something anyone can sit down and learn how to do with some patience and good instruction. And freeCodeCamp has got good instruction in spades.",
+          "link": "https://www.freecodecamp.org/news/development-with-large-language-models/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Steganography. It's not a dinosaur -- it's a method of hiding information in plain sight. This tutorial will teach you how Steganography works. Then it will show you how to code your own algorithm that can encrypt data right into the pixels of an image.",
+          "link": "https://www.freecodecamp.org/news/build-a-photo-encryption-app/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you're feeling really ambitious, why not code your own Dropbox-like cloud storage app? This new freeCodeCamp course will teach you how to use the popular PHP Laravel web development framework. You can code along at home and build your own cloud locker app with a user-friendly web interface. This app will back up your files to Amazon's cloud, so you can conveniently share them with friends.",
+          "link": "https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/",
+          "order": "5",
+          "time_duration": "14",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Only ugly languages become popular. Python is the one exception.",
+      "quote_author": "Donald Knuth, prolific computer science author and Turing Award recipient"
+    },
+    {
+      "bonus": "The freeCodeCamp community is working hard to ensure that everyone everywhere on Earth has access to a world-class developer education. You can help our charity by donating to aid us in our mission. Thank you for your support: https://www.freecodecamp.org/donate",
+      "date": "Aug 18, 2023",
+      "links": [
+        {
+          "description": "The freeCodeCamp community loves JavaScript almost as much as we love Python. And we published several JavaScript tutorials for you this week. First and foremost, this tutorial by Kolade Chris will teach you some advanced JS concepts like Template Interpolation, Unary Plus, the Spread Operator, Destructuring, and Math Object methods. With tons of code examples, this tutorial should help you take your JS to the next level.",
+          "link": "https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/",
+          "order": "1",
+          "time_duration": "40",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Next you'll want to brush up on your JavaScript Operators. These are the valves that control how data flows through your app. This tutorial by freeCodeCamp contributor Nathan Sebhastian will walk you through Logical Operators, Comparison Operators, and even Bitwise Operators for extremely granular control. You'll even learn the ultra-concise Ternary Operator.",
+          "link": "https://www.freecodecamp.org/news/javascript-operators/",
+          "order": "2",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And if you want to turn your JS skills all the way up to 11, you can learn JavaScript Promises. Unlike Python, JavaScript is famously an asynchronous programming language. If you're a beginner, this asynchronicity can really melt your brain. That's where Promises come in. They help you rein in your parallel-running code so you can harness its true high-performance power.",
+          "link": "https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/",
+          "order": "3",
+          "time_duration": "25",
+          "time_type": "minutes"
+        },
+        {},
+        {
+          "description": "Terraform is a powerful Infrastructure-as-Code DevOps tool. You can write Terraform code that provisions infrastructure from multiple cloud service providers at the same time. For example Amazon Web Services, Microsoft Azure, and Google Cloud Platform. freeCodeCamp uses Terraform extensively to wrangle our 100+ servers around the world. And now you can learn to use it, too, and earn a professional certification as well. This Terraform cert prep course will help you grok the advanced concepts, modules, and workflows necessary to pass the exam.",
+          "link": "https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course",
+          "order": "5",
+          "time_duration": "7",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+      "quote_author": "Atwood's Law, coined by Stack Overflow co-founder Jeff Atwood. I interviewed Jeff Atwood at his home in California. And I'm publishing my interview this week on The freeCodeCamp Podcast. Search for it in your podcast player of choice. And tell your friends."
+    },
+    {
       "date": "Aug 11, 2023",
       "links": [
         {
