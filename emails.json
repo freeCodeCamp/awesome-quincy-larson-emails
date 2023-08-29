@@ -1,7 +1,6 @@
 {
   "emails": [
     {
-      "bonus": "These are just some of the many books and courses the freeCodeCamp community published this week. No one can stop us. They can't even slow us down. And you can help us further accelerate our mission to create open learning resources for everyone. Join the cause and become a supporter: https://www.freecodecamp.org/donate",
       "date": "Aug 25, 2023",
       "links": [
         {
@@ -42,7 +41,7 @@
       "quote_author": "Donald Knuth, prolific computer science author and Turing Award recipient"
     },
     {
-      "bonus": "The freeCodeCamp community is working hard to ensure that everyone everywhere on Earth has access to a world-class developer education. You can help our charity by donating to aid us in our mission. Thank you for your support: https://www.freecodecamp.org/donate",
+      "bonus": "Finally, I created a video of my own. Over the years, one of the most common questions people ask me is: \"With freeCodeCamp and other self-teaching tools, do I still need to go to university?\" I answer this question and many more about technology, higher education, and the labor market. If you're considering going to university or have college-age kids, I encourage you to watch this and share it with your friends. I'd welcome any feedback you have. (1 hour watch): https://www.freecodecamp.org/news/is-college-worth-it",
       "date": "Aug 18, 2023",
       "links": [
         {
@@ -66,7 +65,13 @@
           "time_duration": "25",
           "time_type": "minutes"
         },
-        {},
+        {
+          "description": "freeCodeCamp just published a comprehensive website optimization course, taught by prolific teacher Beau Carnes. You'll learn about caching techniques, server configuration, monitoring, Domain Name Systems, Content Delivery Networks, and more. This course is focused on WordPress, but you can apply most of these concepts to your website regardless of which tools you're using. Beau also included a book-length optimization guide. You should be able to read it and find a few low-hanging fruit ways to speed up your site.",
+          "link": "https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
         {
           "description": "Terraform is a powerful Infrastructure-as-Code DevOps tool. You can write Terraform code that provisions infrastructure from multiple cloud service providers at the same time. For example Amazon Web Services, Microsoft Azure, and Google Cloud Platform. freeCodeCamp uses Terraform extensively to wrangle our 100+ servers around the world. And now you can learn to use it, too, and earn a professional certification as well. This Terraform cert prep course will help you grok the advanced concepts, modules, and workflows necessary to pass the exam.",
           "link": "https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course",
