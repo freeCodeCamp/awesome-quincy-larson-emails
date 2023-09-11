@@ -1,6 +1,45 @@
 {
   "emails": [
     {
+      "bonus": "Also be sure to tell your Spanish-speaking friends that freeCodeCamp has a ton of courses in Spanish, including this new web dev course for beginners where you code your own Pok\u00e9mon pok\u00e9dex: https://www.freecodecamp.org/news/html-css-and-javascript-project-in-spanish-create-a-pokedex/",
+      "date": "Sep 8, 2023",
+      "links": [
+        {
+          "description": "The first time I used ChatGPT, I was impressed. But I didn't yet realize how useful it would become in my day-to-day work as a developer. Only after I learned some Prompt Engineering techniques did I get good at communicating with the AI. Now I'm much more effective at getting Large Language Models to do tasks for me. That's why I'm excited to share this new freeCodeCamp course on Prompt Engineering. Ania Kub\u00f3w will teach you techniques like Few-Shot Prompting, Vectors, Embeddings, and how to reduce AI hallucinations.",
+          "link": "https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/",
+          "order": "1",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're brand new to HTML and CSS, this is the book for you. You'll learn about HTML, the skeleton of a webpage. You'll learn about CSS, the skin of a webpage. You'll even learn a little about JavaScript, the muscles of a webpage. Sprinkle in some DevTools and HTTP requests. Now you've got a proper web dev primer. Enjoy the book, and bookmark it for future reference as well.",
+          "link": "https://www.freecodecamp.org/news/html-css-handbook-for-beginners/",
+          "order": "2"
+        },
+        {
+          "description": "Code your own cloud storage app using contemporary web development tools. This course will teach you how to use TypeScript -- a version of JavaScript where all your variables are statically typed. This reduces bugs. You'll also use Next.js, a powerful front end framework. Then you'll layer on Tailwind CSS, a popular library for styling your user interface components. Finally, you'll learn how to use Firebase 9 to store your data.",
+          "link": "https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase/",
+          "order": "3",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "New developers often ask me how they can get some practical experience writing software. My answer: contribute to open source projects. There are thousands of software engineers out there who will review your work and give you feedback. Some of your code may even make it into production, where many people will benefit from it. Each open source contribution you make to a project like freeCodeCamp is a feather in your cap. And this book will show you how to get started with open source.",
+          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-handbook/",
+          "order": "4"
+        },
+        {
+          "description": "How do you filter the signal from the noise? Why, through Signal Processing. This is the set of techniques that engineers have used for decades to make clearer television signals, phone calls, and even medical diagnostic images. This tutorial will bring you up to speed on Signal Processing and Fast Fourier Transforms, which underpin many file compression algorithms. You'll also learn about Causality, Linearity, and Time-invariance.",
+          "link": "https://www.freecodecamp.org/news/signal-processing-and-systems-in-programming/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Being good at prompt engineering in 2023 is like being good at Googling in 2003.",
+      "quote_author": "Matt Turck, Venture Capitalist"
+    },
+    {
       "bonus": "Finally, I'm thrilled to introduce you to freeCodeCamp Press. These past few months, we've worked with developers from around the world to publish dozens of full length books and handbooks. Our goal is to share these tomes of wisdom with devs everywhere. You can bookmark these books to serve as a reference as you continue to expand your programming skills: https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/",
       "date": "Sep 1, 2023",
       "links": [
