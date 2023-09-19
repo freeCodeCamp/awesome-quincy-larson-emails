@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "Sep 15, 2023",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a beginner AI course where you can code your own assistant. You'll learn about vector embeddings and how you can use them on top of GPT-4 and other Large Language Models. This way you can code your own AI assistant with output customized by you. For example, you can throw all 11,000 tutorials freeCodeCamp has published into a database, embed them, and then your AI assistant can retrieve relevant tutorials when you ask it a question. This may sound pretty advanced, but modern tools make this a lot easier. You'll learn how to use OpenAI's GPT-4 API, LangChain, data from Hugging Face, and age-old Natural Language Processing techniques.",
+          "link": "https://www.freecodecamp.org/news/vector-embeddings-course/",
+          "order": "1",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Dynamic Programming (DP) is a method for solving complicated problems by breaking them down into smaller bits. You then store the solutions to these sub-problems in a table, where they can be more efficiently accessed, so the computer doesn't need to recalculate them each time. This efficient DP approach comes up all the time in Algorithms & Data Structure coding interview questions. And this freeCodeCamp course will teach you how to ace those questions. We teach DP using Java. But if you know Python, C++, or JavaScript, you may be able to follow along as well.",
+          "link": "https://www.freecodecamp.org/news/learn-dynamic-programming-in-java/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Terraform is a powerful Infrastructure-as-Code DevOps tool. You can write Terraform code that provisions infrastructure from multiple cloud service providers at the same time. For example Amazon Web Services, Microsoft Azure, and Google Cloud Platform. freeCodeCamp uses Terraform extensively to wrangle our 100+ servers around the world. Now you can learn to leverage this power, too. And earn a professional certification while you're at it. This Terraform Certified Associate guide will help you grok the advanced concepts, modules, and workflows necessary to pass the exam. It also includes a full-length Terraform course freeCodeCamp published a few weeks ago.",
+          "link": "https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/",
+          "order": "3",
+          "time_duration": "45",
+          "time_type": "minutes"
+        },
+        {
+          "description": "CSS transitions are a high-performance way to animate a webpage directly -- using its HTML elements. And this handbook will teach you how to harness their power. You'll learn about animation keyframes, timing, looping, and more.",
+          "link": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
+          "order": "4"
+        },
+        {
+          "description": "Finally, freeCodeCamp published a Fundamentals of Finance and Economics course. It covers a lot of key concepts you learn in business school, such as Time-Value of Money, Capital Budgeting, Financial Statements, and how Macroeconomic Forces shape industries. We plan to publish a lot more courses like this one in the future, to complement our already massive selection of math and computer science courses.",
+          "link": "https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "If \"Dynamic Programming\" didn't have such a cool name, it would be known as \"populating a table.\"",
+      "quote_author": "Mark Dominus, Software Engineer and Author of the book High Order Perl"
+    },
+    {
       "bonus": "Also be sure to tell your Spanish-speaking friends that freeCodeCamp has a ton of courses in Spanish, including this new web dev course for beginners where you code your own Pok\u00e9mon pok\u00e9dex: https://www.freecodecamp.org/news/html-css-and-javascript-project-in-spanish-create-a-pokedex/",
       "date": "Sep 8, 2023",
       "links": [
