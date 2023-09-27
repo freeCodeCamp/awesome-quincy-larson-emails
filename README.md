@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Sep 22, 2023
+1. freeCodeCamp just published a comprehensive Python for Beginners course, taught by software engineer Dave Gray. You'll learn key Python concepts by building a series of mini projects. By the end of this course, you'll be familiar with Python Data Types, Loops, Modules, and even some Object-Oriented Programming. If you want to learn programming, or brush up on your fundamental skills, this course is an excellent place to start. (9 hour YouTube course): https://www.freecodecamp.org/news/ultimate-beginners-python-course/
+
+2. Learn to build your own AI Software-as-a-Service platform. In this intermediate course, you'll code an app where your users can drag in a PDF and immediately start chatting with an AI about the document. Along the way, you'll learn how to use Next.js, Tailwind CSS, and OpenAI's API, and Stripe's API. And you'll even learn how to deploy your app using Vercel. (4 hour YouTube course): https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/
+
+3. And if you want to further improve your Front End Development skills, this course should do the trick. You'll code your own Search Engine-optimized blog, complete with custom fonts, light & dark themes, responsive design, and Markdown-based rendering. You'll learn modern tools like Next.js, Tailwind CSS, and Supabase. (6 hour YouTube course): https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js
+
+4. One of the most important design decisions you can make is picking the right font. This involves so many style and legibility considerations. But you also want to keep performance in mind. This guide will help you choose the right fonts for your next project, and ensure that they load as quickly as possible for your users. (16 minute read): https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/
+
+5. People often ask me: what's the best way to get practical experience as a developer? And I answer: contribute to open source projects. But that's easier said than done. Not only do you need to understand a project's codebase, but you also need to familiarize yourself with open source culture. This guide will help you learn how to communicate with project maintainers. That way you can succeed in getting your contributions merged, so you can get your code running in production. (20 minute read): https://www.freecodecamp.org/news/how-to-contribute-to-open-source/
+
+Quote of the Week: *"Good design's not about what medium you're working in. It's about thinking hard about what you want to do. And what you have to work with before you start."* — Susan Kare, Designer of the fonts and icons for the first Apple Macintosh, and pixel art pioneer
+
 ### Sep 15, 2023
 1. freeCodeCamp just published a beginner AI course where you can code your own assistant. You'll learn about vector embeddings and how you can use them on top of GPT-4 and other Large Language Models. This way you can code your own AI assistant with output customized by you. For example, you can throw all 11,000 tutorials freeCodeCamp has published into a database, embed them, and then your AI assistant can retrieve relevant tutorials when you ask it a question. This may sound pretty advanced, but modern tools make this a lot easier. You'll learn how to use OpenAI's GPT-4 API, LangChain, data from Hugging Face, and age-old Natural Language Processing techniques. (1 hour YouTube course): https://www.freecodecamp.org/news/vector-embeddings-course/
 
