@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "Sep 22, 2023",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a comprehensive Python for Beginners course, taught by software engineer Dave Gray. You'll learn key Python concepts by building a series of mini projects. By the end of this course, you'll be familiar with Python Data Types, Loops, Modules, and even some Object-Oriented Programming. If you want to learn programming, or brush up on your fundamental skills, this course is an excellent place to start.",
+          "link": "https://www.freecodecamp.org/news/ultimate-beginners-python-course/",
+          "order": "1",
+          "time_duration": "9",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn to build your own AI Software-as-a-Service platform. In this intermediate course, you'll code an app where your users can drag in a PDF and immediately start chatting with an AI about the document. Along the way, you'll learn how to use Next.js, Tailwind CSS, and OpenAI's API, and Stripe's API. And you'll even learn how to deploy your app using Vercel.",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to further improve your Front End Development skills, this course should do the trick. You'll code your own Search Engine-optimized blog, complete with custom fonts, light & dark themes, responsive design, and Markdown-based rendering. You'll learn modern tools like Next.js, Tailwind CSS, and Supabase.",
+          "link": "https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js",
+          "order": "3",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "One of the most important design decisions you can make is picking the right font. This involves so many style and legibility considerations. But you also want to keep performance in mind. This guide will help you choose the right fonts for your next project, and ensure that they load as quickly as possible for your users.",
+          "link": "https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/",
+          "order": "4",
+          "time_duration": "16",
+          "time_type": "minutes"
+        },
+        {
+          "description": "People often ask me: what's the best way to get practical experience as a developer? And I answer: contribute to open source projects. But that's easier said than done. Not only do you need to understand a project's codebase, but you also need to familiarize yourself with open source culture. This guide will help you learn how to communicate with project maintainers. That way you can succeed in getting your contributions merged, so you can get your code running in production.",
+          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Good design's not about what medium you're working in. It's about thinking hard about what you want to do. And what you have to work with before you start.",
+      "quote_author": "Susan Kare, Designer of the fonts and icons for the first Apple Macintosh, and pixel art pioneer"
+    },
+    {
       "date": "Sep 15, 2023",
       "links": [
         {
