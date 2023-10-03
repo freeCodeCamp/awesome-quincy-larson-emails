@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "Sep 29, 2023",
+      "links": [
+        {
+          "description": "Mojo is a programming language that combines the usability of Python with the performance of C. It just came out this month, and already the freeCodeCamp community has developed a course for it. You'll learn how to leverage Mojo's strengths for developing AI systems. This beginner's course will walk you through how Mojo works, and teach you its Data Types, Control Flow, Libraries, and more.",
+          "link": "https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Another emerging AI development tool is LangChain. It's a framework for Python and JavaScript that makes it easier to build apps around Large Language Models like GPT4. LangChain can help you connect various data sources to your model -- including your own databases. This project-based beginner's course will teach you how to get started with LangChain by coding your own pet name generator.",
+          "link": "https://www.freecodecamp.org/news/learn-langchain-for-llm-development/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "But don't think that freeCodeCamp is just focused on cutting edge AI tools. This week we also published a comprehensive crash course on Java. Learn why Java is celebrated as a \"write once, run anywhere\" programming language. You'll get practice with Java fundamentals, and get exposure to the powerful Java Virtual Machine. The JVM handles memory management, garbage collection, multithreading, and even some of your application security. This course is a great place to get started with Java.",
+          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/",
+          "order": "3",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "The 0/1 Knapsack Problem is an iconic optimization problem in computer science. Let's say you're in a hurry, and you need to pack your belongings into a knapsack that you can take with you. How do you maximize the value of your belongings given that you can only carry a certain amount of weight? To solve this problem, we're going to use C# and a coding approach called Dynamic Programming. freeCodeCamp instructor Gavin Lon teaches this course, and he even plays some electric guitar in the video. I think you'll dig it and learn a lot.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-dynamic-programming-to-solve-the-0-1-knapsack-problem/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "September 30th is World Translation Day. And the freeCodeCamp community is celebrating by publishing this full-length Localization Handbook that will show you how to translate your website or app into many world languages. Over the years, freeCodeCamp has published more than 11,000 coding tutorials. And we're working to localize these into many languages, so everyone can benefit from them. If you or your friends grew up speaking a language other than English, I encourage you to get involved. We have powerful software to help you make the most of any time you're able to volunteer.",
+          "link": "https://www.freecodecamp.org/news/localization-book-how-to-translate-your-website",
+          "order": "5"
+        }
+      ],
+      "quote": "Too many apparently \"simple\" technologies merely shift the complexity to other places: higher level tools, frameworks, package managers, wrappers, syntax extensions, etc. But well designed systems are simple to learn and use end-to-end, while permitting experts to build amazing things.",
+      "quote_author": "Chris Lattner, software engineer and designer of both the Mojo and Swift programming languages"
+    },
+    {
       "date": "Sep 22, 2023",
       "links": [
         {
