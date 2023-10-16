@@ -1,6 +1,88 @@
 {
   "emails": [
     {
+      "date": "Oct 13, 2023",
+      "links": [
+        {
+          "description": "Bun is hot out of the oven. The Node.js alternative JavaScript Runtime just released their version 1.0 last month, and already freeCodeCamp has this crash course for you. You'll learn how to set up a Bun web server, create routes, handle errors, add plugins, and wire everything to your front end. A lot of devs seem to dig Bun's superior performance and its built-in support for TypeScript and JSX. If you already know some Node.js, Bun shouldn't be too time-consuming to learn. This crash course is a good place to jump in.",
+          "link": "https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative",
+          "order": "1",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're building an AI system, please consider learning about AI ethics. freeCodeCamp just published our second primer on this important and potentially extinction-preventing topic. You don't need to know a lot about programming or about philosophy to enjoy this course. You'll learn about the current Black Box AI approach that many Large Language Models use, and its limitations. You'll also learn about some scenarios that were previously considered to be science fiction, such as The Singularity. freeCodeCamp is proud to help inform the discourse on developing AI tools responsibly.",
+          "link": "https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you've experimented with Large Language Models like GPT-4, you may be somewhat disappointed by their capabilities. Well, getting good responses out of LLMs is a skill in itself. This course will teach you the art and the science of Prompt Engineering, and even introduce some AI-assisted coding concepts. Then you'll be able to write clearer prompts and get more helpful responses from AI. I spent some time learning these techniques myself, and was blown away by how much more useful they made ChatGPT for me.",
+          "link": "https://www.freecodecamp.org/news/prompt-engineering-for-web-developers/",
+          "order": "3",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have used Notion before to organize your thoughts or plan a project. What if I told you that you could code your own Notion clone using open source tools? This course will walk you through doing just that. You'll learn to use the popular Next.js web development framework, the DALL-E AI image creator, Tailwind CSS, and even some Object Relational Mappers to communicate with your databases. You'll code the User Interface, code the back end, then deploy your finished app to the cloud.",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-full-stack-notion-clone-with-next-js-dall-e-vercel/",
+          "order": "4",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Put on your learning cap, because we're going to learn the many ways that computers talk to one another. This tutorial will whisk you through 6 key API integration patterns: REST APIs, Remote Procedure Calls, GraphQL, Polling, WebSockets, and WebHooks. By the end of this quick tutorial, you'll have a much better understanding of how the internet really works. This will make you a more well-rounded developer.",
+          "link": "https://www.freecodecamp.org/news/api-integration-patterns/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Perhaps we should all stop for a moment and focus not only on making our AI better and more successful, but also on the benefit of humanity.",
+      "quote_author": "Stephen Hawking, Astrophysicist and Science Author"
+    },
+    {
+      "date": "Oct 6, 2023",
+      "links": [
+        {
+          "description": "VS Code is a powerful code editor used by pretty much every developer on freeCodeCamp's team, and most of the other developers I know, too. But much of its power is non-obvious. So freeCodeCamp published this comprehensive beginner-to-advanced VS Code course. It will help you navigate VS Code's Command Palette, customized themes, keyboard shortcuts, and its library of extensions for React, GitHub, and more.",
+          "link": "https://www.freecodecamp.org/news/increase-your-vs-code-productivity/",
+          "order": "1",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "Arduino is a popular open source hardware project. You can use Arduino microcontrollers to build musical instruments, automate your home, prototype your electronics, or even gather climate data for a farm. This week freeCodeCamp published our Arduino Handbook to help you learn the Arduino programming language and how to leverage its powerful ecosystem of tools.",
+          "link": "https://www.freecodecamp.org/news/the-arduino-handbook",
+          "order": "2"
+        },
+        {
+          "description": "Learn how to build and deploy your own Ecommerce app using the latest version of the popular Next.js framework. You'll build a fully-functional shop complete with authentication and shopping cart functionality. You can code along at home and use the latest tools for everything: Tailwind CSS, the daisyUI component library, Prisma and MongoDB for data storage, and Vercel for deploying your shop to the cloud.",
+          "link": "https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course",
+          "order": "3",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp also published a course on coding your own developer portfolio page using the SvelteKit web development framework and Tailwind CSS. This course will teach you how to build user interfaces quickly without having to micro-manage your CSS. You'll even implement particle effects. Spend an hour of your week getting some exposure to these powerful tools.",
+          "link": "https://www.freecodecamp.org/news/learn-sveltekit-and-tailwind-css-by-building-a-web-portfolio/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "With all these recent breaches, API security has become a hot topic among developers. So, of course, freeCodeCamp is coming in clutch with this API security course. 20-year industry veteran Dan Barahona dives deep into PCI-DSS (the Payment Card Industry Data Security Standard). This set of rules governs online transactions. If your app or website does anything related to commerce, these best practices will help keep you and your customers secure.",
+          "link": "https://www.freecodecamp.org/news/api-security-for-pci-compliance/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Just like with everything else, tools won't give you good results unless you know how, when, and why to apply them. If you go out and you buy the most expensive frying pan on the market, it's still not going to make you a good chef.",
+      "quote_author": "Dr. Christin Wiedemann, Software Engineer and Physicist"
+    },
+    {
       "date": "Sep 29, 2023",
       "links": [
         {
