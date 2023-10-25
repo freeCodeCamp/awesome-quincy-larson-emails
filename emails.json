@@ -1,6 +1,44 @@
 {
   "emails": [
     {
+      "date": "Oct 20, 2023",
+      "links": [
+        {
+          "description": "freeCodeCamp just published this comprehensive Front End Developer Roadmap. If you're new to coding, Front End Development is a great skillset to build up first. freeCodeCamp teacher Beau Carnes will explain the core Front End concepts and tools you should prioritize learning first. You'll learn HTML, CSS, JavaScript, React, Next.js, VS Code, and even some AI Prompt Engineering. This roadmap is a big time commitment, but you can hop on and hop off as you see fit. Either way, you'll learn a ton of relevant skills and theory.",
+          "link": "https://www.freecodecamp.org/news/front-end-developer-roadmap",
+          "order": "1"
+        },
+        {
+          "description": "One powerful Front End Development technology that comes built-in to CSS is Flexbox. And freeCodeCamp just published an entire book on the subject. This Flexbox Handbook will teach you how to build responsive designs that look good on any sized device -- from a smart watch to a jumbotron. You'll learn the key Flex and Align properties through a series of practical examples. If you're new to CSS, bookmark this and use it as a reference when you're coding. It will serve you well.",
+          "link": "https://www.freecodecamp.org/news/the-css-flexbox-handbook/",
+          "order": "2"
+        },
+        {
+          "description": "Learn to code your own AI chatbot using the popular MERN stack: MongoDB, Express.js, React, and Node.js. You'll build a full-stack web app that uses these contemporary tools. Then you'll integrate it with OpenAI's GPT-4 API for world-class AI chat responses. By the end of this course, you'll have built your own ChatGPT clone that you can show off to your friends.",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/",
+          "order": "3",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "PostgreSQL is the most popular SQL database for building new projects. It's open source, and extremely battle-tested, being used at companies like Apple, Instagram, and Spotify. NASA even uses it on some of their projects. This course will show you how to run Postgres on your local computer and run several types of SQL queries. You'll even learn some Relational Database concepts, and advanced features like Aggregate Functions.",
+          "link": "https://www.freecodecamp.org/news/posgresql-course-for-beginners/",
+          "order": "4",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're anything like me, your browser probably has way too many tabs open right now. Not only are these eating up your computer's memory -- they are also opening you up to a type of malicious attack called \"Tabnabbing\". This may just sound like something PacMan does, but it can lead to some serious consequences. This quick tutorial by Juanita Washington will explain how Tabnabbing techniques work, so that you can defend yourself against bad actors who would use Tabnabbing to trick you.",
+          "link": "https://www.freecodecamp.org/news/what-is-tabnabbing/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Every time I think I'm doing some horrible front end code that \u2018works' I think back to when Fallout 3 wanted to animate a train, but objects can't move in their engine. So they gave an invisible guy a train-shaped-sized hat instead, and made him run the tracks. That's the spirit.",
+      "quote_author": "Front End Developer freezydorito on Twitter (And yes, that is really how Fallout 3's trains work)"
+    },
+    {
       "date": "Oct 13, 2023",
       "links": [
         {
