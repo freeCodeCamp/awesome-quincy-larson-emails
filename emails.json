@@ -1,6 +1,82 @@
 {
   "emails": [
     {
+      "date": "Nov 3, 2023",
+      "links": [
+        {
+          "description": "As you may know, each week I host The freeCodeCamp Podcast where I interview software developers. Well, I decided to do something special for our 100th episode. I recorded a full-length audiobook version of my 2023 book \"How to Learn to Code and Get a Developer Job.\" If you've been meaning to read my book, you can now listen to it on the go -- in its entirety. I consider podcasts to be my own personal \"University of the Commute.\" I listen to them every day while I'm getting around town. And I encourage you to do the same. Just search for The freeCodeCamp Podcast in whichever podcast app you use, or listen right in your browser.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-book/",
+          "order": "1"
+        },
+        {
+          "description": "This in-depth course will teach you Web Development for beginners. You'll learn key tools like HTML, CSS, and JavaScript. You'll even learn how to commit your code with Git and deploy it to the cloud. My friend Akash teaches this course. He's not only a developer -- he's also CEO of a machine learning startup. This man knows webdev like the back of his hand, and he's stellar at teaching it.",
+          "link": "https://www.freecodecamp.org/news/learn-web-development-with-this-free-20-hour-course",
+          "order": "2",
+          "time_duration": "20",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're already comfortable with web development, and want to learn mobile app development, this course will teach you how to code your own Android quiz app -- and from scratch. You'll build on top of your webdev knowledge by learning Android Components and the Kotlin programming language. Then you'll get some practice applying design principles and app logic concepts.",
+          "link": "https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/",
+          "order": "3",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're building a large website or app, you're going to want a Design System. This is a set of reusable components that helps get everyone on the same page. Developers can then use these components to build User Interfaces that are more consistent and harmonious. In this case study, Faith will show you how one startup uses a Design System to simplify collaboration.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-a-design-system/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Manually deploying your codebase to the cloud several times a day can get tedious. If you learn how to use Infrastructure as Code (IaC), you can automate this process. And with improvements in AI, you can simplify this even further. Beau Carnes teaches this course, and he'll show you IaC concepts in action. You'll learn how to use natural language -- plain English -- to describe what you want your infrastructure to look like. Through a combination of tools like GPT-4 and Pulumi, you'll build out your architecture. You'll even learn about Serverless Function Chaining.",
+          "link": "https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ]
+    },
+    {
+      "date": "Oct 27, 2023",
+      "links": [
+        {
+          "description": "Harvard's CS50 course is the most popular course at Harvard, and the most-watched Computer Science course in history. Through freeCodeCamp's partnership with Harvard, I present to you the brand new 2023 edition of this course. You'll learn CS fundamentals like Data Structures and Algorithms. You'll also learn C programming, Python, SQL, and other key tools of the trade. I know learning to code is a big undertaking. Ease into it with this fun, beginner-friendly course.",
+          "link": "https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/",
+          "order": "1",
+          "time_duration": "26",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you have some Python experience and want to get into Machine Learning, start with this freely available book we just published through freeCodeCamp Press. You'll learn how to harness the power of ML algorithms including Least Squares, Naive Bayes, Logistic Regression, and Random Forest. You'll also learn a variety of optimization techniques like Gradient Descent. You can read the book, tinker with the code examples, and bookmark it for future reference.",
+          "link": "https://www.freecodecamp.org/news/machine-learning-handbook/",
+          "order": "2"
+        },
+        {
+          "description": "freeCodeCamp also published a MySQL for Beginners course this week. You'll learn Relational Database concepts and SQL basics. This is a practical, jargon-free, no-nonsense course. I think you'll enjoy Josh's straightforward teaching style. It's clear to me that he's spent a large portion of his waking life using MySQL.",
+          "link": "https://www.freecodecamp.org/news/learn-mysql-beginners-course/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to write tests for your Python code. This comprehensive Pytest course will introduce you to testing concepts like Mocking, Fixtures, and Parameterization. You'll even learn some prompt engineering tips for using GPT-4 to help create Python tests for your code. This is a handy way to speed up your test creation workflow.",
+          "link": "https://www.freecodecamp.org/news/testing-in-python-with-pytest/",
+          "order": "4"
+        },
+        {
+          "description": "Finally, if you're interested in finance, freeCodeCamp just published a course on Algorithmic Trading with Python. You'll learn how to design an Unsupervised Machine Learning Trading Strategy. You'll also learn how to leverage Sentiment Analysis and intraday trading strategies using the GARCH Model. Proof that freeCodeCamp is truly a multi-disciplinary learning resource.",
+          "link": "https://www.freecodecamp.org/news/learn-algorithmic-trading-using-python",
+          "order": "5",
+          "time_duration": "3",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "What ultimately matters is not so much where you end up relative to your classmates, but where you end up relative to yourself when you began.",
+      "quote_author": "Harvard CS50 Professor David J. Malan"
+    },
+    {
       "date": "Oct 20, 2023",
       "links": [
         {
