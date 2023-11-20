@@ -1,6 +1,84 @@
 {
   "emails": [
     {
+      "date": "Nov 17, 2023",
+      "links": [
+        {
+          "description": "This Java book will help you build a solid foundation in Object-Oriented Programming (OOP). You can read this full book right in your browser, and bookmark it to serve as a reference down the road. It covers Java fundamentals like Data Types, Operators, and Control Flow. Then it dives into OOP concepts like Constructors, Inheritance, Polymorphism, and Encapsulation.",
+          "link": "https://www.freecodecamp.org/news/learn-java-object-oriented-programming/",
+          "order": "1"
+        },
+        {
+          "description": "My friend Andrew is a former CTO. Over the past 5 years, he's earned every single AWS and Azure cloud certification under the sun. Now he's back with a comprehensive course to prepare you for the Azure Solutions Architect exam. If you want to work in DevOps or Site Reliability Engineering, then this is an excellent certification to earn. And Andrew will show you the way.",
+          "link": "https://www.freecodecamp.org/news/become-an-azure-solutions-architect-expert-pass-the-az-305-exam/",
+          "order": "2",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to ace developer job interviews. This course will break down common coding interview topics like data structures and algorithms. Parth is an experienced software engineer who's worked at a number of tech companies including Microsoft. Along the way, he's learned several interviewing strategies that work, and he'll teach you all of them.",
+          "link": "https://www.freecodecamp.org/news/master-technical-interviews/",
+          "order": "3",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "PaLM 2 is a powerful new Large Language Model from Google. And we're bringing you an in-depth course on how to harness its power. In this course, popular freeCodeCamp instructor Ania K\u00fabow will walk you through building your own AI chatbot using the PaLM 2 API.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-palm-2-api/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "I met up with MIT-trained engineer Arian Agrawal in New York City to interview her about her journey into tech. She was working on Wall Street when she had an idea to rent out her friends' Indian dresses for weddings. What followed was a crazy journey into entrepreneurship. I had a blast recording this podcast interview, and I hope you enjoy listening to it.",
+          "link": "https://www.freecodecamp.org/news/podcast-arian-agrawal-from-mit-to-startup-land/",
+          "order": "5"
+        }
+      ],
+      "quote": "After I drink my coffee, I show my empty mug to the IT guy and tell him that I've successfully installed Java. He hates me.",
+      "quote_author": "A joke first told in an elevator at the Goldman Sachs building in 2013"
+    },
+    {
+      "date": "Nov 10, 2023",
+      "links": [
+        {
+          "description": "Learn the basics of hardware coding with the popular Arduino microcontroller. You'll learn how to control LEDs, motors, and even household objects like window blinds. You'll also learn how to hook up sensors for light, sound, and temperature. This is the ultimate DIY electronics tool, and this project-oriented course will teach you all about it. You can enjoy this course and learn these concepts even if you don't own an Arduino.",
+          "link": "https://www.freecodecamp.org/news/arduino-for-everybody/",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "I hung out in New York City with legendary programmer Joel Spolsky, who co-founded Stack Overflow and Trello. I got to interview him about his thoughts on software engineering, building companies, and how new AI tools represent a \"third age of programming\".",
+          "link": "https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/",
+          "order": "2"
+        },
+        {
+          "description": "Learn Python and the powerful Tkinter library by coding your own desktop app. In this quick tutorial, you'll learn Tkinter basics by building a whiteboard app with a Graphical User Interface. You'll code the window's navigation, buttons, and even a color picker.",
+          "link": "https://www.freecodecamp.org/news/build-a-whiteboard-app/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn how to build your own e-commerce sticker shop with AI-generated stickers. In this WordPress crash course, freeCodeCamp teacher Beau Carnes will walk you through coding and deploying your own site. He'll show you how to use AI tools to procedurally generate merchandise to stock your virtual shelves. This is a fun, breezy watch.",
+          "link": "https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Next.js is a popular JavaScript web development framework. And one of the trickiest parts of building an app is Authentication. This course will teach you how to use the latest version of Next.js together with several OAuth providers to sign your users in.",
+          "link": "https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "We're programmers. Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We're not excited by incremental renovation: tinkering, improving, planting flower beds.",
+      "quote_author": "Joel Spolsky"
+    },
+    {
       "date": "Nov 3, 2023",
       "links": [
         {
@@ -9,7 +87,7 @@
           "order": "1"
         },
         {
-          "description": "This in-depth course will teach you Web Development for beginners. You'll learn key tools like HTML, CSS, and JavaScript. You'll even learn how to commit your code with Git and deploy it to the cloud. My friend Akash teaches this course. He's not only a developer -- he's also CEO of a machine learning startup. This man knows webdev like the back of his hand, and he's stellar at teaching it.",
+          "description": "This in-depth course will teach you Web Development for beginners. You'll learn key tools like HTML, CSS, and JavaScript. You'll even learn how to commit your code with Git and deploy it to the cloud. My friend Akash teaches this course. He's not only a developer -- he's also the CEO of a machine learning startup. This man knows webdev like the back of his hand, and he's stellar at teaching it.",
           "link": "https://www.freecodecamp.org/news/learn-web-development-with-this-free-20-hour-course",
           "order": "2",
           "time_duration": "20",
@@ -42,7 +120,7 @@
       "date": "Oct 27, 2023",
       "links": [
         {
-          "description": "Harvard's CS50 course is the most popular course at Harvard, and the most-watched Computer Science course in history. Through freeCodeCamp's partnership with Harvard, I present to you the brand new 2023 edition of this course. You'll learn CS fundamentals like Data Structures and Algorithms. You'll also learn C programming, Python, SQL, and other key tools of the trade. I know learning to code is a big undertaking. Ease into it with this fun, beginner-friendly course.",
+          "description": "Harvard's CS50 course is the most popular course at Harvard and the most-watched Computer Science course in history. Through freeCodeCamp's partnership with Harvard, I present to you the brand new 2023 edition of this course. You'll learn CS fundamentals like Data Structures and Algorithms. You'll also learn C programming, Python, SQL, and other key tools of the trade. I know learning to code is a big undertaking. Ease into it with this fun, beginner-friendly course.",
           "link": "https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/",
           "order": "1",
           "time_duration": "26",
