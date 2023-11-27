@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "Nov 24, 2023",
+      "links": [
+        {
+          "description": "Learn how to build AIs with Machine Learning. This new intermediate course assumes you have some basic knowledge of statistics and Python. You'll learn how to use the powerful scikit-learn library to implement Linear Regression, Logistic Regression, Decision Trees, Random Forests, Gradient-Boosting Machines, and other building blocks of AI. This is a serious course, with all the rigor you've come to expect from the freeCodeCamp engineering community. I don't blame anyone for wanting to just chill this Thanksgiving weekend. But if you want to build some hard skills, freeCodeCamp's gobble gobble got you.",
+          "link": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
+          "order": "1",
+          "time_duration": "18",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want even more AI insight, learn how to use the popular LangChain framework to link your Large Language Models to your own external data. You'll learn about Vectorizing, Embedding, Piping, and other important concepts for building a chatbot that can talk about your specific data.",
+          "link": "https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Speaking of data, I met up in New York City with one of the foremost experts in the field of Data Visualization: Dr. Curran Kelleher. I interviewed him about Computer Science, how humans process visual information, and even the 5 years he spent in India after grad school. Curran is a prolific contributor to the freeCodeCamp community, having taught several Data Visualization courses. So it's an honor to have him on the freeCodeCamp Podcast.",
+          "link": "https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/",
+          "order": "3"
+        },
+        {
+          "description": "My friend Tapas has spent much of this past year thinking about developer career progressions. We just published his collection of common mistakes he sees developers make, and how to best avoid them. You can lean back with a hot beverage and learn what not to do.",
+          "link": "https://www.freecodecamp.org/news/career-mistakes-to-avoid-as-a-dev/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "A lot of my friends are using the holidays to prepare for the coding interview process as they apply for new roles. Don't let this process intimidate you. In this tutorial, freeCodeCamp developer Jessica Wilkins will walk you through solving a popular Leetcode problem called Two Sum. You'll learn how she thinks and solves the challenge step-by-step. You'll also get to check out her resulting data visualizations.",
+          "link": "https://www.freecodecamp.org/news/build-a-visualization-for-leetcode-two-sum-problem/",
+          "order": "5",
+          "time_duration": "40",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "The best software developers I know spend the holidays the way they are meant to be spent: doing basic tech support for blood relatives.",
+      "quote_author": "Maciej Ceg\u0142owski, Developer and founder of Pinboard"
+    },
+    {
       "date": "Nov 17, 2023",
       "links": [
         {
