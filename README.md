@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Nov 24, 2023
+1. Learn how to build AIs with Machine Learning. This new intermediate course assumes you have some basic knowledge of statistics and Python. You'll learn how to use the powerful scikit-learn library to implement Linear Regression, Logistic Regression, Decision Trees, Random Forests, Gradient-Boosting Machines, and other building blocks of AI. This is a serious course, with all the rigor you've come to expect from the freeCodeCamp engineering community. I don't blame anyone for wanting to just chill this Thanksgiving weekend. But if you want to build some hard skills, freeCodeCamp's gobble gobble got you. (18 hour YouTube course): https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/
+
+2. And if you want even more AI insight, learn how to use the popular LangChain framework to link your Large Language Models to your own external data. You'll learn about Vectorizing, Embedding, Piping, and other important concepts for building a chatbot that can talk about your specific data. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/
+
+3. Speaking of data, I met up in New York City with one of the foremost experts in the field of Data Visualization: Dr. Curran Kelleher. I interviewed him about Computer Science, how humans process visual information, and even the 5 years he spent in India after grad school. Curran is a prolific contributor to the freeCodeCamp community, having taught several Data Visualization courses. So it's an honor to have him on the freeCodeCamp Podcast. (1 hour listen in your browser or favorite podcast app): https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/
+
+4. My friend Tapas has spent much of this past year thinking about developer career progressions. We just published his collection of common mistakes he sees developers make, and how to best avoid them. You can lean back with a hot beverage and learn what not to do. (30 minute read): https://www.freecodecamp.org/news/career-mistakes-to-avoid-as-a-dev/
+
+5. A lot of my friends are using the holidays to prepare for the coding interview process as they apply for new roles. Don't let this process intimidate you. In this tutorial, freeCodeCamp developer Jessica Wilkins will walk you through solving a popular Leetcode problem called Two Sum. You'll learn how she thinks and solves the challenge step-by-step. You'll also get to check out her resulting data visualizations. (40 minute read): https://www.freecodecamp.org/news/build-a-visualization-for-leetcode-two-sum-problem/
+
+Quote of the Week: *"The best software developers I know spend the holidays the way they are meant to be spent: doing basic tech support for blood relatives."* — Maciej Cegłowski, Developer and founder of Pinboard
+
 ### Nov 17, 2023
 1. This Java book will help you build a solid foundation in Object-Oriented Programming (OOP). You can read this full book right in your browser, and bookmark it to serve as a reference down the road. It covers Java fundamentals like Data Types, Operators, and Control Flow. Then it dives into OOP concepts like Constructors, Inheritance, Polymorphism, and Encapsulation. (full-length book): https://www.freecodecamp.org/news/learn-java-object-oriented-programming/
 
