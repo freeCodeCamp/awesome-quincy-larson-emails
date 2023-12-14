@@ -1,6 +1,87 @@
 {
   "emails": [
     {
+      "bonus": "\u2014 Netsecfocus on Twitter",
+      "date": "Dec 8, 2023",
+      "links": [
+        {
+          "description": "Machine Learning Operations -- or MLOps -- is an emerging field where developers use DevOps principles to build AI. You can learn all about it by coding along with this intermediate course. You'll use Python, Pandas, and several Machine Learning libraries such as ZenML. By the time you finish, you will have built and deployed your own production-grade AI project.",
+          "link": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
+          "order": "1",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you're looking for a more beginner-friendly path into DevOps, earning an AWS certification may be the way to go. freeCodeCamp just published a course to help you prepare for the AWS Certified Cloud Practitioner exam. This course is newly updated for 2024. You'll learn cloud computing concepts, architecture, deployment models, and more.",
+          "link": "https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/",
+          "order": "2",
+          "time_duration": "14",
+          "time_type": "hours"
+        },
+        {
+          "description": "There's a way to represent images with code, and I use it all the time. SVG stands for Scalable Vector Graphics, and it's one of the most efficient ways to store images for icons or other simple patterns. It's so efficient because it stores the literal coordinates of all the lines and colors of your image. In this tutorial, freeCodeCamp contributor Hunor M\u00e1rton Borb\u00e9ly will teach you how to work with SVG files by coding your own Christmas tree, gingerbread man, and snowflake art.",
+          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
+          "order": "3",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Remember that game Snake that came preloaded on all those indestructible Nokia phones? You're going to learn how to code that classic game where the snake keeps eating and getting longer until it collides with itself. Along the way, you'll get hands-on practice with JavaScript. You'll also learn how to give your game a retro design using HTML and CSS.",
+          "link": "https://www.freecodecamp.org/news/javascript-beginners-project-snake-game",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Developers sometimes encode data as raw text using Base64, even though it takes up 33% more storage than binary. Why do they do this? Well, Base64 is just a combination of uppercase letters, lowercase letters, numbers, and two symbols: + and /. Just to check my math, that's 26 + 26 + 10 + 2 = 64 characters, right? This tutorial will teach you all the things you never knew you wanted to know about Base64. And it will solve the mystery of why developers continue to use this even today.",
+          "link": "https://www.freecodecamp.org/news/what-is-base64-encoding/",
+          "order": "5",
+          "time_duration": "25",
+          "time_type": "minutes"
+        }
+      ]
+    },
+    {
+      "date": "Dec 1, 2023",
+      "links": [
+        {
+          "description": "The subject line wasn't a typo. freeCodeCamp really did just publish a 4-day-long course. This is a full cloud engineering bootcamp developed by my friend Andrew Brown. He's a former CTO who has passed every single cloud certification exam under the sun. This hands-on project-oriented course will teach you all about serverless architecture, containerization, databases, pipelines, and enterprise cloud strategies. Clear your calendar. \ud83d\ude09.",
+          "link": "https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/",
+          "order": "1",
+          "time_duration": "107",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to code your own Instagram clone. You're going to reverse engineer the entire app, using contemporary tools like React and Firebase. You'll learn about authentication, post creation, real-time interaction, and more. By the end of this course, you'll have built a sophisticated social media app from scratch.",
+          "link": "https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/",
+          "order": "2",
+          "time_duration": "8",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to focus on your fundamental programming skills, this tutorial is for you. Joan Ayebola explains JavaScript's famously tricky logic operators. She'll teach you about conditional statements that form the core of day-to-day programming. You'll also learn about Switch Statements, Short-Circuit Evaluation, the Ternary Operator, and how to apply these to real world projects.",
+          "link": "https://www.freecodecamp.org/news/logic-in-javascript/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "I hung out with hardware engineer Bruno Haid at his studio in NYC. We talked about his childhood in the European countryside, designing custom printed circuit boards, Retrocomputing, and founding companies in the US. It's a fun, breezy conversation. And we do philosophize a bit about Star Trek.",
+          "link": "https://www.freecodecamp.org/news/podcast-hardware-engineering-bruno-haid/",
+          "order": "4"
+        },
+        {
+          "description": "Tell your Spanish speaking friends that freeCodeCamp just published a comprehensive web development course, taught by software engineer and native speaker Manuel Basanta. You'll learn HTML, CSS, and JavaScript by coding along at home and building 7 projects. Over the years, freeCodeCamp has published many courses on these topics in English. And now we're proud to teach them in Spanish as well.",
+          "link": "https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/",
+          "order": "5",
+          "time_duration": "3",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "The cloud is just someone else's computer.",
+      "quote_author": "Graham Cluley, Developer and Security Expert back in 2013"
+    },
+    {
       "date": "Nov 24, 2023",
       "links": [
         {
