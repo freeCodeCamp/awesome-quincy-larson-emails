@@ -3,6 +3,39 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Dec 8, 2023
+1. Machine Learning Operations – or MLOps – is an emerging field where developers use DevOps principles to build AI. You can learn all about it by coding along with this intermediate course. You'll use Python, Pandas, and several Machine Learning libraries such as ZenML. By the time you finish, you will have built and deployed your own production-grade AI project. (3 hour YouTube course): https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/
+
+2. And if you're looking for a more beginner-friendly path into DevOps, earning an AWS certification may be the way to go. freeCodeCamp just published a course to help you prepare for the AWS Certified Cloud Practitioner exam. This course is newly updated for 2024. You'll learn cloud computing concepts, architecture, deployment models, and more. (14 hour YouTube course): https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/
+
+3. There's a way to represent images with code, and I use it all the time. SVG stands for Scalable Vector Graphics, and it's one of the most efficient ways to store images for icons or other simple patterns. It's so efficient because it stores the literal coordinates of all the lines and colors of your image. In this tutorial, freeCodeCamp contributor Hunor Márton Borbély will teach you how to work with SVG files by coding your own Christmas tree, gingerbread man, and snowflake art. (30 minute read): https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/
+
+4. Remember that game Snake that came preloaded on all those indestructible Nokia phones? You're going to learn how to code that classic game where the snake keeps eating and getting longer until it collides with itself. Along the way, you'll get hands-on practice with JavaScript. You'll also learn how to give your game a retro design using HTML and CSS. (2 hour YouTube course): https://www.freecodecamp.org/news/javascript-beginners-project-snake-game
+
+5. Developers sometimes encode data as raw text using Base64, even though it takes up 33% more storage than binary. Why do they do this? Well, Base64 is just a combination of uppercase letters, lowercase letters, numbers, and two symbols: + and /. Just to check my math, that's 26 + 26 + 10 + 2 = 64 characters, right? This tutorial will teach you all the things you never knew you wanted to know about Base64. And it will solve the mystery of why developers continue to use this even today. (25 minute read): https://www.freecodecamp.org/news/what-is-base64-encoding/
+
+Poem of the Week:
+
+*"Roses are red,
+Violets are blue,
+The Base64 of I love you,
+Is SSBsb3ZlIHlvdQ=="*
+
+— Netsecfocus on Twitter
+
+### Dec 1, 2023
+1. The subject line wasn't a typo. freeCodeCamp really did just publish a 4-day-long course. This is a full cloud engineering bootcamp developed by my friend Andrew Brown. He's a former CTO who has passed every single cloud certification exam under the sun. This hands-on project-oriented course will teach you all about serverless architecture, containerization, databases, pipelines, and enterprise cloud strategies. Clear your calendar. 😉 (107 hour YouTube course): https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/
+
+2. Learn how to code your own Instagram clone. You're going to reverse engineer the entire app, using contemporary tools like React and Firebase. You'll learn about authentication, post creation, real-time interaction, and more. By the end of this course, you'll have built a sophisticated social media app from scratch. (8 hour YouTube course): https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/
+
+3. And if you want to focus on your fundamental programming skills, this tutorial is for you. Joan Ayebola explains JavaScript's famously tricky logic operators. She'll teach you about conditional statements that form the core of day-to-day programming. You'll also learn about Switch Statements, Short-Circuit Evaluation, the Ternary Operator, and how to apply these to real world projects. (20 minute read): https://www.freecodecamp.org/news/logic-in-javascript/
+
+4. I hung out with hardware engineer Bruno Haid at his studio in NYC. We talked about his childhood in the European countryside, designing custom printed circuit boards, Retrocomputing, and founding companies in the US. It's a fun, breezy conversation. And we do philosophize a bit about Star Trek. (2 hour listen in your browser or favorite podcast app): https://www.freecodecamp.org/news/podcast-hardware-engineering-bruno-haid/
+
+5. Tell your Spanish speaking friends that freeCodeCamp just published a comprehensive web development course, taught by software engineer and native speaker Manuel Basanta. You'll learn HTML, CSS, and JavaScript by coding along at home and building 7 projects. Over the years, freeCodeCamp has published many courses on these topics in English. And now we're proud to teach them in Spanish as well. (3 hour YouTube course): https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/
+
+Quote of the Week: *"The cloud is just someone else’s computer."* — Graham Cluley, Developer and Security Expert back in 2013
+
 ### Nov 24, 2023
 1. Learn how to build AIs with Machine Learning. This new intermediate course assumes you have some basic knowledge of statistics and Python. You'll learn how to use the powerful scikit-learn library to implement Linear Regression, Logistic Regression, Decision Trees, Random Forests, Gradient-Boosting Machines, and other building blocks of AI. This is a serious course, with all the rigor you've come to expect from the freeCodeCamp engineering community. I don't blame anyone for wanting to just chill this Thanksgiving weekend. But if you want to build some hard skills, freeCodeCamp's gobble gobble got you. (18 hour YouTube course): https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/
 
