@@ -1,6 +1,79 @@
 {
   "emails": [
     {
+      "bonus": "Joke of the Week: *\"Why do programmers always mix up Christmas and Halloween? Because Dec 25 = Oct 31.\"* In programming, Dec stands for Decimal, meaning a base-10 number system. And Oct stands for Octal, meaning a base-8 number system. So Dec 25 really does equal Oct 31. I know \u2013 this isn't the funniest programmer joke ever, but it is fun to think about.",
+      "date": "Dec 22, 2023",
+      "links": [
+        {
+          "description": "I'm proud to announce that after 2 years of development, freeCodeCamp's new upgraded JavaScript Algorithms and Data Structures certification is now live. You can learn JavaScript step-by-step by coding 21 different projects -- right in your browser. You'll build your own fantasy role playing game, mp3 player app, spreadsheet tool, and even a Pok\u00e9mon Pok\u00e9dex app.",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/",
+          "order": "1"
+        },
+        {
+          "description": "And that's just one of the many upgrades freeCodeCamp rolled out this week. We also published an interactive Python certification. It's 15 projects that you can complete right in your browser. And that's not all. We published our English for Developers curriculum to help non-native English speakers improve their English so they can work in tech. Here's my full year-end breakdown. You can read along and unwrap the many Christmas presents that the freeCodeCamp community has stuffed under your tree.",
+          "link": "https://www.freecodecamp.org/news/a-very-freecodecamp-christmas/",
+          "order": "2",
+          "time_duration": "10",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn full-stack web development with this comprehensive project-based course. You'll build and deploy your own hotel management dashboard. Along the way, you'll learn advanced tools like Next.js, React, Sanity, and Tailwind CSS. This is an excellent course to solidify your coding fundamentals.",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/",
+          "order": "3",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "Figma is a popular design and app prototyping tool. And they recently introduced a powerful feature that lets you declare variables, then use them throughout your projects. A lot of designers think this is a big deal. And freeCodeCamp just published a comprehensive handbook that will teach you how to leverage these Figma variables, so you can use them in your designs.",
+          "link": "https://www.freecodecamp.org/news/variables-in-figma-handbook/",
+          "order": "4"
+        },
+        {
+          "description": "On this week's freeCodeCamp Podcast, I interview Kylie Ying, a software engineer and AI researcher. We talk about her 5 years at MIT and her time at CERN working on the Large Hadron Collider. We also talk about competitive figure skating, poker-playing AIs, and the many courses she's published on freeCodeCamp over the years.",
+          "link": "https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/",
+          "order": "5"
+        }
+      ]
+    },
+    {
+      "date": "Dec 15, 2023",
+      "links": [
+        {
+          "description": "Learn to code your own mini Grand Theft Auto game with self-driving cars. Dr. Radu Mariescu-Istodor teaches this intermediate JavaScript course. He's already taught several freeCodeCamp courses on No Black Box AI development and self-driving cars. And now he'll teach you how to build an entire virtual world and populate it with those cars. You'll learn about spatial graphs, 3D geometry, road marking recognition, and how to incorporate real-world road data from OpenStreetMap.",
+          "link": "https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/",
+          "order": "1",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to learn even more hardcore AI skills, freeCodeCamp teacher Beau Carnes just published an in-depth course on Vector Embeddings, Vector Search, and Retrieval-Augmented Generation. You'll be able to augment off-the-shelf Large Language Models by using Semantic Similarity Search with your own in-house data. At freeCodeCamp we pride ourselves on teaching programming fundamentals. And yet we also teach emerging practices that only a few thousand people on earth know how to leverage. We'll help you become one of those people.",
+          "link": "https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're just starting your coding journey, don't let all these advanced topics intimidate you. freeCodeCamp just published a book that should be right up your alley. My friend Fatos authored \"How to Start Learning to Code -- a Handbook for Beginners.\" It will teach you about developer careers and how you can join the ranks of more than 30 million professional developers on Earth. Learning to code is a marathon -- not a sprint. And Fatos will give you lots of practical tips to help you power through the checkpoints.",
+          "link": "https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/",
+          "order": "3"
+        },
+        {
+          "description": "And another friend, Andrew Brown, just published a complete refresh of his Microsoft Azure Fundamentals certification course. It will help you learn cloud engineering fundamentals and prepare for Microsoft's AZ-900 exam. Andrew is a former CTO who has passed every cloud certification under the sun. He is the most qualified person imaginable to help you earn these r\u00e9sum\u00e9-reinforcing cloud certs.",
+          "link": "https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/",
+          "order": "4",
+          "time_duration": "8",
+          "time_type": "hours"
+        },
+        {
+          "description": "Finally, I had the privilege of touring the Computer History Museum in Mountain View, California. And while I was there I interviewed my long-time friend and fellow founder Dhawal Shah. He has run the popular Class Central website for more than a decade, and is a historian of Massive Open Online Courses. We talk about his childhood in India, how he won his first computer from a Cartoon Network sweepstakes, and how he moved to the US as an engineer and ultimately became a US citizen.",
+          "link": "https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/",
+          "order": "5"
+        }
+      ],
+      "quote": "Open world games are fun not because NPCs (non-player characters) have their own stories, but because the player can affect those stories in significant ways.",
+      "quote_author": "Tony Li, Unity forum user back in 2015"
+    },
+    {
       "bonus": "\u2014 Netsecfocus on Twitter",
       "date": "Dec 8, 2023",
       "links": [
