@@ -1,6 +1,84 @@
 {
   "emails": [
     {
+      "date": "Jan 19, 2024",
+      "links": [
+        {
+          "description": "Many people who are learning to code have the goal of eventually working as a developer. But landing that first developer role is not an easy task. Luckily, my friend Lane Wagner created this course to help guide you through the process. It's jam-packed with tips from me and a lot of other developers.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-developer-job",
+          "order": "1",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "For years, people have asked for an in-depth course on Data Engineering. And I'm thrilled to say freeCodeCamp just published one, and it's a banger. Data Engineers design systems to collect, store, and analyze data -- systems that Data Scientists and Data Analysts rely on. This course will teach you key concepts like Data Pipelines and ETL (Extract-Transform-Load). And you'll learn how to use tools like Docker, CRON, and Apache Airflow.",
+          "link": "https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp also just published a full-length book on Advanced Object-Oriented Programming (OOP) in Java. It will teach you Java Design Patterns, File Handling, I/O, Concurrent Data Structures, and more. And freeCodeCamp published a more beginner-friendly Java OOP book by the same author a while back, too.",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-java/",
+          "order": "3"
+        },
+        {
+          "description": "freeCodeCamp uses the open source NGINX web server, and more than one third of all other websites do, too. NGINX uses an asynchronous, event-driven architecture so you can handle a ton of concurrent users with fewer servers. We just published a crash course on using NGINX for back-end development. You'll learn how to use it for load balancing, reverse proxying, data streaming, and even as a Microservice Architecture.",
+          "link": "https://www.freecodecamp.org/news/nginx/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the term \"ACID database\". It refers to a database that guarantees transactions with Atomicity, Consistency, Isolation, and Durability. MySQL and PostgreSQL are fully ACID-compliant. Other databases like MongoDB and Cassandra have partial ACID guarantees. So what are these properties and why are they so important? This article by Daniel Adetunji will explain everything using helpful analogies and some of his own artwork.",
+          "link": "https://www.freecodecamp.org/news/acid-databases-explained/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Data engineers are the plumbers building a data pipeline, while data scientists are the painters and storytellers, giving the data a voice.",
+      "quote_author": "Steven Levy, author of many excellent books about developers and tech companies"
+    },
+    {
+      "date": "Jan 12, 2024",
+      "links": [
+        {
+          "description": "This week freeCodeCamp published a massive book on Git. Git was invented by the same programmer who created Linux. It's a powerful Version Control System that virtually all new software projects use. This said, even experienced developers can struggle to understand Git. So my friend Omer Rosenbaum -- the CTO of an AI company -- wrote this intermediate book. It will teach you how Git works under the hood, and how you can use it to collaborate with other devs around the world.",
+          "link": "https://www.freecodecamp.org/news/gitting-things-done-book/",
+          "order": "1"
+        },
+        {
+          "description": "Learn Data Analysis with Python. This comprehensive course will teach you how to analyze data using Excel, SQL, and even specialized industry tools like Power BI and Tableau. Along the way, you'll improve your Python and build several real-world projects you can show off to your friends. The instructor, Alex Freberg, has worked as a data analyst in a variety of industries. He's adept at explaining advanced topics. I think you'll enjoy this course and learn a lot.",
+          "link": "https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/",
+          "order": "2",
+          "time_duration": "19",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're new to coding but still want to quickly build prototype apps, AI tools can definitely help. ChatGPT is no substitute for programming skills, but it's reasonably good at creating code. This course will teach you some prompt engineering techniques. It will also give you a feel for the strengths and weaknesses of AI-assisted coding. Along the way, you'll build a drum set app and even a Whac-a-Mole game. This course is a great starting point for absolute beginners, and can serve as a gateway into full-blown software development. Be sure to tell your non-programmer friends about it.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
+          "order": "3",
+          "time_duration": "5",
+          "time_type": "hours"
+        },
+        {
+          "description": "A String is one of the most primordial of data types. You can find String variables in almost every programming language. Strings are just a sequence of characters, usually between two quote marks, like this: \"banana\". And yet there are so many things you can do with Strings: Concatenation, Comparison, Encoding, and even String Searching with Regular Expressions. Joan Ayebola wrote this in-depth handbook that will teach you everything you need to know about JavaScript Strings.",
+          "link": "https://www.freecodecamp.org/news/javascript-string-handbook/",
+          "order": "4"
+        },
+        {
+          "description": "Hugging Face is not just what happens in the 1979 movie \"Alien\". It's also a \"GitHub of AI\" platform where machine learning enthusiasts share models and datasets. This tutorial will show you how to set up the Hugging Face command line tools, browse pretrained models, and run a few AI tasks such as sentiment analysis.",
+          "link": "https://www.freecodecamp.org/news/get-started-with-hugging-face/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Duct tape programmers don't give a damn what you think about them. They stick to simple, basic, and easy to use tools. Then they use the extra brain power that these tools leave them to write more useful features for their customers.",
+      "quote_author": "Joel Spolsky, developer and founder of Stack Overflow and Trello"
+    },
+    {
       "bonus": "Finally, my friends Jess and Ram\u00f3n are starting a new cohort of their freely available bootcamp on Monday, January 8. You can join them and work through both freeCodeCamp's Responsive Web Design certification and our new project-oriented JavaScript Algorithms and Data Structures certification. This is a great way to expand your skills alongside a kind, supportive community. (5 minute read): https://www.freecodecamp.org/news/free-webdev-and-js-bootcamps/",
       "date": "Jan 5, 2024",
       "links": [
