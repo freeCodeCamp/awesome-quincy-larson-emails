@@ -1,6 +1,86 @@
 {
   "emails": [
     {
+      "date": "Feb 2, 2024",
+      "links": [
+        {
+          "description": "My friend Andrew Brown is a CTO who has passed practically every cloud certification exam under the sun. Within weeks of GitHub publishing their new official certs, Andrew has already studied, passed the exam, and prepared this course to help you do the same. If you're considering earning a professional cert to demonstrate your proficiency in Git and GitHub, this course is for you.",
+          "link": "https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "Among many of my web developer friends, a new set of tools is emerging as a standard: Tailwind CSS, Next.js, React, and TypeScript. And you can learn all of these by coding along at home with this beginner course. You'll use each of these tools to build your own weather app.",
+          "link": "https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want even more JavaScript practice, this tutorial is for you. You'll code your own browser-playable version of the 1991 classic \"Gorillas\" game, where two gorillas throw explosive bananas at one another. You'll use JavaScript for the game logic and core gameplay loop. And you'll use CSS and HTML Canvas for the graphics and animation.",
+          "link": "https://www.freecodecamp.org/news/gorillas-game-in-javascript/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Deep Learning is a profoundly useful approach to training AI. And if you want to work in the field of Machine Learning, this course will teach you how to answer 50 of the most common Deep Learning developer job interview questions. You'll learn about Neural Network Architecture, Activation Functions, Backpropogation, Gradient Descent, and more.",
+          "link": "https://www.freecodecamp.org/news/ace-your-deep-learning-job-interview/",
+          "order": "4",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "My friends Jess and Ram\u00f3n are starting a new cohort of their freely available bootcamp on Friday, February 9. You can join them and work through freeCodeCamp's new project-oriented JavaScript Algorithms and Data Structures certification. This is a great way to expand your skills alongside a kind, supportive community.",
+          "link": "https://www.freecodecamp.org/news/free-webdev-and-js-bootcamps/",
+          "order": "5",
+          "time_duration": "8",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Git and I are in a committed relationship but it pushes me sometimes.",
+      "quote_author": "Cassidy Williams, Software Engineer"
+    },
+    {
+      "date": "Jan 26, 2024",
+      "links": [
+        {
+          "description": "Learn Python data analysis by working with astronomical data. In this course, you'll start by learning some basic Python coding skills. Then you'll use measurements from the stars to learn how to work with tabular data and visual data. You'll pick up tools like Pandas, Matplotlib, Seaborn, and Jupyter Notebook. You'll even apply some advanced image processing techniques.",
+          "link": "https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/",
+          "order": "1",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to learn even more Python, freeCodeCamp just published an entire handbook on the art and science of Python debugging. You'll learn how to interpret common Python error messages. You'll also learn common debugging techniques like Logging, Assertions, Exception Handling, and Unit Testing. Along the way, you'll use Code Linters, Analyzers, and other powerful code editor tools.",
+          "link": "https://www.freecodecamp.org/news/python-debugging-handbook/",
+          "order": "2"
+        },
+        {
+          "description": "OpenAI just released their new Assistants API to help you build your own personal AI assistants. And this project-oriented course will show you how to code up some minions that can do your bidding. You'll learn how to use Python, Streamlit, and the Assistants API to code your own news summarizer project and your own study buddy app.",
+          "link": "https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/",
+          "order": "3",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn LangChain by coding and deploying 6 AI projects. You'll use 3 popular Large Language Models: GPT-4, Google Gemini, and the open source Llama 2. Along the way, you'll build a blog post generator, a multilingual invoice extractor, and a chatbot that can summarize PDFs for you.",
+          "link": "https://www.freecodecamp.org/news/learn-langchain-and-gen-ai-by-building-6-projects/",
+          "order": "4",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "This week on the freeCodeCamp Podcast, I interview Beau Carnes, who oversees the freeCodeCamp community YouTube channel. Over the past 5 years, Beau has taught dozens of coding tutorials and helped curate more than 1,000 courses. We talk about his transition from high school special education teacher to software engineer. He shares the story of how he earned his second degree in just 6 months while raising 3 kids and running a stilt-walking service. This is my first video podcast, so you can actually watch me and Beau talk while you listen. Or you can just listen the old-fashioned way in your browser or podcast app of choice.",
+          "link": "https://www.freecodecamp.org/news/podcast-biggest-youtube-programming-channel-beau-carnes",
+          "order": "5"
+        }
+      ],
+      "quote": "Thanks to advances in hardware and software, our computational capability to model and interpret this deluge of [astronomical] data has grown tremendously... The confluence of ideas and instruments is stronger than ever.",
+      "quote_author": "Dr. Priyamvada Natarajan, Yale professor, on the growing importance of data analysis in her field of Astronomy"
+    },
+    {
       "date": "Jan 19, 2024",
       "links": [
         {
