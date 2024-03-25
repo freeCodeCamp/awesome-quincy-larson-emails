@@ -1,6 +1,274 @@
 {
   "emails": [
     {
+      "date": "Mar 22, 2024",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a massive TypeScript course to help you learn the art of statically-typed JavaScript. Most scripting languages like JavaScript and Python are dynamically-typed. But this causes so many additional coding errors. By sticking with static types -- like Java and C++ do -- JavaScript developers can save so much headache. This beginner course is taught by legendary coding instructor John Smilga. I love his no-nonsense teaching style and the way he makes even advanced concepts easier to understand. And you can apply what you're learning by coding along at home and building your own ecommerce platform project in TypeScript.",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-for-practical-projects",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's podcast, I interview Phoebe Voong-Fadel about her childhood as the daughter of refugees, and how she self-studied coding and became a professional developer at the age of 36. Phoebe worked from age 12 at her parent's Chinese take-out restaurant. After college, the high cost of childcare forced her to leave her career so she could raise her two kids. After two years of teaching herself to code using freeCodeCamp, she got her first job as a developer.",
+          "link": "https://www.freecodecamp.org/news/stay-at-home-mom-to-developer-podcast/",
+          "order": "2"
+        },
+        {
+          "description": "How can two people communicate securely through an insecure channel? That is a fundamental challenge in cryptography. One approach is by using the Diffie-Hellman Key Exchange algorithm. freeCodeCamp just published a handbook that will teach you how to leverage Diffie-Hellman to protect your data in transit, as it moves from between clients and servers. This handbook dives deep into the math that makes this possible, and uses tons of diagrams to explain the theory. It also explores older solutions, such as Hash-based Message Authentication Code. And you'll immediately put all this new knowledge to use by building a secure messaging project.",
+          "link": "https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/",
+          "order": "3"
+        },
+        {
+          "description": "Spring Boot is a popular web development framework for Java, and it's used by tons of big companies like Walmart, General Motors, and Chase. Dan Vega is a prolific teacher of Java. He developed this new course to help more people learn the latest version of Spring Boot so they can build enterprise-grade apps. His passion for Java really comes through in this course.",
+          "link": "https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/",
+          "order": "4",
+          "time_duration": "3.5",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn Microsoft's ASP.NET web development framework by building 3 projects. You'll start off this course by learning some C# and .NET fundamentals while coding a menu app. Then you'll dive into some advanced features while building your own clone of Google Docs. Finally, you'll bring everything together by building a payment app. Along the way, you'll get familiar with Microsoft's powerful Visual Studio coding environment.",
+          "link": "https://www.freecodecamp.org/news/master-asp-net-core-by-building-three-projects/",
+          "order": "5",
+          "time_duration": "2.5",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "\u2018TypeScript is silly because it just gets turned back into typeless code when you hit compile.' Oh man do I have some upsetting news about C++ for you.",
+      "quote_author": "Jules Glegg, Game Developer"
+    },
+    {
+      "date": "Mar 15, 2024",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a comprehensive roadmap for learning Back-End Development. You'll start off by learning full-stack JavaScript with Node.js. Then you'll learn how to use Django to build a Python back end. After building several mini-projects, you'll dive deep into database administration with SQL. You'll then build your own APIs, write tests for them, and secure them using OWASP best practices. This roadmap will also teach you Architecture and DevOps concepts, Docker, Redis, and the mighty NGINX.",
+          "link": "https://www.freecodecamp.org/news/back-end-developer",
+          "order": "1"
+        },
+        {
+          "description": "Learn the algorithms that come up most frequently in employers' coding interviews. This new course will teach you how to use JavaScript to solve interview questions like Spiral Matrix, the Pyramid String Pattern, and the infamous Fizz-Buzz.",
+          "link": "https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's freeCodeCamp Podcast I interview Cassidy Williams about her climb from Microsoft intern to Amazon software engineer to startup CTO. Cassidy's famous for her many developer memes and funny coding videos. In this blunt, un-edited conversation, she shares a ton of career tips -- including some that will be especially helpful for women entering the field.",
+          "link": "https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/",
+          "order": "3"
+        },
+        {
+          "description": "Learn how to localize your websites and apps into many world languages. Of course, anyone can just drop in a translation plugin. But if you want your users to have a good experience, you should create bespoke translations that resonate with native speakers of those languages. This course will introduce you to a powerful translation crowdsourcing tool used by many websites and apps -- including freeCodeCamp. You'll learn how to combine machine translation with the intuition of native speakers to quickly craft translations that sound natural. Then you'll learn how to use the front-end libraries necessary to get those translations in front of the right users.",
+          "link": "https://www.freecodecamp.org/news/localize-websites-with-crowdin/",
+          "order": "4",
+          "time_duration": "8",
+          "time_type": "hours"
+        },
+        {
+          "description": "And speaking of localization, tell your Spanish-speaking friends: freeCodeCamp just published a comprehensive Tailwind CSS course taught by David Ruiz, a Front-End Developer and native Spanish speaker. We've been publishing tons of Spanish-language courses to help Spanish speakers around the world, and this is just the beginning.",
+          "link": "https://www.freecodecamp.org/news/learn-tailwind-css-in-spanish-full-course/",
+          "order": "5",
+          "time_duration": "12",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "In the particular is contained the universal.",
+      "quote_author": "James Joyce, Irish novelist and poet"
+    },
+    {
+      "bonus": "Joke of the Week: *\"Why do Java developers wear glasses? Because they can't C#.\"",
+      "date": "Mar 8, 2024",
+      "links": [
+        {
+          "description": "Learn the C# programming language. This course will teach you C# syntax, data structures, Object Oriented Programming concepts, and more. Then you'll apply this knowledge by coding a variety of mini-projects throughout the course.",
+          "link": "https://www.freecodecamp.org/news/learn-c-sharp-programming/",
+          "order": "1",
+          "time_duration": "8",
+          "time_type": "hours"
+        },
+        {
+          "description": "Prolific freeCodeCamp author Nathan Sebhastian just published his React for Beginners Handbook. You can read the full book and learn how to code React-powered JavaScript apps. Along the way you'll learn about Components, Props, States, Events, and even Network Requests.",
+          "link": "https://www.freecodecamp.org/news/react-for-beginners-handbook/",
+          "order": "2"
+        },
+        {
+          "description": "This new Machine Learning course will give you a clear roadmap toward building your own AIs. Data Scientist Tatev Aslanyan teaches this Python course. She covers key statistical concepts like Logistic Regression, Outlier Detection, Correlation Analysis, and the Bias-Variance Trade-Off. She also shares some common career paths for working in the field of Machine Learning.",
+          "link": "https://www.freecodecamp.org/news/learn-machine-learning-in-2024/",
+          "order": "3",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "But you don't have to learn a ton of Statistics and Machine Learning to get more out of AI. You can first focus on just getting better at talking to AI. This new Prompt Engineering Handbook will give you practical tips for getting better images, text, and code out of Large Language Models like GPT-4.",
+          "link": "https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/",
+          "order": "4"
+        },
+        {
+          "description": "In this week's episode of the freeCodeCamp podcast, I interview education charity founder Seth Goldin. He's a computer science student at Yale and has taught several popular freeCodeCamp courses. We talk about the future of education, and the risks and opportunities presented by powerful AI systems like ChatGPT. During this fun, casual conversation, we make sure to explain all the specialized terminology as it comes up. And like most of our episodes, this podcast is 100% OK to listen to around kids.",
+          "link": "https://www.freecodecamp.org/news/podcast-ai-and-the-future-of-education-with-seth-goldin/",
+          "order": "5"
+        }
+      ]
+    },
+    {
+      "bonus": "Also, on this week's podcast I interviewed an emerging star in the Machine Learning community: Logan Kilpatrick. The day he started working at Open AI, ChatGPT was brand new and hit its first 1 million users. We talk about Logan's journey from the suburbs of Chicago to the heart of Silicon Valley, his work at NASA, and his many freeCodeCamp tutorials on the Julia programming language. (2 hour listen in your browser or favorite podcast app): https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/",
+      "date": "Mar 1, 2024",
+      "links": [
+        {
+          "description": "Generative AI is a type of Artificial Intelligence that creates new content based on its training data, rather than just returning a pre-programmed response. You may have tried creating text or images using models like GPT-4, Gemini, or the open source Llama 2. But how do these models actually work? This in-depth freeCodeCamp course will teach you the underlying Machine Learning concepts that you can use to create your own models. And it'll show you how to leverage popular tools like Langchain, Vector Databases, Hugging Face, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
+          "order": "1",
+          "time_duration": "30",
+          "time_type": "hours"
+        },
+        {
+          "description": "One Generative AI model that just came out is Google's new Gemini model. And freeCodeCamp instructor Ania Kub\u00f3w just finished her comprehensive course showcasing Gemini's many features. You'll learn how Gemini works under the hood, and about its \"multimodal\" functionalities like image-to-text, sound-to-text, and even text-to-video. The course culminates in grabbing an API key and coding along with Ania to build your own AI Code Buddy chatbot project.",
+          "link": "https://www.freecodecamp.org/news/google-gemini-course-for-beginners/",
+          "order": "2",
+          "time_duration": "1.5",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if that wasn't enough AI courses for you, Microsoft recently started offering a professional certification in AI fundamentals. This course -- taught by CTO and prolific freeCodeCamp contributor Andrew Brown -- will help prepare you for the exam. You'll learn about classical AI models, Machine Learning pipelines, Azure Cognitive Services, and more.",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "order": "3",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp just published another full-length handbook -- this time on Regular Expressions. RegEx are one of the most powerful -- and most confusing -- features of modern programming languages. You can use RegEx to search through data, validate user input, and even find complex patterns within text. This handbook will teach you key concepts like anchors, grouping, metacharacters, and lookahead. And you'll learn a lot of advanced JavaScript RegEx techniques, too.",
+          "link": "https://www.freecodecamp.org/news/regex-in-javascript/",
+          "order": "4"
+        },
+        {
+          "description": "Serverless Architecture is a popular approach toward building apps in 2024. Despite the name, there are still servers in a data center somewhere. This isn't magic. But the tools abstract the servers away for you. In this intermediate JavaScript course, Software Engineer Justin Mitchel will teach you how to take a simple Node.js app and run it on AWS Lambda with a serverless Postgres database. He'll even show you how to automate deployment using GitHub Actions and Vercel.",
+          "link": "https://www.freecodecamp.org/news/serverless-node-js-tutorial/",
+          "order": "5",
+          "time_duration": "4",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "The plural of regex is regrets.",
+      "quote_author": "Steve, a Brooklyn-based Golang developer and reluctant user of Regular Expressions"
+    },
+    {
+      "date": "Feb 23, 2024",
+      "links": [
+        {
+          "description": "Data Structures and Algorithms are tools that developers use to solve problems. DS&A are a huge chunk of what you learn in a computer science degree program. And they come up all the time in developer job interviews. This in-depth course is taught by a Google engineer, and will teach you the key concepts of Time Complexity, Space Complexity, and Asymptotic Notation. Then you'll get tons of practice by coding dozens of the most common DS&A using the popular Java programming language.",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/",
+          "order": "1",
+          "time_duration": "48",
+          "time_type": "hours"
+        },
+        {
+          "description": "Many of the recent breakthroughs in AI are thanks to advances in Deep Learning. In this intermediate-level handbook, Data Scientist Tatev Aslanyan will teach you the fundamentals of Deep Learning and Artificial Neural Networks. She'll give you a solid foundation that you can use as a springboard into the more advanced areas of machine learning. You'll learn about Optimization Algorithms, Vanishing Gradient Problems, Sequence Modeling, and more.",
+          "link": "https://www.freecodecamp.org/news/deep-learning-fundamentals-handbook-start-a-career-in-ai/",
+          "order": "2"
+        },
+        {
+          "description": "The Document Object Model (DOM) is like a big Christmas tree that you hang ornament-like HTML elements on. This front-end development handbook will teach you how the DOM works, and how you can use it to make interactive web pages. You'll learn about DOM Traversal, Class Manipulation, Event Bubbling, and other key concepts.",
+          "link": "https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/",
+          "order": "3"
+        },
+        {
+          "description": "On this week's episode of the freeCodeCamp Podcast, I interview Jessica Wilkins, an orchestral musician from Los Angeles turned software engineer. We talk about how ridiculously competitive the world of classical music is, and how it gave her the mental toughness that she needed to learn to code. Jessica ultimately turned down contracts from Disney and other music industry titans so that she could focus on transitioning into tech. She was a prolific volunteer contributor to the freeCodeCamp codebase and core curriculum, and now works on our team. I think you'll dig our conversation -- especially if you're interested in the overlap between music and technology.",
+          "link": "https://www.freecodecamp.org/news/podcast-jessica-wilkins-classical-music-learning-to-code/",
+          "order": "4"
+        },
+        {
+          "description": "Finally, if you have Spanish-speaking friends, tell them about this new CSS Flexbox course that we just published. freeCodeCamp now has tons of courses in Spanish, along with a weekly Spanish podcast -- all available on our freeCodeCamp Espa\u00f1ol channel.",
+          "link": "https://www.freecodecamp.org/news/learn-css-flexbox-in-spanish-course-for-beginners/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Less than 10% of code has to do with the ostensible purpose of a system. The rest deals with input-output, data validation, data structure maintenance, and other housekeeping.",
+      "quote_author": "Mary Shaw, Software Engineer and Carnegie Mellon Computer Science Professor"
+    },
+    {
+      "date": "Feb 16, 2024",
+      "links": [
+        {
+          "description": "Learn how to use JavaScript to create art with code. More and more contemporary artists are using math and programming to create digital art and interactive experiences. This course is taught by artist and software engineer Patt Vira. She'll show you how to use the popular p5.js library. You can code along at home and build 5 beginner art projects.",
+          "link": "https://www.freecodecamp.org/news/art-of-coding-with-p5js/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "It's hard to predict the exact order in which things will happen in life. That's certainly the case in software. Thankfully, developers have pioneered a more flexible approach called Asynchronous Programming. And JavaScript is especially well-equipped for async programming thanks to its special Promise objects. freeCodeCamp just published this JavaScript Promises handbook to teach you common async patterns. You'll also learn about error handling, promise chaining, and async anti-patterns to avoid.",
+          "link": "https://www.freecodecamp.org/news/the-javascript-promises-handbook/",
+          "order": "2"
+        },
+        {
+          "description": "Code your own product landing page using SveltKit. Software Engineer James McArthur will teach you all about Svelt, SveltKit, Tailwind CSS, and the benefits of Server-Side Rendering. He'll even show you how to deploy your site to the web, and add a modern CI/CD pipeline. This course will give you a good mix of theory and practice.",
+          "link": "https://www.freecodecamp.org/news/learn-sveltekit-full-course/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to code your own video player that runs right in your browser. This in-depth tutorial will teach you how to use powerful tools like Tailwind CSS and Vite. You'll also learn some good old-fashioned JavaScript. This is an excellent project-oriented tutorial for intermediate learners.",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-video-player-using-javascript-and-tailwind-css/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's freeCodeCamp Podcast, I interview developer and Scrimba CEO Per Borgen. We talk about Europe's tech startup scene and the emerging field of AI Engineering. Per is a fellow founder whom I've known for nearly a decade, and we had a fun time catching up. I hope you're enjoying the podcast and learning a lot from these thoughtful devs I'm having as guests.",
+          "link": "https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "I think we'd all feel much better if we instead saw bad code as a form of contemporary art. Unused functions? Surrealism. Mixing tabs and spaces? Postmodern. My code isn't spaghetti, it's avant-garde.",
+      "quote_author": "Cain Maddox, Game Developer"
+    },
+    {
+      "date": "Feb 9, 2024",
+      "links": [
+        {
+          "description": "This new freeCodeCamp course will walk you step-by-step through coding 25 different front-end React projects. I've always said: the best way to improve your coding skills is to code a lot. Well, this course will build up your JavaScript muscle memory, and help you internalize key concepts through repetition. Projects include: the classic Tic Tac Toe game, a recipe app, an image slider, an expense tracker, and even a full-blown blog. Dive in and get some reps.",
+          "link": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp alum Zubin Pratap worked as a corporate lawyer for years. But deep down inside, he knew he wanted to get into software development. After years of starting -- and stopping -- learning to code, he eventually became a developer. He even worked as a software engineer at Google. Zubin created this career change course to help other folks learn how to transition into tech as well. In this course, he busts common myths around learning to program. He also shares open industry secrets, and gives you a framework for mapping out your path into tech.",
+          "link": "https://www.freecodecamp.org/news/career-change-to-code-guide/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Gavin Lon has been a C# developer for two decades, writing software for companies around London. And now he's distilled his C# wisdom and his love of the programming language into this comprehensive book. Over the past few years, freeCodeCamp Press has published more than 100 freely available books that you can read and bookmark as a reference. And this is one of our most ambitious books. It explores C# data types, operators, classes, structs, inheritance, abstraction, events, reflection, and even asynchronous programming. In short, if you want to learn C#, read Gavin's book.",
+          "link": "https://www.freecodecamp.org/news/learn-csharp-book/",
+          "order": "3"
+        },
+        {
+          "description": "Roughly 1 out of every 7 Americans lives with a disability. As developers, we should keep these folks in mind when building our apps. Thankfully, there's a well-established field called Accessibility (sometimes shortened to \"a11y\" because there are 11 letters in the word that fall between the A and the Y). This nuts-and-bolts freeCodeCamp course will teach you about Web Content Accessibility Guidelines, Accessible Rich Internet Applications, Semantic HTML, and other tools for your toolbox.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-your-web-sites-accessible/",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's freeCodeCamp Podcast, I interview the creator of one of the most successful open source projects ever. Robby Russell first released the Oh My Zsh command line tool 15 years ago. We talk about his web development consultancy, which has built projects for Nike and other Portland-area companies. We also talk about his career-long obsession with code maintainability, and his post-rock band.",
+          "link": "https://www.freecodecamp.org/news/podcast-oh-my-zsh-creator-and-ceo-robby-russell/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "I tried to teach myself to code THREE times. In 2014, in 2015, and in 2017. And all three times I quit because I tried to jump too high, set myself up for failure, and then assumed I was not smart enough. But actually, I had just tried to run before I'd learned to walk.",
+      "quote_author": "Zubin Pratap, freeCodeCamp alum who went on to become a software engineer at Google"
+    },
+    {
       "date": "Feb 2, 2024",
       "links": [
         {
