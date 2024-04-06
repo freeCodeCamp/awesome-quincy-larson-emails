@@ -1,6 +1,87 @@
 {
   "emails": [
     {
+      "date": "Apr 5, 2024",
+      "links": [
+        {
+          "description": "In an era of powerful off-the-shelf AI tools, there's something to be said for building your own AI from scratch. And that's what you'll learn how to do in this beginner course. Dr. Radu teaches computer science at a university in Finland, and is one of freeCodeCamp's most popular instructors. He'll show you how to manually tweak neural network parameters so you can teach a car how to drive itself through a Grand Theft Auto-like sandbox playground.",
+          "link": "https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/",
+          "order": "1",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to code your own playable Super Nintendo-style developer portfolio website. Instead of just reading your r\u00e9sum\u00e9, visitors can walk around a Legend of Zelda-like cabin and explore your work. This tutorial includes all the sprites, tiles, and other pixel art assets you need to build the finished website. Practice your JavaScript skills while building an interactive experience you can share with friends and potential employers.",
+          "link": "https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn Git fundamentals. freeCodeCamp just published this new handbook that will teach you how to get things done with a version control system. You'll learn how to set up your first code repository, create branches, commit code, and push changes to production. You can code along at home with this book's many tutorials, and bookmark it for future reference.",
+          "link": "https://www.freecodecamp.org/news/learn-git-basics/",
+          "order": "3"
+        },
+        {
+          "description": "Learn the latest version of the popular React Router JavaScript library. This course will teach you how to build Single Page Apps where your users can navigate from one React view to another without the page refreshing. You'll also get practice defining routes, passing parameters, and managing state transitions.",
+          "link": "https://www.freecodecamp.org/news/learn-react-router-v6-course",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's freeCodeCamp Podcast, I interview 100Devs founder Leon Noel. Growing up, Leon felt he needed to become a doctor in order to be considered successful. But his interest in coding inspired him to drop out of Yale and build software tools for scientists. He went through a startup accelerator, taught coding in his community, and ultimately built a Discord server with 60,000 people learning to code together. We talk about the science behind learning, and what approaches have helped his students the most. We even talk about Jazz pianist Thelonious Monk, and Leon's love of the animated X-Men show.",
+          "link": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "I wrote nearly a thousand computer programs while preparing this material, because I find that I don't understand things unless I try to program them.",
+      "quote_author": "Donald Knuth on all the code he wrote from scratch in researching his classic book \"The Art of Computer Programming\""
+    },
+    {
+      "bonus": "Joke of the Week: *\"Me: I'm afraid of JavaScript keywords. Therapist: tell me about THIS. Me: Aghhh!\"* - Carla Notarobot, Software Engineer and Bad Joke Sharer",
+      "date": "Mar 29, 2024",
+      "links": [
+        {
+          "description": "Learn to build apps with the popular Nest.js full-stack JavaScript framework. In this intermediate course, you'll code your own back end for a Spotify-like app. You'll learn how to deploy a Node.js API to the web. And you'll build out all the necessary database and authentication features along the way.",
+          "link": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
+          "order": "1",
+          "time_duration": "12",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the term \"no-code\" before. Essentially these types of tools are \"not only code\" because you can still write custom code to run on top of them. This said, these tools do make it dramatically easier for both developers and non-developers to get things done. This new course is taught by one of freeCodeCamp's most popular instructors, Ania Kub\u00f3w. She'll teach you how to automate boring tasks by leveraging AI tools and creating efficient automation pipelines.",
+          "link": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Kanban task management boards were invented at Toyota way back in the 1940s. I speak Chinese and a little Japanese, and I can tell you that the Chinese characters in the word \"Kanban\" translate to \"look board\" -- something you can look at to quickly understand what's going on with a project. You may have used popular Kanban tools like Trello. But have you ever coded your own Kanban? Well, today's the day. This project-oriented tutorial will teach you how to use React, Next.js, Firebase, Tailwind CSS, and other modern webdev tools.",
+          "link": "https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/",
+          "order": "3",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn how to do hard-core data analysis and visualization using Google's stack of freely available tools: Sheets, BigQuery, Colab, and Looker Studio. This beginner-friendly course is taught by a seasoned data analyst. He'll walk you through each of these tools, and show you how to pipe your data from one place to the other. You'll walk away with insights you can apply to accomplish your practical day-to-day goals.",
+          "link": "https://www.freecodecamp.org/news/data-analytics-with-google-stack/",
+          "order": "4",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "In this week's episode of the freeCodeCamp Podcast, I interview Jessica Lord -- AKA JLord. You may not have heard of her, but you probably use her code every day. She's worked as a software engineer for more than a decade at companies like GitHub and Glitch. Among her many accomplishments, she created the Electron team at GitHub. Electron is a library for building desktop apps using browser technologies. If you've used the desktop version of Slack, Figma, or VS Code, you've used Electron. We had such a fun time talking about her journey from architecture student to city hall to working at the highest levels of tech.",
+          "link": "https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ]
+    },
+    {
       "date": "Mar 22, 2024",
       "links": [
         {
