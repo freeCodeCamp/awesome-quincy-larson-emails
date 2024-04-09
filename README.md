@@ -1,4 +1,5 @@
 # Awesome *Quincy Larson* Email Archive
+
 This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
