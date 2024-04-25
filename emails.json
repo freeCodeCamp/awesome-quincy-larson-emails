@@ -1,6 +1,84 @@
 {
   "emails": [
     {
+      "date": "Apr 19, 2024",
+      "links": [
+        {
+          "description": "Learn statistics for Data Science and AI Machine Learning. freeCodeCamp just published this handbook that will help you learn key concepts like Bayes' Theorem, Confidence Intervals, and the Central Limit Theorem. It covers both the classical math notation and Python implementations of these concepts. This is a broad primer for developers who are getting into stats, and it's also a helpful reference you can bookmark and pull up as needed.",
+          "link": "https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/",
+          "order": "1"
+        },
+        {
+          "description": "And if you want to dig even further into applied Data Science, freeCodeCamp also published this in-depth Python course on A/B Testing and optimization. It will teach you core concepts like Hypothesis Testing, Statistical Significance Levels, Pooled Estimates, and P-values.",
+          "link": "https://www.freecodecamp.org/news/applied-data-science-a-b-testing/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "One of the most exciting areas of AI at the moment is Retrieval Augmented Generation (RAG). This freeCodeCamp Python course will teach you how to combine your own custom data with the power of Large Language Models (LLMs). You'll learn straight from a software engineer who works on the popular LangChain open source project, Dr. Lance Martin.",
+          "link": "https://www.freecodecamp.org/news/mastering-rag-from-scratch/",
+          "order": "3",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "This week I interviewed software engineer and visual artist Kass Moreno about her photo-realistic CSS art. Frankly you have to see her art to believe it. She painstakingly recreates manufactured objects like cameras, gameboys, and synthesizers using nothing but CSS. We talk about her childhood in Mexico and Texas, dropping out of architecture school, her listless years of working in retail, and how she ultimately learned to code using freeCodeCamp and got her first developer role.",
+          "link": "https://www.freecodecamp.org/news/css-artist-kass-moreno-freecodecamp-podcast-119/",
+          "order": "4",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to build your own movie recommendation engine using Python. You'll use powerful data libraries like scikit-learn, Pandas, and the Natural Language Toolkit. By the end of this tutorial, you'll have a tool that can recommend movies to you based on content and genre.",
+          "link": "https://www.freecodecamp.org/news/build-a-movie-recommendation-system-with-python/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Python is everywhere at Industrial Light & Magic. It's used to extend the capabilities of our applications, as well as providing the glue between them. Every computer-generated image we create has involved Python somewhere in the process.",
+      "quote_author": "Philip Peterson, Principal Engineer at ILM, the special effects company behind Star Wars and so many other Hollywood movies"
+    },
+    {
+      "date": "Apr 12, 2024",
+      "links": [
+        {
+          "description": "Learn Backend development by coding 3 full-stack projects with Python. Prolific freeCodeCamp teacher Tomi Tokko will take you step-by-step through building: an AI blog tool, a functional clone of Netflix, and a Spotify-like music platform. You'll learn how to use the powerful Django webdev framework, along with PostgreSQL databases and Tailwind CSS. This course is a big undertaking. But Tomi makes it enjoyable and accessible for beginners. If you can put in the time to complete this, you'll gain experience with an entire stack of relevant tools.",
+          "link": "https://www.freecodecamp.org/news/backend-web-development-three-projects",
+          "order": "1",
+          "time_duration": "10",
+          "time_type": "hours"
+        },
+        {
+          "description": "Jabrils is an experienced game developer who makes hilarious videos about his projects. He's also taught a popular programming course on freeCodeCamp. I interviewed him on this week's freeCodeCamp podcast about AI, anime, and his new turn-based fighting game.",
+          "link": "https://www.freecodecamp.org/news/indie-game-dev-jabrils-freecodecamp-podcast-118/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to turn your Figma designs into working code. Ania Kub\u00f3w is one of freeCodeCamp's most beloved teachers. And in this course, she showcases the power of generative AI. She'll walk you through taking a Figma design of an Airbnb-style website and converting it into a fully-functional app. She'll also show you how to add authentication and deploy it to the cloud.",
+          "link": "https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs",
+          "order": "3"
+        },
+        {
+          "description": "GitHub recently launched 4 professional certifications. And this comprehensive guide will help you prepare to pass first of these -- the GitHub Foundations exam. Chris Williams has used Git extensively over the decades while working as a software engineer and cloud architect. He breaks down key Git concepts and makes them much easier to learn.",
+          "link": "https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/",
+          "order": "4"
+        },
+        {
+          "description": "And speaking of Git, if you have Spanish-speaking friends, tell them that freeCodeCamp just published a new Spanish-language Git course. It covers basic version control concepts like repositories, commits, and branches. And it even teaches you more advanced techniques like cherry picking.",
+          "link": "https://www.freecodecamp.org/news/learn-git-in-spanish-git-course-for-beginners/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "If you don't follow your curiosity, you won't end up where you deserve to be.",
+      "quote_author": "Jabrils on his journey into coding and gamedev, on this week's freeCodeCamp Podcast"
+    },
+    {
       "date": "Apr 5, 2024",
       "links": [
         {
