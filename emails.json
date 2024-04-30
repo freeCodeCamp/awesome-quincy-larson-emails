@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "Apr 26, 2024",
+      "links": [
+        {
+          "description": "If you've used spreadsheets before, you're all set to learn SQL. This freeCodeCamp course, taught by Senior Data Engineer Vlad Gheorghe, will help you grasp fundamental database concepts. Then you'll apply what you've learned by analyzing data using PostgreSQL and BigQuery. You'll learn about Nested Queries, Table Joins, Aggregate Functions, and more. Enjoy.",
+          "link": "https://www.freecodecamp.org/news/learn-sql-for-analytics/",
+          "order": "1",
+          "time_duration": "11",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's episode of The freeCodeCamp Podcast, I interview my friend Andrew Brown. He's a CTO who has passed dozens of certification exams from AWS, Azure, Kubernetes, and other cloud companies. We talk about Cloud Engineering and he shares his advice for which certs he thinks people should prioritize if they want to get into the field. We also talk about his love of Star Trek and of the classic Super Nintendo game Tetris Attack.",
+          "link": "https://www.freecodecamp.org/news/cto-andrew-brown-passed-dozens-of-cloud-certification-exams-freecodecamp-podcast-episode-120/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn Next.js by building your own cloud photo album app. Prolific freeCodeCamp instructor Colby Fayock will teach you how to use powerful AI toolkits that let your visitors modify photos right in their browsers. He also teaches key image optimization concepts. This is a great course for anyone interested in sharpening their front end development skills.",
+          "link": "https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/",
+          "order": "3",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "The Rust programming language has become quite popular recently. Even Linux now uses Rust in its kernel. A few years back, freeCodeCamp published a comprehensive interactive Rust course. And today I'm thrilled to share this new Rust Procedural Macros handbook. Procedural Macros let you execute Rust code at compile time, and Rust developers use these all the time. This handbook should serve as a helpful reference for you if you want to level up your Rust skills.",
+          "link": "https://www.freecodecamp.org/news/procedural-macros-in-rust/",
+          "order": "4"
+        },
+        {
+          "description": "And finally, Tell your Spanish-speaking friends: freeCodeCamp just published a new course on Responsive Web Design, taught by Spanish-speaking software engineer David Choi. This course will teach you how to set up your developer environment, structure your web pages using HTML, and define CSS styles for both mobile and desktop viewport sizes.",
+          "link": "https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "The word SEQUEL turned out to be somebody's trademark. So I took all the vowels out of it and turned it into SQL. That didn't do too much damage to the acronym. It could still be the Structured Query Language.",
+      "quote_author": "Donald Chamberlin, Co-Creator of SQL"
+    },
+    {
       "date": "Apr 19, 2024",
       "links": [
         {
