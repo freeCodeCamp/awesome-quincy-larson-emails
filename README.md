@@ -3,6 +3,19 @@ This repository is an archive of emails that are sent by the awesome Quincy Lars
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
+### Apr 26, 2024
+1. If you've used spreadsheets before, you're all set to learn SQL. This freeCodeCamp course, taught by Senior Data Engineer Vlad Gheorghe, will help you grasp fundamental database concepts. Then you'll apply what you've learned by analyzing data using PostgreSQL and BigQuery. You'll learn about Nested Queries, Table Joins, Aggregate Functions, and more. Enjoy. (11 hour YouTube course): https://www.freecodecamp.org/news/learn-sql-for-analytics/
+
+2. On this week's episode of The freeCodeCamp Podcast, I interview my friend Andrew Brown. He's a CTO who has passed dozens of certification exams from AWS, Azure, Kubernetes, and other cloud companies. We talk about Cloud Engineering and he shares his advice for which certs he thinks people should prioritize if they want to get into the field. We also talk about his love of Star Trek and of the classic Super Nintendo game Tetris Attack. (2 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/cto-andrew-brown-passed-dozens-of-cloud-certification-exams-freecodecamp-podcast-episode-120/
+
+3. Learn Next.js by building your own cloud photo album app. Prolific freeCodeCamp instructor Colby Fayock will teach you how to use powerful AI toolkits that let your visitors modify photos right in their browsers. He also teaches key image optimization concepts. This is a great course for anyone interested in sharpening their front end development skills. (4 hour YouTube course): https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/
+
+4. The Rust programming language has become quite popular recently. Even Linux now uses Rust in its kernel. A few years back, freeCodeCamp published a comprehensive interactive Rust course. And today I'm thrilled to share this new Rust Procedural Macros handbook. Procedural Macros let you execute Rust code at compile time, and Rust developers use these all the time. This handbook should serve as a helpful reference for you if you want to level up your Rust skills. (full-length handbook): https://www.freecodecamp.org/news/procedural-macros-in-rust/
+
+5. And finally, Tell your Spanish-speaking friends: freeCodeCamp just published a new course on Responsive Web Design, taught by Spanish-speaking software engineer David Choi. This course will teach you how to set up your developer environment, structure your web pages using HTML, and define CSS styles for both mobile and desktop viewport sizes. (2 hour YouTube course): https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/
+
+Quote of the Week: *"The word SEQUEL turned out to be somebody’s trademark. So I took all the vowels out of it and turned it into SQL. That didn’t do too much damage to the acronym. It could still be the Structured Query Language."* — Donald Chamberlin, Co-Creator of SQL
+
 ### Apr 19, 2024
 1. Learn statistics for Data Science and AI Machine Learning. freeCodeCamp just published this handbook that will help you learn key concepts like Bayes' Theorem, Confidence Intervals, and the Central Limit Theorem. It covers both the classical math notation and Python implementations of these concepts. This is a broad primer for developers who are getting into stats, and it's also a helpful reference you can bookmark and pull up as needed. (full-length handbook): https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/
 
