@@ -1,6 +1,131 @@
 {
   "emails": [
     {
+      "bonus": "That was a joke I heard from a physics teacher. My quick, dirty, non-physics teacher explanation: the Heisenberg Uncertainty principle in Quantum Mechanics essentially states that you can't \u2013 at the same time \u2013 accurately know both the momentum of a particle and that particle's location.",
+      "date": "May 17, 2024",
+      "links": [
+        {
+          "description": "Quantum Computing is real. Engineers are already finding ways to apply it to Cryptography, Drug Discovery, AI, and other fields. You can be the first of your friends to understand and appreciate how Quantum Computing works. The first half of this course focuses on the math behind quantum computing algorithms. You'll learn about Complex Numbers and Linear Algebra. Then you'll learn concepts like Qubits -- Quantum Bits -- along with Quantum Entanglement, Quantum Circuits, and Phase Kickback. Even though this course is designed for newcomers to Quantum Computing, I'm not going to downplay the importance of math skills in understanding this course. Fortunately, if you want to improve your math skills, freeCodeCamp also has a ton of university-level math courses to help get you there.",
+          "link": "https://www.freecodecamp.org/news/learn-the-algorithms-behind-quantum-computing/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you're looking for a more beginner-friendly course, freeCodeCamp just published this JavaScript for Beginners course. This is an excellent way to pick up your first programming language. You'll learn about JavaScript Data Types, Operators, Control Flow, Functions, and even some Object-Oriented Programming concepts. You can follow the steps to set up your development environment on your computer, then code along step-by-step with this guided tour of JS.",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-with-clear-explanations/",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's podcast, I interview designer and developer Gary Simon, who is founder of DesignCourse and has over a million YouTube subscribers. I ask him tons of questions about what it takes to become a professional designer in 2024. And we learn all about his own coding journey. He got his start creating thousands of logos for design clients. And he shares the story of how he got complacent mid-career -- right before most of his client work evaporated overnight. He hasn't taken his eye off the ball ever since. It was a blast learning so much from Gary. I think you'll enjoy this, too.",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-pro-designer-in-2024-interview-with-gary-simon-podcast-123/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "You may have heard the terms \"Microservice\" and \"Monolith\" before. These are two common approaches to architecting an application. You can think of a Monolith as a stand-alone restaurant, and a Microservice as a food stall in a larger food court with shared tables and shared bathrooms. This tutorial will show you the common arguments for building your apps using each of these architectures. It will also walk you common configurations using lots of helpful diagrams.",
+          "link": "https://www.freecodecamp.org/news/microservices-vs-monoliths-explained/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "WordPress is one of the easier-to-use tools for building websites. freeCodeCamp teacher Beau Carnes just published a crash course on how to get a WordPress site live. The course includes a walkthrough of some new AI tools that can make this process even faster.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-wordpress-with-ai-tools/",
+          "order": "5",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ]
+    },
+    {
+      "date": "May 10, 2024",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a practical guide to the math and theory that power modern AI models. This course for beginners is taught by Data Scientist and MLOps Engineer Ayush Singh. He'll walk you through some basic Linear Algebra, Calculus, and Matrix math so you can better understand what's happening under the hood. Then he'll teach you key Machine Learning concepts like Neural Networks, Perceptrons, and Backpropagation. If you want to expand your math skills so you can work with cutting edge tools, this course is for you.",
+          "link": "https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/",
+          "order": "1",
+          "time_duration": "14",
+          "time_type": "hours"
+        },
+        {
+          "description": "Jose Nunez is a software engineer and running enthusiast. He recently ran a tower race -- up 86 flights of stairs to the top of the Empire State Building. He wanted to analyze his performance data, but found the event's official website to be lacking. In this tutorial, he'll show you how he scraped the data, cleaned it, and analyzed it himself using Python. He'll also show how he created data visualizations and even coded an app so his fellow racers can view their results. If you're looking for real-life hands-on data science projects, this is an excellent one to learn from and find inspiration in.",
+          "link": "https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's episode of the freeCodeCamp podcast, I interview prolific programming teacher John Smilga. He talks about what it was like growing up in Latvia, which was then part of the Soviet Union. He worked construction in the US for 5 years before teaching himself to code and becoming a professional developer. Today he has taught millions of fellow devs through his many courses on freeCodeCamp.",
+          "link": "https://www.freecodecamp.org/news/from-construction-worker-to-teaching-millions-of-developers-with-john-smilga-podcast-122/",
+          "order": "3",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to wield the most popular Version Control System in history: Git. Hitesh Choudhary is a software engineer who has published many courses on freeCodeCamp over the years. And this is one of his best. You'll learn how to use Git to make changes to a codebase, track those changes, submit them for review, and even how to revert changes if you break something. You'll also learn how to use Git to collaborate with developers around the world through the global Open Source community.",
+          "link": "https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/",
+          "order": "4",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to go even deeper with Git, you can earn a certification in GitHub Actions. These are Serverless DevOps tools that let you automate development workflows like building, testing, and deploying code. Andrew Brown is a CTO who has passed more than 50 DevOps certifications over the years. He teaches this freeCodeCamp course, which covers everything that's on the certification exam.",
+          "link": "https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/",
+          "order": "5",
+          "time_duration": "3",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "In mathematics, you don't understand things. You just get used to them.",
+      "quote_author": "John von Neumann, Mathematician, Engineer, and Computer Scientist"
+    },
+    {
+      "date": "May 3, 2024",
+      "links": [
+        {
+          "description": "Kirby is a classic Nintendo game where you control a squishy pink alien with a massive appetite. And in this freeCodeCamp course, you'll code your own version of Kirby that runs in a browser. You'll learn TypeScript -- a statically-typed version of JavaScript -- and the Kaboom.js library. This course includes all the sprite assets you'll need to build a playable platformer game that you can share with your friends.",
+          "link": "https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to learn what it's like being a professional GameDev, I interviewed Ben Awad, creator of Voidpet, which I can only describe as a sort of Emotional Support Pok\u00e9mon-like mobile game. Ben is a prolific coding tutorial creator, and has a weird but popular TikTok channel as well. I had a blast learning more about his adventures over the past few years. Did you know he sleeps 9 hours every single night? He swears by it.",
+          "link": "https://www.freecodecamp.org/news/ben-awad-is-a-gamedev-who-sleeps-9-hours-every-night-to-be-productive-podcast-121/",
+          "order": "2",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "You've heard of personal portfolio websites. But what about a portfolio that runs right in a command line terminal? That's right -- this tutorial will teach you how to build an interactive portfolio experience, complete with ASCII art, a r\u00e9sum\u00e9 menu, and even a joke command. You'll learn all about Shell Commands, Tab Completion, Syntax Highlighting, and more. And at the end of the day, you'll have a fun way to share your work with potential clients and employers.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/",
+          "order": "3",
+          "time_duration": "35",
+          "time_type": "minutes"
+        },
+        {
+          "description": "The great thing about emerging AI tools is that you don't need to be a Machine Learning Engineer with a PhD in Applied Mathematics just to be able to get things done with them. The burgeoning field of \"AI Engineering\" is essentially just web developers using AI APIs and off-the-shelf tools to power up their existing apps. We just published this course, taught by frequent freeCodeCamp contributor Tom Chant. It will introduce you to this new skill set and this new way of leveraging AI.",
+          "link": "https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/",
+          "order": "4",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "What's the difference between React and Next.js? And while we're at it, what's the difference between a library and a framework? In this course, software engineer Ankita Kulkarni will explain these concepts. And she'll also teach you various data fetching mechanisms and rendering strategies. If you want to expand your understanding of Front End Development, this course is for you.",
+          "link": "https://www.freecodecamp.org/news/whats-the-difference-between-react-and-nextjs/",
+          "order": "5",
+          "time_duration": "2",
+          "time_type": "hours"
+        }
+      ],
+      "quote": "Game development is very difficult. Nobody sets out to create a game that's not fun. It's all of the challenges and difficulties that happen throughout development that determine whether a game is a failure or a success. I think playing those thousands of games is the single best and easiest way to learn from my predecessors.",
+      "quote_author": "Masahiro Sakurai, Software Engineer, Game Developer, and Creator of Kirby"
+    },
+    {
       "date": "Apr 26, 2024",
       "links": [
         {
