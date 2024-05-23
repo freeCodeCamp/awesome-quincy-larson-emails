@@ -1,7 +1,9 @@
 # Awesome *Quincy Larson* Email Archive
-This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
+This repository is an archive of Quincy Larson's weekly email newsletter.
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
+
+A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at http://vidyo.ai.
 
 ### May 17, 2024
 1. Quantum Computing is real. Engineers are already finding ways to apply it to Cryptography, Drug Discovery, AI, and other fields. You can be the first of your friends to understand and appreciate how Quantum Computing works. The first half of this course focuses on the math behind quantum computing algorithms. You'll learn about Complex Numbers and Linear Algebra. Then you'll learn concepts like Qubits – Quantum Bits – along with Quantum Entanglement, Quantum Circuits, and Phase Kickback. Even though this course is designed for newcomers to Quantum Computing, I'm not going to downplay the importance of math skills in understanding this course. Fortunately, if you want to improve your math skills, freeCodeCamp also has a ton of university-level math courses to help get you there. (2 hour YouTube course): https://www.freecodecamp.org/news/learn-the-algorithms-behind-quantum-computing/
