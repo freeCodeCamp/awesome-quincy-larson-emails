@@ -1,9 +1,10 @@
-# Awesome *Quincy Larson* Email Archive
-This repository is an archive of Quincy Larson's weekly email newsletter.
+# Links to credible articles, tutorials, courses and much more all from freeCodeCamp.org via emails! Dig in!
+This repository is an archive of freeCodeCamp's weekly email newsletter.
 
 **If you find these learning resources to be worth your time, consider supporting the nonprofit with a tax-deductible donation: [https://donate.freecodecamp.org](https://donate.freecodecamp.org) or with a monthly donation via their Patreon account: https://www.patreon.com/m/4797564/**
 
-A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at http://vidyo.ai.
+Thank you to Sourabh Joshi for this repository and keeping it up to date!
+And check out what Software Engineer, Sourabh Joshi from Bengaluru is up to by visiting http://vidyo.ai.
 
 ### June 21, 2024
 1. freeCodeCamp just published a Linux course that will teach you how to use some of the open source operating system's most powerful features. It's designed with both Linux beginners and intermediate users in mind. You'll learn Linux's file system with hard links, soft links, permissions, and root accounts. You'll also learn how to use grep, a command line tool for finding what you need inside large datasets. This course also includes interactive labs, so you can apply the new skills you're learning. (2 hour YouTube course): https://www.freecodecamp.org/news/free-linux-crash-course-with-labs/
