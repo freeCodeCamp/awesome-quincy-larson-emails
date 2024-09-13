@@ -67,7 +67,6 @@ channel[2].text = RSS_CHANNEL_DESCRIPTION
 for email in json_data["emails"]:
 
     date = email.get("date")
-    json_links = email.get("links")
     bonus = email.get("bonus")
     quote = email.get("quote")
 
@@ -83,6 +82,8 @@ for email in json_data["emails"]:
 
         channel.append(
             rss_item(title="Quote", description=quote, pubDate=date))
+
+    json_links = email.get("links")
 
     for json_link in json_links:
 
