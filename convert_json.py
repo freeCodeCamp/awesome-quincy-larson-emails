@@ -7,6 +7,10 @@ from xml.dom import minidom
 JSON_PATH = "emails.json"
 RSS_PATH = "emails.rss"
 
+RSS_CHANNEL_TITLE = "Quincy Larson's Links Worth Your Time"
+RSS_CHANNEL_LINK = "https://github.com/freeCodeCamp/awesome-quincy-larson-emails"
+RSS_CHANNEL_DESCRIPTION = "RSS feed generated from a historical archive of Quincy's weekly newsletter."
+
 
 def rss_item(title: str | None = None,
              description: str | None = None,
@@ -56,11 +60,10 @@ channel.extend([
     ET.Element("description"),
 ])
 
-channel[0].text = "Quincy Larson's Links Worth Your Time"
-channel[1].text = "https://github.com/freeCodeCamp/awesome-quincy-larson-emails"
-channel[2].text = "RSS feed generated from a historical archive of Quincy's weekly newsletter."
+channel[0].text = RSS_CHANNEL_TITLE
+channel[1].text = RSS_CHANNEL_LINK
+channel[2].text = RSS_CHANNEL_DESCRIPTION
 
-email: dict = {}
 for email in json_data["emails"]:
 
     date = email.get("date")
