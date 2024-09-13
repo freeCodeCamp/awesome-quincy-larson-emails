@@ -2,6 +2,7 @@
 
 import json
 import xml.etree.ElementTree as ET
+from xml.dom import minidom
 
 JSON_PATH = "emails.json"
 RSS_PATH = "emails.rss"
@@ -42,8 +43,8 @@ def rss_item(title: str | None = None,
     return item
 
 
-with open(JSON_PATH, 'rb') as emails_json:
-    json_data: dict = json.load(emails_json)
+with open(JSON_PATH, 'rb') as emails_json_file:
+    json_data: dict = json.load(emails_json_file)
 
 
 tree = ET.ElementTree(ET.Element("rss", {"version": "2.0"}))
@@ -93,9 +94,12 @@ for email in json_data["emails"]:
             pubDate=date,
         ))
 
+rss = minidom.parseString(
+    ET.tostring(tree.getroot(), 'utf-8')) \
+    .toprettyxml(indent="  ")
 
-with open(RSS_PATH, 'wb') as emails_rss:
-    tree.write(emails_rss)
+with open(RSS_PATH, 'w') as emails_rss_file:
+    emails_rss_file.write(rss)
 
 # verify RSS (XML) is parse-able
 ET.ElementTree().parse(RSS_PATH)
