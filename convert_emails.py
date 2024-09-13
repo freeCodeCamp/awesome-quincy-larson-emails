@@ -56,7 +56,7 @@ channel.extend([
     ET.Element("description"),
 ])
 
-channel[0].text = "Quincy Larson's 5 Links Worth Your Time Emails"
+channel[0].text = "Quincy Larson's Links Worth Your Time"
 channel[1].text = "https://github.com/freeCodeCamp/awesome-quincy-larson-emails"
 channel[2].text = "RSS feed generated from a historical archive of Quincy's weekly newsletter."
 
