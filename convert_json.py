@@ -60,11 +60,10 @@ channel[0].text = "Quincy Larson's Links Worth Your Time"
 channel[1].text = "https://github.com/freeCodeCamp/awesome-quincy-larson-emails"
 channel[2].text = "RSS feed generated from a historical archive of Quincy's weekly newsletter."
 
-# TODO: replace pop with get / remove extra pops
 email: dict = {}
 for email in json_data["emails"]:
 
-    date = email.pop("date")
+    date = email.get("date")
     json_links = email.get("links")
     bonus = email.get("bonus")
     quote = email.get("quote")
