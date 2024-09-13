@@ -24,15 +24,11 @@ def rss_item(title: str | None = None,
         item.append(ET.Element("title"))
         item[-1].text = title
 
-    description_element = ET.Element("placeholder")
-    description_element.text = ""
     if description is not None:
         item.append(ET.Element("description"))
-        description_element = item[-1]
-        description_element.text = description
+        item[-1].text = description
 
     if link is not None:
-        description_element.text += " " + link
         item.append(ET.Element("link"))
         item[-1].text = link
 
