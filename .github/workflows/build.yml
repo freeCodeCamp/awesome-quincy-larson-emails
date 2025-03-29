@@ -1,11 +1,11 @@
-name: Build emails.json file from README
+name: Build email JSON and RSS
 on:
   workflow_dispatch:
   push:
     branches: [ main ]
 jobs:
   update:
-    name: Update the emails.json file 
+    name: Update the emails.json and emails.rss files
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -20,6 +20,10 @@ jobs:
       - name: convert README to json
         run: |
           python convert_readme.py
+
+      - name: convert json to rss
+        run: |
+          python convert_json.py
 
       - name: setup git config
         run: |
