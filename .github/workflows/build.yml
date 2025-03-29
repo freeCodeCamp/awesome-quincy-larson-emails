@@ -32,13 +32,23 @@ jobs:
           # echo ::set-output name=is_changed::$(git status --porcelain)
           echo is_changed=$(git status --porcelain) >> $GITHUB_OUTPUT
 
-      - name: commit changes
+      - name: commit emails.json changes
         run: |
           if git status --porcelain | grep 'emails.json'; then
             echo "Commiting changed emails.json file"
             git add emails.json
-            git commit -m "update emails.json"
+            git commit -m "chore: update emails.json"
             git push origin main
           else
-            echo "No changes to be commited"
+            echo "No email.json changes to be commited"
+          fi
+      - name: commit emails.rss changes
+        run: |
+          if git status --porecelain | grep 'emails.rss'; then
+            echo "Commiting changed emails.rss file"
+            git add emails.rss
+            git commit -m "chore: update emails.rss"
+            git push origin main
+          else
+            echo "No email.rss changes to be commited"
           fi
