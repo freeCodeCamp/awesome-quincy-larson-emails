@@ -44,7 +44,7 @@ jobs:
           fi
       - name: commit emails.rss changes
         run: |
-          if git status --porecelain | grep 'emails.rss'; then
+          if git status --porcelain | grep 'emails.rss'; then
             echo "Commiting changed emails.rss file"
             git add emails.rss
             git commit -m "chore: update emails.rss"
