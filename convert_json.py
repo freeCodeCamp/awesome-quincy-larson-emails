@@ -41,7 +41,7 @@ def rss_item(title: str | None = None,
     # https://validator.w3.org/feed/docs/error/InvalidRFC2822Date.html
     if pubDate is not None:
         item.append(ET.Element("pubDate"))
-        fmt_date = datetime.strptime(pubDate, "%b %d, %Y").strftime("%d %b %Y")
+        fmt_date = datetime.strptime(pubDate, "%B %d, %Y").strftime("%d %b %Y")
         item[-1].text = fmt_date
 
     return item
