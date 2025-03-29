@@ -44,10 +44,10 @@ def rss_item(title: str | None = None,
         item.append(ET.Element("pubDate"))
 
         # Make sure months are processed correctly when there's some inconsistency
-        # https://docs.python.org/3/library/datetime.html#format-codes
-        if pubDate in calendar.month_name:
+        # https://docs.python.org/3/library/datetime.html#format-codes 
+        if pubDate.split(' ')[0] in calendar.month_name:
             fmt_date = datetime.strptime(pubDate, "%B %d, %Y").strftime("%d %b %Y")
-        elif pubDate in calendar.month_abbr:
+        elif pubDate.split(' ')[0] in calendar.month_abbr:
             fmt_date = datetime.strptime(pubDate, "%b %d, %Y").strftime("%d %b %Y")
         else:
             fmt_date = '01 January 1970'  # Just default to UNIX start
