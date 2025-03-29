@@ -30,6 +30,7 @@ jobs:
           git config user.name "Quincy Larson Emails Bot"
           git config user.email "<>"
           echo ::set-output name=is_changed::$(git status --porcelain)
+          echo is_changed=$(git status --porcelain) >> $GITHUB_OUTPUT
 
       - name: commit changes
         run: |
