@@ -62,8 +62,9 @@ with open(OUT_FILE, 'w') as fh:
 
                 # Newer descriptions with descriptions ending with period
                 # before parens with time to explore the link.
-                if description[-1] == ')' and '. (' in description:
-                    info = re.search(r'(.*\.)\s?\(', description)
+                # Edge case of description ending with '?"
+                if description[-1] == ')' and ('. (' in description or '? (' in description):
+                    info = re.search(r'(.*[\.|\?])\s?\(', description)
                     link_data['description'] = info.group(1)
 
                 # Edge case with some links only taking 1 minute.
