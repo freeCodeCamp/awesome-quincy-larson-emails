@@ -1,7 +1,7 @@
 #!/bin/python3
 
-import calendar
 from datetime import datetime
+from dateutil import parser
 import json
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -46,16 +46,7 @@ def rss_item(title: str | None = None,
         # Make sure months are processed correctly when there's some inconsistency
         # https://docs.python.org/3/library/datetime.html#format-codes
         # 09:00:00 EST is set as default for simplicity
-        if pubDate.split(' ')[0] in calendar.month_name:
-            fmt_date = (datetime
-                        .strptime(pubDate, "%B %d, %Y 09:00:00 EST")
-                        .strftime("%d %b %Y"))
-        elif pubDate.split(' ')[0] in calendar.month_abbr:
-            fmt_date = (datetime
-                        .strptime(pubDate, "%b %d, %Y 09:00:00 EST")
-                        .strftime("%d %b %Y"))
-        else:
-            fmt_date = '01 January 1970'  # Just default to UNIX start
+        fmt_date = parser.parse(pubDate).strftime("%a %d %b %Y 09:00:00 EST")
         item[-1].text = fmt_date
 
     return item
