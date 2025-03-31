@@ -73,7 +73,10 @@ def rss_item(title: str | None = None,
 with open(JSON_PATH, 'rb') as emails_json_file:
     json_data: dict = json.load(emails_json_file)
 
-tree = ET.ElementTree(ET.Element("rss", {"version": "2.0"}))
+tree = ET.ElementTree(ET.Element(
+    "rss",
+    {"version": "2.0", "xmlns:atom": "http://www.w3.org/2005/Atom"}
+))
 
 root = tree.getroot()
 
@@ -81,10 +84,16 @@ root.append(ET.Element("channel"))
 channel = root[0]
 
 # Setup RSS metadata specifications
+# atom:link https://validator.w3.org/feed/docs/warning/MissingAtomSelfLink.html
 channel.extend([
     ET.Element("title"),
     ET.Element("link"),
     ET.Element("description"),
+    ET.Element("atom:link", {
+        "href": RSS_CHANNEL_LINK,
+        "ref": "rel",
+        "type": "application/rss+xml"
+    }),
 ])
 channel[0].text = RSS_CHANNEL_TITLE
 channel[1].text = RSS_CHANNEL_LINK
