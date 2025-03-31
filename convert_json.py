@@ -1,6 +1,6 @@
 #!/bin/python3
 
-from calendar
+import calendar
 from datetime import datetime
 import json
 import xml.etree.ElementTree as ET
