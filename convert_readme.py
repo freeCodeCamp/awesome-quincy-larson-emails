@@ -118,7 +118,7 @@ with open(OUT_FILE, 'w') as fh:
         else:
             line = re.sub(u' — ', ' - ', line)
             if 'int_data' not in locals():
-              int_data = {}
+                int_data = {}
             int_data['bonus'] = line
 
     data['emails'].append(int_data)  # Last case
