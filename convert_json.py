@@ -59,7 +59,7 @@ def rss_item(title: str | None = None,
         # Make GUID just YYYYMMDD for simplicity
         # RSS specification https://validator.w3.org/feed/docs/warning/MissingGuid.html
         item.append(ET.Element("guid"))
-        item[-1].text = parser.parse(pubDate).strftime("%Y%m%d")
+        item[-1].text = fmt_date.strftime("%Y%m%d")
 
     return item
 
