@@ -6,6 +6,7 @@ import json
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
+
 JSON_PATH = "emails.json"
 RSS_PATH = "emails.rss"
 
@@ -46,15 +47,18 @@ def rss_item(title: str | None = None,
         # Make sure months are processed correctly when there's some inconsistency
         # https://docs.python.org/3/library/datetime.html#format-codes
         # 09:00:00 EST is set as default for simplicity
-        fmt_date = parser.parse(pubDate).strftime("%a %d %b %Y 09:00:00 EST")
-        item[-1].text = fmt_date
+        item[-1].text = parser.parse(pubDate).strftime("%a %d %b %Y 09:00:00 EST")
+
+        # Make GUID just YYYYMMDD for simplicity
+        # RSS specification https://validator.w3.org/feed/docs/warning/MissingGuid.html
+        item.append(ET.Element("guid"))
+        item[-1].text = parser.parse(pubDate).strftime("%Y%m%d")
 
     return item
 
 
 with open(JSON_PATH, 'rb') as emails_json_file:
     json_data: dict = json.load(emails_json_file)
-
 
 tree = ET.ElementTree(ET.Element("rss", {"version": "2.0"}))
 
@@ -63,12 +67,12 @@ root = tree.getroot()
 root.append(ET.Element("channel"))
 channel = root[0]
 
+# Setup RSS metadata specifications
 channel.extend([
     ET.Element("title"),
     ET.Element("link"),
     ET.Element("description"),
 ])
-
 channel[0].text = RSS_CHANNEL_TITLE
 channel[1].text = RSS_CHANNEL_LINK
 channel[2].text = RSS_CHANNEL_DESCRIPTION
@@ -109,5 +113,5 @@ rss = minidom.parseString(
 with open(RSS_PATH, 'w') as emails_rss_file:
     emails_rss_file.write(rss)
 
-# verify RSS (XML) is parse-able
+# Verify RSS (XML) is parse-able
 ET.ElementTree().parse(RSS_PATH)
