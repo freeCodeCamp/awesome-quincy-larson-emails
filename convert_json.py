@@ -39,6 +39,12 @@ def rss_item(title: str | None = None,
         item.append(ET.Element("link"))
         item[-1].text = link
 
+        # Make GUID link itself
+        # https://validator.w3.org/feed/docs/warning/MissingGuid.html
+        # https://validator.w3.org/feed/docs/error/InvalidHttpGUID.html
+        item.append(ET.Element("guid"))
+        item[-1].text = link
+
     # Format dates in RFC-822 date-time
     # https://validator.w3.org/feed/docs/error/InvalidRFC2822Date.html
     if pubDate is not None:
@@ -55,11 +61,6 @@ def rss_item(title: str | None = None,
             fmt_date = datetime(1970, 1, 1) # Just default to UNIX start '01 January 1970'
 
         item[-1].text = fmt_date.strftime("%a, %d %b %Y 09:00:00 EST")
-
-        # Make GUID just YYYYMMDD for simplicity
-        # RSS specification https://validator.w3.org/feed/docs/warning/MissingGuid.html
-        item.append(ET.Element("guid"))
-        item[-1].text = fmt_date.strftime("%Y%m%d")
 
     return item
 
