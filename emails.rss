@@ -1,9 +1,10 @@
 <?xml version="1.0" ?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Quincy Larson's Links Worth Your Time</title>
     <link>https://github.com/freeCodeCamp/awesome-quincy-larson-emails</link>
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
+    <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="rel" type="application/rss+xml"/>
     <item>
       <title>Quote</title>
       <description>I used to think that being able to think, code, and communicate simultaneously was an impossible feat, until I realized that most people are just not good at coding interviews when they first start out. Interviewing is a skill that you can get better at by studying, preparing, and practicing for it. - Yangshun Tay, FAANG Software Engineer and freeCodeCamp contributor</description>
