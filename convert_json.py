@@ -39,12 +39,6 @@ def rss_item(title: str | None = None,
         item.append(ET.Element("link"))
         item[-1].text = link
 
-        # Make GUID link itself
-        # https://validator.w3.org/feed/docs/warning/MissingGuid.html
-        # https://validator.w3.org/feed/docs/error/InvalidHttpGUID.html
-        item.append(ET.Element("guid"))
-        item[-1].text = link
-
     # Format dates in RFC-822 date-time
     # https://validator.w3.org/feed/docs/error/InvalidRFC2822Date.html
     if pubDate is not None:
@@ -62,6 +56,15 @@ def rss_item(title: str | None = None,
 
         item[-1].text = fmt_date.strftime("%a, %d %b %Y 09:00:00 EST")
 
+    # Make GUID link a mix of the date and description
+    # https://validator.w3.org/feed/docs/warning/MissingGuid.html
+    # https://validator.w3.org/feed/docs/error/InvalidHttpGUID.html
+    item.append(ET.Element("guid", {"isPermaLink": "false"}))
+    if pubDate is not None:
+        item[-1].text = f"{pubDate} {' '.join(description.split(' ')[:5])}"
+    else:
+        item[-1].text = f"{' '.join(description.split(' ')[:5])}"
+      
     return item
 
 
@@ -92,8 +95,11 @@ for email in json_data["emails"]:
     quote = email.get("quote")
 
     if bonus is not None:
-        channel.append(
-            rss_item(title="Bonus", description=bonus, pubDate=date))
+        channel.append(rss_item(
+            title="Bonus",
+            description=bonus,
+            pubDate=date
+        ))
 
     if quote is not None:
         quote_author = email.get("quote_author")
@@ -101,13 +107,15 @@ for email in json_data["emails"]:
         if quote_author is not None:
             quote += " - " + quote_author
 
-        channel.append(
-            rss_item(title="Quote", description=quote, pubDate=date))
+        channel.append(rss_item(
+            title="Quote",
+            description=quote,
+            pubDate=date
+        ))
 
     json_links = email.get("links")
 
     for json_link in json_links:
-
         channel.append(rss_item(
             description=json_link.get("description"),
             link=json_link.get("link"),
