@@ -60,10 +60,12 @@ def rss_item(title: str | None = None,
     # https://validator.w3.org/feed/docs/warning/MissingGuid.html
     # https://validator.w3.org/feed/docs/error/InvalidHttpGUID.html
     item.append(ET.Element("guid", {"isPermaLink": "false"}))
-    if pubDate is not None:
+    if pubDate is not None and description is not None:
         item[-1].text = f"{pubDate} {' '.join(description.split(' ')[:5])}"
+    elif pubDate is not None and description is None:
+        item[-1].text = f"{pubDate} Quincy Larson weekly email shared information."
     else:
-        item[-1].text = f"{' '.join(description.split(' ')[:5])}"
+        item[-1].text = "Quincy Larson weekly email shared information."
       
     return item
 
