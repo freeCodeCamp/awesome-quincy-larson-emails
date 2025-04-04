@@ -2,6 +2,13 @@
 
 Hello and welcome! Here are some notes on how to contribute to this repository.
 
+**Contents**
+
+- [Prerequisites](#prerequisites)
+- [Files](#files)
+- [Parsing files](#parsing-files)
+- [Commits](#commits)
+
 ## Prerequisites
 
 This repository aims to depend on as little dependencies as possible to make it simple.
@@ -28,3 +35,34 @@ There are two Python scripts that help parse and transform the Markdown informat
 
 1. convert_json.py
 2. convert_readme.py
+
+## Commits
+
+We try to adhere to Conventional Commits to make our commit messages more meaningful and semantic when possible. See here for some examples on how to make commit messages https://www.conventionalcommits.org/en/v1.0.0/.
+
+Format: `<type>(<scope>): <subject>`
+
+`<scope>` is optional
+
+**Example:**
+
+```
+feat: add hat wobble
+^--^  ^------------^
+|     |
+|     +-> Summary in present tense.
+|
++-------> Type: chore, docs, feat, fix, refactor, style, or test.
+```
+
+More Examples:
+
+- `feat`: (new feature for the user, not a new feature for build script)
+- `fix`: (bug fix for the user, not a fix to a build script)
+- `docs`: (changes to the documentation)
+- `style`: (formatting, missing semi colons, etc; no production code change)
+- `refactor`: (refactoring production code, eg. renaming a variable)
+- `test`: (adding missing tests, refactoring tests; no production code change)
+- `chore`: (updating grunt tasks etc; no production code change)
+
+Source: https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
