@@ -16,8 +16,6 @@ A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He
 
 5. Learn how to run multiple virtual machines on a single Linux computer using a tool called a hypervisor. This is helpful for running multiple servers or doing cross-platform testing of your apps. This tutorial will introduce you to Network Bridges, Guest VMs, and the Cockpit VM manager. (20 minute read): https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/
 
-I hope you're having a blast learning more about programming, and expanding your skill set. The freeCodeCamp community is working hard to keep these open source books, courses, and tutorials coming. Please help us help you by joining the 11,367 kind folks who support our charity and our mission: https://www.freecodecamp.org/donate
-
 Quote of the Week: *“If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside.”* — technology writer Robert X. Cringely in an old issue of InfoWorld magazine
 
 ### Apr 25, 2025
