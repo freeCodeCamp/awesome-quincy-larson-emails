@@ -6,12 +6,6 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="rel" type="application/rss+xml"/>
     <item>
-      <title>Bonus</title>
-      <description>I hope you're having a blast learning more about programming, and expanding your skill set. The freeCodeCamp community is working hard to keep these open source books, courses, and tutorials coming. Please help us help you by joining the 11,367 kind folks who support our charity and our mission: https://www.freecodecamp.org/donate</description>
-      <pubDate>Fri, 02 May 2025 09:00:00 EST</pubDate>
-      <guid isPermaLink="false">May 2, 2025 I hope you're having a</guid>
-    </item>
-    <item>
       <title>Quote</title>
       <description>If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside. - technology writer Robert X. Cringely in an old issue of InfoWorld magazine</description>
       <pubDate>Fri, 02 May 2025 09:00:00 EST</pubDate>
