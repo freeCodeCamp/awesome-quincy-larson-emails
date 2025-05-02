@@ -1,6 +1,248 @@
 {
   "emails": [
     {
+      "bonus": "I hope you're having a blast learning more about programming, and expanding your skill set. The freeCodeCamp community is working hard to keep these open source books, courses, and tutorials coming. Please help us help you by joining the 11,367 kind folks who support our charity and our mission: https://www.freecodecamp.org/donate",
+      "date": "May 2, 2025",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a comprehensive Calculus course that will not only teach you math concepts, but will also show you how to implement them in Python code. Math professor Ed Pratowski will teach you college-level calc concepts like Limits, Integrals, Derivatives, Parametric Equations, and more. You can code along at home using Jupyter Notebook to implement these mathematical expressions and interact with them visually. This will help you solidify your understanding of these abstract concepts.",
+          "link": "https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/",
+          "order": "1",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "Python has its own Node.js-style web development framework called Django. And freeCodeCamp just published a crash course that will help you get up and running with it. You'll learn about Django's Model-View-Template design pattern, its admin dashboard, and its \"batteries included\" design philosophy that makes building web apps relatively straightforward. By the end of this crash course, you will have built your own first Django app.",
+          "link": "https://www.freecodecamp.org/news/django-crash-course-for-beginners",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp just published yet another comprehensive handbook by CTO Omer Rosenbaum on how Internet Protocol Version 4 (IPv4) works. Note that even though IPv6 came out 13 years ago, IPv4 still handles a majority of web traffic. This handbook will teach you the basics of how IP addresses work. You'll also learn about Network Addressing Schemes, Packet Fragmentation Handling, Header Fields, Subnet Masks, and more.",
+          "link": "https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/",
+          "order": "3"
+        },
+        {
+          "description": "Learn how to build your own DevOps pipeline using 100% freely available open source tools. This intermediate tutorial will show you step-by-step how to configure your cloud environment, set up Continuous Integration / Continuous Deployment, and orchestrate your containers. You'll also learn how to secure and monitor everything.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/",
+          "order": "4",
+          "time_duration": "45",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn how to run multiple virtual machines on a single Linux computer using a tool called a hypervisor. This is helpful for running multiple servers or doing cross-platform testing of your apps. This tutorial will introduce you to Network Bridges, Guest VMs, and the Cockpit VM manager.",
+          "link": "https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside.",
+      "quote_author": "technology writer Robert X. Cringely in an old issue of InfoWorld magazine"
+    },
+    {
+      "date": "Apr 25, 2025",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a comprehensive Python course that will walk you through building your own Llama 4-style Large Language Model. You'll learn about the inner workings of LLMs: Transformer Block Architecture, Feedforward Networks, Rotary Positional Embeddings, and the attention mechanism itself. Then you'll build a tokenizer and train a model to generate text.",
+          "link": "https://www.freecodecamp.org/news/code-your-own-llama-4-llm-from-scratch/",
+          "order": "1",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "If all these machine learning terms you keep hearing are confusing or intimidating, no worries. freeCodeCamp just published this crash course that will explain these terms simply with the help of animations. You'll learn about Gradient Descent, Regularization, Decision Trees, and the Transformer model itself.",
+          "link": "https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/",
+          "order": "2",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "On this week's freeCodeCamp podcast, I interview Tae'lur Alexis about her journey from working at McDonald's to working as a software engineer. She taught herself programming using freeCodeCamp. After 5 years of working as a developer, she started to specialize in information security. And last year she moved overseas to work remotely from Thailand. She has a ton of actionable tips for people who want to start a career in software development, and for experienced devs who want to transition into security.",
+          "link": "https://www.freecodecamp.org/news/from-fast-food-worker-to-cybersecurity-engineer-with-taelur-alexis-podcast-169/",
+          "order": "3",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp just published a JavaScript Array course that covers everything you need to know about the Array data structure. You'll learn methods like push, pop, slice, map, filter, and reduce. You'll even learn about more advanced techniques like flatMap and findLastIndex. This course also includes tons of code examples and comprehension check questions to help you retain everything as you learn it.",
+          "link": "https://www.freecodecamp.org/news/all-about-javascript-arrays/",
+          "order": "4",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn REST API Architecture by building your own movie database app using back-end JavaScript. Representational State Transfer (REST) is the most common architecture for building APIs these days because it allows your server to be stateless. That is, it can serve new requests without any memory of its previous requests. This beginner tutorial will walk you through installing Express, setting up your webserver, configuring routes, and writing to your database.",
+          "link": "https://www.freecodecamp.org/news/learn-rest-api-principles-by-building-an-express-app/",
+          "order": "5",
+          "time_duration": "25",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "As a developer, you can't just jump straight to learning security. You have to start with Linux and networking. I had to go back and study how to build servers from scratch, set up a tech stack, and then learn how to break those systems. Building and breaking - it's a constant cycle. That's how I really started to understand security.",
+      "quote_author": "Tae'lur Alexis on this week's freeCodeCamp podcast, talking about her journey from web developer to security engineer"
+    },
+    {
+      "date": "Apr 18, 2025",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a comprehensive course on how to train your own GPT-like Large Language Model from scratch. You'll learn how to use Python libraries to load text data, train a tokenizer, and implement the Transformer architecture. Then you'll pre-train your model and use supervised learning to fine-tune it. By the end of the course, you'll have built your own AI assistant that you can chat with.",
+          "link": "https://www.freecodecamp.org/news/train-your-own-llm/",
+          "order": "1",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "And if you want to go even deeper with Python, we also published a course on data engineering fundamentals. You'll adopt the mindset and best practices of the two senior platform engineers who teach this course. Some of the techniques you'll learn include extracting data from APIs, automatic schema management, incremental loading, and how to orchestrate scalable workflows.",
+          "link": "https://www.freecodecamp.org/news/data-loading-with-python-and-ai",
+          "order": "2",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's freeCodeCamp podcast, I interview Alyson La who used freeCodeCamp to teach herself how to program while working as an accountant. She was able to transition to a data analyst role and ultimately became a data engineer at GitHub. After one of her kids was diagnosed with Autism, she stepped away from her career for 3 years. She now teaches other women how to re-enter the workforce through a charity called Tech Moms. She shares a ton of practical advice for anyone interested in building more technical skills.",
+          "link": "https://www.freecodecamp.org/news/from-accountant-to-data-engineer-with-alyson-la-podcast-168/",
+          "order": "3",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Laravel is the most popular PHP framework for building web apps. And freeCodeCamp just published an in-depth course on how to learn it. You can code along at home and build your own clone of the Medium blogging website. Along the way, you'll learn Tinker, Breeze, Blade Directives, and more.",
+          "link": "https://www.freecodecamp.org/news/learn-laravel-by-building-a-medium-clone",
+          "order": "4",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "Finally, freeCodeCamp just published this full-length handbook that will teach you all about Serverless Architecture, which simplifies development by letting you focus purely on application code. Psst -- serverless is a marketing term and does still involve servers. You'll learn how to set up a Docker image that you can then use with AWS Lambda functions to handle your server requests.",
+          "link": "https://www.freecodecamp.org/news/serverless-architecture-with-aws-lambda/",
+          "order": "5"
+        }
+      ],
+      "quote": "I worked in spreadsheets. But as a data analyst, I had to learn SQL for the first time. The big transition was going from Excel to accessing a database, writing SQL, and then analyzing the data in a spreadsheet. Understanding how the tables connected, how joins worked - that was the bridge that helped me move further into engineering roles.",
+      "quote_author": "Alyson La on her transition from accountant to data analyst and ultimately data engineer, on this week's freeCodeCamp podcast"
+    },
+    {
+      "date": "Apr 11, 2025",
+      "links": [
+        {
+          "description": "One of the hardest aspects of building apps in C and C++ is just getting your development environment properly configured. This course will walk you through how to set up key tools like CMake, vcpkg, Git, and Docker. From there, you'll be able to build high-performance apps with granular memory management. This course will put you in a strong position to take full advantage of freeCodeCamp's many other C and C++ for beginners courses.",
+          "link": "https://www.freecodecamp.org/news/c-setup-and-installation-tools-cmake-vcpkg-docker-and-copilot/",
+          "order": "1",
+          "time_duration": "6",
+          "time_type": "hours"
+        },
+        {
+          "description": "Lynx is a cross-platform development framework that just became open source a few weeks ago. You can use Lynx to build JavaScript apps that run on all kinds of devices, including Apple and Android phones. It's similar to frameworks like React Native and Flutter. This comprehensive freeCodeCamp course will guide you through setting up your first Lynx project, integrating with APIs, and leveraging its unique dual-thread architecture. You'll code your own game review app while learning to use Lynx's UI components, state management, and navigation implementation.",
+          "link": "https://www.freecodecamp.org/news/learn-lynx-to-create-javascript-mobile-apps/",
+          "order": "2",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's freeCodeCamp podcast, I interview Jason Lengstorf, who learned to code by building websites for emo bands. Jason dropped out of college but went on to work as a software architect at IBM and other tech companies. He shares his tips for teaching yourself programming by chasing your curiosity.",
+          "link": "https://www.freecodecamp.org/news/from-drop-out-to-software-architect-with-jason-lengstorf-podcast-167/",
+          "order": "3",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Wireshark is a popular open source tool that security engineers use to analyze network traffic. This in-depth tutorial will show you how to harness Wireshark's power by filtering packet data so you can understand what's happening in a network and catch bad actors.",
+          "link": "https://www.freecodecamp.org/news/use-wireshark-filters-to-analyze-network-traffic/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you've already learned languages like Python, JavaScript, and C++, and are looking for a new adventure, consider Clojure. It's a functional language based off of Lisp that can also leverage the Java Virtual Machine to run code in parallel. freeCodeCamp just published this comprehensive Clojure primer with interactive challenges that you can solve as you read.",
+          "link": "https://www.freecodecamp.org/news/learn-clojure-programming-basics/",
+          "order": "5"
+        }
+      ],
+      "quote": "You can't just hang out with other developers - but never build anything - and expect to become a developer. At the same time, you can't just build things - but never deliver them to anybody - and expect to become a developer. You have to do both.",
+      "quote_author": "Jason Lengstorf, self-taught engineer and software architect, on this week's freeCodeCamp podcast"
+    },
+    {
+      "date": "Apr 4, 2025",
+      "links": [
+        {
+          "description": "Learn how Large Language Models like GPT 4 work -- one layer at a time. This freeCodeCamp course will walk you through the new DeepSeek-V3 technical report so you can learn about Multi-Head Latent Attention, Query-Key-Value mechanisms, Mixture of Experts Architecture, Rotary Positional Embeddings, and more. It will help you bridge the gap from understanding the theory to writing the Python code.",
+          "link": "https://www.freecodecamp.org/news/understand-and-code-deepseek-v3/",
+          "order": "1",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "Laravel is the most popular PHP web development framework. And freeCodeCamp just published a crash course where you can code along at home and build your own Instagram clone using Laravel. This course is taught by Beau Carnes, one of freeCodeCamp's most popular instructors. You'll learn some PHP basics and how to harness the power of Laravel's Model-View-Controller architecture. You'll also learn how to configure your development environment, create your data models, set up routing, and test your app.",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-laravel-and-mongodb/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's freeCodeCamp podcast, I interview Ryan Furrer about his journey from broke musician to software engineer. As you may know, not every guest on my podcast has a PhD from Stanford. Case in point, Ryan dropped out of college and worked as a violin instructor. He spent 5 years teaching himself how to program while working odd jobs and paying down his student debt. He ultimately ramped up with freelance gigs before landing developer jobs. He shares tons of practical insights for mid-career folks who want to break into tech.",
+          "link": "https://www.freecodecamp.org/news/from-broke-musician-to-working-dev-ryan-furrer-podcast-166/",
+          "order": "3"
+        },
+        {
+          "description": "The freeCodeCamp community is on a roll with another awesome handbook -- this time on cryptography. You'll learn the history of the RSA cryptosystem and the math that underpins it. You'll also learn about various attacks on the encryption scheme such as H\u00e5stad's Broadcast Attack, the Bleichenbacher Attack, the Malleability Exploit, and the many additions to RSA that have hardened it over the decades. Strong recommend.",
+          "link": "https://www.freecodecamp.org/news/the-cryptography-handbook-rsa-algorithm/",
+          "order": "4"
+        },
+        {
+          "description": "Finally, did you know you could run your own home VPN off of a cheap Raspberry Pi computer? This freeCodeCamp tutorial will walk you through setting up a Tailscale open source mesh VPN for all your internet-connected devices, using the WireGuard protocol.",
+          "link": "https://www.freecodecamp.org/news/set-up-a-home-vpn-using-tailscale-on-a-raspberry-pi/",
+          "order": "5",
+          "time_duration": "12",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "You don't have to push yourself if you're not comfortable. But there are rewards to be reaped should you figure out a way to put yourself slightly past the threshold of comfort.",
+      "quote_author": "Ryan Furrer, self-taught developer, on this week's freeCodeCamp podcast"
+    },
+    {
+      "bonus": "git push --force origin master\"* - Francesco Ciulla, software engineer and guest on this week's freeCodeCamp podcast (In case you didn't get the reference, it's a Linkin Park joke)",
+      "date": "Mar 28, 2025",
+      "links": [
+        {
+          "description": "freeCodeCamp just published this comprehensive tutorial that will teach you all about Application Programming Interfaces (APIs), and how computers use them to talk to one another. You'll get a full rundown of Clients, Servers, Requests, and Responses. You'll learn about various architectures like REST, SOAP, GraphQL, and gRPC. We've also included tons of diagrams and code examples to help you understand and retain the key concepts.",
+          "link": "https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/",
+          "order": "1",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Lots of people know how to use spreadsheets, but few people know how to use them well. freeCodeCamp just published an Excel crash course that will help you learn the key formulas and functions. It covers Conditional Logic, VLOOKUP and HLOOKUP for searching data, data cleaning methods, common time functions, and more. This is perfect for refreshing your Excel knowledge and learning a few new techniques that you'll inevitably use in the future.",
+          "link": "https://www.freecodecamp.org/news/learn-the-top-excel-formulas-and-functions/",
+          "order": "2",
+          "time_duration": "75",
+          "time_type": "minutes"
+        },
+        {
+          "description": "On this week's podcast, I interview a developer who didn't get serious about coding until he was 32 years old. Francesco Ciulla says he hated coding and preferred working as a volleyball coach. But he eventually knuckled down and got good at it, and today his code runs on Europe's Copernicus satellites. We talk about his long journey into software engineering, and how even though he's a proud introvert, he's managed to give conference talks and teach fellow developers.",
+          "link": "https://www.freecodecamp.org/news/programming-satellites-at-age-37-with-francesco-ciulla-podcast-165/",
+          "order": "3",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "When you're building Python apps, you don't necessarily need a third-party tool to find performance bottlenecks within your codebase. The Python Standard Library already includes some pretty powerful built-in profiling modules. And this quick freeCodeCamp tutorial will show you how to leverage them.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/",
+          "order": "4",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And if you're looking for a fun project idea to practice your Python skills, you can code along at home with this tutorial and do some data analysis on your own YouTube metrics. Even if you just have a single cat video uploaded, that's enough data to play with. You'll learn how to use Jupyter Notebook, Pandas, Seaborn, and Matplotlib. First you'll export your data and run a correlation analysis on it. Then you'll visualize your data using a scatter plot chart. Finally, you'll be able to analyze your audience retention.",
+          "link": "https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ]
+    },
+    {
       "date": "Mar 22, 2025",
       "links": [
         {
