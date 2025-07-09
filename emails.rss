@@ -6,10 +6,10 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="rel" type="application/rss+xml"/>
     <item>
-      <title>Bonus</title>
-      <description>*&quot;Running an open source project taught me more about software design and communication than any job I've had. You have to think about every decision from the perspective of a stranger reading your code.&quot;* - Software Engineer Tai Groot on this week's freeCodeCamp podcast</description>
+      <title>Quote</title>
+      <description>Running an open source project taught me more about software design and communication than any job I've had. You have to think about every decision from the perspective of a stranger reading your code. - Software Engineer Tai Groot on this week's freeCodeCamp podcast</description>
       <pubDate>Sun, 06 Jul 2025 09:00:00 EST</pubDate>
-      <guid isPermaLink="false">July 6, 2025 *&quot;Running an open source project</guid>
+      <guid isPermaLink="false">July 6, 2025 Running an open source project</guid>
     </item>
     <item>
       <description>We just published a full-length interactive book by computer science professor and freeCodeCamp contributor Dr. Mark Mahoney. It will teach you the foundations of both back end and front end web development. You'll learn some Node, Express, SQLite, GraphQL, Web Components, React, and more. Mark even built his own open source &quot;code playback&quot; system to walk you through the book's code step-by-step with detailed explanations. Pretty cool.</description>
@@ -42,10 +42,10 @@
       <guid isPermaLink="false">July 6, 2025 Finally, did you know that</guid>
     </item>
     <item>
-      <title>Bonus</title>
-      <description>*&quot;There's a difference between freelancing and running an agency. Freelancing is a hustle. Running an agency is about systems, people, and risk.&quot;* - Software Engineer Kelly Vaughn on this week's freeCodeCamp podcast</description>
+      <title>Quote</title>
+      <description>There's a difference between freelancing and running an agency. Freelancing is a hustle. Running an agency is about systems, people, and risk. - Software Engineer Kelly Vaughn on this week's freeCodeCamp podcast</description>
       <pubDate>Sun, 29 Jun 2025 09:00:00 EST</pubDate>
-      <guid isPermaLink="false">June 29, 2025 *&quot;There's a difference between freelancing</guid>
+      <guid isPermaLink="false">June 29, 2025 There's a difference between freelancing</guid>
     </item>
     <item>
       <description>freeCodeCamp just published a new handbook on how to build your own custom Model Context Protocol (MCP) server. The entire MCP paradigm was just invented 7 months ago, so let me explain how it works. Before MCP, you needed to write custom connector code for each data source your LLM used -- such as calendars, map APIs, and sensor data streams. Sure -- tools like LangChain helped with this. But MCP makes things so much simpler. You just lay out how your data is structured. That way when an LLM connects, it can figure out how to get whatever data it needs all on its own. This MCP approach is an excellent complement to the Retrieval Augmented Generation technique developers were using last year.</description>
@@ -78,10 +78,10 @@
       <guid isPermaLink="false">June 29, 2025 Finally, freeCodeCamp also published our</guid>
     </item>
     <item>
-      <title>Bonus</title>
-      <description>*&quot;A top coder sees a program graphically. A data structure as a hierarchy of relationships, a program as a network of data pipes. The first and only time they reduce pictures to words is when they write code.&quot;* - Robert Wagner, Programmer and Computer Science professor</description>
+      <title>Quote</title>
+      <description>A top coder sees a program graphically. A data structure as a hierarchy of relationships, a program as a network of data pipes. The first and only time they reduce pictures to words is when they write code. - Robert Wagner, Programmer and Computer Science professor</description>
       <pubDate>Sat, 21 Jun 2025 09:00:00 EST</pubDate>
-      <guid isPermaLink="false">June 21, 2025 *&quot;A top coder sees a</guid>
+      <guid isPermaLink="false">June 21, 2025 A top coder sees a</guid>
     </item>
     <item>
       <description>The freeCodeCamp community just released three new sections of our Certified Full Stack Developer curriculum: React Hooks and State, Testing, and Performance. These include dozens of lectures, workshops, and interactive labs. As you progress through the coursework, you'll build your own fully playable Tic Tac Toe game, color picker, and more. We'll continue to publish the remaining modules throughout 2025. If you start the curriculum now, you can be one of the first people to earn the cert when we add the final exam and capstone project in early 2026.</description>
@@ -1333,9 +1333,9 @@
     </item>
     <item>
       <title>Bonus</title>
-      <description>They left because they couldn't find a table.&quot;* - Kenneth Fisher, Database Administrator</description>
+      <description>Joke of the Week: *&quot;A couple of relational databases walked into a NoSQL bar. They left because they couldn't find a table.&quot;* - Kenneth Fisher, Database Administrator</description>
       <pubDate>Fri, 11 Oct 2024 09:00:00 EST</pubDate>
-      <guid isPermaLink="false">Oct 11, 2024 They left because they couldn't</guid>
+      <guid isPermaLink="false">Oct 11, 2024 Joke of the Week: *&quot;A</guid>
     </item>
     <item>
       <description>freeCodeCamp just published this course that will teach you how databases work from the ground up. You'll learn about Schemas and Indexing. You'll also learn how databases leverage both RAM and disk storage, how they interact with networks, and how they distribute data. Then you'll explore SQLite's architecture and contrast it with MySQL and PostgreSQL.</description>
@@ -1729,9 +1729,9 @@
     </item>
     <item>
       <title>Bonus</title>
-      <description>Because light attracts bugs.&quot;* - ShivamLH on Reddit</description>
+      <description>Joke of the Week: *&quot;Why do programmers prefer dark mode? Because light attracts bugs.&quot;* - ShivamLH on Reddit</description>
       <pubDate>Fri, 19 Jul 2024 09:00:00 EST</pubDate>
-      <guid isPermaLink="false">July 19, 2024 Because light attracts bugs.&quot;* -</guid>
+      <guid isPermaLink="false">July 19, 2024 Joke of the Week: *&quot;Why</guid>
     </item>
     <item>
       <description>Learn CSS by coding a ton of CSS. This freeCodeCamp course will teach you how to style your webpages by building 24 projects step-by-step. You'll recreate layouts from popular apps like GitHub, CodePen, and Instagram. You'll build loading animations, progress bars, and flashcards using pure CSS. And you'll learn key CSS concepts like transitions, pseudo-elements, keyframe animations, and hover effects.</description>
