@@ -16,8 +16,7 @@ A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He
 
 5. Finally, did you know that JavaScript is now one of the most popular languages for writing games? You can build some pretty sophisticated experiences that run right in a browser. This guide will walk you through five powerful JS libraries you can use to simplify your game development workflow and get your game in front of players as quickly as possible. (full-length handbook): https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/
 
-Quote of the Week:
-*"Running an open source project taught me more about software design and communication than any job I’ve had. You have to think about every decision from the perspective of a stranger reading your code."* — Software Engineer Tai Groot on this week's freeCodeCamp podcast
+Quote of the Week: *"Running an open source project taught me more about software design and communication than any job I’ve had. You have to think about every decision from the perspective of a stranger reading your code."* — Software Engineer Tai Groot on this week's freeCodeCamp podcast
 
 ### June 29, 2025
 1. freeCodeCamp just published a new handbook on how to build your own custom Model Context Protocol (MCP) server. The entire MCP paradigm was just invented 7 months ago, so let me explain how it works. Before MCP, you needed to write custom connector code for each data source your LLM used – such as calendars, map APIs, and sensor data streams. Sure – tools like LangChain helped with this. But MCP makes things so much simpler. You just lay out how your data is structured. That way when an LLM connects, it can figure out how to get whatever data it needs all on its own. This MCP approach is an excellent complement to the Retrieval Augmented Generation technique developers were using last year. (full-length handbook): https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/
@@ -30,8 +29,7 @@ Quote of the Week:
 
 5. Finally, freeCodeCamp also published our first-ever course on the German language. Learn how to speak the native language of more than 100 million Europeans with this A1-level course for absolute beginners. You'll learn grammar, pronunciation, vocabulary, and a ton of common phrases you can use while traveling. (12 hour YouTube course): https://www.freecodecamp.org/news/learn-to-speak-german/
 
-Quote of the Week:
-*"There’s a difference between freelancing and running an agency. Freelancing is a hustle. Running an agency is about systems, people, and risk."* — Software Engineer Kelly Vaughn on this week's freeCodeCamp podcast
+Quote of the Week: *"There’s a difference between freelancing and running an agency. Freelancing is a hustle. Running an agency is about systems, people, and risk."* — Software Engineer Kelly Vaughn on this week's freeCodeCamp podcast
 
 ### June 21, 2025
 1. The freeCodeCamp community just released three new sections of our Certified Full Stack Developer curriculum: React Hooks and State, Testing, and Performance. These include dozens of lectures, workshops, and interactive labs. As you progress through the coursework, you'll build your own fully playable Tic Tac Toe game, color picker, and more. We'll continue to publish the remaining modules throughout 2025. If you start the curriculum now, you can be one of the first people to earn the cert when we add the final exam and capstone project in early 2026. (fully interactive curriculum): https://www.freecodecamp.org/news/learn-react-in-your-browser-freecodecamp-full-stack-curriculum-mid-2025-update/
@@ -44,8 +42,7 @@ Quote of the Week:
 
 5. Finally, you may practice good operational security on your laptop. But what about your phone? This quick article will give you some practical tips for locking down your phone. (7 minute read): https://www.freecodecamp.org/news/how-to-improve-your-phones-privacy/
 
-Quote of the Week:
-*"A top coder sees a program graphically. A data structure as a hierarchy of relationships, a program as a network of data pipes. The first and only time they reduce pictures to words is when they write code."* — Robert Wagner, Programmer and Computer Science professor
+Quote of the Week: *"A top coder sees a program graphically. A data structure as a hierarchy of relationships, a program as a network of data pipes. The first and only time they reduce pictures to words is when they write code."* — Robert Wagner, Programmer and Computer Science professor
 
 ### June 14, 2025
 1. Learn how to build your own full-stack JavaScript apps. freeCodeCamp just published a comprehensive course on the popular MERN Stack. MERN stands for MongoDB, Express.js, React, and Node.js. These are the key tools that a lot of modern web apps use, including freeCodeCamp's platform itself. You'll learn how to build your user interface, handle data routing, and even rate-limit your back end API – so you can stop your app from getting overwhelmed by all those bots out there that are scraping the web for LLM training data. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-the-mern-stack-in-2025/
@@ -504,8 +501,7 @@ Quote of the Week: *"The power of Open Source is the power of the people. The pe
 
 5. What is Hydration? What is Pre-rendering? This tutorial will walk you through these key web development concepts and teach you how Client-side Rendering works. You'll also learn how traditional Server-side Rendering works, and the trade-offs involved. By the end of this tutorial, you'll have a much better understanding of how developers build modern Single Page Applications and serve them at scale. (40 minute read): https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/
 
-Joke of the Week: *"A couple of relational databases walked into a NoSQL bar.
-They left because they couldn’t find a table."* — Kenneth Fisher, Database Administrator
+Joke of the Week: *"A couple of relational databases walked into a NoSQL bar. They left because they couldn’t find a table."* — Kenneth Fisher, Database Administrator
 
 ### Oct 4, 2024
 1. freeCodeCamp just published a new course where you'll code your own developer portfolio page using React and the popular Next.js full stack development framework. This course will also teach you how to harness the power of Three.js for 3D animation and Tailwind CSS for styling your page. You'll build the site step-by-step and add your own 3D art assets and music. (4 hour YouTube course): https://www.freecodecamp.org/news/create-a-front-end-portfolio-project-with-nextjs-and-threejs/
@@ -648,8 +644,7 @@ Joke of the Week: *"There are only two hard things in computer science: cache in
 
 5. Monte Carlo simulations are one of the most powerful tools data scientists have in their toolbox. Named after a famous casino in Monaco, Monte Carlo methods involve creating detailed models of a situation with many uncertain factors. By running the model many times with different random inputs, you can see a wide range of possible outcomes, and can learn more about how the system behaves. This tutorial will give you more insight into Monte Carlo methods and show you how they're used for everything from financial modeling to designing circuit boards. (20 minute read): https://www.freecodecamp.org/news/what-are-monte-carlo-methods/
 
-Joke of the Week: *"Why do programmers prefer dark mode?
-Because light attracts bugs."* — ShivamLH on Reddit
+Joke of the Week: *"Why do programmers prefer dark mode? Because light attracts bugs."* — ShivamLH on Reddit
 
 ### July 12, 2024
 1. Andrew Brown is a CTO who has passed dozens of cloud certification exams over the years. And he's back with an in-depth guide to the popular AWS SysOps certification exam. This course will not only teach you everything tested on the exam – it will also ground you in cloud engineering concepts. So what is SysOps? Well, it's like a traditional SysAdmin (System Administrator) role that pretty much every company has – but for cloud servers. This freeCodeCamp course will cover Networking, Logging, Metrics, Events, Security, Load Balancing, Serverless Architecture, and more. If you want to take the plunge and learn all these skills, this course has got you covered. (68 hour YouTube course): https://www.freecodecamp.org/news/prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification/
