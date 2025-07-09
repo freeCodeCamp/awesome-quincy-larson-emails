@@ -6,6 +6,330 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="rel" type="application/rss+xml"/>
     <item>
+      <title>Bonus</title>
+      <description>*&quot;Running an open source project taught me more about software design and communication than any job I've had. You have to think about every decision from the perspective of a stranger reading your code.&quot;* - Software Engineer Tai Groot on this week's freeCodeCamp podcast</description>
+      <pubDate>Sun, 06 Jul 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">July 6, 2025 *&quot;Running an open source project</guid>
+    </item>
+    <item>
+      <description>We just published a full-length interactive book by computer science professor and freeCodeCamp contributor Dr. Mark Mahoney. It will teach you the foundations of both back end and front end web development. You'll learn some Node, Express, SQLite, GraphQL, Web Components, React, and more. Mark even built his own open source &quot;code playback&quot; system to walk you through the book's code step-by-step with detailed explanations. Pretty cool.</description>
+      <link>https://www.freecodecamp.org/news/an-animated-introduction-to-web-development-from-back-to-front/</link>
+      <pubDate>Sun, 06 Jul 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">July 6, 2025 We just published a full-length</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp also published a comprehensive guide to the Google Cloud Cybersecurity Certificate exam. You'll learn the basics of being a Cloud Security Analyst such as System Safeguarding, Risk Management, and Threat Analysis.</description>
+      <link>https://www.freecodecamp.org/news/beginners-guide-to-cloud-cybersecurity/</link>
+      <pubDate>Sun, 06 Jul 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">July 6, 2025 freeCodeCamp also published a comprehensive</guid>
+    </item>
+    <item>
+      <description>On this week's freeCodeCamp podcast, I interview Back End engineer Tai Groot about Go, TypeScript, and Rust. We dive into the Developer Experience VS Performance tradeoffs of each of these programming languages. One piece of advice Tai shares: Rust is a superb language for rewriting an older codebase... but never use it to write your first version of something new. He also shares tips for running open source projects, and for senior engineers who want to mentor new devs who are entering the field.</description>
+      <link>https://www.freecodecamp.org/news/rust-vs-go-vs-typescript-which-back-end-language-is-for-you-with-tai-groot-podcast-176/</link>
+      <pubDate>Sun, 06 Jul 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">July 6, 2025 On this week's freeCodeCamp podcast,</guid>
+    </item>
+    <item>
+      <description>The freeCodeCamp community uses Flutter to build our Android and iOS apps. It's a great way to maintain several apps with a single codebase. And one of the most important features developers get out of a mobile app is Local Notifications. This comprehensive tutorial will show you how to use the open source Awesome Notifications library to share updates with your users and remind them of time-sensitive events in your app.</description>
+      <link>https://www.freecodecamp.org/news/how-to-use-local-notifications-in-flutter/</link>
+      <pubDate>Sun, 06 Jul 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">July 6, 2025 The freeCodeCamp community uses Flutter</guid>
+    </item>
+    <item>
+      <description>Finally, did you know that JavaScript is now one of the most popular languages for writing games? You can build some pretty sophisticated experiences that run right in a browser. This guide will walk you through five powerful JS libraries you can use to simplify your game development workflow and get your game in front of players as quickly as possible.</description>
+      <link>https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/</link>
+      <pubDate>Sun, 06 Jul 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">July 6, 2025 Finally, did you know that</guid>
+    </item>
+    <item>
+      <title>Bonus</title>
+      <description>*&quot;There's a difference between freelancing and running an agency. Freelancing is a hustle. Running an agency is about systems, people, and risk.&quot;* - Software Engineer Kelly Vaughn on this week's freeCodeCamp podcast</description>
+      <pubDate>Sun, 29 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 29, 2025 *&quot;There's a difference between freelancing</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp just published a new handbook on how to build your own custom Model Context Protocol (MCP) server. The entire MCP paradigm was just invented 7 months ago, so let me explain how it works. Before MCP, you needed to write custom connector code for each data source your LLM used -- such as calendars, map APIs, and sensor data streams. Sure -- tools like LangChain helped with this. But MCP makes things so much simpler. You just lay out how your data is structured. That way when an LLM connects, it can figure out how to get whatever data it needs all on its own. This MCP approach is an excellent complement to the Retrieval Augmented Generation technique developers were using last year.</description>
+      <link>https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/</link>
+      <pubDate>Sun, 29 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 29, 2025 freeCodeCamp just published a new</guid>
+    </item>
+    <item>
+      <description>Many of the recent breakthroughs in AI tools have been thanks to the Transformer Architecture pioneered at Google. This course will teach you how Transformers work, and how they're evolving. You'll learn about Attention Mechanisms, Positional Encoding, Activation Functions, and Normalization. Transformers! More than meets the eye!.</description>
+      <link>https://www.freecodecamp.org/news/learn-the-evolution-of-the-transformer-architecture-used-in-llms/</link>
+      <pubDate>Sun, 29 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 29, 2025 Many of the recent breakthroughs</guid>
+    </item>
+    <item>
+      <description>On this week's freeCodeCamp podcast I interview Kelly Vaughn. She's a software engineer who went from building apps for freelance clients to running her own full-blown developer agency. She shares tips for scaling up your business in your community and not burning yourself out in the process.</description>
+      <link>https://www.freecodecamp.org/news/from-therapist-to-six-figure-freelance-dev-podcast-176/</link>
+      <pubDate>Sun, 29 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 29, 2025 On this week's freeCodeCamp podcast</guid>
+    </item>
+    <item>
+      <description>Learn how to build your own embedded systems -- from smart fridges to home security systems. freeCodeCamp just published a comprehensive handbook that will teach you Firmware Design from the ground up. You'll learn about the Sense-Process-Act cycle that governs the behavior of most devices. Then you'll learn about low-level system design and modern best practices.</description>
+      <link>https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/</link>
+      <pubDate>Sun, 29 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 29, 2025 Learn how to build your</guid>
+    </item>
+    <item>
+      <description>Finally, freeCodeCamp also published our first-ever course on the German language. Learn how to speak the native language of more than 100 million Europeans with this A1-level course for absolute beginners. You'll learn grammar, pronunciation, vocabulary, and a ton of common phrases you can use while traveling.</description>
+      <link>https://www.freecodecamp.org/news/learn-to-speak-german/</link>
+      <pubDate>Sun, 29 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 29, 2025 Finally, freeCodeCamp also published our</guid>
+    </item>
+    <item>
+      <title>Bonus</title>
+      <description>*&quot;A top coder sees a program graphically. A data structure as a hierarchy of relationships, a program as a network of data pipes. The first and only time they reduce pictures to words is when they write code.&quot;* - Robert Wagner, Programmer and Computer Science professor</description>
+      <pubDate>Sat, 21 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 21, 2025 *&quot;A top coder sees a</guid>
+    </item>
+    <item>
+      <description>The freeCodeCamp community just released three new sections of our Certified Full Stack Developer curriculum: React Hooks and State, Testing, and Performance. These include dozens of lectures, workshops, and interactive labs. As you progress through the coursework, you'll build your own fully playable Tic Tac Toe game, color picker, and more. We'll continue to publish the remaining modules throughout 2025. If you start the curriculum now, you can be one of the first people to earn the cert when we add the final exam and capstone project in early 2026.</description>
+      <link>https://www.freecodecamp.org/news/learn-react-in-your-browser-freecodecamp-full-stack-curriculum-mid-2025-update/</link>
+      <pubDate>Sat, 21 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 21, 2025 The freeCodeCamp community just released</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp also published this comprehensive course that will help you earn the Google Cloud Data Analytics certificate. You'll learn about SQL, BigQuery, data visualization, data lakehouse architecture, and more.</description>
+      <link>https://www.freecodecamp.org/news/beginners-guide-to-cloud-data-analytics/</link>
+      <pubDate>Sat, 21 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 21, 2025 freeCodeCamp also published this comprehensive</guid>
+    </item>
+    <item>
+      <description>Logic and reason underpin all of software development. And this freeCodeCamp handbook will teach you how to think critically when testing your code. You'll learn how to use Modus Ponens, Modus Tollens, Contrapositives, Truth Tables, and other philosophical tools to map out all the places where your software can go off the rails.</description>
+      <link>https://www.freecodecamp.org/news/the-logic-philosophy-and-science-of-software-testing-handbook-for-developers/</link>
+      <pubDate>Sat, 21 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 21, 2025 Logic and reason underpin all</guid>
+    </item>
+    <item>
+      <description>Learn the fundamentals of data communication and networking in this new freeCodeCamp handbook. You'll learn about routing, switching, Network Topologies, the seven layers of the OSI Model, and more.</description>
+      <link>https://www.freecodecamp.org/news/the-data-communication-and-networking-handbook/</link>
+      <pubDate>Sat, 21 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 21, 2025 Learn the fundamentals of data</guid>
+    </item>
+    <item>
+      <description>Finally, you may practice good operational security on your laptop. But what about your phone? This quick article will give you some practical tips for locking down your phone.</description>
+      <link>https://www.freecodecamp.org/news/how-to-improve-your-phones-privacy/</link>
+      <pubDate>Sat, 21 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 21, 2025 Finally, you may practice good</guid>
+    </item>
+    <item>
+      <title>Quote</title>
+      <description>You will not get opportunities unless you prove yourself first. And for proving yourself, there is no hiring manager coming to your door and saying, ‘Hey, please build something for me.' You have to prove it by contributing to open source. - Software Engineer and programming teacher Hitesh Choudhary, on this week's freeCodeCamp podcast</description>
+      <pubDate>Sat, 14 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 14, 2025 You will not get opportunities</guid>
+    </item>
+    <item>
+      <description>Learn how to build your own full-stack JavaScript apps. freeCodeCamp just published a comprehensive course on the popular MERN Stack. MERN stands for MongoDB, Express.js, React, and Node.js. These are the key tools that a lot of modern web apps use, including freeCodeCamp's platform itself. You'll learn how to build your user interface, handle data routing, and even rate-limit your back end API -- so you can stop your app from getting overwhelmed by all those bots out there that are scraping the web for LLM training data.</description>
+      <link>https://www.freecodecamp.org/news/learn-the-mern-stack-in-2025/</link>
+      <pubDate>Sat, 14 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 14, 2025 Learn how to build your</guid>
+    </item>
+    <item>
+      <description>Learn MLOps by building your own system that can run sentiment analysis on YouTube videos. The emerging field of ML Ops is a hybrid of Machine Learning and System Administration (AKA Ops). This comprehensive course will give you a solid project-oriented intro to MLOps. You'll learn about Data Preprocessing, AI Model Benchmarking, Hyperparameter Tuning, Ensemble Techniques and more.</description>
+      <link>https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/</link>
+      <pubDate>Sat, 14 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 14, 2025 Learn MLOps by building your</guid>
+    </item>
+    <item>
+      <description>On this week's freeCodeCamp podcast, I interview former CTO and prolific programming teacher Hitesh Choudhary. He shares lessons he's learned from personally mentoring dozens of software engineers over the years. He also talks about India's higher education system. And he gives tons of tips for managing your time as a developer. I had a blast learning from Hitesh and I think you will, too.</description>
+      <link>https://www.freecodecamp.org/news/from-electrical-engineering-student-to-cto-with-hitesh-choudhary-podcast-175/</link>
+      <pubDate>Sat, 14 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 14, 2025 On this week's freeCodeCamp podcast,</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp published a new handbook on the emerging architecture paradigm of Micro Frontends. You'll learn why this approach is gaining so much steam among software engineers. This handbook will teach you all about Module Federation, Cross-Window Messaging, the Shadow DOM, and more.</description>
+      <link>https://www.freecodecamp.org/news/complete-micro-frontends-guide/</link>
+      <pubDate>Sat, 14 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 14, 2025 freeCodeCamp published a new handbook</guid>
+    </item>
+    <item>
+      <description>And we published a handbook on Apple's code signing process. If you want to publish mobile apps in the Apple store, this handbook is a real lifesaver. It would have saved freeCodeCamp's team a ton of time when we were publishing the freeCodeCamp iOS app. We're going to publish a lot more hyper-specific handbooks like this in the future to make developers' lives a bit easier. Bookmark this and you can come back to it when you're ready to publish your first app.</description>
+      <link>https://www.freecodecamp.org/news/apple-code-signing-handbook/</link>
+      <pubDate>Sat, 14 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 14, 2025 And we published a handbook</guid>
+    </item>
+    <item>
+      <title>Quote</title>
+      <description>Computer Science fundamentals are more important than ever. As a software engineer, I want to understand things. I don't like just taking stuff at face value. I want to know why it works and what's going on behind the scenes. - 21-year industry veteran Joe Attardi on this week's freeCodeCamp podcast</description>
+      <pubDate>Sat, 07 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 7, 2025 Computer Science fundamentals are more</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp just published our first-ever chemistry course. Over the years we've published hundreds of courses on math and computer science, and we're gradually adding other academic subjects as well. This is an excellent starting point for beginners, and a great refresher for folks who want to get back into learning chemistry. Chad, the instructor, has taught chemistry for more than 15 years. He'll teach you the absolute basics of matter, chemical bonding, and scientific notation. Then you'll dive into more intermediate topics like thermodynamics, kinetics, and electrochemistry.</description>
+      <link>https://www.freecodecamp.org/news/general-chemistry-college-course/</link>
+      <pubDate>Sat, 07 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 7, 2025 freeCodeCamp just published our first-ever</guid>
+    </item>
+    <item>
+      <description>Learn low-level game development by building your own Candy Crush-style match-3 video game using the C programming language. That's right -- instead of using a powerful game engine like Unreal or Unity 3D, you're going to use some of the most fundamental tools imaginable. You'll implement the core game logic, detect player input, and even add bursts of animation using the Raylib graphics library. This is a fun way to spend an afternoon while getting reps with the world's most widely run language.</description>
+      <link>https://www.freecodecamp.org/news/c-game-development-with-raylib/</link>
+      <pubDate>Sat, 07 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 7, 2025 Learn low-level game development by</guid>
+    </item>
+    <item>
+      <description>On this week's podcast, I interview software engineer and O'reilly programming book author Joe Attardi about the many changes he's seen during his 21 years in industry. He talks about how AI tools are changing development, and how he thinks devs with a strong foundation in computer science are best positioned to fully leverage these tools. Joe's one chill, humble dude. I had a blast learning from him. And I think you will, too.</description>
+      <link>https://www.freecodecamp.org/news/how-to-survive-in-tech-when-everythings-changing-w-21-year-veteran-dev-joe-attardi-podcast-174/</link>
+      <pubDate>Sat, 07 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 7, 2025 On this week's podcast, I</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp published a couple handbooks this week, too. This first one will teach you how to build your own AI agents using open source tools like LangChain and LangGraph. You'll learn about automation workflows, agent loops, multi-agent collaboration, and more.</description>
+      <link>https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/</link>
+      <pubDate>Sat, 07 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 7, 2025 freeCodeCamp published a couple handbooks</guid>
+    </item>
+    <item>
+      <description>And this second handbook will take you on a deep dive into the world of Front End Monitoring. You'll learn how to collect performance data, error data, user behavior data, then make sense of these insights through modern reporting tools. If you're serious about leveling up your full stack development skills, I think you'll find this to be well worth reading.</description>
+      <link>https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/</link>
+      <pubDate>Sat, 07 Jun 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">June 7, 2025 And this second handbook will</guid>
+    </item>
+    <item>
+      <title>Quote</title>
+      <description>One of the things I love about computers is there are so many different rungs on the ladder of abstraction. And each layer has its own interesting challenges. When I moved from Intel to Microsoft, I went from very low-level hardware-adjacent development to cloud development at internet scale. But everything I had learned earlier helped me ramp up quickly at that higher level of abstraction. - MacKevin Fey on this week's freeCodeCamp podcast</description>
+      <pubDate>Fri, 30 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 30, 2025 One of the things I</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp just published a full course to help you learn Python for Data Science. This beginner's course covers popular Python libraries like Pandas, NumPy, and scikit-learn. First you'll learn how to configure your development environment. Then you'll dive in and practice key skills like Data Extraction, Dataframe Concatenation, Data Visualization, and even some basic Machine Learning.</description>
+      <link>https://www.freecodecamp.org/news/learn-python-for-data-science-full-course</link>
+      <pubDate>Fri, 30 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 30, 2025 freeCodeCamp just published a full</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp also published a full-length handbook that you can read right in your browser on the emerging field of Agentic AI Systems. Agents can go out and attempt tasks in the real world for you. Think of a shopping agent that knows your shoe size and preferences, and tries to find you the best deal on bowling shoes. You'll also learn how these systems use planning and goal setting rather than predefined actions. You can code along at home with the handbook and by the end of it, you'll have your own simple Python and LangChain-powered agent.</description>
+      <link>https://www.freecodecamp.org/news/the-agentic-ai-handbook/</link>
+      <pubDate>Fri, 30 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 30, 2025 freeCodeCamp also published a full-length</guid>
+    </item>
+    <item>
+      <description>On this week's podcast I interview a senior dev who was just laid off last week at Microsoft, and he walks us through everything. He has nerves of steel and seems totally unfazed by his coming job search. He talks about the role that both long-term planning and daily trail running have played in giving him resilience. It's clear to me that he's taken the time to prepare himself and his family for just about anything.</description>
+      <link>https://www.freecodecamp.org/news/laid-off-but-not-afraid-with-x-senior-microsoft-dev-mackevin-fey-podcast-173/</link>
+      <pubDate>Fri, 30 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 30, 2025 On this week's podcast I</guid>
+    </item>
+    <item>
+      <description>If you're traveling this summer, you might benefit from reading this guide on how attackers most commonly use technology to exploit travelers. You'll learn how to defend yourself against fake wi-fi networks, phony travel sites, shady SIM card vendors, ATM skimming, and more.</description>
+      <link>https://www.freecodecamp.org/news/how-attackers-target-travelers-and-how-to-defend-yourself/</link>
+      <pubDate>Fri, 30 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 30, 2025 If you're traveling this summer,</guid>
+    </item>
+    <item>
+      <description>Learn how to run an inexpensive Raspberry Pi computer in &quot;Headless Mode&quot;. Instead of functioning like a traditional computer with a keyboard, mouse, and screen, you can set up your Pi to perform tasks in the background, then access it remotely through a network protocol like Secure Shell (SSH). This way you can have a dedicated home automation server or a surveillance system. This tutorial will walk you through everything you need to know to get your headless server online.</description>
+      <link>https://www.freecodecamp.org/news/how-to-use-your-raspberry-pi-headlessly-with-vs-code-and-ssh/</link>
+      <pubDate>Fri, 30 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 30, 2025 Learn how to run an</guid>
+    </item>
+    <item>
+      <title>Quote</title>
+      <description>I had never coded before I started my Computer Science degree. I felt behind compared to my peers. But I started searching online. I found freeCodeCamp. Just being able to write code in the browser and see the output - that was what made coding feel practical and doable. - Iraqi Software Engineer Code;Life on this week's freeCodeCamp podcast</description>
+      <pubDate>Fri, 23 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 23, 2025 I had never coded before</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp just published a course on building AI agents using the open source LangChain LangGraph Python framework. This course will teach you fundamental Agentic AI concepts like Elements, Type Annotations, and Retrieval Augmented Generation. You can code along at home, and by the end of the course you'll have built 5 different agents you can show to your friends.</description>
+      <link>https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/</link>
+      <pubDate>Fri, 23 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 23, 2025 freeCodeCamp just published a course</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp also published this comprehensive guide to Relational Database Management Systems. You'll learn key database architecture concepts and how to diagram them. You'll also learn about Relational Algebra, Data Normalization, Schema Design, SQL Queries, and more.</description>
+      <link>https://www.freecodecamp.org/news/master-database-management-systems/</link>
+      <pubDate>Fri, 23 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 23, 2025 freeCodeCamp also published this comprehensive</guid>
+    </item>
+    <item>
+      <description>On this week's freeCodeCamp podcast, I interview a developer from Iraq about her journey into tech. She has managed to build out her professional reputation through live-streaming herself participating in online coding and data science competitions. She shares tips for making friends with other developers -- even when you're living far away from tech hubs like Silicon Valley.</description>
+      <link>https://www.freecodecamp.org/news/how-to-make-developer-friends-when-you-dont-live-in-silicon-valley-with-iraqi-engineer-codelife-podcast-172/</link>
+      <pubDate>Fri, 23 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 23, 2025 On this week's freeCodeCamp podcast,</guid>
+    </item>
+    <item>
+      <description>Learn what JavaScript Linting is and how it helps you write better code. This tutorial will also teach you about Abstract Syntax Trees and why they're so useful for representing code.</description>
+      <link>https://www.freecodecamp.org/news/how-javascript-lint-rules-work-and-why-abstract-syntax-trees-matter/</link>
+      <pubDate>Fri, 23 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 23, 2025 Learn what JavaScript Linting is</guid>
+    </item>
+    <item>
+      <description>I'm thrilled to announce that freeCodeCamp just published our first-ever course on a world language. This full-length Spanish for Beginners course will teach you basic grammar and vocabulary so you can speak at a CEFR A1 Level. The instructor has more than 17 years of experience teaching Spanish to beginners. ¡Vámonos!.</description>
+      <link>https://www.freecodecamp.org/news/learn-a1-level-spanish/</link>
+      <pubDate>Fri, 23 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 23, 2025 I'm thrilled to announce that</guid>
+    </item>
+    <item>
+      <title>Quote</title>
+      <description>You can do all the user research you want. But at some point, you just need to put your project out there. My biggest false starts came from not launching. I've learned that you can't just theory-craft forever. You have to actually ship. - Sam Crombie on this week's freeCodeCamp podcast, sharing lessons from startup &quot;pivot purgatory&quot;</description>
+      <pubDate>Fri, 16 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 16, 2025 You can do all the</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp just published a comprehensive course that will help you learn modern Android app development. You'll learn how to use Android Studio alongside the Kotlin language, a popular alternative to coding in Java. The final project involves building a clone of the Uber app -- complete with map integration and real-time location tracking.</description>
+      <link>https://www.freecodecamp.org/news/master-kotlin-and-android-60-hour-course/</link>
+      <pubDate>Fri, 16 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 16, 2025 freeCodeCamp just published a comprehensive</guid>
+    </item>
+    <item>
+      <description>And after you're done with that 60 hour course, try this other 60 hour course ;) It's a full-length Generative AI bootcamp led by CTO and AI enthusiast Andrew Brown. You'll learn powerful tools like Juptyer Notebook and Ollama. You'll also get exposure to the latest applied machine learning techniques. This course is designed to be reasonably accessible to non-developers as well, so any curious person can learn how to harness the power of these new tools.</description>
+      <link>https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/</link>
+      <pubDate>Fri, 16 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 16, 2025 And after you're done with</guid>
+    </item>
+    <item>
+      <description>On this week's freeCodeCamp podcast I interview software engineer and prolific freeCodeCamp contributor Sam Crombie about life in San Francisco startup purgatory. Sam left his job at Microsoft to go through Y Combinator, and is currently trying to find product-market fit as a lone-wolf developer. We discuss how useful AI coding tools really are, tips for getting people to care about your apps, and how parents can help their kids get scholarships for Ivy League schools.</description>
+      <link>https://www.freecodecamp.org/news/ditching-a-microsoft-job-to-enter-startup-hell-with-lonewolf-engineer-sam-crombie-podcast-171/</link>
+      <pubDate>Fri, 16 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 16, 2025 On this week's freeCodeCamp podcast</guid>
+    </item>
+    <item>
+      <description>Learn how to build web apps faster with Vite, a new JavaScript front end build tool. Vite means quick in French. And this quick course wastes no time in showing you the ropes. You'll learn about Hot Module Replacement, Optimized Dependency Prebundling, Intelligent Caching, and more.</description>
+      <link>https://www.freecodecamp.org/news/learn-vite-for-a-better-web-development-workflow/</link>
+      <pubDate>Fri, 16 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 16, 2025 Learn how to build web</guid>
+    </item>
+    <item>
+      <description>Learn how to become a better analytical programmer by analyzing five different JavaScript implementations of the classic Rock-Paper-Scissors game. Along the way, you'll learn how to use visual tools for code comparison, and learn how to diagram codebases using Mermaid.js. I hope this helps you broaden your horizons as a dev and appreciate the many ways you can accomplish simple tasks with code.</description>
+      <link>https://www.freecodecamp.org/news/how-to-become-an-analytical-programmer-compare-five-projects/</link>
+      <pubDate>Fri, 16 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 16, 2025 Learn how to become a</guid>
+    </item>
+    <item>
+      <title>Quote</title>
+      <description>An ideal code review would be a small set of code changes that are easy to understand. You can pretty much read the code like a paragraph and understand what's happening. Smaller pull requests help you avoid regressions, and save time for both the code author and the code reviewer. - Shashi Lo on this week's freeCodeCamp podcast, talking about best practices he's learned while working as a dev at Microsoft</description>
+      <pubDate>Fri, 09 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 9, 2025 An ideal code review would</guid>
+    </item>
+    <item>
+      <description>Learn Next.js by building your own Dropbox-style file storage app. This beginner-accessible course will help you learn full stack JavaScript using modern tools like React and PostgreSQL. You'll also learn how to design intuitive user interfaces, database schemas, file hierarchies, and more.</description>
+      <link>https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/</link>
+      <pubDate>Fri, 09 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 9, 2025 Learn Next.js by building your</guid>
+    </item>
+    <item>
+      <description>Kubernetes (often shortened to k8s) is a powerful open source tool for deploying services to the web, then monitoring them and scaling them as needed. freeCodeCamp just published a comprehensive handbook that will teach you key k8s concepts like Pods, DaemonSets, StatefulSets, and more. If you code along at home, by the end of this handbook you'll deploy an app to a k8s cluster in the cloud.</description>
+      <link>https://www.freecodecamp.org/news/learn-kubernetes-handbook-devs-startups-businesses/</link>
+      <pubDate>Fri, 09 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 9, 2025 Kubernetes (often shortened to k8s)</guid>
+    </item>
+    <item>
+      <description>On this week's freeCodeCamp podcast, I interview Shashi Lo. He's a software engineer at Microsoft who grew up the child of refugees. He dropped out of art school and taught himself programming by building projects for local businesses. He shares techniques he uses to continue to learn skills even while he's busy raising his 4 kids.</description>
+      <link>https://www.freecodecamp.org/news/from-art-school-drop-out-to-microsoft-engineer-with-shashi-lo-podcast-170/</link>
+      <pubDate>Fri, 09 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 9, 2025 On this week's freeCodeCamp podcast,</guid>
+    </item>
+    <item>
+      <description>Improve your C++ programming skills by building your own audio plugin. freeCodeCamp is proud to publish this intermediate course by a developer and 3x Grammy-nominated producer and saxophone player. You'll learn native app development with the open source JUCE library, which is used in a lot of Digital Audio Workstation apps.</description>
+      <link>https://www.freecodecamp.org/news/improve-you-c-skills-by-coding-an-audio-plugin/</link>
+      <pubDate>Fri, 09 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 9, 2025 Improve your C++ programming skills</guid>
+    </item>
+    <item>
+      <description>Finally, freeCodeCamp also published this Front-End Performance Optimization Handbook this week. You'll learn JavaScript tricks to ensure your web apps load quickly. You'll learn how to minimize file size, make fewer server requests, optimize images, and more. There are tons of techniques in here that I hadn't even heard of. This is well worth reading if you're serious about improving your web development skills.</description>
+      <link>https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/</link>
+      <pubDate>Fri, 09 May 2025 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">May 9, 2025 Finally, freeCodeCamp also published this</guid>
+    </item>
+    <item>
       <title>Quote</title>
       <description>If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside. - technology writer Robert X. Cringely in an old issue of InfoWorld magazine</description>
       <pubDate>Fri, 02 May 2025 09:00:00 EST</pubDate>
