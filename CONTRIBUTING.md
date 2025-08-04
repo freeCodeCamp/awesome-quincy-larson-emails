@@ -29,6 +29,8 @@ Currently, all that is needed is Python and it's standard library.
 0 directories, 6 files
 ```
 
+The flow of information that these files are run in is `README.md > convert_readme.py > emails.json > convert_json.py > emails.rss`.
+
 ## Parsing files
 
 There are two Python scripts that help parse and transform the Markdown information:
