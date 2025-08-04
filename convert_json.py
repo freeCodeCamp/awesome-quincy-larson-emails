@@ -19,6 +19,11 @@ def rss_item(title: str | None = None,
              description: str | None = None,
              link: str | None = None,
              pubDate: str | None = None) -> ET.Element:
+    """
+    Create an RSS-formatted element
+
+    Takes input as strings and processes the strings into a form that is RSS compliant.
+    """
 
     item = ET.Element("item")
 
