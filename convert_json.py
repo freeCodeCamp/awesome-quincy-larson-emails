@@ -37,7 +37,7 @@ def rss_item(email_data: dict) -> ET.Element:
 
     # pubDate
     if date:
-        pub_date_elem = ET.SubELement(item, "pubDate")
+        pub_date_elem = ET.SubElement(item, "pubDate")
         pub_date_elem.text = fmt_date.strftime("%a, %d %b %Y 09:00:00 EST")
 
     # GUID
