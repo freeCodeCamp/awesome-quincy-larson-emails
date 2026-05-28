@@ -26,24 +26,28 @@ def rss_item(email_data: dict) -> ET.Element:
     title = ET.SubElement(item, "title")
     title.text = f"Quincy Larson's Links - {date}"
 
+    # Determine date formats (pubDate and fallback for GUID)
+    fmt_date = datetime(1970, 1, 1)
+    if date:
+        first_word = date.split(' ')[0]
+        if first_word in calendar.month_name:
+            fmt_date = datetime.strptime(date, "%B %d, %Y")
+        elif first_word in calendar.month_abbr:
+            fmt_date = datetime.strptime(date, "%b %d, %Y")
+
     # pubDate
     if date:
-        pub_date_elem = ET.SubElement(item, "pubDate")
-        if date.split(' ')[0] in calendar.month_name:
-            fmt_date = datetime.strptime(date, "%B %d, %Y")
-        elif date.split(' ')[0] in calendar.month_abbr:
-            fmt_date = datetime.strptime(date, "%b %d, %Y")
-        else:
-            fmt_date = datetime(1970, 1, 1)
+        pub_date_elem = ET.SubELement(item, "pubDate")
         pub_date_elem.text = fmt_date.strftime("%a, %d %b %Y 09:00:00 EST")
 
     # GUID
+    guid_date_str = fmt_date.strftime("%Y-%m-%d") if date else "1970-01-01"
     guid = ET.SubElement(item, "guid", {"isPermaLink": "false"})
-    guid.text = f"quincy-email-{date}"
+    guid.text = f"quincy-email-{guid_date_str}"
 
     # Build HTML Description
     description_parts = []
-    
+
     links = email_data.get("links", [])
     if links:
         description_parts.append("<p>Here are Quincy Larson's links for this week:</p>")
@@ -52,7 +56,7 @@ def rss_item(email_data: dict) -> ET.Element:
             desc = link.get("description", "")
             url = link.get("link", "")
             duration = f" ({link.get('time_duration')} {link.get('time_type')})" if link.get('time_duration') else ""
-            
+
             # Try to extract a title if possible, or just use the description
             item_text = f"<li>{desc}{duration}"
             if url:
@@ -104,7 +108,7 @@ channel.extend([
     ET.Element("description"),
     ET.Element("atom:link", {
         "href": RSS_CHANNEL_LINK,
-        "ref": "rel",
+        "ref": "self",
         "type": "application/rss+xml"
     }),
 ])
