@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - March 3, 2026</title>
+      <pubDate>Tue, 03 Mar 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-03-03</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If you're interested in learning about AI infrastructure, freeCodeCamp just published this new course that will help you pass the NVIDIA Infrastructure and Operations Certification Exam. Andrew Brown is a CTO who has passed practically every DevOps exam under the sun, and he teaches this course. He'll introduce you to key concepts like GPU architecture, CUDA, and use cases for Accelerated Computing. Even if you decide not to pursue the certification, you'll still learn a lot from this course. (4 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/pass-the-nvidia-certified-associate-ai-infrastructure-and-operations-certification-exam/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;freeCodeCamp also published a new course that will teach you full-stack JavaScript development by building your own professional-grade Loom-style screen-sharing platform. You can code along at home as you watch instructor Beau Carnes create a Next.js app, then add screen and mic capturing using standard media APIs. Then you'll learn how to store video data in the cloud, and automatically transcribe it. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On this week's podcast, I interview Carl Brown who runs the Internet of Bugs YouTube channel and has worked as a dev at Amazon, IBM, and startups for over 37 years. He's extremely opinionated on the state of software development, and I'm here for it with popcorn in hand. He argues that many devs should target roles at smaller companies instead of in &quot;big tech&quot;. He also talks about how everyone will face ageism eventually, and he recommends a consulting career as an escape hatch. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/the-ultimate-dev-skill-is-integration-testing-podcast-interview-with-internet-of-bugs-podcast-209/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You may have heard the term DevOps, or Development and Operations. Well now there's another emerging field, MLOps, or Machine Learning and Operations. freeCodeCamp just published an MLOps for beginners Python course that will teach you how to take your models beyond Jupyter Notebook and into production environments. Along the way, you'll learn tools like Hugging Face, MLflow, and Databricks. (5 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-mlops-with-mlflow-and-databricks/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to enjoy the code review process with what Abbey Perini calls &quot;pull request therapy.&quot; She explains her own struggles with perfectionism, her anxiety from hostile reviewers she's encountered in the past, and how she's overcome these hurdles to become a prolific contributor. Abbey also shares tips to help you identify friendly open source projects. (15 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/learning-to-enjoy-code-reviews-with-npmx/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;When an engineer fixes a bug, they can often think back to the exact trade-off they made when programming. And they can understand why that trade-off ultimately caused that bug. — Software Engineer Carl Brown on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/pass-the-nvidia-certified-associate-ai-infrastructure-and-operations-certification-exam/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - February 27, 2026</title>
       <pubDate>Fri, 27 Feb 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-02-27</guid>
