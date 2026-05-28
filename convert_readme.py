@@ -35,12 +35,11 @@ with open(OUT_FILE, 'w') as fh:
             # First case when int_data doesn't exist
             if first_pass:
                 first_pass = False
-                int_data = {}
             else:
                 # Add and rest data
                 data['emails'].append(int_data)
-                int_data = {}
 
+            int_data = {}
             # Extract date information
             int_data['links'] = []
             date_text = re.search('### (.*)', line).group(1)
