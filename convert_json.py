@@ -15,63 +15,71 @@ RSS_CHANNEL_LINK = "https://github.com/freeCodeCamp/awesome-quincy-larson-emails
 RSS_CHANNEL_DESCRIPTION = "RSS feed generated from a historical archive of Quincy's weekly newsletter."
 
 
-def rss_item(title: str | None = None,
-             description: str | None = None,
-             link: str | None = None,
-             pubDate: str | None = None) -> ET.Element:
+def rss_item(email_data: dict) -> ET.Element:
     """
-    Create an RSS-formatted element
-
-    Takes input as strings and processes the strings into a form that is RSS compliant.
+    Create a single RSS item from an email's worth of data.
     """
-
+    date = email_data.get("date")
     item = ET.Element("item")
 
-    # RSS 2.0 items require description or title
-    # https://www.rssboard.org/rss-specification#hrelementsOfLtitemgt
-    if title is None and description is None:
-        title = "Untitled"
+    # Title
+    title = ET.SubElement(item, "title")
+    title.text = f"Quincy Larson's Links - {date}"
 
-    if title is not None:
-        item.append(ET.Element("title"))
-        item[-1].text = title
-
-    if description is not None:
-        item.append(ET.Element("description"))
-        item[-1].text = description
-
-    if link is not None:
-        item.append(ET.Element("link"))
-        item[-1].text = link
-
-    # Format dates in RFC-822 date-time
-    # https://validator.w3.org/feed/docs/error/InvalidRFC2822Date.html
-    if pubDate is not None:
-        item.append(ET.Element("pubDate"))
-
-        # Make sure months are processed correctly when there's some inconsistency
-        # https://docs.python.org/3/library/datetime.html#format-codes
-        # 09:00:00 EST is set as default for simplicity
-        if pubDate.split(' ')[0] in calendar.month_name:
-            fmt_date = datetime.strptime(pubDate, "%B %d, %Y")
-        elif pubDate.split(' ')[0] in calendar.month_abbr:
-            fmt_date = datetime.strptime(pubDate, "%b %d, %Y")
+    # pubDate
+    if date:
+        pub_date_elem = ET.SubElement(item, "pubDate")
+        if date.split(' ')[0] in calendar.month_name:
+            fmt_date = datetime.strptime(date, "%B %d, %Y")
+        elif date.split(' ')[0] in calendar.month_abbr:
+            fmt_date = datetime.strptime(date, "%b %d, %Y")
         else:
-            fmt_date = datetime(1970, 1, 1) # Just default to UNIX start '01 January 1970'
+            fmt_date = datetime(1970, 1, 1)
+        pub_date_elem.text = fmt_date.strftime("%a, %d %b %Y 09:00:00 EST")
 
-        item[-1].text = fmt_date.strftime("%a, %d %b %Y 09:00:00 EST")
+    # GUID
+    guid = ET.SubElement(item, "guid", {"isPermaLink": "false"})
+    guid.text = f"quincy-email-{date}"
 
-    # Make GUID link a mix of the date and description
-    # https://validator.w3.org/feed/docs/warning/MissingGuid.html
-    # https://validator.w3.org/feed/docs/error/InvalidHttpGUID.html
-    item.append(ET.Element("guid", {"isPermaLink": "false"}))
-    if pubDate is not None and description is not None:
-        item[-1].text = f"{pubDate} {' '.join(description.split(' ')[:5])}"
-    elif pubDate is not None and description is None:
-        item[-1].text = f"{pubDate} Quincy Larson weekly email shared information."
-    else:
-        item[-1].text = "Quincy Larson weekly email shared information."
-      
+    # Build HTML Description
+    description_parts = []
+    
+    links = email_data.get("links", [])
+    if links:
+        description_parts.append("<p>Here are Quincy Larson's links for this week:</p>")
+        description_parts.append("<ol>")
+        for link in links:
+            desc = link.get("description", "")
+            url = link.get("link", "")
+            duration = f" ({link.get('time_duration')} {link.get('time_type')})" if link.get('time_duration') else ""
+            
+            # Try to extract a title if possible, or just use the description
+            item_text = f"<li>{desc}{duration}"
+            if url:
+                item_text += f' <a href="{url}">[link]</a>'
+            item_text += "</li>"
+            description_parts.append(item_text)
+        description_parts.append("</ol>")
+
+    quote = email_data.get("quote")
+    if quote:
+        description_parts.append("<hr>")
+        author = email_data.get("quote_author", "Unknown")
+        description_parts.append(f"<p><strong>Quote of the Week:</strong></p>")
+        description_parts.append(f"<blockquote>{quote} — {author}</blockquote>")
+
+    bonus = email_data.get("bonus")
+    if bonus:
+        description_parts.append("<hr>")
+        description_parts.append(f"<p><em>{bonus}</em></p>")
+
+    description = ET.SubElement(item, "description")
+    description.text = "\n".join(description_parts)
+
+    if email_data.get("links"):
+        link_elem = ET.SubElement(item, "link")
+        link_elem.text = email_data["links"][0].get("link")
+
     return item
 
 
@@ -105,38 +113,7 @@ channel[1].text = RSS_CHANNEL_LINK
 channel[2].text = RSS_CHANNEL_DESCRIPTION
 
 for email in json_data["emails"]:
-
-    date = email.get("date")
-    bonus = email.get("bonus")
-    quote = email.get("quote")
-
-    if bonus is not None:
-        channel.append(rss_item(
-            title="Bonus",
-            description=bonus,
-            pubDate=date
-        ))
-
-    if quote is not None:
-        quote_author = email.get("quote_author")
-
-        if quote_author is not None:
-            quote += " - " + quote_author
-
-        channel.append(rss_item(
-            title="Quote",
-            description=quote,
-            pubDate=date
-        ))
-
-    json_links = email.get("links")
-
-    for json_link in json_links:
-        channel.append(rss_item(
-            description=json_link.get("description"),
-            link=json_link.get("link"),
-            pubDate=date,
-        ))
+    channel.append(rss_item(email))
 
 rss = minidom.parseString(
     ET.tostring(tree.getroot(), 'utf-8')) \
