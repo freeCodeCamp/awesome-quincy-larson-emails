@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### March 3, 2026
+1. If you're interested in learning about AI infrastructure, freeCodeCamp just published this new course that will help you pass the NVIDIA Infrastructure and Operations Certification Exam. Andrew Brown is a CTO who has passed practically every DevOps exam under the sun, and he teaches this course. He'll introduce you to key concepts like GPU architecture, CUDA, and use cases for Accelerated Computing. Even if you decide not to pursue the certification, you'll still learn a lot from this course. (4 hour YouTube course): https://www.freecodecamp.org/news/pass-the-nvidia-certified-associate-ai-infrastructure-and-operations-certification-exam/
+
+2. freeCodeCamp also published a new course that will teach you full-stack JavaScript development by building your own professional-grade Loom-style screen-sharing platform. You can code along at home as you watch instructor Beau Carnes create a Next.js app, then add screen and mic capturing using standard media APIs. Then you'll learn how to store video data in the cloud, and automatically transcribe it. (1 hour YouTube course): https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/
+
+3. On this week's podcast, I interview Carl Brown who runs the Internet of Bugs YouTube channel and has worked as a dev at Amazon, IBM, and startups for over 37 years. He's extremely opinionated on the state of software development, and I'm here for it with popcorn in hand. He argues that many devs should target roles at smaller companies instead of in “big tech”. He also talks about how everyone will face ageism eventually, and he recommends a consulting career as an escape hatch. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/the-ultimate-dev-skill-is-integration-testing-podcast-interview-with-internet-of-bugs-podcast-209/
+
+4. You may have heard the term DevOps, or Development and Operations. Well now there's another emerging field, MLOps, or Machine Learning and Operations. freeCodeCamp just published an MLOps for beginners Python course that will teach you how to take your models beyond Jupyter Notebook and into production environments. Along the way, you'll learn tools like Hugging Face, MLflow, and Databricks. (5 hour YouTube course): https://www.freecodecamp.org/news/learn-mlops-with-mlflow-and-databricks/
+
+5. Learn how to enjoy the code review process with what Abbey Perini calls “pull request therapy.” She explains her own struggles with perfectionism, her anxiety from hostile reviewers she's encountered in the past, and how she's overcome these hurdles to become a prolific contributor. Abbey also shares tips to help you identify friendly open source projects. (15 minute read): https://www.freecodecamp.org/news/learning-to-enjoy-code-reviews-with-npmx/
+
+Quote of the Week: *“When an engineer fixes a bug, they can often think back to the exact trade-off they made when programming. And they can understand why that trade-off ultimately caused that bug.”* — Software Engineer Carl Brown on this week's freeCodeCamp podcast
+
 ### February 27, 2026
 1. freeCodeCamp just published a course that will take you deep into the modern Kubernetes ecosystem. You'll implement advanced industry standards such as Gateway API for traffic management, CloudNativePG for managing PostgreSQL databases, and cert-manager for automated HTTPS security. By the end of the course, you'll have the confidence to manage production-grade environments. (6 hour YouTube course): https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/
 
