@@ -1,11 +1,11 @@
-name: Build email JSON and RSS
+name: Build email JSON and XML
 on:
   workflow_dispatch:
   push:
     branches: [ main ]
 jobs:
   update:
-    name: Update the emails.json and emails.rss files
+    name: Update the emails.json and emails.xml files
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -21,7 +21,7 @@ jobs:
         run: |
           python convert_readme.py
 
-      - name: convert json to rss
+      - name: convert json to xml
         run: |
           python convert_json.py
 
@@ -42,13 +42,13 @@ jobs:
           else
             echo "No email.json changes to be commited"
           fi
-      - name: commit emails.rss changes
+      - name: commit emails.xml changes
         run: |
-          if git status --porcelain | grep 'emails.rss'; then
-            echo "Commiting changed emails.rss file"
-            git add emails.rss
-            git commit -m "chore: update emails.rss"
+          if git status --porcelain | grep 'emails.xml'; then
+            echo "Commiting changed emails.xml file"
+            git add emails.xml
+            git commit -m "chore: update emails.xml"
             git push origin main
           else
-            echo "No email.rss changes to be commited"
+            echo "No email.xml changes to be commited"
           fi
