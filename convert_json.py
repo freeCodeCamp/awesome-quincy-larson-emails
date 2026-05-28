@@ -8,7 +8,7 @@ from xml.dom import minidom
 
 
 JSON_PATH = "emails.json"
-RSS_PATH = "emails.rss"
+RSS_PATH = "emails.xml"
 
 RSS_CHANNEL_TITLE = "Quincy Larson's Links Worth Your Time"
 RSS_CHANNEL_LINK = "https://github.com/freeCodeCamp/awesome-quincy-larson-emails"
