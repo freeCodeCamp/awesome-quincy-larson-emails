@@ -7,6 +7,42 @@
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="rel" type="application/rss+xml"/>
     <item>
       <title>Quote</title>
+      <description>However uncertain the developer job market may be right now, let me assure you: high-agency junior devs will always find a way. - Software Engineer Shawn &quot;Swyx&quot; Wang on this week's freeCodeCamp podcast</description>
+      <pubDate>Fri, 27 Feb 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">February 27, 2026 However uncertain the developer job</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp just published a course that will take you deep into the modern Kubernetes ecosystem. You'll implement advanced industry standards such as Gateway API for traffic management, CloudNativePG for managing PostgreSQL databases, and cert-manager for automated HTTPS security. By the end of the course, you'll have the confidence to manage production-grade environments.</description>
+      <link>https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/</link>
+      <pubDate>Fri, 27 Feb 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">February 27, 2026 freeCodeCamp just published a course</guid>
+    </item>
+    <item>
+      <description>freeCodeCamp also published a comprehensive Notion course. It's not just a fancy notebook -- you can use it as a full-blown operating system. You can code along at home and build your own task manager using Notion's &quot;Software Legos&quot; philosophy. Then you'll integrate your project with mail and calendar functionality, dashboards, and other advanced features.</description>
+      <link>https://www.freecodecamp.org/news/lean-notion-in-12-hours/</link>
+      <pubDate>Fri, 27 Feb 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">February 27, 2026 freeCodeCamp also published a comprehensive</guid>
+    </item>
+    <item>
+      <description>On this week's podcast I interview software engineer Shawn &quot;Swyx&quot; Wang, who runs the AI Engineer conference. We talk about three areas of research to further improve model performance: world models, multi-modality, and models that learn. Shawn also shares which skills he thinks are the most important for developers going forward, and why you should switch your own self-teaching from &quot;just-in-case learning&quot; to &quot;just-in-time learning&quot;.</description>
+      <link>https://www.freecodecamp.org/news/the-three-paths-ai-could-take-from-here-shawn-wang-swyx-interview-podcast-208/</link>
+      <pubDate>Fri, 27 Feb 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">February 27, 2026 On this week's podcast I</guid>
+    </item>
+    <item>
+      <description>Learn how to guide agents to write secure code using a robust framework of rules and tests. Software engineer and recent podcast guest Sumit Saha shares his step-by-step process by building a Node.js shopping cart app using an agent. Instead of just using naive &quot;one-shot&quot; prompts, he leverages server-side validation and test-driven development. Well worth reading.</description>
+      <link>https://www.freecodecamp.org/news/how-to-guide-ai-with-rules-and-tests/</link>
+      <pubDate>Fri, 27 Feb 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">February 27, 2026 Learn how to guide agents</guid>
+    </item>
+    <item>
+      <description>Learn the Python you need to know to build your own agents. This course starts by teaching you core Python syntax and best practices before moving on to NumPy, Pandas, and SQL. With these tools in your toolbelt, you can manage the data that fuels modern AI tools.</description>
+      <link>https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/</link>
+      <pubDate>Fri, 27 Feb 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">February 27, 2026 Learn the Python you need</guid>
+    </item>
+    <item>
+      <title>Quote</title>
       <description>There's this tendency for developers to think: we could just rip this code out and rewrite it to be simpler or faster. But we underestimate just how much complexity and time and energy went into building a piece of software that has actually been running in production. - Software Engineer and codebase maintainability expert Robby Russell on this week's freeCodeCamp podcast</description>
       <pubDate>Fri, 20 Feb 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">February 20, 2026 There's this tendency for developers</guid>
