@@ -61,10 +61,12 @@ with open(OUT_FILE, 'w') as fh:
 
                 # Newer descriptions with descriptions ending with period
                 # before parens with time to explore the link.
-                # Edge case of description ending with '?"
-                if description[-1] == ')' and ('. (' in description or '? (' in description):
-                    info = re.search(r'(.*[\.|\?|\”|\"|\!])\s?\(', description)
-                    link_data['description'] = info.group(1)
+                # This matches everything up to the last punctuation mark before a trailing parenthesis
+                # [.?!”"!] properly checks for any of those characters without needing pipes |
+                info = re.search(r'(.*[.?!\”\"\!])\s?\(', description)
+
+                if info:
+                    link_data['description'] = info.group(1).strip()
 
                 # Edge case with some links only taking 1 minute.
                 elif 'takes 1 minute' in description:
