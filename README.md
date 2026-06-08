@@ -149,7 +149,6 @@ Quote of the Week: *"When LLMs can do a lot of the autocomplete and the code gen
 Quote of the Week: *"In mathematics you don't understand things. You just get used to them."* — John von Neumann, mathematician and creator of von Neumann computer architecture, which is almost certainly used in the device that you're reading this on
 
 ### December 24, 2025
-
 1. 2025 has been an amazing year for the global freeCodeCamp community. And we’re thrilled to cap it off with the launch of several Christmas gifts for you. We just launched Version 10 of freeCodeCamp's JavaScript certification, along with updated Python, SQL, and Responsive Web Design certifications that you can earn. We even launched our beta Spanish and Mandarin Chinese curricula. (10 minute announcement article with tons of data): https://www.freecodecamp.org/news/christmas-gifts-freecodecamp-community-2025
 
 2. On this week's freeCodeCamp podcast I interview the son of an Indian textile worker who's now been working as a dev for 16 years. Santosh Yadav has managed to climb the ladder at Indian and European tech companies without needing to become a manager himself. He shares practical tips for devs who don't want to become managers, but do want to continue to ascend. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/how-to-get-promoted-as-a-dev-without-becoming-a-manager-staff-engineer-santosh-yadav-interview-podcast-202/
@@ -160,8 +159,7 @@ Quote of the Week: *"In mathematics you don't understand things. You just get us
 
 5. Third, learn how to build your own Log-Structured Merge Tree from scratch as a new way to store data in your apps. These work by “appending new data to the existing data, instead of looking for something that exists and updating it. In other words, you don't have to spend any CPU cycles thinking about where to store data. You just append it at the end.” (full-length handbook): https://www.freecodecamp.org/news/build-an-lsm-tree-storage-engine-from-scratch-handbook/
 
-Quote of the Week:
-*“The day you stop waiting for your manager to tell you what’s broken, and you start fixing the things everyone else is ignoring, is the day you start moving up.”* — Software Developer Santosh Yadav on this week's freeCodeCamp podcast
+Quote of the Week: *“The day you stop waiting for your manager to tell you what’s broken, and you start fixing the things everyone else is ignoring, is the day you start moving up.”* — Software Developer Santosh Yadav on this week's freeCodeCamp podcast
 
 ### December 19, 2025
 
@@ -2934,11 +2932,7 @@ Finally, I am proud to congratulate the 647 people who have earned freeCodeCamp'
 Quote of the Week: *"Players are artists who create their own reality within the game."* — Shigeru Miyamoto, Creator of Super Mario Bros.
 
 ### December 24, 2021
-1. We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs.
-
-      It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter     eggs to discover, and multiple endings. And it's all open source.
-
-      It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour "let's play" video with Ania Kubow and the game's         developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/
+1. We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs. It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter eggs to discover, and multiple endings. And it's all open source. It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour "let's play" video with Ania Kubow and the game's developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/
 
 2. Also, we just published a comprehensive history of the internet, taught by a professor who has been at its forefront since the 1990s: University of Michigan legend Dr. Chuck. You'll learn about ARPANET & CERN, DNS, TCP/IP, network security, and more. (9 hour YouTube course): https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/
 
