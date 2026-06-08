@@ -6,9 +6,43 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
-      <title>Quincy Larson's Links - March 3, 2026</title>
-      <pubDate>Tue, 03 Mar 2026 09:00:00 EST</pubDate>
-      <guid isPermaLink="false">quincy-email-2026-03-03</guid>
+      <title>Quincy Larson's Links - March 20, 2026</title>
+      <pubDate>Fri, 20 Mar 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-03-20</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a new YouTube course that will teach you beginner Front-end Development skills like HTML, CSS, and JavaScript. You can code along at home and build a variety of projects: your own interactive quiz game, a currency converter app, and even a Trello-style kanban board. Along the way you'll learn how to use APIs and local storage to extend the functionality of these bite-sized apps. (12 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to properly test your software and ensure it doesn't break when you add new features. Prolific freeCodeCamp instructor Beau Carnes teaches this course. He'll introduce you to the Testing Pyramid and show you how to balance fast unit tests against complex end-to-end user journeys. You'll also learn how to automate some of this testing using an open source library called Playwright and an LLM testing tool. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/software-testing-with-playwright/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On this week's podcast I interview Luke Ciciliano, a software engineer who has hundreds of freelance clients. He shares tips for building your own software consultancy in your city and winning clients. He's confident that AI tools are actually creating MORE potential small business customers, not fewer. He walks through how he engages clients and closes deals, and why he thinks building long-term relationships is the key. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-land-freelance-clients-with-small-business-whisperer-luke-ciciliano-developer-interview-podcast-211/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;More and more apps are relying on probabilistic LLM output alongside deterministic API calls. This makes life harder for devs who now need to ensure that hallucinations don't escape to end users. freeCodeCamp just published this advanced observability tutorial that will teach you emerging best practices and architectural patterns for dealing with this. (40 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/build-end-to-end-llm-observability-in-fastapi-with-opentelemetry/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to containerize your MLOps pipelines. This tutorial is the result of hard-won deployment wisdom. The author spent three weeks debugging a Python library error due to dependency conflicts. His eventual answer: containerize entire project with Docker. This tutorial will show you how to structure your containers with multi-stage builds. You'll also learn how to set up experiment tracking with MLflow, versioning with DVC, GPU passthrough, and other advanced techniques. (40 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/containerize-mlops-pipeline-from-training-to-serving/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;We don't always appreciate how technologically illiterate a lot of society still is. No matter how low-code, no-code, or simple these tools become, there's always going to be a large group of people who either can't do it themselves or just won't. They may be intimidated by it, or they may not want to risk doing it badly. I've come to appreciate that no matter how simple the tools get, there's always going to be work there for somebody to do. — Software Engineer and prolific freelance dev Luke Ciciliano on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/</link>
+    </item>
+    <item>
+      <title>Quincy Larson's Links - March 13, 2026</title>
+      <pubDate>Fri, 13 Mar 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-03-13</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a comprehensive DevOps course that will teach you how to deploy your apps to production safely. You'll build your own CI/CD (Continuous Integration / Continuous Delivery) pipeline. Along the way you'll learn about branching strategies, Jenkins Freestyle Jobs, GitFlow, Maven, and more. This is a perfect way to build your skills over spring break. (17 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to fine-tune an LLM to incorporate your own proprietary data. This is super useful if you need off-the-shelf LLMs to do novel tasks that they weren't originally optimized for. This course will teach you all about Parameter-Efficient Fine-Tuning, and how to use techniques like LoRA and QLoRA to train models on consumer-grade hardware. No data center needed. (12 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-how-to-fine-tune-llms-in-12-hours/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On this week's podcast I interview software engineer Justin Searls who ran his own software development agency for 15 years. At age 38, he retired and moved to Japan. He has some controversial takes on AI-assisted development. He talks about how he thinks software development is ceasing to be a team sport and his vision of a future where individual devs just work directly for the clients who are paying them to build projects. Justin also shares tips for how folks entering the field can use emerging tools to get an edge over more experienced devs. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/there-are-2-kinds-of-devs-one-of-them-is-screwed-justin-searls-interview-podcast-210/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to protect your sensitive data by running your LLMs locally. This quick tutorial will show you how to get up and running with Ollama, Python, LangChain, and LangGraph. It will also walk you through the various trade-offs you face when you avoid sharing your data with big tech companies. (15 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/protect-sensitive-data-with-local-llms/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how agents are changing the field of software development. This in-depth tutorial will get you hands-on experience with building your own Flutter mobile app using Antigravity and Stitch. You don't even need to know Flutter. You just need to understand the core concepts and make the architectural decisions. You'll quickly see how sophisticated these tools have gotten over the past few months. (40 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-how-ai-agents-are-changing-development-by-building-a-flutter-app/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;If you're out there learning programming right now, build your new project, build it to be valuable, and see it through to completion. — Software Engineer Justin Searls on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/</link>
+    </item>
+    <item>
+      <title>Quincy Larson's Links - March 6, 2026</title>
+      <pubDate>Fri, 06 Mar 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-03-06</guid>
       <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;If you're interested in learning about AI infrastructure, freeCodeCamp just published this new course that will help you pass the NVIDIA Infrastructure and Operations Certification Exam. Andrew Brown is a CTO who has passed practically every DevOps exam under the sun, and he teaches this course. He'll introduce you to key concepts like GPU architecture, CUDA, and use cases for Accelerated Computing. Even if you decide not to pursue the certification, you'll still learn a lot from this course. (4 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/pass-the-nvidia-certified-associate-ai-infrastructure-and-operations-certification-exam/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
