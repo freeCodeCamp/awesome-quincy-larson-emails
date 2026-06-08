@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "April 3, 2026",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a new course on AI-assisted software development. You'll learn common terminal workflows and tips for \"pair programming\" alongside LLM tools. You'll also get exposure to  tools like GitHub Copilot, Claude Code, Gemini CLI, and OpenClaw. At the end of the day, the entire goal of using these tools is to build more features without compromising the maintainability of your codebase.",
+          "link": "https://www.freecodecamp.org/news/ai-tools-for-developers/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp also published a beginner level course on AI literacy for everybody that you can also share with your family. First you'll learn about the two traits that define artificial intelligence: autonomy and adaptivity. Then you'll build your own image classifier right on your own phone or laptop. This course also delves into considerations like algorithmic bias and the environmental costs of training LLMs.",
+          "link": "https://www.freecodecamp.org/news/ai-literacy-for-everybody/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "On this week's freeCodeCamp podcast I interview Landon Gray. He's a software engineer who spent years working at agencies, then taught himself AI-assisted software development. We talk about why Large Language Models are just raw fuel, and why the harness code around them matters so much more. We also talk about his contributions to the Ruby Machine Learning ecosystem. Even at his level of experience, Landon still firmly encourages devs to build their professional network through conferences and talks.",
+          "link": "https://www.freecodecamp.org/news/what-happens-when-the-model-can-t-fix-it-interview-with-software-engineer-landon-gray-podcast-213/",
+          "order": "3",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to build your own QR code generator using JavaScript. This tutorial will walk you through generating QR codes entirely in a browser without the need for a backend. You'll learn how to validate input, clear previous output, and use a JavaScript library to render the code instantly on the client side. Then you'll see how to extend the project with downloads, custom styling, WiFi support, and more.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-qr-code-generator-using-javascript/",
+          "order": "4",
+          "time_duration": "7",
+          "time_type": "minutes"
+        },
+        {
+          "description": "I'm thrilled to announce that the Bad Website Club is back for another Responsive Web Design bootcamp based on freeCodeCamp's curriculum. It starts April 24 and runs for 10 weeks. You can join our Discord community and tune in for live streams. It's led by volunteer devs who are passionate about helping folks learn CSS and JavaScript fundamentals.",
+          "link": "https://www.freecodecamp.org/news/bad-website-club-bootcamp-based-on-freecodecamp-rwd-cert/",
+          "order": "5",
+          "time_duration": "5",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "LLM tools accelerate everything. But if you're doing the wrong thing, they just accelerate that and proliferate that everywhere. So you still have to have the fundamentals and know how to design software and think about software.",
+      "quote_author": "Software Engineer Landon Gray on this week's freeCodeCamp podcast"
+    },
+    {
       "date": "March 27, 2026",
       "links": [
         {
