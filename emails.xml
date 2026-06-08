@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - April 3, 2026</title>
+      <pubDate>Fri, 03 Apr 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-04-03</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a new course on AI-assisted software development. You'll learn common terminal workflows and tips for &quot;pair programming&quot; alongside LLM tools. You'll also get exposure to  tools like GitHub Copilot, Claude Code, Gemini CLI, and OpenClaw. At the end of the day, the entire goal of using these tools is to build more features without compromising the maintainability of your codebase. (2 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/ai-tools-for-developers/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;freeCodeCamp also published a beginner level course on AI literacy for everybody that you can also share with your family. First you'll learn about the two traits that define artificial intelligence: autonomy and adaptivity. Then you'll build your own image classifier right on your own phone or laptop. This course also delves into considerations like algorithmic bias and the environmental costs of training LLMs. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/ai-literacy-for-everybody/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On this week's freeCodeCamp podcast I interview Landon Gray. He's a software engineer who spent years working at agencies, then taught himself AI-assisted software development. We talk about why Large Language Models are just raw fuel, and why the harness code around them matters so much more. We also talk about his contributions to the Ruby Machine Learning ecosystem. Even at his level of experience, Landon still firmly encourages devs to build their professional network through conferences and talks. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/what-happens-when-the-model-can-t-fix-it-interview-with-software-engineer-landon-gray-podcast-213/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to build your own QR code generator using JavaScript. This tutorial will walk you through generating QR codes entirely in a browser without the need for a backend. You'll learn how to validate input, clear previous output, and use a JavaScript library to render the code instantly on the client side. Then you'll see how to extend the project with downloads, custom styling, WiFi support, and more. (7 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-build-a-qr-code-generator-using-javascript/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I'm thrilled to announce that the Bad Website Club is back for another Responsive Web Design bootcamp based on freeCodeCamp's curriculum. It starts April 24 and runs for 10 weeks. You can join our Discord community and tune in for live streams. It's led by volunteer devs who are passionate about helping folks learn CSS and JavaScript fundamentals. (5 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/bad-website-club-bootcamp-based-on-freecodecamp-rwd-cert/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;LLM tools accelerate everything. But if you're doing the wrong thing, they just accelerate that and proliferate that everywhere. So you still have to have the fundamentals and know how to design software and think about software. — Software Engineer Landon Gray on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/ai-tools-for-developers/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - March 27, 2026</title>
       <pubDate>Fri, 27 Mar 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-03-27</guid>
