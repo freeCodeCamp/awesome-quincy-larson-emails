@@ -205,7 +205,8 @@
 &lt;li&gt; &lt;a href=&quot;https://www.freecodecamp.org/news/build-an-lsm-tree-storage-engine-from-scratch-handbook/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;The day you stop waiting for your manager to tell you what's broken, and you start fixing the things everyone else is ignoring, is the day you start moving up.&quot;* - Software Developer Santosh Yadav on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;The day you stop waiting for your manager to tell you what's broken, and you start fixing the things everyone else is ignoring, is the day you start moving up. — Software Developer Santosh Yadav on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/christmas-gifts-freecodecamp-community-2025</link>
     </item>
     <item>
@@ -3635,7 +3636,7 @@
       <guid isPermaLink="false">quincy-email-2021-12-24</guid>
       <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer.&lt;/li&gt;
+&lt;li&gt;We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs. It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter eggs to discover, and multiple endings. And it's all open source. It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour &quot;let's play&quot; video with Ania Kubow and the game's developer, Lynn Zheng. &lt;a href=&quot;https://www.freecodecamp.org/news/learn-to-code-rpg/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Also, we just published a comprehensive history of the internet, taught by a professor who has been at its forefront since the 1990s: University of Michigan legend Dr. Chuck. You'll learn about ARPANET &amp; CERN, DNS, TCP/IP, network security, and more. (9 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;This course taught by Ania Kubow will show you how to build your own Customer Relationship Management (CRM) system. You don't even need to know a lot about programming -- you can use low-code tools to build out key features. (2 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/build-a-crm/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;If you're new to the JavaScript ecosystem, one of its most powerful features is modules. In this guide, Madison Kanna will show you how ES Modules work, and how they can speed up your website building process. (8 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/javascript-modules-beginners-guide/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
@@ -3643,10 +3644,8 @@
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;We don't stop playing because we grow old. We grow old because we stop playing. — George Bernard Shaw, Irish Playwright&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour &quot;let's play&quot; video with Ania Kubow and the game's         developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/&lt;/em&gt;&lt;/p&gt;</description>
-      <link/>
+&lt;blockquote&gt;We don't stop playing because we grow old. We grow old because we stop playing. — George Bernard Shaw, Irish Playwright&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/learn-to-code-rpg/</link>
     </item>
     <item>
       <title>Quincy Larson's Links - December 17, 2021</title>
