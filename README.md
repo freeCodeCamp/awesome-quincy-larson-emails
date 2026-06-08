@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### March 27, 2026
+1. freeCodeCamp just published a comprehensive course that will walk you through using the popular AI-assisted development tool Claude Code. You'll learn about Code Harnesses, Agentic Loops, Sandboxing, and other key concepts. By the end of the course you'll be able to spin up an entire fleet of agents to help you fix bugs and build out new features. (12 hour YouTube course): https://www.freecodecamp.org/news/claude-code-essentials-exampro/
+
+2. We also published a course on the Hugging Face tool ecosystem. You'll learn how to connect your models, datasets, and deployment tools into a single unified build pipeline. (7 hour YouTube course): https://www.freecodecamp.org/news/deploying-ai-models-with-hugging-face/
+
+3. On this week's podcast I interview Chris Coyier. He's a front-end dev who built CodePen and the influential CSS Tricks blog. He shares his thoughts on front-end development tools and how he thinks they're 90% of the way to where he ideally wants them. He also explains why highly skilled devs who are working on novel problems don't need to worry about AI disrupting their careers. (1 hour watch or listen in your favorite podcast app): https://www.freecodecamp.org/news/the-world-still-needs-people-who-care-codepen-founder-chris-coyier-interview-podcast-212/
+
+4. Learn how to secure your Kubernetes Cluster. This in-depth tutorial starts by exploring real-world security breaches at big companies like Tesla, Shopify, and Capital One. Then it walks you through how to prevent each of these types of attacks by hardening your setup. (1 hour read): https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/
+
+5. Tell your Spanish-speaking friends: freeCodeCamp just published a new Spanish-language course on SQL and relational databases. It covers tables, foreign keys, queries, data manipulation, and more. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-sql-course-for-beginners-in-spanish/
+
+Quote of the Week: *“I’ll probably be explaining CSS border-radius tricks into the dirt with a stick after the apocalypse.”* — Software Engineer and prolific teacher Chris Coyier on this week's freeCodeCamp podcast
+
 ### March 20, 2026
 1. freeCodeCamp just published a new YouTube course that will teach you beginner Front-end Development skills like HTML, CSS, and JavaScript. You can code along at home and build a variety of projects: your own interactive quiz game, a currency converter app, and even a Trello-style kanban board. Along the way you'll learn how to use APIs and local storage to extend the functionality of these bite-sized apps. (12 hour YouTube course): https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/
 
