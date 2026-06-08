@@ -486,7 +486,6 @@
       "quote_author": "Software Developer Santosh Yadav on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"The promise was that AI was going to replace developers. We're seeing pretty clearly that's not the case. Anything beyond a toy, anything that requires maintenance or significant feature development, you can't vibe-code that. The strongest developers in the future are the ones who have the right skills to leverage AI effectively.\"* - Software Engineer Jason Lengstorf on this week's freeCodeCamp podcast",
       "date": "December 19, 2025",
       "links": [
         {
@@ -519,10 +518,11 @@
           "link": "https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/",
           "order": "5"
         }
-      ]
+      ],
+      "quote": "The promise was that AI was going to replace developers. We're seeing pretty clearly that's not the case. Anything beyond a toy, anything that requires maintenance or significant feature development, you can't vibe-code that. The strongest developers in the future are the ones who have the right skills to leverage AI effectively.",
+      "quote_author": "Software Engineer Jason Lengstorf on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"Open source saved my career. It gave me credibility, proof of work, skills, projects to showcase, and a network.\"* - Software Engineer Kunal Kushwaha on this week's freeCodeCamp podcast",
       "date": "December 12, 2025",
       "links": [
         {
@@ -556,10 +556,11 @@
           "time_duration": "7",
           "time_type": "hours"
         }
-      ]
+      ],
+      "quote": "Open source saved my career. It gave me credibility, proof of work, skills, projects to showcase, and a network.",
+      "quote_author": "Software Engineer Kunal Kushwaha on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"Take a moment to stop and think about what it is that truly matters to you. And then start making the changes that you need to make.\"* - Andrea Griffiths on this week's freeCodeCamp podcast talking about her decision to learn programming and launch into an entirely new career",
       "date": "December 5, 2025",
       "links": [
         {
@@ -595,10 +596,11 @@
           "time_duration": "5",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "Take a moment to stop and think about what it is that truly matters to you. And then start making the changes that you need to make.",
+      "quote_author": "Andrea Griffiths on this week's freeCodeCamp podcast talking about her decision to learn programming and launch into an entirely new career"
     },
     {
-      "bonus": "*\"Care less about school. It took me too long to realize that I should be doing more projects hands-on instead of worrying about trying to get like a 95 on a quiz that was worth 10 percent of my grade.\"* - Developer and university student Cindy Cui on this week's freeCodeCamp podcast",
       "date": "November 26, 2025",
       "links": [
         {
@@ -632,10 +634,11 @@
           "time_duration": "10",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "Care less about school. It took me too long to realize that I should be doing more projects hands-on instead of worrying about trying to get like a 95 on a quiz that was worth 10 percent of my grade.",
+      "quote_author": "Developer and university student Cindy Cui on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"There's something liberating about realizing that at the end of the day everything reduces to zeros and ones. It's not magic. And once students see that, they think: OK, I got this.\"* - Harvard computer science professor David J. Malan on this week's freeCodeCamp podcast",
       "date": "November 21, 2025",
       "links": [
         {
@@ -671,10 +674,11 @@
           "time_duration": "1",
           "time_type": "hours"
         }
-      ]
+      ],
+      "quote": "There's something liberating about realizing that at the end of the day everything reduces to zeros and ones. It's not magic. And once students see that, they think: OK, I got this.",
+      "quote_author": "Harvard computer science professor David J. Malan on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"People get jobs years down the line because someone remembers them from an interview and wishes they could have hired them then.\"* - Software Engineer and former recruitment agency admin Abbey Perini on this week's freeCodeCamp podcast",
       "date": "November 14, 2025",
       "links": [
         {
@@ -712,10 +716,11 @@
           "time_duration": "10",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "People get jobs years down the line because someone remembers them from an interview and wishes they could have hired them then.",
+      "quote_author": "Software Engineer and former recruitment agency admin Abbey Perini on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"I'd be happy sitting in a basement coding 8 hours a day. But I'm growing a lot faster trying to be an extrovert.\"* - Self-taught Software Engineer Patrick Hartley on this week's freeCodeCamp podcast",
       "date": "November 7, 2025",
       "links": [
         {
@@ -751,10 +756,11 @@
           "time_duration": "1",
           "time_type": "hours"
         }
-      ]
+      ],
+      "quote": "I'd be happy sitting in a basement coding 8 hours a day. But I'm growing a lot faster trying to be an extrovert.",
+      "quote_author": "Self-taught Software Engineer Patrick Hartley on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"Most developer stories about learning to code involve having time to do things like go to meetups, build side projects, grind LeetCode, and so on. I didn't have time or energy to do any of these things with a baby at home. So I found another way into my first developer job. For me, I had to find a way to get paid to code at my non-coding job. First I found a way to code for 5% of my job, then 10%, then a jump to 50%, and finally a jump to a 100% coding role.\"* - Software Engineer Eric Carlson on how he transitioned into a developer role within his current company at age 45, on this week's freeCodeCamp podcast",
       "date": "October 31, 2025",
       "links": [
         {
@@ -790,10 +796,11 @@
           "time_duration": "5",
           "time_type": "hours"
         }
-      ]
+      ],
+      "quote": "Most developer stories about learning to code involve having time to do things like go to meetups, build side projects, grind LeetCode, and so on. I didn't have time or energy to do any of these things with a baby at home. So I found another way into my first developer job. For me, I had to find a way to get paid to code at my non-coding job. First I found a way to code for 5% of my job, then 10%, then a jump to 50%, and finally a jump to a 100% coding role.",
+      "quote_author": "Software Engineer Eric Carlson on how he transitioned into a developer role within his current company at age 45, on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"If they won't hire you without a degree, they weren't a good fit for you anyway.\"* - Software Engineer Kaleb Garner on this week's freeCodeCamp podcast",
       "date": "October 24, 2025",
       "links": [
         {
@@ -829,10 +836,11 @@
           "time_duration": "20",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "If they won't hire you without a degree, they weren't a good fit for you anyway.",
+      "quote_author": "Software Engineer Kaleb Garner on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"When I build things, I often start by prototyping the end developer experience I want for myself - then I reverse engineer from that to the implementation details.\"* - Software Engineer Evan You on this week's freeCodeCamp podcast",
       "date": "October 17, 2025",
       "links": [
         {
@@ -868,10 +876,11 @@
           "time_duration": "15",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "When I build things, I often start by prototyping the end developer experience I want for myself - then I reverse engineer from that to the implementation details.",
+      "quote_author": "Software Engineer Evan You on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"Just start. Find an open source repo. Find an issue. Even if it's just a typo. Fix it and move on from there. That's how you gain experience and grow as a developer.\"* - Software Engineer Tom Mondloch on this week's freeCodeCamp podcast",
       "date": "October 3, 2025",
       "links": [
         {
@@ -909,10 +918,11 @@
           "time_duration": "10",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "Just start. Find an open source repo. Find an issue. Even if it's just a typo. Fix it and move on from there. That's how you gain experience and grow as a developer.",
+      "quote_author": "Software Engineer Tom Mondloch on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"If you don't like playing the social media game, contributing code to open source projects can serve as an alternative to building up a social media presence.\"* - Software Engineer Ihechikara Abba on this week's freeCodeCamp podcast",
       "date": "September 27, 2025",
       "links": [
         {
@@ -950,10 +960,11 @@
           "time_duration": "15",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "If you don't like playing the social media game, contributing code to open source projects can serve as an alternative to building up a social media presence.",
+      "quote_author": "Software Engineer Ihechikara Abba on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"If your goal is to ship something right now, you should use AI. But if your goal is to build something you can understand and talk about in front of employers, you shouldn't be using AI right now.\"* - Software Engineer Danny Thompson on this week's freeCodeCamp podcast",
       "date": "September 20, 2025",
       "links": [
         {
@@ -991,10 +1002,11 @@
           "time_duration": "10",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "If your goal is to ship something right now, you should use AI. But if your goal is to build something you can understand and talk about in front of employers, you shouldn't be using AI right now.",
+      "quote_author": "Software Engineer Danny Thompson on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"My worry is that with AI now people just stop learning the fundamentals. But then how do you fully understand something, really? You should definitely still learn the fundamentals before using all these AI tools.\"* - Software Engineer Ania Kub\u00f3w, who has taught some of YouTube's most popular LLM-focused courses, on this week's freeCodeCamp podcast",
       "date": "September 13, 2025",
       "links": [
         {
@@ -1030,10 +1042,11 @@
           "time_duration": "10",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "My worry is that with AI now people just stop learning the fundamentals. But then how do you fully understand something, really? You should definitely still learn the fundamentals before using all these AI tools.",
+      "quote_author": "Software Engineer Ania Kub\u00f3w, who has taught some of YouTube's most popular LLM-focused courses, on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"To build any complex software, you need a lot of good engineers. You need engineers who can think about problems. You need engineers who can drill down into your own tasks and your own use cases.\"* - Software Engineer Ankur Tyagi on this week's freeCodeCamp podcast",
       "date": "September 6, 2025",
       "links": [
         {
@@ -1069,10 +1082,11 @@
           "time_duration": "20",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "To build any complex software, you need a lot of good engineers. You need engineers who can think about problems. You need engineers who can drill down into your own tasks and your own use cases.",
+      "quote_author": "Software Engineer Ankur Tyagi on this week's freeCodeCamp podcast"
     },
     {
-      "bonus": "*\"I was mopping floors in an outpatient surgical recovery room listening to the Code Newbies podcast when I first heard an interview with Quincy.\"* - Software Engineer Emmett Naughton on this week's freeCodeCamp podcast, sharing how he discovered the freeCodeCamp community and dove deeper into programming",
       "date": "August 30, 2025",
       "links": [
         {
@@ -1110,7 +1124,9 @@
           "time_duration": "10",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "I was mopping floors in an outpatient surgical recovery room listening to the Code Newbies podcast when I first heard an interview with Quincy.",
+      "quote_author": "Software Engineer Emmett Naughton on this week's freeCodeCamp podcast, sharing how he discovered the freeCodeCamp community and dove deeper into programming"
     },
     {
       "bonus": "*\"Big change happens in small increments. Big change is possible with really small, consistent effort.\"* - Software Engineer Dominick Monaco on how he iterated his way to working as a developer over time, on this week's freeCodeCamp podcast",
@@ -1191,7 +1207,6 @@
       ]
     },
     {
-      "bonus": "*\"History has taught us: never underestimate the amount of money, time, and effort someone will expend to thwart a security system. It's always better to assume the worst. Assume your adversaries are better than they are. Assume science and technology will soon be able to do things they cannot yet. Give yourself a margin for error. Give yourself more security than you need today. When the unexpected happens, you'll be glad you did.\"* - Bruce Schneier, software engineer and security expert",
       "date": "August 9, 2025",
       "links": [
         {
@@ -1225,7 +1240,9 @@
           "link": "https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/",
           "order": "5"
         }
-      ]
+      ],
+      "quote": "History has taught us: never underestimate the amount of money, time, and effort someone will expend to thwart a security system. It's always better to assume the worst. Assume your adversaries are better than they are. Assume science and technology will soon be able to do things they cannot yet. Give yourself a margin for error. Give yourself more security than you need today. When the unexpected happens, you'll be glad you did.",
+      "quote_author": "Bruce Schneier, software engineer and security expert"
     },
     {
       "date": "August 2, 2025",
