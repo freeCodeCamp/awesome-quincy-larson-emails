@@ -83,17 +83,27 @@ with open(OUT_FILE, 'w') as fh:
                     # consistent with newer entries.
                     link_data['description'] = description + '.'
 
-                re_time = re.compile(r'(\d\.?\d*)\s+'
+                re_time = re.compile(r'(?:(\d\.?\d*)\s+'
                                      r'(minute|hour)\s+'
-                                     r'(read|YouTube|watch|course|video)')
+                                     r'(read|YouTube|watch|course|video))'
+                                     r'|'
+                                     r'(?:\((full-length handbook)\))')
                 time_text = re_time.search(description)
-                link_data['time_duration'] = time_text.group(1)
-                link_data['time_type'] = time_text.group(2) + 's'  # Plural
 
-                # Edge case of one minute
-                if 'takes 1 minute' in description:
-                    link_data['time_duration'] = '1'
-                    link_data['time_type'] = 'minutes'  # Plural consistency
+                if time_text:
+                    # Check if the "full-length handbook" was matched
+                    if time_text.group(4): 
+                        link_data['time_duration'] = 'full-length'
+                        link_data['time_type'] = 'handbook'
+                    else:
+                        # Fallback to the original logic if standard time was matched
+                        link_data['time_duration'] = time_text.group(1)
+                        link_data['time_type'] = time_text.group(2) + 's'  # Plural
+
+                    # Edge case of one minute
+                    if 'takes 1 minute' in description:
+                        link_data['time_duration'] = '1'
+                        link_data['time_type'] = 'minutes'  # Plural consistency
 
             except Exception:
                 pass
