@@ -451,7 +451,6 @@
       "quote_author": "John von Neumann, mathematician and creator of von Neumann computer architecture, which is almost certainly used in the device that you're reading this on"
     },
     {
-      "bonus": "*\"The day you stop waiting for your manager to tell you what's broken, and you start fixing the things everyone else is ignoring, is the day you start moving up.\"* - Software Developer Santosh Yadav on this week's freeCodeCamp podcast",
       "date": "December 24, 2025",
       "links": [
         {
@@ -482,7 +481,9 @@
           "link": "https://www.freecodecamp.org/news/build-an-lsm-tree-storage-engine-from-scratch-handbook/",
           "order": "5"
         }
-      ]
+      ],
+      "quote": "The day you stop waiting for your manager to tell you what's broken, and you start fixing the things everyone else is ignoring, is the day you start moving up.",
+      "quote_author": "Software Developer Santosh Yadav on this week's freeCodeCamp podcast"
     },
     {
       "bonus": "*\"The promise was that AI was going to replace developers. We're seeing pretty clearly that's not the case. Anything beyond a toy, anything that requires maintenance or significant feature development, you can't vibe-code that. The strongest developers in the future are the ones who have the right skills to leverage AI effectively.\"* - Software Engineer Jason Lengstorf on this week's freeCodeCamp podcast",
@@ -8646,12 +8647,11 @@
       "quote_author": "Shigeru Miyamoto, Creator of Super Mario Bros."
     },
     {
-      "bonus": "It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour \"let's play\" video with Ania Kubow and the game's         developer, Lynn Zheng. (fully playable 3 hour game): https://www.freecodecamp.org/news/learn-to-code-rpg/",
       "date": "December 24, 2021",
       "links": [
         {
-          "description": "We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer.",
-          "link": null,
+          "description": "We did it. We built a video game. It took 8 months, but Learn To Code RPG is now live, and you can play it for yourself. In this visual novel video game, you learn to code, make friends, and apply for developer jobs. It features original anime-inspired art and a jazz soundtrack written and performed by me. There are more than 600 Computer Science concept quiz questions, dozens of Easter eggs to discover, and multiple endings. And it's all open source. It runs on PC, Mac, and Linux, and we'll soon publish mobile versions of the game, too. You can also watch the 1-hour \"let's play\" video with Ania Kubow and the game's developer, Lynn Zheng.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg/",
           "order": "1"
         },
         {
