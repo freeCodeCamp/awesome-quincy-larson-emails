@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - March 27, 2026</title>
+      <pubDate>Fri, 27 Mar 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-03-27</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a comprehensive course that will walk you through using the popular AI-assisted development tool Claude Code. You'll learn about Code Harnesses, Agentic Loops, Sandboxing, and other key concepts. By the end of the course you'll be able to spin up an entire fleet of agents to help you fix bugs and build out new features. (12 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/claude-code-essentials-exampro/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We also published a course on the Hugging Face tool ecosystem. You'll learn how to connect your models, datasets, and deployment tools into a single unified build pipeline. (7 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/deploying-ai-models-with-hugging-face/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;On this week's podcast I interview Chris Coyier. He's a front-end dev who built CodePen and the influential CSS Tricks blog. He shares his thoughts on front-end development tools and how he thinks they're 90% of the way to where he ideally wants them. He also explains why highly skilled devs who are working on novel problems don't need to worry about AI disrupting their careers. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/the-world-still-needs-people-who-care-codepen-founder-chris-coyier-interview-podcast-212/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to secure your Kubernetes Cluster. This in-depth tutorial starts by exploring real-world security breaches at big companies like Tesla, Shopify, and Capital One. Then it walks you through how to prevent each of these types of attacks by hardening your setup. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-secure-a-kubernetes-cluster-handbook/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tell your Spanish-speaking friends: freeCodeCamp just published a new Spanish-language course on SQL and relational databases. It covers tables, foreign keys, queries, data manipulation, and more. (4 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-sql-course-for-beginners-in-spanish/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;I'll probably be explaining CSS border-radius tricks into the dirt with a stick after the apocalypse. — Software Engineer and prolific teacher Chris Coyier on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/claude-code-essentials-exampro/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - March 20, 2026</title>
       <pubDate>Fri, 20 Mar 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-03-20</guid>
