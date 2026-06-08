@@ -222,7 +222,8 @@
 &lt;li&gt; &lt;a href=&quot;https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;The promise was that AI was going to replace developers. We're seeing pretty clearly that's not the case. Anything beyond a toy, anything that requires maintenance or significant feature development, you can't vibe-code that. The strongest developers in the future are the ones who have the right skills to leverage AI effectively.&quot;* - Software Engineer Jason Lengstorf on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;The promise was that AI was going to replace developers. We're seeing pretty clearly that's not the case. Anything beyond a toy, anything that requires maintenance or significant feature development, you can't vibe-code that. The strongest developers in the future are the ones who have the right skills to leverage AI effectively. — Software Engineer Jason Lengstorf on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/freecodecamps-new-python-certification-is-now-live/</link>
     </item>
     <item>
@@ -238,7 +239,8 @@
 &lt;li&gt;freeCodeCamp also published an advanced Python course that will teach you about sequence models and Neural Machine Translation. You'll learn about historical breakthroughs, architectural innovations, and mathematical insights as you reproduce the findings of 7 landmark AI papers using the PyTorch machine learning library. (7 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/building-nmt-from-scratch-pytorch-replications-of-7-landmark-papers/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;Open source saved my career. It gave me credibility, proof of work, skills, projects to showcase, and a network.&quot;* - Software Engineer Kunal Kushwaha on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Open source saved my career. It gave me credibility, proof of work, skills, projects to showcase, and a network. — Software Engineer Kunal Kushwaha on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/freecodecamps-new-javascript-certification-is-now-live/</link>
     </item>
     <item>
@@ -254,7 +256,8 @@
 &lt;li&gt;It is with great pride that I announce our Top Open Source Contributors of 2025. It's been a super productive year for the global freeCodeCamp community. As we start our 12th year as a community, we're firing on all cylinders, pushing forward more steadily than ever toward a future of open source education. (5 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/freecodecamp-top-open-source-contributors-2025/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;Take a moment to stop and think about what it is that truly matters to you. And then start making the changes that you need to make.&quot;* - Andrea Griffiths on this week's freeCodeCamp podcast talking about her decision to learn programming and launch into an entirely new career&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Take a moment to stop and think about what it is that truly matters to you. And then start making the changes that you need to make. — Andrea Griffiths on this week's freeCodeCamp podcast talking about her decision to learn programming and launch into an entirely new career&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners</link>
     </item>
     <item>
@@ -270,7 +273,8 @@
 &lt;li&gt;When you're working with Large Language Models, every additional token adds cost and latency. Microsoft just open-sourced a tool called LLMLingua that will compress your prompts and other context window data. freeCodeCamp published this tutorial to help you understand how this works and how you can add it to your Python projects. (10 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-compress-your-prompts-and-reduce-llm-costs/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;Care less about school. It took me too long to realize that I should be doing more projects hands-on instead of worrying about trying to get like a 95 on a quiz that was worth 10 percent of my grade.&quot;* - Developer and university student Cindy Cui on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Care less about school. It took me too long to realize that I should be doing more projects hands-on instead of worrying about trying to get like a 95 on a quiz that was worth 10 percent of my grade. — Developer and university student Cindy Cui on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/how-to-use-nlp-techniques-and-tools-in-your-projects-full-handbook/</link>
     </item>
     <item>
@@ -286,7 +290,8 @@
 &lt;li&gt;Level up your JavaScript implementation skills with this new freeCodeCamp course on Clean Code. You'll learn how to detect &quot;code smells&quot; and refactor your JavaScript accordingly. You'll also learn how to use ESLint and Prettier to automate some of the more error-prone aspects of shipping code. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;There's something liberating about realizing that at the end of the day everything reduces to zeros and ones. It's not magic. And once students see that, they think: OK, I got this.&quot;* - Harvard computer science professor David J. Malan on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;There's something liberating about realizing that at the end of the day everything reduces to zeros and ones. It's not magic. And once students see that, they think: OK, I got this. — Harvard computer science professor David J. Malan on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/</link>
     </item>
     <item>
@@ -302,7 +307,8 @@
 &lt;li&gt;Learn how to run an open source LLM locally on your own hardware using Ollama. This is a great way to unlock the power of LLMs without the privacy and security tradeoffs of using public LLM websites and APIs. This freeCodeCamp guide will walk you through the setup process and give you a feel for the options at your disposal. (10 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-run-an-open-source-llm-on-your-personal-computer-run-ollama-locally/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;People get jobs years down the line because someone remembers them from an interview and wishes they could have hired them then.&quot;* - Software Engineer and former recruitment agency admin Abbey Perini on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;People get jobs years down the line because someone remembers them from an interview and wishes they could have hired them then. — Software Engineer and former recruitment agency admin Abbey Perini on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-discrete-mathematics/</link>
     </item>
     <item>
@@ -318,7 +324,8 @@
 &lt;li&gt;freeCodeCamp also published our first ever guitar course. You'll learn beginner music theory concepts like chords and scales. You'll then map them to the guitar fretboard. You'll also learn guitar-specific techniques like barre chords. I learned guitar during the pandemic and am having an absolute blast with it. I hope you will, too. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/guitar-theory-course-for-beginners-learn-fretboard-major-scale-and-triads&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;I'd be happy sitting in a basement coding 8 hours a day. But I'm growing a lot faster trying to be an extrovert.&quot;* - Self-taught Software Engineer Patrick Hartley on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;I'd be happy sitting in a basement coding 8 hours a day. But I'm growing a lot faster trying to be an extrovert. — Self-taught Software Engineer Patrick Hartley on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/cryptography-for-beginners-full-python-course-sha-256-aes-rsa-passwords/</link>
     </item>
     <item>
@@ -334,7 +341,8 @@
 &lt;li&gt;Learn Serverless Architecture using C# .NET and Azure cloud. This jam-packed course will teach you common microservice patterns, Onion Architecture, IoT functions, and more. (5 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/serverless-and-microservices-with-c-and-azure/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;Most developer stories about learning to code involve having time to do things like go to meetups, build side projects, grind LeetCode, and so on. I didn't have time or energy to do any of these things with a baby at home. So I found another way into my first developer job. For me, I had to find a way to get paid to code at my non-coding job. First I found a way to code for 5% of my job, then 10%, then a jump to 50%, and finally a jump to a 100% coding role.&quot;* - Software Engineer Eric Carlson on how he transitioned into a developer role within his current company at age 45, on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Most developer stories about learning to code involve having time to do things like go to meetups, build side projects, grind LeetCode, and so on. I didn't have time or energy to do any of these things with a baby at home. So I found another way into my first developer job. For me, I had to find a way to get paid to code at my non-coding job. First I found a way to code for 5% of my job, then 10%, then a jump to 50%, and finally a jump to a 100% coding role. — Software Engineer Eric Carlson on how he transitioned into a developer role within his current company at age 45, on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-cybersecurity-from-harvard-university</link>
     </item>
     <item>
@@ -350,7 +358,8 @@
 &lt;li&gt;Finally, freeCodeCamp published an advanced Python tutorial on Machine Learning Lineage. This is important to establish the safety of mission critical AI systems. You'll learn about ETL Pipelines, Data Drift Checks, Model Tuning, and Model Risk Assessment. (20 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-build-end-to-end-machine-learning-lineage/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;If they won't hire you without a degree, they weren't a good fit for you anyway.&quot;* - Software Engineer Kaleb Garner on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;If they won't hire you without a degree, they weren't a good fit for you anyway. — Software Engineer Kaleb Garner on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/master-technical-interviews-by-learning-data-structures-and-algorithms/</link>
     </item>
     <item>
@@ -366,7 +375,8 @@
 &lt;li&gt;Strix is a relatively new open source tool for testing the security of your apps and identifying vulnerabilities. It's essentially an AI-powered white hat attacker that you set loose in your codebase. This tutorial will explain how it works and how you can use it to harden your apps against common exploits. (15 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-use-strix-the-open-source-ai-agent-for-security-testing/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;When I build things, I often start by prototyping the end developer experience I want for myself - then I reverse engineer from that to the implementation details.&quot;* - Software Engineer Evan You on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;When I build things, I often start by prototyping the end developer experience I want for myself - then I reverse engineer from that to the implementation details. — Software Engineer Evan You on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp</link>
     </item>
     <item>
@@ -382,7 +392,8 @@
 &lt;li&gt;You've probably heard people throw around terms like Deep Learning, Machine Learning, and Generative AI. But what do they mean in relation to one another? This quick article breaks down the jargon for you in plain English. (10 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/machine-learning-vs-deep-learning-vs-generative-ai/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;Just start. Find an open source repo. Find an issue. Even if it's just a typo. Fix it and move on from there. That's how you gain experience and grow as a developer.&quot;* - Software Engineer Tom Mondloch on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Just start. Find an open source repo. Find an issue. Even if it's just a typo. Fix it and move on from there. That's how you gain experience and grow as a developer. — Software Engineer Tom Mondloch on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/become-a-full-stack-developer-with-one-video/</link>
     </item>
     <item>
@@ -398,7 +409,8 @@
 &lt;li&gt;Memory leaks are one of the most common performance issues with React apps. This JavaScript tutorial will walk you through the most common ways they afflict your apps. Then it'll equip you with the tools you need to track memory leaks down and fix them. It's chock full of code examples for Event Listeners, Timers, Subscriptions, and Async Operations. (15 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;If you don't like playing the social media game, contributing code to open source projects can serve as an alternative to building up a social media presence.&quot;* - Software Engineer Ihechikara Abba on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;If you don't like playing the social media game, contributing code to open source projects can serve as an alternative to building up a social media presence. — Software Engineer Ihechikara Abba on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/code-an-llm-from-scratch-theory-to-rlhf/</link>
     </item>
     <item>
@@ -414,7 +426,8 @@
 &lt;li&gt;Finally, enjoy this breezy read about Cosine Similarity and the role it plays in Large Language Models. As its author, Manish, says, Cosine Similarity is &quot;a bridge between human language and machine understanding. It allows a model to treat meaning as geometry, turning questions and answers into points in space.&quot; Not only will you learn the math involved, you'll also see it implemented in Python code. (10 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-does-cosine-similarity-work/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;If your goal is to ship something right now, you should use AI. But if your goal is to build something you can understand and talk about in front of employers, you shouldn't be using AI right now.&quot;* - Software Engineer Danny Thompson on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;If your goal is to ship something right now, you should use AI. But if your goal is to build something you can understand and talk about in front of employers, you shouldn't be using AI right now. — Software Engineer Danny Thompson on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/code-your-own-code-editor/</link>
     </item>
     <item>
@@ -430,7 +443,8 @@
 &lt;li&gt;I also recommend reading this quick post by a freeCodeCamp community member on the importance of Hackathons. They opened all sorts of doors for him in his job search. (10 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/why-every-student-should-join-hackathons/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;My worry is that with AI now people just stop learning the fundamentals. But then how do you fully understand something, really? You should definitely still learn the fundamentals before using all these AI tools.&quot;* - Software Engineer Ania Kubów, who has taught some of YouTube's most popular LLM-focused courses, on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;My worry is that with AI now people just stop learning the fundamentals. But then how do you fully understand something, really? You should definitely still learn the fundamentals before using all these AI tools. — Software Engineer Ania Kubów, who has taught some of YouTube's most popular LLM-focused courses, on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-game-development-by-building-your-first-platformer-with-godot/</link>
     </item>
     <item>
@@ -446,7 +460,8 @@
 &lt;li&gt;Learn the graph algorithms that power Netflix's video recommendation engine and Google Maps' routing logic. This Python tutorial will introduce you to Breadth-First Search, Depth-First Search, Dijkstra's Algorithm, and other key computer science concepts. It includes plenty of code examples to help you understand these powerful programming structures. (20 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/graph-algorithms-in-python-bfs-dfs-and-beyond/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;To build any complex software, you need a lot of good engineers. You need engineers who can think about problems. You need engineers who can drill down into your own tasks and your own use cases.&quot;* - Software Engineer Ankur Tyagi on this week's freeCodeCamp podcast&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;To build any complex software, you need a lot of good engineers. You need engineers who can think about problems. You need engineers who can drill down into your own tasks and your own use cases. — Software Engineer Ankur Tyagi on this week's freeCodeCamp podcast&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/</link>
     </item>
     <item>
@@ -462,7 +477,8 @@
 &lt;li&gt;The Bag of Words algorithm is an important method that machine learning engineers have used to turn text into numbers so they can train their models. This tutorial will teach you how Bag of Words works, using Python code examples. It also describes the limitations of Bag of Words, and how scientists have gone on to create Word2Vec, GloVe, and other algorithms for mapping the relationships between words. (10 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-bag-of-words-works/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;I was mopping floors in an outpatient surgical recovery room listening to the Code Newbies podcast when I first heard an interview with Quincy.&quot;* - Software Engineer Emmett Naughton on this week's freeCodeCamp podcast, sharing how he discovered the freeCodeCamp community and dove deeper into programming&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;I was mopping floors in an outpatient surgical recovery room listening to the Code Newbies podcast when I first heard an interview with Quincy. — Software Engineer Emmett Naughton on this week's freeCodeCamp podcast, sharing how he discovered the freeCodeCamp community and dove deeper into programming&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/use-arduinos-for-computer-vision/</link>
     </item>
     <item>
@@ -510,7 +526,8 @@
 &lt;li&gt;And if you want to go even deeper into React, freeCodeCamp also published this advanced handbook on Shared State Complexity. What happens when several different parts of your app need to access and update the same information at the same time? This handbook breaks down several approaches to addressing this fundamental problem. You'll learn about State Management, The Context API, Prop Drilling, and more. &lt;a href=&quot;https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;*&quot;History has taught us: never underestimate the amount of money, time, and effort someone will expend to thwart a security system. It's always better to assume the worst. Assume your adversaries are better than they are. Assume science and technology will soon be able to do things they cannot yet. Give yourself a margin for error. Give yourself more security than you need today. When the unexpected happens, you'll be glad you did.&quot;* - Bruce Schneier, software engineer and security expert&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;History has taught us: never underestimate the amount of money, time, and effort someone will expend to thwart a security system. It's always better to assume the worst. Assume your adversaries are better than they are. Assume science and technology will soon be able to do things they cannot yet. Give yourself a margin for error. Give yourself more security than you need today. When the unexpected happens, you'll be glad you did. — Bruce Schneier, software engineer and security expert&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-react-and-tailwind-css-for-front-end-development/</link>
     </item>
     <item>
