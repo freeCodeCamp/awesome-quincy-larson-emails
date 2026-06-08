@@ -63,7 +63,7 @@ with open(OUT_FILE, 'w') as fh:
                 # before parens with time to explore the link.
                 # Edge case of description ending with '?"
                 if description[-1] == ')' and ('. (' in description or '? (' in description):
-                    info = re.search(r'(.*[\.|\?])\s?\(', description)
+                    info = re.search(r'(.*[\.|\?|\”|\"])\s?\(', description)
                     link_data['description'] = info.group(1)
 
                 # Edge case with some links only taking 1 minute.
