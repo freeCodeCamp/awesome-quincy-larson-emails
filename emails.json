@@ -564,8 +564,11 @@
           "time_type": "minutes"
         },
         {
+          "description": "Third, learn how to build your own Log-Structured Merge Tree from scratch as a new way to store data in your apps. These work by \"appending new data to the existing data, instead of looking for something that exists and updating it. In other words, you don't have to spend any CPU cycles thinking about where to store data. You just append it at the end.\"",
           "link": "https://www.freecodecamp.org/news/build-an-lsm-tree-storage-engine-from-scratch-handbook/",
-          "order": "5"
+          "order": "5",
+          "time_duration": "full-length",
+          "time_type": "handbook"
         }
       ],
       "quote": "The day you stop waiting for your manager to tell you what's broken, and you start fixing the things everyone else is ignoring, is the day you start moving up.",
@@ -601,6 +604,7 @@
           "time_type": "hours"
         },
         {
+          "description": "Now you can learn Spanish on freeCodeCamp. We just launched our Spanish curriculum today, which we've been working on all year. You'll learn proper Spanish pronunciation, greetings, introductions, numbers, and more. You'll also learn how to type Spanish characters like this one \u00f1 on your phone and computer. We already have more than 200 steps live, with the rest of the CEFR A1 level going live in 2026. \u00a1Aprendamos!",
           "link": "https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/",
           "order": "5"
         }
@@ -1390,7 +1394,7 @@
           "time_type": "hours"
         },
         {
-          "description": "Want to get a developer job? Be shameless. That's the advice of this week's freeCodeCamp podcast guest, Namanh Kapur. He's a senior software engineer at LinkedIn and has a ton of hot takes on where the field is heading. He shares tips for how to interact with recruiters, which foundational developer skills he thinks you should prioritize learning, and how to get hired in what he calls the \"post-LeetCode world.\".",
+          "description": "Want to get a developer job? Be shameless. That's the advice of this week's freeCodeCamp podcast guest, Namanh Kapur. He's a senior software engineer at LinkedIn and has a ton of hot takes on where the field is heading. He shares tips for how to interact with recruiters, which foundational developer skills he thinks you should prioritize learning, and how to get hired in what he calls the \"post-LeetCode world.\"",
           "link": "https://www.freecodecamp.org/news/we-are-truly-in-the-hackathon-era-namanh-kapur-interview-podcast-180/",
           "order": "3",
           "time_duration": "1",
@@ -1549,7 +1553,7 @@
           "time_type": "handbook"
         },
         {
-          "description": "Many of the recent breakthroughs in AI tools have been thanks to the Transformer Architecture pioneered at Google. This course will teach you how Transformers work, and how they're evolving. You'll learn about Attention Mechanisms, Positional Encoding, Activation Functions, and Normalization. Transformers! More than meets the eye!.",
+          "description": "Many of the recent breakthroughs in AI tools have been thanks to the Transformer Architecture pioneered at Google. This course will teach you how Transformers work, and how they're evolving. You'll learn about Attention Mechanisms, Positional Encoding, Activation Functions, and Normalization. Transformers! More than meets the eye!",
           "link": "https://www.freecodecamp.org/news/learn-the-evolution-of-the-transformer-architecture-used-in-llms/",
           "order": "2",
           "time_duration": "3",
@@ -1778,7 +1782,7 @@
           "time_type": "minutes"
         },
         {
-          "description": "I'm thrilled to announce that freeCodeCamp just published our first-ever course on a world language. This full-length Spanish for Beginners course will teach you basic grammar and vocabulary so you can speak at a CEFR A1 Level. The instructor has more than 17 years of experience teaching Spanish to beginners. \u00a1V\u00e1monos!.",
+          "description": "I'm thrilled to announce that freeCodeCamp just published our first-ever course on a world language. This full-length Spanish for Beginners course will teach you basic grammar and vocabulary so you can speak at a CEFR A1 Level. The instructor has more than 17 years of experience teaching Spanish to beginners. \u00a1V\u00e1monos!",
           "link": "https://www.freecodecamp.org/news/learn-a1-level-spanish/",
           "order": "5",
           "time_duration": "9",
@@ -2797,7 +2801,7 @@
           "time_type": "minutes"
         },
         {
-          "description": "On this week's freeCodeCamp podcast, I talk with Tim Ruscica, software engineer and host of the popular Tech with Tim YouTube channel. We talk about how Tim learned computer architecture as a kid by playing Minecraft, then managed to land a Microsoft internship when he was just 19. He also shares his insights on learning to code, and why he recommends Python as a first programming language: \"It's the least overwhelming thing to get your hands dirty.\".",
+          "description": "On this week's freeCodeCamp podcast, I talk with Tim Ruscica, software engineer and host of the popular Tech with Tim YouTube channel. We talk about how Tim learned computer architecture as a kid by playing Minecraft, then managed to land a Microsoft internship when he was just 19. He also shares his insights on learning to code, and why he recommends Python as a first programming language: \"It's the least overwhelming thing to get your hands dirty.\"",
           "link": "https://www.freecodecamp.org/news/tech-with-tim-freecodecamp-podcast-150/",
           "order": "3",
           "time_duration": "2",
@@ -3505,7 +3509,7 @@
           "time_type": "hours"
         },
         {
-          "description": "On this week's podcast, I interview Jessica Chan, AKA Coder Coder. She's a software engineer who has worked in the field for more than a decade. Interestingly, she studied photography in school and never even took a programming class. We talk about how as a kid she and her sister ran a dial-in BBS back before there were websites. We also talk about how she stayed at her first developer job for 7 years, and how she spent the first year of it \"in abject fear of losing my job.\".",
+          "description": "On this week's podcast, I interview Jessica Chan, AKA Coder Coder. She's a software engineer who has worked in the field for more than a decade. Interestingly, she studied photography in school and never even took a programming class. We talk about how as a kid she and her sister ran a dial-in BBS back before there were websites. We also talk about how she stayed at her first developer job for 7 years, and how she spent the first year of it \"in abject fear of losing my job.\"",
           "link": "https://www.freecodecamp.org/news/from-doing-data-entry-to-becoming-a-developer-with-jessica-chan-aka-coder-coder-podcast-132/",
           "order": "3",
           "time_duration": "2",
@@ -3622,7 +3626,7 @@
           "time_type": "hours"
         },
         {
-          "description": "Vim is a powerful code editor that comes built-in with most operating systems, including Linux and MacOS. Vim lets you to do almost anything with just a few keystrokes. You'll never need to take your hand off your keyboard to reach for your mouse again. This course by CTO Andrew Brown will give you a solid foundation in using Vim in just a few hours. Then if you want to become as proficient as he is, you can keep practicing while coding over the coming months, and feel that sheer build-up of speed. Ride like the wind!.",
+          "description": "Vim is a powerful code editor that comes built-in with most operating systems, including Linux and MacOS. Vim lets you to do almost anything with just a few keystrokes. You'll never need to take your hand off your keyboard to reach for your mouse again. This course by CTO Andrew Brown will give you a solid foundation in using Vim in just a few hours. Then if you want to become as proficient as he is, you can keep practicing while coding over the coming months, and feel that sheer build-up of speed. Ride like the wind!",
           "link": "https://www.freecodecamp.org/news/mastering-vim-your-guide-to-efficient-text-editing/",
           "order": "2",
           "time_duration": "4",
@@ -10049,7 +10053,7 @@
           "time_type": "minutes"
         },
         {
-          "description": "Jack Schofield was a prolific journalist who wrote about technology for nearly four decades. Along the way he made three big observations about computers, which his fans dubbed \"Schofield's Laws.\".",
+          "description": "Jack Schofield was a prolific journalist who wrote about technology for nearly four decades. Along the way he made three big observations about computers, which his fans dubbed \"Schofield's Laws.\"",
           "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
           "order": "3",
           "time_duration": "8",
@@ -11924,7 +11928,7 @@
           "time_type": "minutes"
         },
         {
-          "description": "And finally, learn some spicy SQL with these five easy recipes. \"I like to think of WHERE, JOIN, COUNT, and GROUP_CONCAT as the salt, fat, acid, and heat of database cooking.\".",
+          "description": "And finally, learn some spicy SQL with these five easy recipes. \"I like to think of WHERE, JOIN, COUNT, and GROUP_CONCAT as the salt, fat, acid, and heat of database cooking.\"",
           "link": "https://www.freecodecamp.org/news/sql-recipes/",
           "order": "5",
           "time_duration": "7",
@@ -13212,7 +13216,7 @@
       "date": "October 31, 2019",
       "links": [
         {
-          "description": "A quantum computer just solved a problem that should take supercomputers 10,000 years to solve. And it solved the problem in just 200 seconds. Here's a plain-English explanation of what quantum computing is, how it works, and Google's new claim to \"quantum supremacy\".",
+          "description": "A quantum computer just solved a problem that should take supercomputers 10,000 years to solve. And it solved the problem in just 200 seconds. Here's a plain-English explanation of what quantum computing is, how it works, and Google's new claim to \"quantum supremacy\"",
           "link": "https://www.freecodecamp.org/news/what-is-quantum-computing-googles-quantum-supremacy-claim-explained/",
           "order": "1",
           "time_duration": "4",
@@ -14944,7 +14948,7 @@
           "time_type": "minutes"
         },
         {
-          "description": "How to beat procrastination by \"eating frogs\".",
+          "description": "How to beat procrastination by \"eating frogs\"",
           "link": "https://medium.freecodecamp.org/543b07ecf360",
           "order": "5",
           "time_duration": "15",
@@ -16538,7 +16542,7 @@
           "time_type": "minutes"
         },
         {
-          "description": "Preethi left a dream job as a venture capitalist to learn to code and work as a developer. Today on her \"Ask Preethi\" YouTube series, she answers the question: \"After you complete coding tutorials, how do you take what you've learned and build something real?\".",
+          "description": "Preethi left a dream job as a venture capitalist to learn to code and work as a developer. Today on her \"Ask Preethi\" YouTube series, she answers the question: \"After you complete coding tutorials, how do you take what you've learned and build something real?\"",
           "link": "https://www.youtube.com/watch?v=OxfJ7xw5hQE",
           "order": "3",
           "time_duration": "13",
@@ -17230,7 +17234,7 @@
           "time_type": "minutes"
         },
         {
-          "description": "An interview with the creator of Linux: \"Successful projects are 99 percent perspiration, and one percent innovation\".",
+          "description": "An interview with the creator of Linux: \"Successful projects are 99 percent perspiration, and one percent innovation\"",
           "link": "http://bit.ly/2llSIcL",
           "order": "3",
           "time_duration": "3",
@@ -17652,7 +17656,7 @@
           "time_type": "minutes"
         },
         {
-          "description": "Watch a Tesla drive itself around town and parallel park to the Rolling Stone's \"Paint it Black\".",
+          "description": "Watch a Tesla drive itself around town and parallel park to the Rolling Stone's \"Paint it Black\"",
           "link": "http://bit.ly/2fhoVz2n",
           "order": "3",
           "time_duration": "4",
@@ -18358,7 +18362,7 @@
           "order": "2"
         },
         {
-          "description": "Last year, programmer and journalist Paul Ford wrote an 30,000 word interactive essay called \"What is Code\" (http://bloom.bg/23tbUWe). This week, CodeNewbie interviewed him about his essay and what drew him to programming.",
+          "description": "Last year, programmer and journalist Paul Ford wrote an 30,000 word interactive essay called \"What is Code\"",
           "link": "http://bit.ly/25YSmrI",
           "order": "3"
         }
