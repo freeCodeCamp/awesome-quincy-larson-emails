@@ -18,7 +18,8 @@
 &lt;li&gt;And finally, if you're interested in embedded systems, freeCodeCamp just published a full-length handbook on building Bluetooth apps using Zephyr OS. You'll start with BLE fundamentals like GAP, GATT, services, and characteristics. Then you'll write real firmware for handling connections, reading sensor data, and building BLE peripherals that a phone can talk to. It also touches on security, debugging, power optimization, firmware updates, Bluetooth Mesh, and LE Audio. (full-length handbook) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-build-bluetooth-applications-with-zephyr-os-a-handbook-for-devs/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Joke of the Week: *&quot;Why is it so hard to find DevOps professionals on Mars? Because there's no Terraform there yet.&quot;* - Dangertwin88 on Reddit&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Why is it so hard to find DevOps professionals on Mars? Because there's no Terraform there yet. — Dangertwin88 on Reddit&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/docker-full-course/</link>
     </item>
     <item>
@@ -1422,7 +1423,8 @@
 &lt;li&gt;What is Hydration? What is Pre-rendering? This tutorial will walk you through these key web development concepts and teach you how Client-side Rendering works. You'll also learn how traditional Server-side Rendering works, and the trade-offs involved. By the end of this tutorial, you'll have a much better understanding of how developers build modern Single Page Applications and serve them at scale. (40 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Joke of the Week: *&quot;A couple of relational databases walked into a NoSQL bar. They left because they couldn't find a table.&quot;* - Kenneth Fisher, Database Administrator&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;A couple of relational databases walked into a NoSQL bar. They left because they couldn't find a table. — Kenneth Fisher, Database Administrator&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-databases-in-depth/</link>
     </item>
     <item>
@@ -1590,7 +1592,8 @@
 &lt;li&gt;Lazy Loading doesn't sound like it would be a good thing, but in the case of JavaScript performance, it is. Lazy Loading is a design pattern where you only fetch mission-critical data from the server first, then go back to get other data as needed. This tutorial will teach you how to perform Lazy Loading using React and the popular Next.js framework. You'll learn about Dynamic Import, Suspense, and React.lazy. You'll also learn the limits of this design pattern, and why developers don't just use it for everything under the sun. (30 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/next-js-performance-optimization/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Joke of the Week: *&quot;There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.&quot;* - Leon Bambrick, programmer&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors. — Leon Bambrick, programmer&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-system-design-principles</link>
     </item>
     <item>
@@ -1606,7 +1609,8 @@
 &lt;li&gt;Monte Carlo simulations are one of the most powerful tools data scientists have in their toolbox. Named after a famous casino in Monaco, Monte Carlo methods involve creating detailed models of a situation with many uncertain factors. By running the model many times with different random inputs, you can see a wide range of possible outcomes, and can learn more about how the system behaves. This tutorial will give you more insight into Monte Carlo methods and show you how they're used for everything from financial modeling to designing circuit boards. (20 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/what-are-monte-carlo-methods/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Joke of the Week: *&quot;Why do programmers prefer dark mode? Because light attracts bugs.&quot;* - ShivamLH on Reddit&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Why do programmers prefer dark mode? Because light attracts bugs. — ShivamLH on Reddit&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/create-24-css-projects/</link>
     </item>
     <item>
@@ -1758,6 +1762,9 @@
 &lt;li&gt;WordPress is one of the easier-to-use tools for building websites. freeCodeCamp teacher Beau Carnes just published a crash course on how to get a WordPress site live. The course includes a walkthrough of some new AI tools that can make this process even faster. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-use-wordpress-with-ai-tools/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Do you have any idea how fast you were driving? — Unknown&lt;/blockquote&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;em&gt;That was a joke I heard from a physics teacher. My quick, dirty, non-physics teacher explanation: the Heisenberg Uncertainty principle in Quantum Mechanics essentially states that you can't – at the same time – accurately know both the momentum of a particle and that particle's location.&lt;/em&gt;&lt;/p&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-the-algorithms-behind-quantum-computing/</link>
     </item>
@@ -1876,7 +1883,8 @@
 &lt;li&gt;In this week's episode of the freeCodeCamp Podcast, I interview Jessica Lord -- AKA JLord. You may not have heard of her, but you probably use her code every day. She's worked as a software engineer for more than a decade at companies like GitHub and Glitch. Among her many accomplishments, she created the Electron team at GitHub. Electron is a library for building desktop apps using browser technologies. If you've used the desktop version of Slack, Figma, or VS Code, you've used Electron. We had such a fun time talking about her journey from architecture student to city hall to working at the highest levels of tech. (2 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Joke of the Week: *&quot;Me: I'm afraid of JavaScript keywords. Therapist: tell me about THIS. Me: Aghhh!&quot;* - Carla Notarobot, Software Engineer and Bad Joke Sharer&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Me: I'm afraid of JavaScript keywords. Therapist: tell me about THIS. Me: Aghhh! — Carla Notarobot, Software Engineer and Bad Joke Sharer&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/comprehensive-nestjs-course/</link>
     </item>
     <item>
@@ -1924,9 +1932,7 @@
 &lt;li&gt;This new Machine Learning course will give you a clear roadmap toward building your own AIs. Data Scientist Tatev Aslanyan teaches this Python course. She covers key statistical concepts like Logistic Regression, Outlier Detection, Correlation Analysis, and the Bias-Variance Trade-Off. She also shares some common career paths for working in the field of Machine Learning. (4 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-machine-learning-in-2024/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;But you don't have to learn a ton of Statistics and Machine Learning to get more out of AI. You can first focus on just getting better at talking to AI. This new Prompt Engineering Handbook will give you practical tips for getting better images, text, and code out of Large Language Models like GPT-4. (full-length handbook) &lt;a href=&quot;https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;In this week's episode of the freeCodeCamp podcast, I interview education charity founder Seth Goldin. He's a computer science student at Yale and has taught several popular freeCodeCamp courses. We talk about the future of education, and the risks and opportunities presented by powerful AI systems like ChatGPT. During this fun, casual conversation, we make sure to explain all the specialized terminology as it comes up. And like most of our episodes, this podcast is 100% OK to listen to around kids. &lt;a href=&quot;https://www.freecodecamp.org/news/podcast-ai-and-the-future-of-education-with-seth-goldin/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Joke of the Week: *&quot;Why do Java developers wear glasses? Because they can't C#.&quot;&lt;/em&gt;&lt;/p&gt;</description>
+&lt;/ol&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-c-sharp-programming/</link>
     </item>
     <item>
@@ -2099,7 +2105,8 @@
 &lt;li&gt;On this week's freeCodeCamp Podcast, I interview Kylie Ying, a software engineer and AI researcher. We talk about her 5 years at MIT and her time at CERN working on the Large Hadron Collider. We also talk about competitive figure skating, poker-playing AIs, and the many courses she's published on freeCodeCamp over the years. &lt;a href=&quot;https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Joke of the Week: *&quot;Why do programmers always mix up Christmas and Halloween? Because Dec 25 = Oct 31.&quot;* In programming, Dec stands for Decimal, meaning a base-10 number system. And Oct stands for Octal, meaning a base-8 number system. So Dec 25 really does equal Oct 31. I know – this isn't the funniest programmer joke ever, but it is fun to think about.&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Why do programmers always mix up Christmas and Halloween? Because Dec 25 = Oct 31. — Unknown&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/</link>
     </item>
     <item>
@@ -2510,7 +2517,8 @@
 &lt;li&gt;What's the difference between Supervised Learning and Unsupervised Learning? This quick article will explain these two approaches to Machine Learning, and how each works. You'll also learn some AI techniques that each approach applies. (20 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Joke of the Week: *&quot;It's only called a Neural Network if it comes from the Neuralè region of France. Otherwise you have to call it a logistic regression.&quot;* - Vicki Boykis, Machine Learning Engineer&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;It's only called a Neural Network if it comes from the Neuralè region of France. Otherwise you have to call it a logistic regression. — Vicki Boykis, Machine Learning Engineer&lt;/blockquote&gt;</description>
       <link>https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/</link>
     </item>
     <item>
