@@ -1,7 +1,6 @@
 {
   "emails": [
     {
-      "bonus": "Joke of the Week: *\"Why is it so hard to find DevOps professionals on Mars? Because there's no Terraform there yet.\"* - Dangertwin88 on Reddit",
       "date": "June 5, 2026",
       "links": [
         {
@@ -39,7 +38,9 @@
           "time_duration": "full-length",
           "time_type": "handbook"
         }
-      ]
+      ],
+      "quote": "Why is it so hard to find DevOps professionals on Mars? Because there's no Terraform there yet.",
+      "quote_author": "Dangertwin88 on Reddit"
     },
     {
       "date": "May 29, 2026",
@@ -3393,7 +3394,6 @@
       "quote_author": "Philippe Kahn, software engineer and founder of 4 tech companies"
     },
     {
-      "bonus": "Joke of the Week: *\"A couple of relational databases walked into a NoSQL bar. They left because they couldn't find a table.\"* - Kenneth Fisher, Database Administrator",
       "date": "Oct 11, 2024",
       "links": [
         {
@@ -3431,7 +3431,9 @@
           "time_duration": "40",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "A couple of relational databases walked into a NoSQL bar. They left because they couldn't find a table.",
+      "quote_author": "Kenneth Fisher, Database Administrator"
     },
     {
       "date": "Oct 4, 2024",
@@ -3807,7 +3809,6 @@
       "quote_author": "Grady Booch, software engineer and creator of Unified Modeling Language"
     },
     {
-      "bonus": "Joke of the Week: *\"There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.\"* - Leon Bambrick, programmer",
       "date": "July 26, 2024",
       "links": [
         {
@@ -3845,10 +3846,11 @@
           "time_duration": "30",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
+      "quote_author": "Leon Bambrick, programmer"
     },
     {
-      "bonus": "Joke of the Week: *\"Why do programmers prefer dark mode? Because light attracts bugs.\"* - ShivamLH on Reddit",
       "date": "July 19, 2024",
       "links": [
         {
@@ -3886,7 +3888,9 @@
           "time_duration": "20",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "Why do programmers prefer dark mode? Because light attracts bugs.",
+      "quote_author": "ShivamLH on Reddit"
     },
     {
       "date": "July 12, 2024",
@@ -4261,7 +4265,8 @@
           "time_duration": "1",
           "time_type": "hours"
         }
-      ]
+      ],
+      "quote": "Do you have any idea how fast you were driving?"
     },
     {
       "date": "May 10, 2024",
@@ -4512,7 +4517,6 @@
       "quote_author": "Donald Knuth on all the code he wrote from scratch in researching his classic book \"The Art of Computer Programming\""
     },
     {
-      "bonus": "Joke of the Week: *\"Me: I'm afraid of JavaScript keywords. Therapist: tell me about THIS. Me: Aghhh!\"* - Carla Notarobot, Software Engineer and Bad Joke Sharer",
       "date": "Mar 29, 2024",
       "links": [
         {
@@ -4550,7 +4554,9 @@
           "time_duration": "2",
           "time_type": "hours"
         }
-      ]
+      ],
+      "quote": "Me: I'm afraid of JavaScript keywords. Therapist: tell me about THIS. Me: Aghhh!",
+      "quote_author": "Carla Notarobot, Software Engineer and Bad Joke Sharer"
     },
     {
       "date": "Mar 22, 2024",
@@ -4631,7 +4637,6 @@
       "quote_author": "James Joyce, Irish novelist and poet"
     },
     {
-      "bonus": "Joke of the Week: *\"Why do Java developers wear glasses? Because they can't C#.\"",
       "date": "Mar 8, 2024",
       "links": [
         {
@@ -5036,7 +5041,6 @@
       "quote_author": "Jack Forge, software developer"
     },
     {
-      "bonus": "Joke of the Week: *\"Why do programmers always mix up Christmas and Halloween? Because Dec 25 = Oct 31.\"* In programming, Dec stands for Decimal, meaning a base-10 number system. And Oct stands for Octal, meaning a base-8 number system. So Dec 25 really does equal Oct 31. I know \u2013 this isn't the funniest programmer joke ever, but it is fun to think about.",
       "date": "Dec 22, 2023",
       "links": [
         {
@@ -5070,7 +5074,8 @@
           "link": "https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/",
           "order": "5"
         }
-      ]
+      ],
+      "quote": "Why do programmers always mix up Christmas and Halloween? Because Dec 25 = Oct 31."
     },
     {
       "date": "Dec 15, 2023",
@@ -6008,7 +6013,6 @@
       "quote_author": "Anders Hejlsberg, Co-creator of TypeScript"
     },
     {
-      "bonus": "Joke of the Week: *\"It's only called a Neural Network if it comes from the Neural\u00e8 region of France. Otherwise you have to call it a logistic regression.\"* - Vicki Boykis, Machine Learning Engineer",
       "date": "July 7, 2023",
       "links": [
         {
@@ -6046,7 +6050,9 @@
           "time_duration": "20",
           "time_type": "minutes"
         }
-      ]
+      ],
+      "quote": "It's only called a Neural Network if it comes from the Neural\u00e8 region of France. Otherwise you have to call it a logistic regression.",
+      "quote_author": "Vicki Boykis, Machine Learning Engineer"
     },
     {
       "date": "June 30, 2023",
