@@ -112,7 +112,7 @@ with open(OUT_FILE, 'w') as fh:
 
             int_data['links'].append(link_data)
 
-        elif re.search('^(Quote|This week)', line):
+        elif re.search('^(Quote|This week|Joke)', line):
             line = re.sub('–', '-', line)  # Replace en-dash
             line = re.sub('―', '-', line)  # Replace em-dash
             line = re.sub('—', '-', line)  # Replace other dash type
