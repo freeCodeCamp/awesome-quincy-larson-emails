@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### June 12, 2026
+1. freeCodeCamp just published a beginner's guide to building your own dataset by gathering data from the web. In this course, freeCodeCamp software engineer Ania Kubów will teach you how to use web scraping APIs and computer vision to extract structured JSON from images and text. By the end of the course, you'll have built your own app that searches the web for data and stores it locally for future use. (1 hour YouTube course): https://www.freecodecamp.org/news/web-scraping-for-beginners-2026/
+
+2. If you're interested in data science and healthcare, this tutorial should be right up your alley. You'll validate a chest X-ray dataset to catch corrupted files, mislabeled attributes, and data leakage. You'll work through six core preprocessing steps, including scaling, normalizing, and denoising. Then you'll build a full pipeline using Python and OpenCV. (30 minute read): https://www.freecodecamp.org/news/how-to-preprocess-medical-images-for-machine-learning/
+
+3. freeCodeCamp also published this in-depth guide to information security that will teach you about Attribute-Based Access Control. You'll learn how to write logic that evaluates users, resources, actions, and the environment at request time. You'll see how this approach is superior to older Access Control List approaches, and why the extra flexibility is often worth the added complexity. (40 minute read): https://www.freecodecamp.org/news/how-attribute-based-access-control-helps-you-write-better-authorization-rules/
+
+4. Send this list of open source tools to the university students in your life. It will introduce them to Jupyter Notebook, GeoGebra, Blender, and other useful sanity-saving software libraries. (10 minute read): https://www.freecodecamp.org/news/open-source-tools-every-stem-student-should-know-about/
+
+5. Tell your Spanish-speaking friends: freeCodeCamp just published a talk on how to start a career in tech using open source learning resources. Estefania Cassingena Navone, who runs our Spanish YouTube channel, walks through freeCodeCamp's certifications, daily coding challenges, and other resources. She explains why contributing to open source is the best way to build developer skills, strengthen your portfolio, and improve your odds of landing that first tech job. (1 hour YouTube talk): https://www.freecodecamp.org/news/how-to-start-your-career-in-tech-with-freecodecamp-full-talk-in-spanish/
+
+Quote of the Week: *“I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today, and the incredible advances that we've had. And I compare that to witchcraft and alchemy, where openness was something you didn't do.”* — Linus Torvalds, software engineer and creator of Linux and Git
+
 ### June 5, 2026
 1. freeCodeCamp just published a comprehensive Docker course that will teach you DevOps concepts and production app containerization. First you'll learn how Docker's container architecture works, and how it's different from traditional virtual machines. Then you'll get hands-on practice with common Docker commands, networking modes, volumes, bind mounts, image layers, and custom Dockerfiles. At the end of the course, you'll containerize a website and deploy it to the cloud. (8 hour YouTube course): https://www.freecodecamp.org/news/docker-full-course/
 
