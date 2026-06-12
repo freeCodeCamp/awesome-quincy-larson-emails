@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - June 12, 2026</title>
+      <pubDate>Fri, 12 Jun 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-06-12</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a beginner's guide to building your own dataset by gathering data from the web. In this course, freeCodeCamp software engineer Ania Kubów will teach you how to use web scraping APIs and computer vision to extract structured JSON from images and text. By the end of the course, you'll have built your own app that searches the web for data and stores it locally for future use. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/web-scraping-for-beginners-2026/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you're interested in data science and healthcare, this tutorial should be right up your alley. You'll validate a chest X-ray dataset to catch corrupted files, mislabeled attributes, and data leakage. You'll work through six core preprocessing steps, including scaling, normalizing, and denoising. Then you'll build a full pipeline using Python and OpenCV. (30 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-preprocess-medical-images-for-machine-learning/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;freeCodeCamp also published this in-depth guide to information security that will teach you about Attribute-Based Access Control. You'll learn how to write logic that evaluates users, resources, actions, and the environment at request time. You'll see how this approach is superior to older Access Control List approaches, and why the extra flexibility is often worth the added complexity. (40 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-attribute-based-access-control-helps-you-write-better-authorization-rules/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Send this list of open source tools to the university students in your life. It will introduce them to Jupyter Notebook, GeoGebra, Blender, and other useful sanity-saving software libraries. (10 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/open-source-tools-every-stem-student-should-know-about/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tell your Spanish-speaking friends: freeCodeCamp just published a talk on how to start a career in tech using open source learning resources. Estefania Cassingena Navone, who runs our Spanish YouTube channel, walks through freeCodeCamp's certifications, daily coding challenges, and other resources. She explains why contributing to open source is the best way to build developer skills, strengthen your portfolio, and improve your odds of landing that first tech job. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-start-your-career-in-tech-with-freecodecamp-full-talk-in-spanish/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today, and the incredible advances that we've had. And I compare that to witchcraft and alchemy, where openness was something you didn't do. — Linus Torvalds, software engineer and creator of Linux and Git&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/web-scraping-for-beginners-2026/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - June 5, 2026</title>
       <pubDate>Fri, 05 Jun 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-06-05</guid>
