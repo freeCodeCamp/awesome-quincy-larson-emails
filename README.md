@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### June 19, 2026
+1. Learn the architectural patterns that apps use when a single server and database are no longer enough. This tutorial teaches you about splitting monoliths into services, load balancers, database bottlenecks, caching, asynchronous background work, idempotency, monitoring, autoscaling, and designing for failure. This is a practical overview of the tradeoffs involved in keeping large systems both fast and reliable. (20 minute read): https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/
+
+2. freeCodeCamp also just published a course on building your own self-healing CI/CD pipeline. First you'll build a Node.js and Express app with webhooks. Then you'll learn how to wire in GitHub, OpenAI, and n8n. Your pipeline will be able to detect failures, analyze logs, generate patches, and even open pull requests on your behalf. (1 hour YouTube course): https://www.freecodecamp.org/news/build-a-self-healing-ci-cd-pipeline-with-ai/
+
+3. The Saga Pattern helps microservices roll back distributed transactions when part of a workflow fails. This guide walks you through an orchestrated saga built with NestJS, gRPC, PostgreSQL, and Sequelize. You'll learn the difference between choreography and orchestration, how compensation-based rollbacks work, and why observability matters so much in production systems. (25 minute read): https://www.freecodecamp.org/news/the-saga-pattern-in-node-js-roll-back-distributed-transactions-across-microservices/
+
+4. If you keep hearing about chain-of-thought prompting and want to understand why it matters so much, this paper review is a good place to start. It explains the core idea in plain English: instead of asking a model to jump straight to an answer, you prompt it to reason through the intermediate steps first. The article walks through the 2022 paper's experiments and shows how this approach improved arithmetic, common sense, and symbolic reasoning benchmarks, especially for larger models. (30 minute read): https://www.freecodecamp.org/news/ai-paper-review-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/
+
+5. As a dev, you should know about the operational side of managing a fleet of domain-specific models in production. In this tutorial, you'll learn how to avoid model rot by setting up a model registry, routing requests through a version-aware gateway, and using a manifest-based delivery system so that edge devices only sync the weight deltas they actually need. This is a thoughtful guide for anyone moving from model experimentation into real-world AI systems engineering. (15 minute read): https://www.freecodecamp.org/news/how-to-build-a-production-architecture-for-small-language-model-fleets/
+
+Quote of the Week: *“People worry that computers will get too smart and take over the world. But the real problem is that they're too stupid and they've already taken over the world.”* — Pedro Domingos, computer science professor and machine learning researcher
+
 ### June 12, 2026
 1. freeCodeCamp just published a beginner's guide to building your own dataset by gathering data from the web. In this course, freeCodeCamp software engineer Ania Kubów will teach you how to use web scraping APIs and computer vision to extract structured JSON from images and text. By the end of the course, you'll have built your own app that searches the web for data and stores it locally for future use. (1 hour YouTube course): https://www.freecodecamp.org/news/web-scraping-for-beginners-2026/
 
