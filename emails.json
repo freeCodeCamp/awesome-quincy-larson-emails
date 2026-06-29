@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "June 27, 2026",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a course on Distributed Data Parallelism, a key technique for training large language models across multiple GPUs. You'll use Python and PyTorch to get hands-on with all-reduce, broadcast, and other primitives that make DDP work.",
+          "link": "https://www.freecodecamp.org/news/scaling-your-ai-models-with-micro-ddp/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how to build your own OpenClaw-like agent from scratch. You'll start with a chatbot template, give it persistent personality, and schedule its tasks with cron jobs. Along the way you'll get exposure to tool calling, context engineering, deployment, and other building blocks of production AI agents.",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-agent-in-telegram-with-vercel-cursor-composio/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "Automate complex workflows in Notion. You'll learn a ton of tricks for fully leveraging this productivity tool and launching your first worker.",
+          "link": "https://www.freecodecamp.org/news/learn-notion-workers/",
+          "order": "3",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "We also dropped a new mobile app development tutorial. As you may know, freeCodeCamp uses Flutter for building our iPhone and Android apps. You'll learn Flutter tips for separating data, presentation, and domain layers, along with managing state boundaries.",
+          "link": "https://www.freecodecamp.org/news/how-to-structure-large-flutter-applications-for-scalable-and-maintainable-growth/",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "This is an inspiring read from the first visually impaired person in Brazil to earn a degree in Cyber Defense and Information Security. He's also the first blind researcher to publish a vulnerability in the U.S. National Vulnerability Database. He shares how he learned and the accessibility barriers he's had to push through.",
+          "link": "https://www.freecodecamp.org/news/how-i-became-brazils-first-visually-impaired-cybersecurity-graduate/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Many people told me this would be impossible. But I learned early that the biggest limitations are not in the body. They are in the mind.",
+      "quote_author": "Blind software engineer and security researcher Juan Mathews Rebello Santos in his freeCodeCamp article about how he became the first blind researcher to publish a vulnerability in the U.S. National Vulnerability Database"
+    },
+    {
       "date": "June 19, 2026",
       "links": [
         {
