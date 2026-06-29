@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### June 27, 2026
+1. freeCodeCamp just published a course on Distributed Data Parallelism, a key technique for training large language models across multiple GPUs. You'll use Python and PyTorch to get hands-on with all-reduce, broadcast, and other primitives that make DDP work. (2 hour YouTube course): https://www.freecodecamp.org/news/scaling-your-ai-models-with-micro-ddp/
+
+2. Learn how to build your own OpenClaw-like agent from scratch. You'll start with a chatbot template, give it persistent personality, and schedule its tasks with cron jobs. Along the way you'll get exposure to tool calling, context engineering, deployment, and other building blocks of production AI agents. (1 hour YouTube course): https://www.freecodecamp.org/news/build-an-ai-agent-in-telegram-with-vercel-cursor-composio/
+
+3. Automate complex workflows in Notion. You'll learn a ton of tricks for fully leveraging this productivity tool and launching your first worker. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-notion-workers/
+
+4. We also dropped a new mobile app development tutorial. As you may know, freeCodeCamp uses Flutter for building our iPhone and Android apps. You'll learn Flutter tips for separating data, presentation, and domain layers, along with managing state boundaries. (20 minute read): https://www.freecodecamp.org/news/how-to-structure-large-flutter-applications-for-scalable-and-maintainable-growth/
+
+5. This is an inspiring read from the first visually impaired person in Brazil to earn a degree in Cyber Defense and Information Security. He's also the first blind researcher to publish a vulnerability in the U.S. National Vulnerability Database. He shares how he learned and the accessibility barriers he's had to push through. (15 minute read): https://www.freecodecamp.org/news/how-i-became-brazils-first-visually-impaired-cybersecurity-graduate/
+
+Quote of the Week: *"Many people told me this would be impossible. But I learned early that the biggest limitations are not in the body. They are in the mind."* — Blind software engineer and security researcher Juan Mathews Rebello Santos in his freeCodeCamp article about how he became the first blind researcher to publish a vulnerability in the U.S. National Vulnerability Database
+
 ### June 19, 2026
 1. Learn the architectural patterns that apps use when a single server and database are no longer enough. This tutorial teaches you about splitting monoliths into services, load balancers, database bottlenecks, caching, asynchronous background work, idempotency, monitoring, autoscaling, and designing for failure. This is a practical overview of the tradeoffs involved in keeping large systems both fast and reliable. (20 minute read): https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/
 
