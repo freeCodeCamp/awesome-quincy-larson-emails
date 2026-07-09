@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - July 3, 2026</title>
+      <pubDate>Fri, 03 Jul 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-07-03</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a beginner-friendly course on the command line. If you've ever admired a developer blazing through their terminal, this course is for you. You'll learn key commands for navigating through file systems and writing data. This skill will pay off whether you go into security, DevOps, or data science. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/command-line-basics-for-beginners/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;freeCodeCamp also published a short video that shows why computers have such a hard time reliably counting money. Machines store numbers in binary rather than base 10, which means simple decimals like 0.1 and 0.2 often get stored as approximations. Tiny rounding errors may seem harmless, but at scale they can cause serious problems like in the 1999 classic movie Office Space. As a result, financial systems no longer use floating-point math for currency and now use integers instead. (6 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/why-computers-can-t-count-money/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to write your first quantum circuit in Python. You don't need a physics degree to understand this. You don't need access to a quantum computer to test your code. Instead you'll use the powerful Qiskit library running on a regular laptop. First you'll learn how qubits and quantum gates work. Then you'll build one of the most famous experiments in quantum computing: the Bell State. (20 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-write-your-first-quantum-circuit-in-python-a-beginner-s-step-by-step-guide/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you want to understand one of the most useful probabilistic data structures in computer science, read this Bloom filter Python tutorial. A Bloom filter can tell you whether something is definitely not in a set, or possibly in it, using only a bit array and a few hash functions. This makes it extremely memory efficient, even for very large datasets. (15 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;And finally, if you've ever had an API return messy data that quietly broke your app, this TypeScript guide is worth reading. It focuses on a practical problem: TypeScript helps at compile time, but external data can still come in as null, undefined, or the wrong shape at runtime. You'll harden your codebase against this using framework-agnostic guard utilities like safeArray, safeString, safeNumber, and safeObject. (20 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/defend-your-js-app-against-unsafe-data-with-typescript-guard-utilities/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;The tools we use will change, but the fundamentals of every engineering discipline will remain. — Grady Booch, software engineer and creator of Unified Modeling Language, speaking on his excitement about AI-assisted coding tools&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/command-line-basics-for-beginners/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - June 27, 2026</title>
       <pubDate>Sat, 27 Jun 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-06-27</guid>
