@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### July 3, 2026
+1. freeCodeCamp just published a beginner-friendly course on the command line. If you've ever admired a developer blazing through their terminal, this course is for you. You'll learn key commands for navigating through file systems and writing data. This skill will pay off whether you go into security, DevOps, or data science. (1 hour YouTube course): https://www.freecodecamp.org/news/command-line-basics-for-beginners/
+
+2. freeCodeCamp also published a short video that shows why computers have such a hard time reliably counting money. Machines store numbers in binary rather than base 10, which means simple decimals like 0.1 and 0.2 often get stored as approximations. Tiny rounding errors may seem harmless, but at scale they can cause serious problems like in the 1999 classic movie Office Space. As a result, financial systems no longer use floating-point math for currency and now use integers instead. (6 minute YouTube video): https://www.freecodecamp.org/news/why-computers-can-t-count-money/
+
+3. Learn how to write your first quantum circuit in Python. You don't need a physics degree to understand this. You don't need access to a quantum computer to test your code. Instead you'll use the powerful Qiskit library running on a regular laptop. First you'll learn how qubits and quantum gates work. Then you'll build one of the most famous experiments in quantum computing: the Bell State. (20 minute read): https://www.freecodecamp.org/news/how-to-write-your-first-quantum-circuit-in-python-a-beginner-s-step-by-step-guide/
+
+4. If you want to understand one of the most useful probabilistic data structures in computer science, read this Bloom filter Python tutorial. A Bloom filter can tell you whether something is definitely not in a set, or possibly in it, using only a bit array and a few hash functions. This makes it extremely memory efficient, even for very large datasets. (15 minute read): https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/
+
+5. And finally, if you've ever had an API return messy data that quietly broke your app, this TypeScript guide is worth reading. It focuses on a practical problem: TypeScript helps at compile time, but external data can still come in as null, undefined, or the wrong shape at runtime. You'll harden your codebase against this using framework-agnostic guard utilities like safeArray, safeString, safeNumber, and safeObject. (20 minute read): https://www.freecodecamp.org/news/defend-your-js-app-against-unsafe-data-with-typescript-guard-utilities/
+
+Quote of the Week: *“The tools we use will change, but the fundamentals of every engineering discipline will remain.”* - Grady Booch, software engineer and creator of Unified Modeling Language, speaking on his excitement about AI-assisted coding tools
+
 ### June 27, 2026
 1. freeCodeCamp just published a course on Distributed Data Parallelism, a key technique for training large language models across multiple GPUs. You'll use Python and PyTorch to get hands-on with all-reduce, broadcast, and other primitives that make DDP work. (2 hour YouTube course): https://www.freecodecamp.org/news/scaling-your-ai-models-with-micro-ddp/
 
