@@ -1,6 +1,48 @@
 {
   "emails": [
     {
+      "date": "July 3, 2026",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a beginner-friendly course on the command line. If you've ever admired a developer blazing through their terminal, this course is for you. You'll learn key commands for navigating through file systems and writing data. This skill will pay off whether you go into security, DevOps, or data science.",
+          "link": "https://www.freecodecamp.org/news/command-line-basics-for-beginners/",
+          "order": "1",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp also published a short video that shows why computers have such a hard time reliably counting money. Machines store numbers in binary rather than base 10, which means simple decimals like 0.1 and 0.2 often get stored as approximations. Tiny rounding errors may seem harmless, but at scale they can cause serious problems like in the 1999 classic movie Office Space. As a result, financial systems no longer use floating-point math for currency and now use integers instead.",
+          "link": "https://www.freecodecamp.org/news/why-computers-can-t-count-money/",
+          "order": "2",
+          "time_duration": "6",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Learn how to write your first quantum circuit in Python. You don't need a physics degree to understand this. You don't need access to a quantum computer to test your code. Instead you'll use the powerful Qiskit library running on a regular laptop. First you'll learn how qubits and quantum gates work. Then you'll build one of the most famous experiments in quantum computing: the Bell State.",
+          "link": "https://www.freecodecamp.org/news/how-to-write-your-first-quantum-circuit-in-python-a-beginner-s-step-by-step-guide/",
+          "order": "3",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "If you want to understand one of the most useful probabilistic data structures in computer science, read this Bloom filter Python tutorial. A Bloom filter can tell you whether something is definitely not in a set, or possibly in it, using only a bit array and a few hash functions. This makes it extremely memory efficient, even for very large datasets.",
+          "link": "https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/",
+          "order": "4",
+          "time_duration": "15",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And finally, if you've ever had an API return messy data that quietly broke your app, this TypeScript guide is worth reading. It focuses on a practical problem: TypeScript helps at compile time, but external data can still come in as null, undefined, or the wrong shape at runtime. You'll harden your codebase against this using framework-agnostic guard utilities like safeArray, safeString, safeNumber, and safeObject.",
+          "link": "https://www.freecodecamp.org/news/defend-your-js-app-against-unsafe-data-with-typescript-guard-utilities/",
+          "order": "5",
+          "time_duration": "20",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "The tools we use will change, but the fundamentals of every engineering discipline will remain.",
+      "quote_author": "Grady Booch, software engineer and creator of Unified Modeling Language, speaking on his excitement about AI-assisted coding tools"
+    },
+    {
       "date": "June 27, 2026",
       "links": [
         {
