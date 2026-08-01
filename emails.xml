@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - July 24, 2026</title>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-07-24</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a comprehensive course to help you prepare for Anthropic's new Claude Certified Architect Foundations exam. Andrew Brown is a CTO who's passed almost every developer certification exam under the sun. He'll teach you how to design agentic systems, use Claude Code workflows, manage context, structure outputs, and more. Even if you're not taking the exam, this is a good way to get up to speed on agents. (13 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/claude-certified-architect-foundations-prep-for-anthropic-s-new-certification-exam&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you like software gore, freeCodeCamp just published an article written by a CTO that explains why even the most expensively-trained LLMs still make up random crap. You'll read horror stories about support bots who invented company policies, lawyers filing court briefs with fake citations, and AI agents deleting production data. You'll also learn about the field of interpretability research and how scientists are working to understand this phenomenon so they can dial the nonsense back a bit. (30 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/that-s-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;freeCodeCamp instructor Ania Kubów created this short history of the 1980s trademark fight between Apple Computer and the Beatles' record label Apple Records. It resulted in a pretty absurd arrangement where Apple couldn't use musical names for alert sounds in the Macintosh operating system. But one rogue Apple sound designer quietly revolted against this judgement, producing such easter eggs as &quot;Sosumi.&quot; When you read it out loud, it's: &quot;so sue me.&quot; (7 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-an-apple-engineer-pranked-billion-dollar-lawyers-and-won&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ania also created this tutorial for developers who want to experiment with multi-agent coding. You'll build and deploy your own full-stack habit tracker app. Instead of relying on one agent to do everything, you'll use a tool called TRAE IDE to break your spec down and delegate tasks across multiple specialized agents. (20 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Finally, if you love building mobile apps in Flutter as much as we do, you're going to love this new freeCodeCamp handbook. You'll learn how to wield the mighty blade that is the Observer Design Pattern. It allows for one event to trigger several independent reactions without tightly coupling all of your components together. The wisdom in this handbook is a great first step into the realm of Event-Driven Architecture. &lt;a href=&quot;https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;The models are astonishing, honestly more capable than I predicted they'd be by now. And they still make things up, confidently, in production, in ways that range from funny to business-ending. — CTO and software engineer Omer Rosenbaum in his &quot;That's Embarrassing&quot; freeCodeCamp article&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/claude-certified-architect-foundations-prep-for-anthropic-s-new-certification-exam</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - July 17, 2026</title>
       <pubDate>Fri, 17 Jul 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-07-17</guid>
