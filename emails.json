@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "August 1, 2026",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a course that will teach you how to build your own super duper reliable APIs using TypeScript and Express. TypeScript is just JavaScript with static types, so if you know some basic JS you're all set to crush this course. You'll learn how to structure your server, define routes, validate incoming data, handle errors, and catch common data type faux pas before they rear their ugly heads in production.",
+          "link": "https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/",
+          "order": "1",
+          "time_duration": "1",
+          "time_type": "hours"
+        },
+        {
+          "description": "We also dropped a comprehensive new course on Additive Manufacturing. Building things with atoms instead of just bits is all the rage in the 2020s. You'll learn how 3D printers work, and how your choice of resin or metal will affect the finished part. You don't need to buy hardware to learn. Just dive in, draft some designs, then take them to your local library or hackerspace for printing.",
+          "link": "https://www.freecodecamp.org/news/master-3d-printing-additive-manufacturing/",
+          "order": "2",
+          "time_duration": "7",
+          "time_type": "hours"
+        },
+        {
+          "description": "Oh and we just published a full-length book on DevSecOps. Just for you. (And the other two million people I send this to. But don't worry you're my favorite.) It'll walk you through designing infrastructure, automating deployments, and securing your delivery pipeline from day one.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
+          "order": "3"
+        },
+        {
+          "description": "I also recommend learning about Kubernetes Operators, which can trick your cluster into sorta managing your apps for you. This handbook will give you the skinny on controllers, reconciliation loops, and other key Kubernetes concepts.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
+          "order": "4",
+          "time_duration": "full-length",
+          "time_type": "handbook"
+        },
+        {
+          "description": "Finally, take a tour through one of the internet's oldest traditions: publishing joke Request for Comments documents on April Fools' Day. Learn about proposed standards for transmitting data via carrier pigeon, controlling coffee pots over the web, and flagging malicious network packets with an \"evil bit\". This is my culture. These are my people.",
+          "link": "https://www.freecodecamp.org/news/the-internet-s-longest-running-joke-a-field-guide-to-the-april-fools-rfcs/",
+          "order": "5",
+          "time_duration": "35",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "The nice thing about standards is that there are so many of them to choose from.",
+      "quote_author": "Computer scientist Andrew Tanenbaum in his 1981 book \"Computer Networks\". We've gotten a few new standards since then ;)"
+    },
+    {
       "date": "July 24, 2026",
       "links": [
         {
