@@ -1,6 +1,46 @@
 {
   "emails": [
     {
+      "date": "July 24, 2026",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a comprehensive course to help you prepare for Anthropic's new Claude Certified Architect Foundations exam. Andrew Brown is a CTO who's passed almost every developer certification exam under the sun. He'll teach you how to design agentic systems, use Claude Code workflows, manage context, structure outputs, and more. Even if you're not taking the exam, this is a good way to get up to speed on agents.",
+          "link": "https://www.freecodecamp.org/news/claude-certified-architect-foundations-prep-for-anthropic-s-new-certification-exam",
+          "order": "1",
+          "time_duration": "13",
+          "time_type": "hours"
+        },
+        {
+          "description": "If you like software gore, freeCodeCamp just published an article written by a CTO that explains why even the most expensively-trained LLMs still make up random crap. You'll read horror stories about support bots who invented company policies, lawyers filing court briefs with fake citations, and AI agents deleting production data. You'll also learn about the field of interpretability research and how scientists are working to understand this phenomenon so they can dial the nonsense back a bit.",
+          "link": "https://www.freecodecamp.org/news/that-s-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/",
+          "order": "2",
+          "time_duration": "30",
+          "time_type": "minutes"
+        },
+        {
+          "description": "freeCodeCamp instructor Ania Kub\u00f3w created this short history of the 1980s trademark fight between Apple Computer and the Beatles' record label Apple Records. It resulted in a pretty absurd arrangement where Apple couldn't use musical names for alert sounds in the Macintosh operating system. But one rogue Apple sound designer quietly revolted against this judgement, producing such easter eggs as \"Sosumi.\" When you read it out loud, it's: \"so sue me.\"",
+          "link": "https://www.freecodecamp.org/news/how-an-apple-engineer-pranked-billion-dollar-lawyers-and-won",
+          "order": "3",
+          "time_duration": "7",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Ania also created this tutorial for developers who want to experiment with multi-agent coding. You'll build and deploy your own full-stack habit tracker app. Instead of relying on one agent to do everything, you'll use a tool called TRAE IDE to break your spec down and delegate tasks across multiple specialized agents.",
+          "link": "https://www.freecodecamp.org/news/multi-agent-coding-deployment-with-trae-ide",
+          "order": "4",
+          "time_duration": "20",
+          "time_type": "minutes"
+        },
+        {
+          "description": "Finally, if you love building mobile apps in Flutter as much as we do, you're going to love this new freeCodeCamp handbook. You'll learn how to wield the mighty blade that is the Observer Design Pattern. It allows for one event to trigger several independent reactions without tightly coupling all of your components together. The wisdom in this handbook is a great first step into the realm of Event-Driven Architecture.",
+          "link": "https://www.freecodecamp.org/news/the-observer-design-pattern-handbook-event-driven-architecture-domain-driven-design-in-dart/",
+          "order": "5"
+        }
+      ],
+      "quote": "The models are astonishing, honestly more capable than I predicted they'd be by now. And they still make things up, confidently, in production, in ways that range from funny to business-ending.",
+      "quote_author": "CTO and software engineer Omer Rosenbaum in his \"That's Embarrassing\" freeCodeCamp article"
+    },
+    {
       "date": "July 17, 2026",
       "links": [
         {
