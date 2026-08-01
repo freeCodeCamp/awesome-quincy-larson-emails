@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - August 1, 2026</title>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-08-01</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a course that will teach you how to build your own super duper reliable APIs using TypeScript and Express. TypeScript is just JavaScript with static types, so if you know some basic JS you're all set to crush this course. You'll learn how to structure your server, define routes, validate incoming data, handle errors, and catch common data type faux pas before they rear their ugly heads in production. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We also dropped a comprehensive new course on Additive Manufacturing. Building things with atoms instead of just bits is all the rage in the 2020s. You'll learn how 3D printers work, and how your choice of resin or metal will affect the finished part. You don't need to buy hardware to learn. Just dive in, draft some designs, then take them to your local library or hackerspace for printing. (7 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/master-3d-printing-additive-manufacturing/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Oh and we just published a full-length book on DevSecOps. Just for you. (And the other two million people I send this to. But don't worry you're my favorite.) It'll walk you through designing infrastructure, automating deployments, and securing your delivery pipeline from day one. &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I also recommend learning about Kubernetes Operators, which can trick your cluster into sorta managing your apps for you. This handbook will give you the skinny on controllers, reconciliation loops, and other key Kubernetes concepts. (full-length handbook) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Finally, take a tour through one of the internet's oldest traditions: publishing joke Request for Comments documents on April Fools' Day. Learn about proposed standards for transmitting data via carrier pigeon, controlling coffee pots over the web, and flagging malicious network packets with an &quot;evil bit&quot;. This is my culture. These are my people. (35 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/the-internet-s-longest-running-joke-a-field-guide-to-the-april-fools-rfcs/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;The nice thing about standards is that there are so many of them to choose from. — Computer scientist Andrew Tanenbaum in his 1981 book &quot;Computer Networks&quot;. We've gotten a few new standards since then ;)&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - July 24, 2026</title>
       <pubDate>Fri, 24 Jul 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-07-24</guid>
