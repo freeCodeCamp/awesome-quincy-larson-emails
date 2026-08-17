@@ -5,6 +5,32 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### August 14, 2026
+1. freeCodeCamp just published a course that will teach you how low-level computer graphics work by coding your own software renderer in C. You'll learn how to represent images as pixel data, draw graphics to the screen, and transform 3D objects into 2D images. This'll teach you what's really happening under all those layers of abstraction in modern game engines like Unreal. (2 hour YouTube course): https://www.freecodecamp.org/news/master-low-level-graphics-in-c-build-a-software-renderer-from-scratch/
+
+2. Learn how Cross-Site Request Forgery attacks work from the ground up. This handbook explains the browser mechanics that make CSRF attacks possible, and how malicious websites can exploit a user's authenticated session. (full length handbook): https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/
+
+3. If you're studying engineering but don't know much about Python, this is a good place to start. You'll install a development environment, then learn the absolute basics. Run calculations, analyze data, and visualize your results. You'll get plenty of practice turning mathematical models into code. (4 hour YouTube course): https://www.freecodecamp.org/news/python-for-mechanical-engineering
+
+4. freeCodeCamp also published a handbook that will teach you emerging best practices for building agents that interact with multiple users. Think the creepy merchant from Resident Evil 4. What're ya' sellin'? First you'll learn how authorization flows work. Then you'll manage access tokens and give your agents narrowly scoped access to external tools like GitHub and Slack. (full length handbook): https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/
+
+5. Finally, learn how to test AI-powered features in your Flutter apps. Model output is stochastic (read: unreliable) which makes traditional testing approaches a lot freakin' harder. This handbook will show you how to isolate model integrations, control dependencies, and write reliable tests without making unnecessary calls to external APIs. If you're building mobile apps with AI features, this is well worth bookmarking. (full length handbook): https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/
+
+Quote of the Week: *“C has the power of assembly language. And the convenience of... assembly language.”* — Dennis Ritchie, creator of the C programming language
+
+### August 7, 2026
+1. freeCodeCamp just published a new course on Claude Code. These agent harnesses change so fast, and we want to keep you up-to-date. You'll learn how to set it up and give it context into your codebase. Then you'll dive into workflows for keeping your agent cranking through tasks. If you feel left behind right now, don't sweat it. This will bring you right back up to speed. (90 minute YouTube course): https://www.freecodecamp.org/news/claude-code-full-course/
+
+2. And if you want to go way deeper into agent-assisted development, here's a massive course on LangChain and LangGraph. You'll use Python to build agents that can call tools, retain state, and coordinate multi-step workflows. You'll also learn about human-in-the-loop systems, multi-agent architectures, and workflow automation. Don't attempt this in one sitting lol. (24 hour YouTube course): https://www.freecodecamp.org/news/agentic-ai-using-langgraph-build-ai-agents-automate-workflows/
+
+3. For you DevOps heads out there, boom. New handbook. Learn how to leverage Kubernetes Operators to define custom resources and write controllers. You'll also use reconciliation loops to keep your cluster in its desired state. Let's automate as much ops as we safely can. (full length handbook): https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/
+
+4. Learn about quantum circuits and coherence. Yes I did watch that trippy 2013 horror movie. This new handbook will teach you concepts like noise, qubit connectivity, gate fidelity, measurement errors, and how circuit depth affects your results. Obligatory no quantum computer required. It's OK I don't have one either.  (full length handbook): https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/
+
+5. Node.js has a Dual Write Problem. When your app needs to update its database and publish an event, one of those operations can succeed while the other fails. This tutorial will teach you how the Transactional Outbox Design Pattern keeps these operations consistent by storing both updates in the same database transaction. If you're building distributed systems, this can save you a lot of grief. (25 minute read): https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/
+
+Quote of the Week: *“Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.”* — Marcus Aurelius way back in 170 AD
+
 ### August 1, 2026
 1. freeCodeCamp just published a course that will teach you how to build your own super duper reliable APIs using TypeScript and Express. TypeScript is just JavaScript with static types, so if you know some basic JS you're all set to crush this course. You'll learn how to structure your server, define routes, validate incoming data, handle errors, and catch common data type faux pas before they rear their ugly heads in production. (1 hour YouTube course): https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/
 
