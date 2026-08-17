@@ -1,6 +1,79 @@
 {
   "emails": [
     {
+      "date": "August 14, 2026",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a course that will teach you how low-level computer graphics work by coding your own software renderer in C. You'll learn how to represent images as pixel data, draw graphics to the screen, and transform 3D objects into 2D images. This'll teach you what's really happening under all those layers of abstraction in modern game engines like Unreal.",
+          "link": "https://www.freecodecamp.org/news/master-low-level-graphics-in-c-build-a-software-renderer-from-scratch/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Learn how Cross-Site Request Forgery attacks work from the ground up. This handbook explains the browser mechanics that make CSRF attacks possible, and how malicious websites can exploit a user's authenticated session.",
+          "link": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
+          "order": "2"
+        },
+        {
+          "description": "If you're studying engineering but don't know much about Python, this is a good place to start. You'll install a development environment, then learn the absolute basics. Run calculations, analyze data, and visualize your results. You'll get plenty of practice turning mathematical models into code.",
+          "link": "https://www.freecodecamp.org/news/python-for-mechanical-engineering",
+          "order": "3",
+          "time_duration": "4",
+          "time_type": "hours"
+        },
+        {
+          "description": "freeCodeCamp also published a handbook that will teach you emerging best practices for building agents that interact with multiple users. Think the creepy merchant from Resident Evil 4. What're ya' sellin'? First you'll learn how authorization flows work. Then you'll manage access tokens and give your agents narrowly scoped access to external tools like GitHub and Slack.",
+          "link": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
+          "order": "4"
+        },
+        {
+          "description": "Finally, learn how to test AI-powered features in your Flutter apps. Model output is stochastic (read: unreliable) which makes traditional testing approaches a lot freakin' harder. This handbook will show you how to isolate model integrations, control dependencies, and write reliable tests without making unnecessary calls to external APIs. If you're building mobile apps with AI features, this is well worth bookmarking.",
+          "link": "https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/",
+          "order": "5"
+        }
+      ],
+      "quote": "C has the power of assembly language. And the convenience of... assembly language.",
+      "quote_author": "Dennis Ritchie, creator of the C programming language"
+    },
+    {
+      "date": "August 7, 2026",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a new course on Claude Code. These agent harnesses change so fast, and we want to keep you up-to-date. You'll learn how to set it up and give it context into your codebase. Then you'll dive into workflows for keeping your agent cranking through tasks. If you feel left behind right now, don't sweat it. This will bring you right back up to speed.",
+          "link": "https://www.freecodecamp.org/news/claude-code-full-course/",
+          "order": "1",
+          "time_duration": "90",
+          "time_type": "minutes"
+        },
+        {
+          "description": "And if you want to go way deeper into agent-assisted development, here's a massive course on LangChain and LangGraph. You'll use Python to build agents that can call tools, retain state, and coordinate multi-step workflows. You'll also learn about human-in-the-loop systems, multi-agent architectures, and workflow automation. Don't attempt this in one sitting lol.",
+          "link": "https://www.freecodecamp.org/news/agentic-ai-using-langgraph-build-ai-agents-automate-workflows/",
+          "order": "2",
+          "time_duration": "24",
+          "time_type": "hours"
+        },
+        {
+          "description": "For you DevOps heads out there, boom. New handbook. Learn how to leverage Kubernetes Operators to define custom resources and write controllers. You'll also use reconciliation loops to keep your cluster in its desired state. Let's automate as much ops as we safely can.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
+          "order": "3"
+        },
+        {
+          "link": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/",
+          "order": "4"
+        },
+        {
+          "description": "Node.js has a Dual Write Problem. When your app needs to update its database and publish an event, one of those operations can succeed while the other fails. This tutorial will teach you how the Transactional Outbox Design Pattern keeps these operations consistent by storing both updates in the same database transaction. If you're building distributed systems, this can save you a lot of grief.",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/",
+          "order": "5",
+          "time_duration": "25",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.",
+      "quote_author": "Marcus Aurelius way back in 170 AD"
+    },
+    {
       "date": "August 1, 2026",
       "links": [
         {
