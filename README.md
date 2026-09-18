@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### August 28, 2026
+1. freeCodeCamp just published a visual introduction to data structures and algorithms. It's chock-full of graphics that show how these work. It uses everyday analogies to explain arrays, linked lists, stacks, queues, hash tables, trees, graphs, and more. Check it. (1 hour YouTube course): https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-visually/
+
+2. Learn how the now-famous transformer architecture powers ChatGPT, Claude, Gemini, and most other AI systems. This short documentary tells the story of the eight Google researchers who developed it while trying to improve machine translation. You'll learn how Transformers process text in parallel and use “attention” to track the relationships between words. (9 minute watch): https://www.freecodecamp.org/news/the-paper-that-created-modern-ai-the-story-behind-the-transformer/
+
+3. Let's build a knowledge graph using Python and the Neo4j graph database. freeCodeCamp just dropped a new full-length handbook. It'll teach you how to model data as nodes, load everything, then query using the Cypher query language. You'll also learn about indexes, query planning, multi-hop searches, and extracting structured relationships from text. Plow through this and share it with a friend. (full length handbook): https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/
+
+4. Muse Spark and the Muse Code terminal agent just dropped a few weeks ago. And you'd better believe we're already all over it with a comprehensive course. You'll learn how to call the model with Python or TypeScript, build workflows with LangChain, create custom skills, and connect external tools through MCP. Then you'll use these tools to build a complete social platform with a Go backend, SQLite database, responsive frontend, and Docker Compose. (3 hour YouTube course): https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/
+
+5. If you add a CDN cache to your site and it makes things slower, you know you done messed up. Here's a great post-mortem from a dev who breaks down why crawlers often encounter cold caches and how they can pile on the latency. The moral of the story is don't blindly assume your optimizations will work. Always verify them with real-world metrics before you log off for the weekend. (10 minute read): https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/
+
+Quote of the Week: *“Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”* - Linus Torvalds, creator of Linux and Git
+
 ### August 21, 2026
 1. freeCodeCamp just published a course that will teach you how to code your own reinforcement learning framework from scratch in pure C. You'll implement the systems that help your agent observe its environment, choose actions, receive rewards, and improve through experience. I'd normally attempt this in Python, but considering that Python itself is written in C, this'll give you a much deeper understanding of what's happening under the hood. (2 hour YouTube course): https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/
 
