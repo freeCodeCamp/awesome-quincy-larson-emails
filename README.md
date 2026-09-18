@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### September 11, 2026
+1. freeCodeCamp just published an interactive Python course for beginners. You'll build a series of projects to get familiar with variables, data types, conditionals, loops, functions, input validation, error handling, and more. You don't need any prior programming experience to follow along. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-python-interactively/
+
+2. Design patterns are ways to solve programming problems that you can reuse in a ton of different situations. This new freeCodeCamp handbook will talk you through 23 of the most popular patterns, all with C# example code. You'll enjoy classic hits like the Factory pattern, Decorator pattern, and silky smooth Observer pattern. (full length handbook): https://www.freecodecamp.org/news/the-design-patterns-handbook-learn-popular-design-patterns-with-c-code-examples/
+
+3. You've probably heard of Claude Code for AI-assisted development. But what about its OpenAI equivalent, Codex? We just published a crash course that'll teach ya Codex for background automation, pull request ops, and jacking into external tools like Notion and Supabase. You'll put these concepts into practice by building and deploying your voice-controlled Flappy Bird game, then porting it to an iOS and Android app using Expo. Watch out for that pipe! (1 hour YouTube course): https://www.freecodecamp.org/news/openai-codex-crash-course/
+
+4. What actually happens when a Linux program asks the kernel to do something? We just published a new tutorial that guides you through the complete lifecycle of an x86-64 system call. You'll learn how Linux finds the correct handler then returns results. You'll also see how vDSO can obviate the need for some system calls entirely. (20 minute read): https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/
+
+5. AI security tools are compressing the time between discovering a vulnerability and exploiting it. Security teams can't just patch everything in order of severity anymore. Now many of them are adopting exposure management to triage vulnerabilities based on risk. This freeCodeCamp tutorial will teach you about dependency audits, code reachability, Software Bills of Materials, compensating controls, and least-privilege access. (15 minute read): https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/
+
+Quote of the Week: *“In the face of ambiguity, refuse the temptation to guess.”* – Python maintainer Tim Peters in his Zen of Python essay. If you want to read the full essay just open up your python prompt in your terminal with the command python or python3 and type “import this”
+
 ### September 4, 2026
 1. freeCodeCamp just published a deep dive into how engineers make chips. This course follows Nvidia's GB300 Blackwell Ultra GPU from raw silicon wafer through design, fabrication, and deployment in a data center. You'll learn about transistor architectures, electronic design automation, cleanrooms, EUV lithography, and High Bandwidth Memory. The course also explores data center power, networking, export restrictions, and other constraints on the global semiconductor supply chain. (3 hour YouTube course): https://www.freecodecamp.org/news/how-ai-chips-are-made/
 
