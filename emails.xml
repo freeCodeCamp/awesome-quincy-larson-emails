@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - August 21, 2026</title>
+      <pubDate>Fri, 21 Aug 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-08-21</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a course that will teach you how to code your own reinforcement learning framework from scratch in pure C. You'll implement the systems that help your agent observe its environment, choose actions, receive rewards, and improve through experience. I'd normally attempt this in Python, but considering that Python itself is written in C, this'll give you a much deeper understanding of what's happening under the hood. (2 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The world runs on crusty old legacy codebases. Some of these were elegantly written by devs who knew what they were doing. But a lot of it is spaghetti that no one had the guts to touch. Until now. This new freeCodeCamp guide will show you how to use AI tools to understand legacy codebases, document their behavior, and modernize them incrementally. You'll also learn where human review and automated tests fit into the process. (25 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to roll your own multi-agent system that reviews pull requests for you. You'll learn how to slice n' dice the review process for your new team of specialized agents. You've got a security expert agent, as well as one that's focused on code quality, testing, and documentation. You'll voltron their powers using the fan-out and fan-in pattern. And no course would be complete without an exploration of AI failure modes, database design, and orchestration tools. (3 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wanna build your own Discord bot using Python? This handbook has got you covered. Everything from registering your bot to configuring its permissions, connecting it to your custom Python scripts, responding to messages, and other events. You'll also learn how to lock down sensitive credentials like your bot token. &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Finally, learn how to build your own multi-agent financial research system using the open source LangChain Deep Agents harness. You'll create specialized agents that can investigate a market, coordinate their work, and synthesize their findings into a research report. If you're into finance, this is a solid primer on multi-agent systems and context management. Go get that alpha. &lt;a href=&quot;https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Don't comment bad code. Rewrite it. — Brian Kernighan and P. J. Plauger, authors of the seminal C book The Elements of Programming Style way back in 1974&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - August 14, 2026</title>
       <pubDate>Fri, 14 Aug 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-08-14</guid>
