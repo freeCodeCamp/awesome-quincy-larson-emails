@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### August 21, 2026
+1. freeCodeCamp just published a course that will teach you how to code your own reinforcement learning framework from scratch in pure C. You'll implement the systems that help your agent observe its environment, choose actions, receive rewards, and improve through experience. I'd normally attempt this in Python, but considering that Python itself is written in C, this'll give you a much deeper understanding of what's happening under the hood. (2 hour YouTube course): https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/
+
+2. The world runs on crusty old legacy codebases. Some of these were elegantly written by devs who knew what they were doing. But a lot of it is spaghetti that no one had the guts to touch. Until now. This new freeCodeCamp guide will show you how to use AI tools to understand legacy codebases, document their behavior, and modernize them incrementally. You'll also learn where human review and automated tests fit into the process. (25 minute read): https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/
+
+3. Learn how to roll your own multi-agent system that reviews pull requests for you. You'll learn how to slice n' dice the review process for your new team of specialized agents. You've got a security expert agent, as well as one that's focused on code quality, testing, and documentation. You'll voltron their powers using the fan-out and fan-in pattern. And no course would be complete without an exploration of AI failure modes, database design, and orchestration tools. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer
+
+4. Wanna build your own Discord bot using Python? This handbook has got you covered. Everything from registering your bot to configuring its permissions, connecting it to your custom Python scripts, responding to messages, and other events. You'll also learn how to lock down sensitive credentials like your bot token. (full length handbook): https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/
+
+5. Finally, learn how to build your own multi-agent financial research system using the open source LangChain Deep Agents harness. You'll create specialized agents that can investigate a market, coordinate their work, and synthesize their findings into a research report. If you're into finance, this is a solid primer on multi-agent systems and context management. Go get that alpha. (full length handbook): https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/
+
+Quote of the Week: *“Don’t comment bad code. Rewrite it.”* — Brian Kernighan and P. J. Plauger, authors of the seminal C book The Elements of Programming Style way back in 1974
+
 ### August 14, 2026
 1. freeCodeCamp just published a course that will teach you how low-level computer graphics work by coding your own software renderer in C. You'll learn how to represent images as pixel data, draw graphics to the screen, and transform 3D objects into 2D images. This'll teach you what's really happening under all those layers of abstraction in modern game engines like Unreal. (2 hour YouTube course): https://www.freecodecamp.org/news/master-low-level-graphics-in-c-build-a-software-renderer-from-scratch/
 
