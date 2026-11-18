@@ -1,6 +1,60 @@
 {
   "emails": [
     {
+      "date": "November 6, 2026",
+      "links": [
+        {
+          "description": "Vector databases are super useful for teeing up your data to be used by your own LLM systems. And we just published a banger 2-hour YouTube course that'll teach you how to leverage them.",
+          "link": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
+          "order": "1"
+        },
+        {
+          "description": "Harden your MCP servers against attackers. This 2-hour course will show you emerging best practices.",
+          "link": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
+          "order": "2"
+        }
+      ]
+    },
+    {
+      "date": "November 6, 2026",
+      "links": [
+        {
+          "description": "Learn game dev fundamentals by building your own roguelike dungeon crawler action game using the popular open source Godot game engine. 10-hour YouTube course.",
+          "link": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
+          "order": "1"
+        },
+        {
+          "description": "And for all y'all devs we just published a full handbook on using shadcn/ui in React Native apps.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
+          "order": "2"
+        },
+        {
+          "description": "There's so much hype around building software with agents. But there's also IMHO a lot of utility. Compared to learning software engineering itself, learning how to use agents is like switching from Dark Souls to Kirby. This new 2-hour YouTube course will get you going.",
+          "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
+          "order": "3"
+        }
+      ]
+    },
+    {
+      "date": "October 31, 2026",
+      "links": [
+        {
+          "description": "Zero to Root. How security researchers actually break into systems. If you're interested in infosec hit it hard. 2 hour YouTube course.",
+          "link": "https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "Implement a production-grade search pipeline within a PostgreSQL database. All open source kit, taught by fCC legend Beau Carnes. 1 hour YouTube course.",
+          "link": "https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/",
+          "order": "2",
+          "time_duration": "1",
+          "time_type": "hours"
+        }
+      ]
+    },
+    {
       "date": "October 17, 2026",
       "links": [
         {
