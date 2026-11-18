@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### October 10, 2026
+1. freeCodeCamp just published an in-depth course on the Kotlin programming language, which you can use to build Android apps and for Java-compatible development. You'll start by learning how to leverage the legendary Java Virtual Machine for fast parallel tasks. Then you'll dive into object-oriented programming, generics, coroutines, and other features of the language. (10 hour YouTube course): https://www.freecodecamp.org/news/learn-modern-kotlin/
+
+2. Learn how large language models work by training a 25-million-parameter model right on your own CPU. You'll implement modern techniques like sparse attention and mixture-of-experts. Then you'll improve its ability to write Python code with the help of reinforcement learning and automated tests. (1 hour YouTube course): https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/
+
+3. TanStack Router is a popular open source tool chain for type-safe routing in a React app. This course'll walk you through building your own Meetup Tracker app. You'll learn about file-based routes, nested layouts, lazy loading, cache invalidation, and more. (2 hour YouTube course): https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/
+
+4. If you're interested in back-end development and security, I encourage you to learn the 10 most critical API vulnerabilities and how to defend against them. This OWASP tutorial will help you harden your gateways, service layers, domain models, and deployment pipelines. (40 minute read): https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/
+
+5. One does not simply protect Personally Identifiable Information while still supporting exact-match searches. But it is technically possible. This guide explains randomized and deterministic encryption, along with the information that each approach can leak. You'll also learn about key derivation, tokenization, and other infosec concepts. (20 minute read): https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/
+
+Quote of the Week: *“Attackers know what works and that's what they go for. To see what works, look at any survey of attacks. For example the OWASP Top Ten.”* - Peter Gutmann, security researcher and computer science prof at the University of Auckland
+
 ### October 3, 2026
 1. freeCodeCamp just published a course that'll teach you how to code your own algorithmic trading app using Python and Django. You'll build a momentum trader that ranks stocks based on their past performance, generates buy and sell signals, then automatically places orders through a brokerage account. (2 hour YouTube course): https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/
 
