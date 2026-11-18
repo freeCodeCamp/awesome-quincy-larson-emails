@@ -1,6 +1,44 @@
 {
   "emails": [
     {
+      "date": "October 3, 2026",
+      "links": [
+        {
+          "description": "freeCodeCamp just published a course that'll teach you how to code your own algorithmic trading app using Python and Django. You'll build a momentum trader that ranks stocks based on their past performance, generates buy and sell signals, then automatically places orders through a brokerage account.",
+          "link": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
+          "order": "1",
+          "time_duration": "2",
+          "time_type": "hours"
+        },
+        {
+          "description": "We also published a new handbook to help you learn back-end web development with JavaScript. It'll teach you how to use Node.js and Express to code your own HTTP server.",
+          "link": "https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/",
+          "order": "2"
+        },
+        {
+          "description": "Learn how to build your own Instagram-style mobile app using React Native, Expo, and TypeScript. This course walks you through planning your project, using Codex to help you build it, and prepping it for the iPhone and Android App Stores. You'll add photo uploads, likes, comments, 24-hour stories, real-time messaging, and even bug tracking.",
+          "link": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+          "order": "3",
+          "time_duration": "3",
+          "time_type": "hours"
+        },
+        {
+          "description": "This new freeCodeCamp Kubernetes handbook will teach you how to catch infrastructure security problems automatically using Policy as Code. You'll write rules using Open Policy Agent and its Rego language, test them against Terraform plans, then block unsafe changes before deployment.",
+          "link": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
+          "order": "4"
+        },
+        {
+          "description": "Learn how the CSS content-visibility property can prevent browsers from wasting time rendering page elements that your users aren't looking at. You'll follow an experiment with 150 content-heavy cards and measure the difference using Chrome DevTools.",
+          "link": "https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/",
+          "order": "5",
+          "time_duration": "15",
+          "time_type": "minutes"
+        }
+      ],
+      "quote": "More data beats clever algorithms. But better data beats more data.",
+      "quote_author": "Peter Norvig, computer scientist and machine learning pioneer"
+    },
+    {
       "date": "September 27, 2026",
       "links": [
         {
