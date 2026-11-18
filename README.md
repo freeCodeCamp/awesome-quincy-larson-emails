@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### September 18, 2026
+1. freeCodeCamp just published a course that'll teach you how to ship a full-stack app to a secure production server. You'll provision Ubuntu Linux, harden SSH, configure firewalls, run services behind Nginx, add HTTPS, and rig up Cloudflare as your CDN. Then you'll automate testing and deployment with GitHub Actions, add rollback mechanisms, run security scans, and monitor your server for problems. Get ready to drink from the firehose. (11 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/
+
+2. Professor Geoffrey Hinton is called a godfather of deep learning for a reason. He poured the foundation beneath a ton of recent breakthroughs. So freeCodeCamp is proud to bring you this massive course. You'll learn about Boltzmann Machines, backpropagation, Deep Belief Networks, t-SNE, AlexNet, Dropout, Knowledge Distillation, Capsule Networks, Layer Normalization, and the Forward-Forward Algorithm. You'll also implement each of these core ideas using Python and PyTorch. (27 hour YouTube course): https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy
+
+3. You could totally rewrite a system, get the old tests to pass, and still end up with different behavior from the legacy system you're replacing. This guide shows you how to normalize nondeterministic data, classify mismatches, safely use production shadow traffic, and gather evidence that your new system is truly ready for cutover. (25 minute read): https://www.freecodecamp.org/news/differential-testing-legacy-migration/
+
+4. Learn how a Linux process can restrict its own filesystem access without root privileges, containers, configuration files, or a background daemon. This guide walks you through building your own sandbox with Landlock, a newish Linux Security Module. You'll get reps using its three system calls, learn why no_new_privs is required, and see how restrictions propagate across child processes and executed programs. Heady stuff. (15 minute read): https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/
+
+5. Finally, learn how WebRTC establishes and scales real-time audio, video, and data connections. This new fCC article explains signaling, SDP offer-and-answer exchanges, and NAT traversal using ICE, STUN, and TURN. You'll also build your own scalable signaling server. Then you'll compare peer-to-peer mesh, Selective Forwarding Unit, and Multipoint Conferencing Unit architectures. (15 minute read): https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/
+
+Quote of the Week: *“The future depends on some graduate student who is deeply suspicious of everything I have said.”* – Computer scientist Geoffrey Hinton, reflecting on the future of neural-network research
+
 ### September 11, 2026
 1. freeCodeCamp just published an interactive Python course for beginners. You'll build a series of projects to get familiar with variables, data types, conditionals, loops, functions, input validation, error handling, and more. You don't need any prior programming experience to follow along. (4 hour YouTube course): https://www.freecodecamp.org/news/learn-python-interactively/
 
