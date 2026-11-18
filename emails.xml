@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - October 10, 2026</title>
+      <pubDate>Sat, 10 Oct 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-10-10</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published an in-depth course on the Kotlin programming language, which you can use to build Android apps and for Java-compatible development. You'll start by learning how to leverage the legendary Java Virtual Machine for fast parallel tasks. Then you'll dive into object-oriented programming, generics, coroutines, and other features of the language. (10 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-modern-kotlin/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how large language models work by training a 25-million-parameter model right on your own CPU. You'll implement modern techniques like sparse attention and mixture-of-experts. Then you'll improve its ability to write Python code with the help of reinforcement learning and automated tests. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TanStack Router is a popular open source tool chain for type-safe routing in a React app. This course'll walk you through building your own Meetup Tracker app. You'll learn about file-based routes, nested layouts, lazy loading, cache invalidation, and more. (2 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you're interested in back-end development and security, I encourage you to learn the 10 most critical API vulnerabilities and how to defend against them. This OWASP tutorial will help you harden your gateways, service layers, domain models, and deployment pipelines. (40 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;One does not simply protect Personally Identifiable Information while still supporting exact-match searches. But it is technically possible. This guide explains randomized and deterministic encryption, along with the information that each approach can leak. You'll also learn about key derivation, tokenization, and other infosec concepts. (20 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Attackers know what works and that's what they go for. To see what works, look at any survey of attacks. For example the OWASP Top Ten. — Peter Gutmann, security researcher and computer science prof at the University of Auckland&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/learn-modern-kotlin/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - October 3, 2026</title>
       <pubDate>Sat, 03 Oct 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-10-03</guid>
