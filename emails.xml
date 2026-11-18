@@ -6,6 +6,40 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - November 6, 2026</title>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-11-06</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Vector databases are super useful for teeing up your data to be used by your own LLM systems. And we just published a banger 2-hour YouTube course that'll teach you how to leverage them. &lt;a href=&quot;https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Harden your MCP servers against attackers. This 2-hour course will show you emerging best practices. &lt;a href=&quot;https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <link>https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/</link>
+    </item>
+    <item>
+      <title>Quincy Larson's Links - November 6, 2026</title>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-11-06</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Learn game dev fundamentals by building your own roguelike dungeon crawler action game using the popular open source Godot game engine. 10-hour YouTube course. &lt;a href=&quot;https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;And for all y'all devs we just published a full handbook on using shadcn/ui in React Native apps. &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;There's so much hype around building software with agents. But there's also IMHO a lot of utility. Compared to learning software engineering itself, learning how to use agents is like switching from Dark Souls to Kirby. This new 2-hour YouTube course will get you going. &lt;a href=&quot;https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <link>https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/</link>
+    </item>
+    <item>
+      <title>Quincy Larson's Links - October 31, 2026</title>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-10-31</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Zero to Root. How security researchers actually break into systems. If you're interested in infosec hit it hard. 2 hour YouTube course. (2 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Implement a production-grade search pipeline within a PostgreSQL database. All open source kit, taught by fCC legend Beau Carnes. 1 hour YouTube course. (1 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <link>https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - October 17, 2026</title>
       <pubDate>Sat, 17 Oct 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-10-17</guid>
