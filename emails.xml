@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - October 17, 2026</title>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-10-17</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a course that'll teach you how to design software systems that can scale. You'll learn a 5-step framework for turning even vague requirements into concrete architecture. Then you'll apply that framework with three case studies: Spotify, Booking com, and WhatsApp. This is one of the most popular courses we've published all month, and it'll tool you up for whiteboard interviews. (3 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how to build natural disaster simulations that run on a real-world map. You'll use JavaScript and Mapbox to animate canvas layers, render topographical elevation, simulate floodwater, and more. Then you'll use Three.js to create collapsing buildings, debris, dust, and camera shake. Have fun destroying the world. (full-length handbook) &lt;a href=&quot;https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;freeCodeCamp just published a full-length book that delves into the current state of AI and software engineering. Let's explore labor markets, software economics, and the defensibility of Software as a Service businesses. This book mines the available research papers. The upshot: AI code gen tools are making code cheaper to produce, while making engineering judgment and domain expertise even more valuable than before. Why do you think I'm throwing so many advanced learning resources at you each week? &lt;a href=&quot;https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Let's say you've carefully built your business SaaS tool according to the laws of the land. Think tax rates, payroll rules, or other constants in your code. Then some swashbuckling politician up and changes those laws.  This freeCodeCamp guide explores the subtle bugs such changes can cause. You'll learn to document each value's authoritative source, make statutory values configurable, and plop validation right inside your core functions instead. Pro tip: leave nothing inside your user interface. (15 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Finally, learn how to engineer security into your systems before you even start writing code. This guide covers threat modeling, domain-level security rules, encryption standards, database security, CORS, structured logging, CI/CD security gates, and securing communication between microservices. Learn it, know it, live it. (45 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Building for scale that you don't need is a waste of effort, and may lock you into an inflexible design. — Martin Kleppmann, Cambridge professor and distributed systems researcher&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - October 10, 2026</title>
       <pubDate>Sat, 10 Oct 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-10-10</guid>
