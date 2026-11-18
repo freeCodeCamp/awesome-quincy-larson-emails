@@ -1,22 +1,7 @@
 {
   "emails": [
     {
-      "date": "November 6, 2026",
-      "links": [
-        {
-          "description": "Vector databases are super useful for teeing up your data to be used by your own LLM systems. And we just published a banger 2-hour YouTube course that'll teach you how to leverage them.",
-          "link": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
-          "order": "1"
-        },
-        {
-          "description": "Harden your MCP servers against attackers. This 2-hour course will show you emerging best practices.",
-          "link": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
-          "order": "2"
-        }
-      ]
-    },
-    {
-      "date": "November 6, 2026",
+      "date": "November 13, 2026",
       "links": [
         {
           "description": "Learn game dev fundamentals by building your own roguelike dungeon crawler action game using the popular open source Godot game engine. 10-hour YouTube course.",
@@ -32,6 +17,21 @@
           "description": "There's so much hype around building software with agents. But there's also IMHO a lot of utility. Compared to learning software engineering itself, learning how to use agents is like switching from Dark Souls to Kirby. This new 2-hour YouTube course will get you going.",
           "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
           "order": "3"
+        }
+      ]
+    },
+    {
+      "date": "November 6, 2026",
+      "links": [
+        {
+          "description": "Vector databases are super useful for teeing up your data to be used by your own LLM systems. And we just published a banger 2-hour YouTube course that'll teach you how to leverage them.",
+          "link": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
+          "order": "1"
+        },
+        {
+          "description": "Harden your MCP servers against attackers. This 2-hour course will show you emerging best practices.",
+          "link": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
+          "order": "2"
         }
       ]
     },
