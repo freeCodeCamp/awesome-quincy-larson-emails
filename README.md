@@ -5,6 +5,23 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### November 6, 2026
+1. Vector databases are super useful for teeing up your data to be used by your own LLM systems. And we just published a banger 2-hour YouTube course that'll teach you how to leverage them: https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/
+
+2. Harden your MCP servers against attackers. This 2-hour course will show you emerging best practices: https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/
+
+### November 6, 2026
+1. Learn game dev fundamentals by building your own roguelike dungeon crawler action game using the popular open source Godot game engine. 10-hour YouTube course: https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/
+
+2. And for all y'all devs we just published a full handbook on using shadcn/ui in React Native apps: https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/
+
+3. There's so much hype around building software with agents. But there's also IMHO a lot of utility. Compared to learning software engineering itself, learning how to use agents is like switching from Dark Souls to Kirby. This new 2-hour YouTube course will get you going: https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/
+
+### October 31, 2026
+1. Zero to Root. How security researchers actually break into systems. If you're interested in infosec hit it hard. 2 hour YouTube course: https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/
+
+2. Implement a production-grade search pipeline within a PostgreSQL database. All open source kit, taught by fCC legend Beau Carnes. 1 hour YouTube course: https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/
+
 ### October 17, 2026
 1. freeCodeCamp just published a course that'll teach you how to design software systems that can scale. You'll learn a 5-step framework for turning even vague requirements into concrete architecture. Then you'll apply that framework with three case studies: Spotify, Booking com, and WhatsApp. This is one of the most popular courses we've published all month, and it'll tool you up for whiteboard interviews. (3 hour YouTube course): https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/
 
