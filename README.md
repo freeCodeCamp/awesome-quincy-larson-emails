@@ -5,6 +5,19 @@ This repository is an archive of Quincy Larson's weekly email newsletter.
 
 A big thanks to Sourabh Joshi for creating this repo and helping maintain it. He's a software engineer from Bengaluru who works at https://quso.ai.
 
+### October 3, 2026
+1. freeCodeCamp just published a course that'll teach you how to code your own algorithmic trading app using Python and Django. You'll build a momentum trader that ranks stocks based on their past performance, generates buy and sell signals, then automatically places orders through a brokerage account. (2 hour YouTube course): https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/
+
+2. We also published a new handbook to help you learn back-end web development with JavaScript. It'll teach you how to use Node.js and Express to code your own HTTP server. (full length handbook): https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/
+
+3. Learn how to build your own Instagram-style mobile app using React Native, Expo, and TypeScript. This course walks you through planning your project, using Codex to help you build it, and prepping it for the iPhone and Android App Stores. You'll add photo uploads, likes, comments, 24-hour stories, real-time messaging, and even bug tracking. (3 hour YouTube course): https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/
+
+4. This new freeCodeCamp Kubernetes handbook will teach you how to catch infrastructure security problems automatically using Policy as Code. You'll write rules using Open Policy Agent and its Rego language, test them against Terraform plans, then block unsafe changes before deployment. (full length handbook): https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/
+
+5. Learn how the CSS content-visibility property can prevent browsers from wasting time rendering page elements that your users aren't looking at. You'll follow an experiment with 150 content-heavy cards and measure the difference using Chrome DevTools. (15 minute read): https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/
+
+Quote of the Week: *“More data beats clever algorithms. But better data beats more data.”* — Peter Norvig, computer scientist and machine learning pioneer
+
 ### September 27, 2026
 1. We filmed a documentary at a hackathon in Hong Kong. It was pretty crazy. 250 developers built their projects in just 24 hours. I interviewed tons of these devs and also judged the competition, alongside a Stanford professor and a Hong Kong venture capitalist. You can watch the full thing on YouTube. (40 minute documentary): https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/
 
