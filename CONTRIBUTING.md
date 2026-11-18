@@ -8,6 +8,7 @@ Hello and welcome! Here are some notes on how to contribute to this repository.
 - [Files](#files)
 - [Parsing files](#parsing-files)
 - [Commits](#commits)
+- [Adding email contents](#adding-email-contents)
 
 ## Prerequisites
 
@@ -68,3 +69,19 @@ More Examples:
 - `chore`: (updating grunt tasks etc; no production code change)
 
 Source: https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
+
+## Adding email contents
+
+If you want to add the contents of the weekly newsletter, here are a few steps to consider.
+
+The entries are in reverse chronological order, meaning that the first entry on the top is the latest entry, while the last entry at the bottom of the file is the earliest entry.
+
+Each entry starts with three hashtags `###`, followed by the date in the form of "mmmm d, yyyy". For example, `### October 3, 2026`.
+
+Then copy-paste the entire contents of the email, while skipping the first line, "Here are this week's five freeCodeCamp resources that are worth your time:", and ended after the quote of the week.
+
+There is usually a statement between the fifth and last entry for the newsletter and the week that can be removed.
+
+Last, put emphasis marks `*` surrounding only the quote within the quote of the week.
+
+When in doubt, look at previous entries to make sure they follow a similar format.
