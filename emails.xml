@@ -6,6 +6,23 @@
     <description>RSS feed generated from a historical archive of Quincy's weekly newsletter.</description>
     <atom:link href="https://github.com/freeCodeCamp/awesome-quincy-larson-emails" ref="self" type="application/rss+xml"/>
     <item>
+      <title>Quincy Larson's Links - September 18, 2026</title>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 EST</pubDate>
+      <guid isPermaLink="false">quincy-email-2026-09-18</guid>
+      <description>&lt;p&gt;Here are Quincy Larson's links for this week:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;freeCodeCamp just published a course that'll teach you how to ship a full-stack app to a secure production server. You'll provision Ubuntu Linux, harden SSH, configure firewalls, run services behind Nginx, add HTTPS, and rig up Cloudflare as your CDN. Then you'll automate testing and deployment with GitHub Actions, add rollback mechanisms, run security scans, and monitor your server for problems. Get ready to drink from the firehose. (11 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Professor Geoffrey Hinton is called a godfather of deep learning for a reason. He poured the foundation beneath a ton of recent breakthroughs. So freeCodeCamp is proud to bring you this massive course. You'll learn about Boltzmann Machines, backpropagation, Deep Belief Networks, t-SNE, AlexNet, Dropout, Knowledge Distillation, Capsule Networks, Layer Normalization, and the Forward-Forward Algorithm. You'll also implement each of these core ideas using Python and PyTorch. (27 hours) &lt;a href=&quot;https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You could totally rewrite a system, get the old tests to pass, and still end up with different behavior from the legacy system you're replacing. This guide shows you how to normalize nondeterministic data, classify mismatches, safely use production shadow traffic, and gather evidence that your new system is truly ready for cutover. (25 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/differential-testing-legacy-migration/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn how a Linux process can restrict its own filesystem access without root privileges, containers, configuration files, or a background daemon. This guide walks you through building your own sandbox with Landlock, a newish Linux Security Module. You'll get reps using its three system calls, learn why no_new_privs is required, and see how restrictions propagate across child processes and executed programs. Heady stuff. (15 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Finally, learn how WebRTC establishes and scales real-time audio, video, and data connections. This new fCC article explains signaling, SDP offer-and-answer exchanges, and NAT traversal using ICE, STUN, and TURN. You'll also build your own scalable signaling server. Then you'll compare peer-to-peer mesh, Selective Forwarding Unit, and Multipoint Conferencing Unit architectures. (15 minutes) &lt;a href=&quot;https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/&quot;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Quote of the Week:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;The future depends on some graduate student who is deeply suspicious of everything I have said. — Computer scientist Geoffrey Hinton, reflecting on the future of neural-network research&lt;/blockquote&gt;</description>
+      <link>https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/</link>
+    </item>
+    <item>
       <title>Quincy Larson's Links - September 11, 2026</title>
       <pubDate>Fri, 11 Sep 2026 09:00:00 EST</pubDate>
       <guid isPermaLink="false">quincy-email-2026-09-11</guid>
